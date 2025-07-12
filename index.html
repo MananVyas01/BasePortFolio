@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#1a1a2e">
+    <title>Manan Vyas - Full Stack Developer & AI Enthusiast</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <meta name="description" content="Manan Vyas - Full Stack Developer, AI/ML Engineer, and Bug Bounty Hunter from Gujarat, India. Building AI-powered solutions that matter.">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <span class="logo-text">Manan Vyas</span>
+                <span class="logo-subtitle">Developer</span>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <div class="nav-actions">
+                <button id="themeToggle" class="theme-toggle" aria-label="Toggle theme">
+                    <i class="fas fa-moon"></i>
+                </button>
+                <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1 class="hero-title">
+                        <span class="gradient-text">Manan Vyas</span>
+                    </h1>
+                    <div class="typing-container">
+                        <span class="typing-text"></span>
+                        <span class="cursor">|</span>
+                    </div>
+                    <p class="hero-description">
+                        🚀 Full Stack Developer & AI Enthusiast from Gujarat, India<br>
+                        Building AI-powered solutions that matter with passion and purpose
+                    </p>
+                    <div class="hero-buttons">
+                        <a href="#contact" class="btn btn-primary">
+                            <i class="fas fa-envelope"></i> Get In Touch
+                        </a>
+                        <a href="https://github.com/MananVyas01" target="_blank" class="btn btn-secondary">
+                            <i class="fab fa-github"></i> View GitHub
+                        </a>
+                    </div>
+                </div>
+                <div class="hero-image">
+                    <div class="profile-card">
+                        <div class="card-inner">
+                            <div class="profile-img">
+                                <img src="https://avatars.githubusercontent.com/u/161738446?v=4" alt="Manan Vyas">
+                            </div>
+                            <div class="floating-elements">
+                                <div class="floating-icon" style="--delay: 0s;">
+                                    <i class="fab fa-python"></i>
+                                </div>
+                                <div class="floating-icon" style="--delay: 1s;">
+                                    <i class="fab fa-js-square"></i>
+                                </div>
+                                <div class="floating-icon" style="--delay: 2s;">
+                                    <i class="fab fa-react"></i>
+                                </div>
+                                <div class="floating-icon" style="--delay: 3s;">
+                                    <i class="fas fa-brain"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="hero-background">
+            <div class="code-rain"></div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2 class="section-title">About Me</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <h3>🌟 Who Am I?</h3>
+                    <p>
+                        I'm a passionate Full Stack Developer and AI Enthusiast from Gujarat, India, 
+                        dedicated to building AI-powered solutions that make a real difference. 
+                        My journey in technology spans across multiple domains including web development, 
+                        machine learning, cloud architecture, and cybersecurity.
+                    </p>
+                    <div class="fun-facts">
+                        <h4>🎯 Fun Facts:</h4>
+                        <ul>
+                            <li>🚀 Can debug code faster than making coffee</li>
+                            <li>🤖 Built my first AI project at age 16</li>
+                            <li>🧠 Always learning new technologies</li>
+                            <li>🛡️ Ethical hacker in free time</li>
+                        </ul>
+                    </div>
+                    <div class="philosophy">
+                        <blockquote>
+                            "Code with purpose, innovate with passion! 💫"
+                        </blockquote>
+                    </div>
+                </div>
+                <div class="about-stats">
+                    <div class="stat-card">
+                        <div class="stat-number">414</div>
+                        <div class="stat-label">GitHub Contributions</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">23+</div>
+                        <div class="stat-label">Open Source Projects</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">6+</div>
+                        <div class="stat-label">Repository Stars</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">5+</div>
+                        <div class="stat-label">Programming Languages</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- GitHub Stats Section -->
+    <section id="github-stats" class="github-stats">
+        <div class="container">
+            <h2 class="section-title">📊 GitHub Analytics</h2>
+            <div class="stats-content">
+                <div class="stats-overview">
+                    <div class="github-summary">
+                        <h3>📈 Live Activity</h3>
+                        <div class="github-cards">
+                            <div class="github-card">
+                                <img src="https://github-readme-stats.vercel.app/api?username=MananVyas01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=📈%20GitHub%20Stats" alt="GitHub Stats" loading="lazy">
+                            </div>
+                            <div class="github-card">
+                                <img src="https://github-readme-streak-stats.herokuapp.com/?user=MananVyas01&theme=radical&hide_border=true" alt="GitHub Streak" loading="lazy">
+                            </div>
+                        </div>
+                        <div class="github-card languages">
+                            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MananVyas01&layout=compact&theme=radical&hide_border=true&langs_count=10&custom_title=🔥%20Most%20Used%20Languages" alt="Top Languages" loading="lazy">
+                        </div>
+                    </div>
+                </div>
+                <div class="github-activity">
+                    <h3>🏆 Achievements</h3>
+                    <div class="achievements-grid">
+                        <div class="achievement-card">
+                            <i class="fas fa-star"></i>
+                            <div class="achievement-content">
+                                <h4>Repository Stars</h4>
+                                <span class="achievement-count" data-target="6">0</span>
+                            </div>
+                        </div>
+                        <div class="achievement-card">
+                            <i class="fas fa-code-branch"></i>
+                            <div class="achievement-content">
+                                <h4>Total Repositories</h4>
+                                <span class="achievement-count" data-target="23">0</span>
+                            </div>
+                        </div>
+                        <div class="achievement-card">
+                            <i class="fas fa-users"></i>
+                            <div class="achievement-content">
+                                <h4>Followers</h4>
+                                <span class="achievement-count" data-target="8">0</span>
+                            </div>
+                        </div>
+                        <div class="achievement-card">
+                            <i class="fas fa-fire"></i>
+                            <div class="achievement-content">
+                                <h4>Contribution Streak</h4>
+                                <span class="achievement-count" data-target="30">0</span>
+                                <small>days</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="github-trophies">
+                        <img src="https://github-profile-trophy.vercel.app/?username=MananVyas01&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=3&title=Stars,Followers,Commits" alt="GitHub Trophies" loading="lazy">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="skills">
+        <div class="container">
+            <h2 class="section-title">🛠️ Tech Arsenal</h2>
+            <div class="skills-content">
+                <div class="skill-category">
+                    <h3>🚀 Languages & Frameworks</h3>
+                    <div class="skill-grid">
+                        <div class="skill-item">
+                            <i class="fab fa-python"></i>
+                            <span>Python</span>
+                            <div class="skill-level" data-level="95"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fab fa-js-square"></i>
+                            <span>JavaScript</span>
+                            <div class="skill-level" data-level="90"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fab fa-react"></i>
+                            <span>React</span>
+                            <div class="skill-level" data-level="88"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fab fa-node-js"></i>
+                            <span>Node.js</span>
+                            <div class="skill-level" data-level="85"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fab fa-golang"></i>
+                            <span>Go</span>
+                            <div class="skill-level" data-level="75"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fab fa-android"></i>
+                            <span>Kotlin</span>
+                            <div class="skill-level" data-level="80"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>🧠 AI/ML & Data Science</h3>
+                    <div class="skill-grid">
+                        <div class="skill-item">
+                            <i class="fas fa-brain"></i>
+                            <span>PyTorch</span>
+                            <div class="skill-level" data-level="92"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fas fa-network-wired"></i>
+                            <span>TensorFlow</span>
+                            <div class="skill-level" data-level="88"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fas fa-chart-line"></i>
+                            <span>Scikit-learn</span>
+                            <div class="skill-level" data-level="90"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fas fa-eye"></i>
+                            <span>OpenCV</span>
+                            <div class="skill-level" data-level="85"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fas fa-table"></i>
+                            <span>Pandas</span>
+                            <div class="skill-level" data-level="93"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fas fa-calculator"></i>
+                            <span>NumPy</span>
+                            <div class="skill-level" data-level="91"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>☁️ Cloud & DevOps</h3>
+                    <div class="skill-grid">
+                        <div class="skill-item">
+                            <i class="fab fa-aws"></i>
+                            <span>AWS</span>
+                            <div class="skill-level" data-level="87"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fab fa-google"></i>
+                            <span>Google Cloud</span>
+                            <div class="skill-level" data-level="83"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fab fa-docker"></i>
+                            <span>Docker</span>
+                            <div class="skill-level" data-level="89"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fas fa-dharmachakra"></i>
+                            <span>Kubernetes</span>
+                            <div class="skill-level" data-level="78"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fas fa-tools"></i>
+                            <span>Jenkins</span>
+                            <div class="skill-level" data-level="80"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fab fa-github"></i>
+                            <span>GitHub Actions</span>
+                            <div class="skill-level" data-level="85"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="skill-category">
+                    <h3>🗄️ Databases</h3>
+                    <div class="skill-grid">
+                        <div class="skill-item">
+                            <i class="fas fa-database"></i>
+                            <span>PostgreSQL</span>
+                            <div class="skill-level" data-level="88"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fas fa-leaf"></i>
+                            <span>MongoDB</span>
+                            <div class="skill-level" data-level="85"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fas fa-memory"></i>
+                            <span>Redis</span>
+                            <div class="skill-level" data-level="82"></div>
+                        </div>
+                        <div class="skill-item">
+                            <i class="fas fa-server"></i>
+                            <span>MySQL</span>
+                            <div class="skill-level" data-level="86"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="projects">
+        <div class="container">
+            <h2 class="section-title">🎯 Featured Projects</h2>
+            <div class="projects-filter">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="ai-ml">AI/ML</button>
+                <button class="filter-btn" data-filter="web">Web Development</button>
+                <button class="filter-btn" data-filter="tools">Tools</button>
+            </div>
+            <div class="projects-grid">
+                <div class="project-card" data-category="ai-ml">
+                    <div class="project-image">
+                        <img src="https://via.placeholder.com/400x250/1a1a2e/ffffff?text=DevScope" alt="DevScope">
+                        <div class="project-overlay">
+                            <a href="https://github.com/MananVyas01/DevScope" target="_blank" class="project-link">
+                                <i class="fab fa-github"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3>DevScope</h3>
+                        <p>🚀 An all-in-one productivity tracker for developers. Track coding activity, analyze focus patterns, visualize GitHub contributions, and get AI-powered workflow insights.</p>
+                        <div class="project-tech">
+                            <span>Python</span>
+                            <span>AI/ML</span>
+                            <span>Analytics</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card" data-category="ai-ml">
+                    <div class="project-image">
+                        <img src="https://via.placeholder.com/400x250/16213e/ffffff?text=StudyPal-AI" alt="StudyPal-AI">
+                        <div class="project-overlay">
+                            <a href="https://github.com/MananVyas01/StudyPal-AI" target="_blank" class="project-link">
+                                <i class="fab fa-github"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3>StudyPal-AI</h3>
+                        <p>StudyPal-AI is a fully offline, AI-powered study assistant that helps students learn smarter with topic explanations, PDF summarization, and quiz generation.</p>
+                        <div class="project-tech">
+                            <span>Python</span>
+                            <span>LLM</span>
+                            <span>Education</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card" data-category="ai-ml">
+                    <div class="project-image">
+                        <img src="https://via.placeholder.com/400x250/0d1117/ffffff?text=LocalBudgetAI" alt="LocalBudgetAI">
+                        <div class="project-overlay">
+                            <a href="https://github.com/MananVyas01/LocalBudgetAI" target="_blank" class="project-link">
+                                <i class="fab fa-github"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3>LocalBudgetAI</h3>
+                        <p>A local, offline-first budget & expense analyzer that provides clean visualizations, spending insights, and optional Ollama-powered LLM chat for natural language queries.</p>
+                        <div class="project-tech">
+                            <span>Python</span>
+                            <span>Finance</span>
+                            <span>Privacy-First</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card" data-category="web">
+                    <div class="project-image">
+                        <img src="https://via.placeholder.com/400x250/1a1a2e/ffffff?text=JARVIS-AI" alt="JARVIS AI Assistant">
+                        <div class="project-overlay">
+                            <a href="https://github.com/MananVyas01/jarvis-ai-assistant" target="_blank" class="project-link">
+                                <i class="fab fa-github"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3>JARVIS AI Assistant</h3>
+                        <p>🤖 Advanced AI-Powered Voice Assistant with Real-time Search, Content Generation, and System Automation. Built with Python, Eel, and multiple AI APIs.</p>
+                        <div class="project-tech">
+                            <span>HTML</span>
+                            <span>Python</span>
+                            <span>AI APIs</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card" data-category="tools">
+                    <div class="project-image">
+                        <img src="https://via.placeholder.com/400x250/16213e/ffffff?text=Go+File+Organizer" alt="Go File Organizer">
+                        <div class="project-overlay">
+                            <a href="https://github.com/MananVyas01/go-file-organizer" target="_blank" class="project-link">
+                                <i class="fab fa-github"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3>Go File Organizer</h3>
+                        <p>A simple yet powerful CLI tool that organizes your messy directories by sorting files into folders based on their extensions and types.</p>
+                        <div class="project-tech">
+                            <span>Go</span>
+                            <span>CLI</span>
+                            <span>Productivity</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card" data-category="ai-ml">
+                    <div class="project-image">
+                        <img src="https://via.placeholder.com/400x250/0d1117/ffffff?text=AI+PDF+Summarizer" alt="AI PDF Summarizer">
+                        <div class="project-overlay">
+                            <a href="https://github.com/MananVyas01/ai-pdf-summarizer" target="_blank" class="project-link">
+                                <i class="fab fa-github"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3>AI PDF Summarizer</h3>
+                        <p>Intelligent PDF summarization tool powered by advanced AI models for extracting key insights from documents.</p>
+                        <div class="project-tech">
+                            <span>Python</span>
+                            <span>NLP</span>
+                            <span>PDF Processing</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Blog Section -->
+    <section id="blog" class="blog">
+        <div class="container">
+            <h2 class="section-title">📝 Latest Articles</h2>
+            <div class="blog-content">
+                <div class="blog-intro">
+                    <p>Sharing insights, tutorials, and thoughts about technology, AI, and software development.</p>
+                    <div class="blog-filter">
+                        <button class="blog-filter-btn active" data-filter="all">All Posts</button>
+                        <button class="blog-filter-btn" data-filter="ai-ml">AI/ML</button>
+                        <button class="blog-filter-btn" data-filter="web-dev">Web Dev</button>
+                        <button class="blog-filter-btn" data-filter="tutorials">Tutorials</button>
+                        <button class="blog-filter-btn" data-filter="insights">Tech Insights</button>
+                    </div>
+                </div>
+                <div class="blog-grid">
+                    <article class="blog-post" data-category="ai-ml">
+                        <div class="blog-post-image">
+                            <img src="https://via.placeholder.com/400x200/1a1a2e/ffffff?text=AI+Future" alt="The Future of AI in Web Development">
+                            <div class="blog-post-date">
+                                <span class="day">05</span>
+                                <span class="month">Jul</span>
+                            </div>
+                        </div>
+                        <div class="blog-post-content">
+                            <div class="blog-post-meta">
+                                <span class="category">AI/ML</span>
+                                <span class="read-time">5 min read</span>
+                            </div>
+                            <h3>The Future of AI in Web Development</h3>
+                            <p>Exploring how artificial intelligence is revolutionizing the way we build and interact with web applications, from automated code generation to intelligent user experiences...</p>
+                            <div class="blog-post-footer">
+                                <div class="blog-tags">
+                                    <span>#AI</span>
+                                    <span>#WebDev</span>
+                                    <span>#Future</span>
+                                </div>
+                                <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="blog-post" data-category="web-dev">
+                        <div class="blog-post-image">
+                            <img src="https://via.placeholder.com/400x200/16213e/ffffff?text=React+Tips" alt="Advanced React Patterns">
+                            <div class="blog-post-date">
+                                <span class="day">28</span>
+                                <span class="month">Jun</span>
+                            </div>
+                        </div>
+                        <div class="blog-post-content">
+                            <div class="blog-post-meta">
+                                <span class="category">Web Dev</span>
+                                <span class="read-time">8 min read</span>
+                            </div>
+                            <h3>Advanced React Patterns Every Developer Should Know</h3>
+                            <p>Deep dive into powerful React patterns like Higher-Order Components, Render Props, and Custom Hooks that will make your code more reusable and maintainable...</p>
+                            <div class="blog-post-footer">
+                                <div class="blog-tags">
+                                    <span>#React</span>
+                                    <span>#JavaScript</span>
+                                    <span>#Patterns</span>
+                                </div>
+                                <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="blog-post" data-category="tutorials">
+                        <div class="blog-post-image">
+                            <img src="https://via.placeholder.com/400x200/0d1117/ffffff?text=Docker+Guide" alt="Docker for Beginners">
+                            <div class="blog-post-date">
+                                <span class="day">15</span>
+                                <span class="month">Jun</span>
+                            </div>
+                        </div>
+                        <div class="blog-post-content">
+                            <div class="blog-post-meta">
+                                <span class="category">Tutorial</span>
+                                <span class="read-time">12 min read</span>
+                            </div>
+                            <h3>Docker Containerization: A Complete Beginner's Guide</h3>
+                            <p>Learn how to containerize your applications with Docker, from basic concepts to advanced deployment strategies. Perfect for developers new to containerization...</p>
+                            <div class="blog-post-footer">
+                                <div class="blog-tags">
+                                    <span>#Docker</span>
+                                    <span>#DevOps</span>
+                                    <span>#Tutorial</span>
+                                </div>
+                                <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="blog-post" data-category="insights">
+                        <div class="blog-post-image">
+                            <img src="https://via.placeholder.com/400x200/1a1a2e/ffffff?text=Cloud+Native" alt="Cloud Native Applications">
+                            <div class="blog-post-date">
+                                <span class="day">02</span>
+                                <span class="month">Jun</span>
+                            </div>
+                        </div>
+                        <div class="blog-post-content">
+                            <div class="blog-post-meta">
+                                <span class="category">Tech Insights</span>
+                                <span class="read-time">6 min read</span>
+                            </div>
+                            <h3>Building Cloud-Native Applications: Lessons Learned</h3>
+                            <p>My experience building scalable cloud-native applications and the key lessons learned about microservices, serverless computing, and cloud architecture...</p>
+                            <div class="blog-post-footer">
+                                <div class="blog-tags">
+                                    <span>#Cloud</span>
+                                    <span>#Architecture</span>
+                                    <span>#Insights</span>
+                                </div>
+                                <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="blog-post" data-category="ai-ml">
+                        <div class="blog-post-image">
+                            <img src="https://via.placeholder.com/400x200/16213e/ffffff?text=PyTorch+Guide" alt="PyTorch Deep Learning">
+                            <div class="blog-post-date">
+                                <span class="day">20</span>
+                                <span class="month">May</span>
+                            </div>
+                        </div>
+                        <div class="blog-post-content">
+                            <div class="blog-post-meta">
+                                <span class="category">AI/ML</span>
+                                <span class="read-time">10 min read</span>
+                            </div>
+                            <h3>Getting Started with PyTorch for Deep Learning</h3>
+                            <p>A comprehensive guide to PyTorch fundamentals, from tensor operations to building your first neural network. Perfect for ML engineers transitioning to PyTorch...</p>
+                            <div class="blog-post-footer">
+                                <div class="blog-tags">
+                                    <span>#PyTorch</span>
+                                    <span>#DeepLearning</span>
+                                    <span>#AI</span>
+                                </div>
+                                <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="blog-post" data-category="tutorials">
+                        <div class="blog-post-image">
+                            <img src="https://via.placeholder.com/400x200/0d1117/ffffff?text=API+Security" alt="API Security Best Practices">
+                            <div class="blog-post-date">
+                                <span class="day">08</span>
+                                <span class="month">May</span>
+                            </div>
+                        </div>
+                        <div class="blog-post-content">
+                            <div class="blog-post-meta">
+                                <span class="category">Tutorial</span>
+                                <span class="read-time">7 min read</span>
+                            </div>
+                            <h3>API Security Best Practices for Modern Applications</h3>
+                            <p>Essential security practices every developer should implement when building APIs, including authentication, authorization, rate limiting, and data validation...</p>
+                            <div class="blog-post-footer">
+                                <div class="blog-tags">
+                                    <span>#Security</span>
+                                    <span>#API</span>
+                                    <span>#BestPractices</span>
+                                </div>
+                                <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="blog-cta">
+                    <h3>Want to read more?</h3>
+                    <p>Subscribe to my newsletter for the latest articles and insights</p>
+                    <div class="newsletter-signup">
+                        <input type="email" placeholder="Enter your email">
+                        <button class="btn btn-primary">Subscribe</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2 class="section-title">🤝 Let's Connect & Collaborate!</h2>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <h3>Ready to build something amazing together?</h3>
+                    <p>I'm always open to interesting conversations and collaborations! Whether you have a project idea, want to discuss technology, or just say hello, feel free to reach out.</p>
+                    
+                    <div class="contact-items">
+                        <div class="contact-item">
+                            <i class="fas fa-envelope"></i>
+                            <div>
+                                <h4>Email</h4>
+                                <a href="mailto:mananvyas.work@gmail.com">mananvyas.work@gmail.com</a>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <div>
+                                <h4>Location</h4>
+                                <span>Gujarat, India 🇮🇳</span>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-briefcase"></i>
+                            <div>
+                                <h4>Available for</h4>
+                                <span>Full-time & Freelance opportunities</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="social-links">
+                        <a href="https://www.linkedin.com/in/mananvyas0110" target="_blank" class="social-link linkedin">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
+                        <a href="https://github.com/MananVyas01" target="_blank" class="social-link github">
+                            <i class="fab fa-github"></i>
+                        </a>
+                        <a href="https://x.com/Manan_Vyas01?t=fHA__ubJ2u-oFMsFpcnD8w&s=09" target="_blank" class="social-link twitter">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                        <a href="https://www.instagram.com/Mananvyas01/" target="_blank" class="social-link instagram">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="contact-form">
+                    <div class="contact-options">
+                        <h4>Choose how you'd like to contact me:</h4>
+                        <div class="contact-method-tabs">
+                            <button class="contact-tab active" data-method="form">📝 Fill Form</button>
+                            <button class="contact-tab" data-method="email">📧 Direct Email</button>
+                            <button class="contact-tab" data-method="social">💬 Social Media</button>
+                        </div>
+                    </div>
+
+                    <!-- Form Method -->
+                    <div class="contact-method active" id="formMethod">
+                        <form id="contactForm">
+                            <div class="form-group">
+                                <input type="text" id="name" name="name" placeholder="Your Name" required>
+                            </div>
+                            <div class="form-group">
+                                <input type="email" id="email" name="email" placeholder="Your Email" required>
+                            </div>
+                            <div class="form-group">
+                                <input type="text" id="subject" name="subject" placeholder="Subject" required>
+                            </div>
+                            <div class="form-group">
+                                <textarea id="message" name="message" placeholder="Your Message" rows="5" required></textarea>
+                            </div>
+                            <div class="form-actions">
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="fas fa-paper-plane"></i> Prepare Email
+                                </button>
+                                <small class="form-help">This will prepare your email and give you options to send it</small>
+                            </div>
+                        </form>
+                        <div id="formSuccess" class="form-success hidden">
+                            <div class="success-content">
+                                <i class="fas fa-check-circle"></i>
+                                <h4>Email Prepared Successfully!</h4>
+                                <p>Choose how you'd like to send your message:</p>
+                                <div class="send-options">
+                                    <button id="openMailClient" class="btn btn-secondary">
+                                        <i class="fas fa-external-link-alt"></i> Open Email Client
+                                    </button>
+                                    <button id="copyEmailContent" class="btn btn-outline">
+                                        <i class="fas fa-copy"></i> Copy Email Content
+                                    </button>
+                                </div>
+                                <div class="manual-email">
+                                    <p><strong>Or send manually to:</strong></p>
+                                    <div class="email-copy">
+                                        <span id="emailAddress">mananvyas.work@gmail.com</span>
+                                        <button id="copyEmail" class="copy-btn" title="Copy email">
+                                            <i class="fas fa-copy"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Email Method -->
+                    <div class="contact-method" id="emailMethod">
+                        <div class="email-options">
+                            <h4>Send me an email directly:</h4>
+                            <div class="email-actions">
+                                <div class="email-display">
+                                    <span class="email-text">mananvyas.work@gmail.com</span>
+                                    <button id="copyDirectEmail" class="copy-btn" title="Copy email address">
+                                        <i class="fas fa-copy"></i>
+                                    </button>
+                                </div>
+                                <div class="email-buttons">
+                                    <a href="mailto:mananvyas.work@gmail.com" class="btn btn-primary">
+                                        <i class="fas fa-envelope"></i> Open Email Client
+                                    </a>
+                                    <button id="openGmail" class="btn btn-secondary">
+                                        <i class="fab fa-google"></i> Open Gmail
+                                    </button>
+                                    <button id="openOutlook" class="btn btn-secondary">
+                                        <i class="fas fa-envelope"></i> Open Outlook
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Social Media Method -->
+                    <div class="contact-method" id="socialMethod">
+                        <h4>Connect on social platforms:</h4>
+                        <div class="social-contact-grid">
+                            <a href="https://www.linkedin.com/in/mananvyas0110" target="_blank" class="social-contact-card">
+                                <i class="fab fa-linkedin"></i>
+                                <div>
+                                    <h5>LinkedIn</h5>
+                                    <p>Professional networking</p>
+                                </div>
+                            </a>
+                            <a href="https://x.com/Manan_Vyas01?t=fHA__ubJ2u-oFMsFpcnD8w&s=09" target="_blank" class="social-contact-card">
+                                <i class="fab fa-twitter"></i>
+                                <div>
+                                    <h5>Twitter</h5>
+                                    <p>Quick messages & updates</p>
+                                </div>
+                            </a>
+                            <a href="https://github.com/MananVyas01" target="_blank" class="social-contact-card">
+                                <i class="fab fa-github"></i>
+                                <div>
+                                    <h5>GitHub</h5>
+                                    <p>Project discussions</p>
+                                </div>
+                            </a>
+                            <a href="https://www.instagram.com/Mananvyas01/" target="_blank" class="social-contact-card">
+                                <i class="fab fa-instagram"></i>
+                                <div>
+                                    <h5>Instagram</h5>
+                                    <p>Casual conversations</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-text">
+                    <p>&copy; 2025 Manan Vyas. All rights reserved.</p>
+                    <p class="quote">"Code is poetry written in logic" - Manan Vyas</p>
+                </div>
+                <div class="scroll-top">
+                    <button id="scrollTopBtn">
+                        <i class="fas fa-arrow-up"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

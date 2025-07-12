@@ -1,0 +1,29 @@
+{
+  "name": "portfolio-blog-updater",
+  "version": "1.0.0",
+  "description": "Automated blog content updater for Manan Vyas portfolio",
+  "main": ".github/scripts/update-blog.js",
+  "scripts": {
+    "update-blog": "node .github/scripts/update-blog.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "blog",
+    "automation",
+    "github-actions",
+    "portfolio",
+    "rss",
+    "tech-news"
+  ],
+  "author": "Manan Vyas",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "rss-parser": "^3.13.0",
+    "date-fns": "^2.30.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

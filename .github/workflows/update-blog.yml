@@ -1,0 +1,82 @@
+name: Update Blog Content
+
+on:
+  schedule:
+    # Run every day at 6 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches: [ main, master ]
+    paths: [ '.github/workflows/update-blog.yml', '.github/scripts/update-blog.js' ]
+
+jobs:
+  update-blog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Create scripts directory
+      run: mkdir -p .github/scripts
+        
+    - name: Install dependencies
+      run: |
+        npm init -y
+        npm install axios cheerio rss-parser date-fns
+        
+    - name: Check script exists
+      run: |
+        if [ ! -f .github/scripts/update-blog.js ]; then
+          echo "❌ update-blog.js not found!"
+          exit 1
+        fi
+        echo "✅ Script found, proceeding with update..."
+
+    - name: Fetch and Update Blog Content
+      run: node .github/scripts/update-blog.js
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        NODE_ENV: production
+        
+    - name: Check for changes
+      id: git-check
+      run: |
+        git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
+        
+    - name: Commit and push changes
+      if: steps.git-check.outputs.changes == 'true'
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "GitHub Actions"
+        git add -A
+        git commit -m "🤖 Auto-update blog content [$(date +'%Y-%m-%d %H:%M:%S')]
+
+        - Updated blog posts with latest content
+        - Sources: GitHub, Dev.to, CSS-Tricks, and more
+        - Generated: $(date)
+        " || exit 0
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Create workflow summary
+      run: |
+        echo "## 🎉 Blog Update Summary" >> $GITHUB_STEP_SUMMARY
+        echo "- **Date**: $(date)" >> $GITHUB_STEP_SUMMARY
+        echo "- **Status**: ✅ Completed successfully" >> $GITHUB_STEP_SUMMARY
+        echo "- **Changes**: ${{ steps.git-check.outputs.changes == 'true' && 'Blog content updated' || 'No changes needed' }}" >> $GITHUB_STEP_SUMMARY
+        if [ -f blog-data.json ]; then
+          echo "- **Total Posts**: $(cat blog-data.json | grep -o '"totalPosts":[0-9]*' | cut -d: -f2)" >> $GITHUB_STEP_SUMMARY
+        fi
+        echo "- **Next Update**: Tomorrow at 6 AM UTC" >> $GITHUB_STEP_SUMMARY
