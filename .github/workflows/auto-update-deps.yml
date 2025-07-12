@@ -1,0 +1,58 @@
+name: Auto-Update Dependencies
+
+on:
+  schedule:
+    - cron: '0 10 * * 1' # Monday at 10 AM
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-deps:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Update dependencies
+      run: |
+        npm update
+        npm audit fix || true
+        
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v5
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: '🔄 Auto-update dependencies'
+        title: '🔄 Automated Dependency Update'
+        body: |
+          ## 🔄 Automated Dependency Update
+          
+          This PR contains automated dependency updates:
+          
+          - Updated npm packages to latest versions
+          - Fixed security vulnerabilities with `npm audit fix`
+          
+          ### Changes Made
+          - 📦 Updated package.json and package-lock.json
+          - 🔒 Fixed security vulnerabilities
+          
+          ### Next Steps
+          - [ ] Review changes
+          - [ ] Test functionality
+          - [ ] Merge if everything looks good
+          
+          *This PR was created automatically by GitHub Actions*
+        branch: auto-update-deps
+        delete-branch: true
+        labels: |
+          dependencies
+          automated
+          maintenance
