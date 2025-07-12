@@ -1,0 +1,286 @@
+{
+  "lastUpdated": "2025-07-12T17:24:11.789Z",
+  "totalPosts": 18,
+  "categories": [
+    "Tech Insights",
+    "Web Dev"
+  ],
+  "sources": [
+    "GitHub Blog",
+    "Dev.to",
+    "CSS-Tricks",
+    "Smashing Magazine",
+    "A List Apart"
+  ],
+  "posts": [
+    {
+      "title": "Modeling CORS frameworks with CodeQL to find security vulnerabilities",
+      "description": "Discover how to increase the coverage of your CodeQL CORS security by modeling developer headers and frameworks. The post Modeling CORS frameworks wit...",
+      "url": "https://github.blog/security/application-security/modeling-cors-frameworks-with-codeql-to-find-security-vulnerabilities/",
+      "date": "2025-07-10T17:38:14.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "applicationsecurity",
+        "security",
+        "codeql"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Beyond prompt crafting: How to be a better partner for your AI pair programmer",
+      "description": "Ensuring quality code suggestions from Copilot goes beyond the perfect prompt. Context is key to success when working with your AI pair programmer. Th...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-prompt-crafting-how-to-be-a-better-partner-for-your-ai-pair-programmer/",
+      "date": "2025-07-09T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Git security vulnerabilities announced",
+      "description": "Today, the Git project released new versions to address seven security vulnerabilities that affect all prior versions of Git. The post Git security vu...",
+      "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-6/",
+      "date": "2025-07-08T17:02:11.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "git",
+        "opensource",
+        "securityalert"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "CVE-2025-53367: An exploitable out-of-bounds write in DjVuLibre",
+      "description": "DjVuLibre has a vulnerability that could enable an attacker to gain code execution on a Linux Desktop system when the user tries to open a crafted doc...",
+      "url": "https://github.blog/security/vulnerability-research/cve-2025-53367-an-exploitable-out-of-bounds-write-in-djvulibre/",
+      "date": "2025-07-03T20:52:20.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "security",
+        "vulnerabilityresearch",
+        "cve"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "🚦 Real-Time Freight Tracker with Java & WebSockets (Phase 2)",
+      "description": "🚚 Building a Real-Time Freight Tracker in Java (Phase 2) After building the core CRUD backend in Phase 1, Phase 2 of the Freight Tracker project adds...",
+      "url": "https://dev.to/jayantineu/real-time-freight-tracker-with-java-websockets-phase-2-5265",
+      "date": "2025-07-12T17:11:32.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "springboot",
+        "websockets",
+        "backend"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "HTTP Request Processing with Zero-Copy Optimization(1647)",
+      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane During my advanced systems programming course, I became obsessed with understanding how data m...",
+      "url": "https://dev.to/member_8a2272d3/http-request-processing-with-zero-copy-optimization1647-3fch",
+      "date": "2025-07-12T17:11:23.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "programming",
+        "rust"
+      ],
+      "readTime": "13 min read",
+      "priority": 2
+    },
+    {
+      "title": "Asynchronous Programming Patterns for Web Development(9730)",
+      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane My fascination with asynchronous programming began during a project where our synchronous web ...",
+      "url": "https://dev.to/member_bf115bc6/asynchronous-programming-patterns-for-web-development9730-2l9b",
+      "date": "2025-07-12T17:11:12.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "programming",
+        "rust"
+      ],
+      "readTime": "23 min read",
+      "priority": 2
+    },
+    {
+      "title": "Rust Implementation for High Concurrency Processing(4570)",
+      "description": "GitHub Homepage During my junior year studies, high concurrency processing has always been one of the technical fields I'm most interested in. While t...",
+      "url": "https://dev.to/member_3bd028d5/rust-implementation-for-high-concurrency-processing4570-2669",
+      "date": "2025-07-12T17:10:26.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "programming",
+        "rust"
+      ],
+      "readTime": "15 min read",
+      "priority": 2
+    },
+    {
+      "title": "Scroll-Driven Sticky Heading",
+      "description": "I was playing around with scroll-driven animations, just searching for all sorts of random things you could do. That’s when I came up with the idea to...",
+      "url": "https://css-tricks.com/scroll-driven-sticky-heading/",
+      "date": "2025-07-11T17:11:00.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "position",
+        "scrolldrivenanimation"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "The Layout Maestro Course",
+      "description": "Layout. It’s one of those easy-to-learn, difficult-to-master things, like they say about playing bass. Not because it’s innately difficult to, say, pl...",
+      "url": "https://css-tricks.com/the-layout-maestro-course/",
+      "date": "2025-07-11T17:07:13.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "links",
+        "education",
+        "layout"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Unmasking The Magic: The Wizard Of Oz Method For UX Research",
+      "description": "The Wizard of Oz method is a proven UX research tool that simulates real interactions to uncover authentic user behavior. Victor Yocco unpacks the cor...",
+      "url": "https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
+      "date": "2025-07-10T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Droip: The Modern Website Builder WordPress Needed",
+      "description": "Traditional page builders have shaped how we build WordPress sites for years. Let’s take a closer look at [Droip](https://droip.com/), a modern, no-co...",
+      "url": "https://smashingmagazine.com/2025/07/modern-website-builder-wordpress-droip/",
+      "date": "2025-07-08T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Design Guidelines For Better Notifications UX",
+      "description": "As always in design, timing matters, and so do timely notifications. Let’s explore how we might improve the notifications UX. More design patterns in ...",
+      "url": "https://smashingmagazine.com/2025/07/design-guidelines-better-notifications-ux/",
+      "date": "2025-07-07T13:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Better CSS Shapes Using shape() — Part 4: Close and Move",
+      "description": "The shape() function's close and move commands may not be ones you reach for often, but are incredibly useful for certain shapes. Better CSS Shapes Us...",
+      "url": "https://css-tricks.com/better-css-shapes-using-shape-part-4-close-and-move/",
+      "date": "2025-07-07T12:48:29.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "art",
+        "clippath"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "CSS Intelligence: Speculating On The Future Of A Smarter Language",
+      "description": "CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pse...",
+      "url": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
+      "date": "2025-07-02T13:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "The Gap Strikes Back: Now Stylable",
+      "description": "Styling the space between layout items — the gap — has typically required some clever workarounds. But a new CSS feature changes all that with just a ...",
+      "url": "https://css-tricks.com/the-gap-strikes-back-now-stylable/",
+      "date": "2025-07-01T12:42:38.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "flexbox",
+        "grid"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "From Beta to Bedrock: Build Products that Stick.",
+      "description": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few we...",
+      "url": "\n\t\t\t\t\thttps://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/\t\t\t\t",
+      "date": "2025-04-23T18:04:31.000Z",
+      "category": "Web Dev",
+      "source": "A List Apart",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "User Research Is Storytelling",
+      "description": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an act...",
+      "url": "\n\t\t\t\t\thttps://alistapart.com/article/user-research-is-storytelling/\t\t\t\t",
+      "date": "2024-05-30T18:04:43.000Z",
+      "category": "Web Dev",
+      "source": "A List Apart",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "14 min read",
+      "priority": 2
+    }
+  ]
+}

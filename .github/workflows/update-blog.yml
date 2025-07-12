@@ -9,6 +9,9 @@ on:
     branches: [ main, master ]
     paths: [ '.github/workflows/update-blog.yml', '.github/scripts/update-blog.js' ]
 
+permissions:
+  contents: write  # Allow the workflow to push changes
+
 jobs:
   update-blog:
     runs-on: ubuntu-latest
@@ -20,6 +23,7 @@ jobs:
       with:
         fetch-depth: 0
         token: ${{ secrets.GITHUB_TOKEN }}
+        persist-credentials: true
       
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -63,8 +67,10 @@ jobs:
         - Updated blog posts with latest content
         - Sources: GitHub, Dev.to, CSS-Tricks, and more
         - Generated: $(date)
-        " || exit 0
-        git push
+        "
+        
+        # Push with proper authentication
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
