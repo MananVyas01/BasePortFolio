@@ -237,6 +237,60 @@ class BlogUpdater {
                   .slice(0, 3);
     }
 
+    // Helper function to get appropriate image for blog post
+    getPostImage(title, category, tags) {
+        const lowerTitle = title.toLowerCase();
+        const lowerTags = tags.map(tag => tag.toLowerCase()).join(' ');
+        
+        // AI/ML related
+        if (lowerTitle.includes('ai') || lowerTitle.includes('machine learning') || lowerTitle.includes('neural') || lowerTags.includes('ai')) {
+            return 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&crop=center&auto=format&q=80';
+        }
+        
+        // Security related
+        if (lowerTitle.includes('security') || lowerTitle.includes('vulnerability') || lowerTitle.includes('cve') || lowerTags.includes('security')) {
+            return 'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=200&fit=crop&crop=center&auto=format&q=80';
+        }
+        
+        // React/Frontend
+        if (lowerTitle.includes('react') || lowerTitle.includes('frontend') || lowerTitle.includes('javascript') || lowerTags.includes('react')) {
+            return 'https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400&h=200&fit=crop&crop=center&auto=format&q=80';
+        }
+        
+        // CSS/Design
+        if (lowerTitle.includes('css') || lowerTitle.includes('design') || lowerTitle.includes('ui') || lowerTags.includes('css')) {
+            return 'https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400&h=200&fit=crop&crop=center&auto=format&q=80';
+        }
+        
+        // Python/Backend
+        if (lowerTitle.includes('python') || lowerTitle.includes('backend') || lowerTitle.includes('api') || lowerTags.includes('python')) {
+            return 'https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=400&h=200&fit=crop&crop=center&auto=format&q=80';
+        }
+        
+        // DevOps/Cloud
+        if (lowerTitle.includes('docker') || lowerTitle.includes('cloud') || lowerTitle.includes('deploy') || lowerTags.includes('devops')) {
+            return 'https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=400&h=200&fit=crop&crop=center&auto=format&q=80';
+        }
+        
+        // Git/Version Control
+        if (lowerTitle.includes('git') || lowerTitle.includes('github') || lowerTitle.includes('version') || lowerTags.includes('git')) {
+            return 'https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=400&h=200&fit=crop&crop=center&auto=format&q=80';
+        }
+        
+        // Web Development general
+        if (category === 'Web Dev' || lowerTitle.includes('web') || lowerTitle.includes('development') || lowerTags.includes('webdev')) {
+            return 'https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=400&h=200&fit=crop&crop=center&auto=format&q=80';
+        }
+        
+        // Tech Insights/General
+        if (category === 'Tech Insights') {
+            return 'https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=200&fit=crop&crop=center&auto=format&q=80';
+        }
+        
+        // Default fallback
+        return 'https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=400&h=200&fit=crop&crop=center&auto=format&q=80';
+    }
+
     calculateReadTime(content) {
         if (!content) return '3 min read';
         const words = content.split(' ').length;
@@ -313,23 +367,13 @@ class BlogUpdater {
                 const day = format(date, 'd');
                 const month = format(date, 'MMM');
                 
-                // Generate category-specific placeholder colors
-                const categoryColors = {
-                    'Web Dev': '16213e',
-                    'AI/ML': '1a1a2e',
-                    'Tech News': '0d1117',
-                    'Open Source': '16213e',
-                    'JavaScript': '1a1a2e',
-                    'Tech Insights': '0d1117'
-                };
-                
-                const bgColor = categoryColors[blog.category] || '1a1a2e';
                 const categorySlug = blog.category.toLowerCase().replace(/[^a-z0-9]/g, '-');
+                const imageUrl = this.getPostImage(blog.title, blog.category, blog.tags);
                 
                 return `
                 <article class="blog-post" data-category="${categorySlug}">
                     <div class="blog-post-image">
-                        <img src="https://via.placeholder.com/400x200/${bgColor}/ffffff?text=${encodeURIComponent(blog.category)}" alt="${blog.title}" loading="lazy">
+                        <img src="${imageUrl}" alt="${blog.title}" loading="lazy">
                         <div class="blog-post-date">
                             <span class="day">${day}</span>
                             <span class="month">${month}</span>

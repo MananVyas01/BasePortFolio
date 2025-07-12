@@ -1,0 +1,116 @@
+name: Smart Issue Management
+
+on:
+  issues:
+    types: [opened, labeled]
+  pull_request:
+    types: [opened]
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  auto-assign:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Auto-assign issues
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const { issue, pull_request } = context.payload;
+          const target = issue || pull_request;
+          
+          if (!target) return;
+          
+          // Auto-assign based on labels
+          const labels = target.labels.map(label => label.name);
+          let assignee = null;
+          
+          if (labels.includes('bug') || labels.includes('performance')) {
+            assignee = 'MananVyas01'; // Assign bugs to yourself
+          } else if (labels.includes('enhancement') || labels.includes('feature')) {
+            assignee = 'MananVyas01'; // Assign features to yourself
+          }
+          
+          if (assignee) {
+            await github.rest.issues.addAssignees({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: target.number,
+              assignees: [assignee]
+            });
+          }
+          
+          // Add automated response
+          let response = '';
+          if (labels.includes('bug')) {
+            response = `🐛 **Bug Report Received**
+            
+            Thank you for reporting this bug! I'll investigate and get back to you soon.
+            
+            **Next Steps:**
+            - [ ] Reproduce the issue
+            - [ ] Identify root cause
+            - [ ] Implement fix
+            - [ ] Test solution
+            
+            *This is an automated response. I'll follow up with more details soon.*`;
+          } else if (labels.includes('enhancement')) {
+            response = `✨ **Feature Request Received**
+            
+            Thanks for the suggestion! I'll review this enhancement request.
+            
+            **Evaluation Process:**
+            - [ ] Assess feasibility
+            - [ ] Consider impact
+            - [ ] Plan implementation
+            - [ ] Schedule development
+            
+            *This is an automated response. I'll provide feedback soon.*`;
+          }
+          
+          if (response) {
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: target.number,
+              body: response
+            });
+          }
+          
+  welcome-new-contributors:
+    if: github.event.action == 'opened' && github.event.pull_request
+    runs-on: ubuntu-latest
+    steps:
+    - name: Welcome first-time contributors
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const { data: contributors } = await github.rest.repos.listContributors({
+            owner: context.repo.owner,
+            repo: context.repo.repo
+          });
+          
+          const author = context.payload.pull_request.user.login;
+          const isFirstTime = !contributors.some(contributor => contributor.login === author);
+          
+          if (isFirstTime) {
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.pull_request.number,
+              body: `🎉 **Welcome to the project!**
+              
+              Thank you for your first contribution! I really appreciate your help in making this portfolio better.
+              
+              **What happens next:**
+              - I'll review your changes
+              - Provide feedback if needed
+              - Merge once everything looks good
+              
+              Feel free to reach out if you have any questions!
+              
+              *This is an automated welcome message for first-time contributors.*`
+            });
+          }

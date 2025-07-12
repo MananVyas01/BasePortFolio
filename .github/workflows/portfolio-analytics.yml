@@ -1,0 +1,122 @@
+name: Portfolio Analytics
+
+on:
+  schedule:
+    - cron: '0 9 * * 1' # Monday at 9 AM
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  analytics:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Collect GitHub Stats
+      uses: actions/github-script@v7
+      id: stats
+      with:
+        script: |
+          const { data: user } = await github.rest.users.getByUsername({
+            username: 'MananVyas01'
+          });
+          
+          const { data: repos } = await github.rest.repos.listForUser({
+            username: 'MananVyas01',
+            sort: 'updated',
+            per_page: 100
+          });
+          
+          // Calculate stats
+          const totalStars = repos.reduce((sum, repo) => sum + repo.stargazers_count, 0);
+          const totalForks = repos.reduce((sum, repo) => sum + repo.forks_count, 0);
+          const languages = {};
+          
+          for (const repo of repos.slice(0, 20)) {
+            if (repo.language) {
+              languages[repo.language] = (languages[repo.language] || 0) + 1;
+            }
+          }
+          
+          const topLanguages = Object.entries(languages)
+            .sort(([,a], [,b]) => b - a)
+            .slice(0, 5)
+            .map(([lang, count]) => `${lang}: ${count}`);
+          
+          const stats = {
+            followers: user.followers,
+            following: user.following,
+            publicRepos: user.public_repos,
+            totalStars,
+            totalForks,
+            topLanguages
+          };
+          
+          return stats;
+          
+    - name: Check Website Status
+      run: |
+        STATUS=$(curl -s -o /dev/null -w "%{http_code}" https://mananyvas01.github.io/BasePortFolio/)
+        echo "WEBSITE_STATUS=$STATUS" >> $GITHUB_ENV
+        
+    - name: Generate Weekly Report
+      run: |
+        cat > weekly-report.md << EOF
+        # 📊 Weekly Portfolio Report - $(date +"%Y-%m-%d")
+        
+        ## GitHub Statistics
+        - **Followers**: ${{ fromJson(steps.stats.outputs.result).followers }}
+        - **Following**: ${{ fromJson(steps.stats.outputs.result).following }}
+        - **Public Repositories**: ${{ fromJson(steps.stats.outputs.result).publicRepos }}
+        - **Total Stars**: ${{ fromJson(steps.stats.outputs.result).totalStars }}
+        - **Total Forks**: ${{ fromJson(steps.stats.outputs.result).totalForks }}
+        
+        ## Top Languages
+        $(echo '${{ fromJson(steps.stats.outputs.result).topLanguages }}' | jq -r '.[]' | sed 's/^/- /')
+        
+        ## Website Status
+        - **Status Code**: ${{ env.WEBSITE_STATUS }}
+        - **Status**: ${{ env.WEBSITE_STATUS == '200' && '✅ Online' || '❌ Offline' }}
+        
+        ## Actions This Week
+        - Blog content updated automatically
+        - Dependencies checked for updates
+        - Performance monitoring completed
+        
+        ---
+        *Generated automatically by GitHub Actions*
+        EOF
+        
+    - name: Create Issue with Report
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const fs = require('fs');
+          const report = fs.readFileSync('weekly-report.md', 'utf8');
+          
+          github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: `📊 Weekly Portfolio Report - ${new Date().toLocaleDateString()}`,
+            body: report,
+            labels: ['report', 'analytics', 'automated']
+          });
+          
+    - name: Commit Report
+      run: |
+        mkdir -p reports
+        mv weekly-report.md reports/report-$(date +"%Y-%m-%d").md
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add reports/
+        git commit -m "📊 Add weekly report - $(date +"%Y-%m-%d")" || exit 0
+        git push

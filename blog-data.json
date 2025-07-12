@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-12T17:40:17.909Z",
+  "lastUpdated": "2025-07-12T17:50:29.542Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,55 +73,55 @@
       "priority": 1
     },
     {
-      "title": "Hexagonal Architecture - Intro",
-      "description": "Understanding Hexagonal Architecture (Ports & Adapters) Sample Code with README: https://github.com/rajkundalia/hexagonal-architecture-demo — This wou...",
-      "url": "https://dev.to/rajkundalia/hexagonal-architecture-intro-1ac7",
-      "date": "2025-07-12T17:26:15.000Z",
+      "title": "Bidirectional Communication Patterns in Modern Web Apps(9212)",
+      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane During my final year project on distributed systems, I encountered a fundamental challenge tha...",
+      "url": "https://dev.to/member_fdfd31bf/bidirectional-communication-patterns-in-modern-web-apps9212-1df2",
+      "date": "2025-07-12T17:40:40.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "hexagonal",
-        "architecture",
-        "webdev"
+        "webdev",
+        "programming",
+        "rust"
+      ],
+      "readTime": "19 min read",
+      "priority": 2
+    },
+    {
+      "title": "Api Requests and Validators in Go",
+      "description": "I know there are hundreds of ways to implement it better but for learning purposes I wrote a simple request and validator mechanism here in this commi...",
+      "url": "https://dev.to/hrrydgls/api-requests-and-validators-in-go-52ih",
+      "date": "2025-07-12T17:40:31.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "go",
+        "php",
+        "laravel"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Memory Safety Meets Extreme Performance in Web Servers(3200)",
-      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane During my third year studying computer science, I encountered a fundamental challenge that man...",
-      "url": "https://dev.to/member_bb466cd7/memory-safety-meets-extreme-performance-in-web-servers3200-3i03",
-      "date": "2025-07-12T17:25:45.000Z",
+      "title": "Bamboo Brush",
+      "description": "Check out this Pen I made!...",
+      "url": "https://dev.to/preetha_vaishnavi_2b82358/bamboo-brush-1gom",
+      "date": "2025-07-12T17:38:35.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "codepen",
         "webdev",
-        "programming",
-        "rust"
-      ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "🧩 Problem Statement (LeetCode 973)",
-      "description": "Given an array of points [[x1, y1], [x2, y2], ...] and an integer K, return the K closest points to the origin (0, 0) based on Euclidean distance. ✅ S...",
-      "url": "https://dev.to/harshpdev/problem-statement-leetcode-973-3265",
-      "date": "2025-07-12T17:25:31.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "javascript"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "High-Performance Routing System Design and Implementation(6046)",
-      "description": "GitHub Homepage During my junior year studies, routing systems have always been the core component of web frameworks. Traditional routing implementati...",
-      "url": "https://dev.to/member_c4991035/high-performance-routing-system-design-and-implementation6046-4nn8",
-      "date": "2025-07-12T17:24:58.000Z",
+      "title": "Application of Async Programming in Web Development(5613)",
+      "description": "GitHub Homepage As a junior computer science student, I gradually recognized the importance of asynchronous programming during my web development lear...",
+      "url": "https://dev.to/member_bb466cd7/application-of-async-programming-in-web-development5613-5ao8",
+      "date": "2025-07-12T17:38:07.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -129,7 +129,7 @@
         "programming",
         "rust"
       ],
-      "readTime": "30 min read",
+      "readTime": "17 min read",
       "priority": 2
     },
     {

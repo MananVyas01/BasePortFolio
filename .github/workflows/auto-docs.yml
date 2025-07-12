@@ -1,0 +1,211 @@
+name: Auto-Generate Documentation
+
+on:
+  push:
+    branches: [main]
+    paths: ['**/*.js', '**/*.html', '**/*.css']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-docs:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Install dependencies
+      run: |
+        npm install -g jsdoc
+        npm install -g @mermaid-js/mermaid-cli
+        
+    - name: Generate JSDoc
+      run: |
+        mkdir -p docs
+        jsdoc script.js -d docs/js || echo "JSDoc generation completed"
+        
+    - name: Generate Project Structure
+      run: |
+        cat > docs/project-structure.md << 'EOF'
+        # 🏗️ Project Structure
+        
+        ## Overview
+        This is an automated documentation of the portfolio project structure.
+        
+        ## File Structure
+        ```
+        portfolio/
+        ├── index.html              # Main HTML file
+        ├── styles.css              # Styling
+        ├── script.js               # JavaScript functionality
+        ├── .github/
+        │   ├── workflows/          # GitHub Actions
+        │   └── scripts/            # Automation scripts
+        └── docs/                   # Documentation
+        ```
+        
+        ## Key Components
+        
+        ### HTML Structure
+        - **Hero Section**: Introduction and profile
+        - **About Section**: Personal information and stats
+        - **Skills Section**: Technical skills with progress bars
+        - **Projects Section**: Featured projects with filtering
+        - **Blog Section**: Dynamic blog posts
+        - **Contact Section**: Contact form and social links
+        
+        ### JavaScript Features
+        - Theme switching (light/dark)
+        - Smooth scrolling navigation
+        - Project filtering
+        - Blog post management
+        - Form validation
+        - Animated counters
+        
+        ### CSS Features
+        - Responsive design
+        - CSS Grid and Flexbox
+        - Custom animations
+        - Theme variables
+        - Mobile-first approach
+        
+        ## Automation
+        - Daily blog updates
+        - Performance monitoring
+        - Dependency updates
+        - Multi-platform deployment
+        
+        ---
+        *Generated automatically on $(date)*
+        EOF
+        
+    - name: Create Architecture Diagram
+      run: |
+        cat > docs/architecture.mmd << 'EOF'
+        graph TD
+            A[User] --> B[Portfolio Website]
+            B --> C[GitHub Actions]
+            C --> D[Blog Updater]
+            C --> E[Performance Monitor]
+            C --> F[Deploy Pipeline]
+            
+            D --> G[RSS Feeds]
+            D --> H[GitHub API]
+            D --> I[Tech News]
+            
+            E --> J[Lighthouse]
+            E --> K[Performance Reports]
+            
+            F --> L[GitHub Pages]
+            F --> M[Netlify]
+            F --> N[Vercel]
+            
+            B --> O[Theme Switcher]
+            B --> P[Contact Form]
+            B --> Q[Project Filter]
+            
+            style A fill:#e1f5fe
+            style B fill:#f3e5f5
+            style C fill:#e8f5e8
+            style D fill:#fff3e0
+            style E fill:#ffebee
+            style F fill:#e0f2f1
+        EOF
+        
+        mmdc -i docs/architecture.mmd -o docs/architecture.svg
+        
+    - name: Generate API Documentation
+      run: |
+        cat > docs/api-reference.md << 'EOF'
+        # 📚 API Reference
+        
+        ## JavaScript Functions
+        
+        ### Theme Management
+        ```javascript
+        toggleTheme() // Switches between light and dark themes
+        ```
+        
+        ### Navigation
+        ```javascript
+        smoothScroll(target) // Smooth scrolling to sections
+        ```
+        
+        ### Blog Management
+        ```javascript
+        class BlogManager {
+            loadBlogPosts()     // Loads blog posts from JSON
+            filterPosts(category) // Filters posts by category
+            renderPosts(posts)   // Renders posts to DOM
+        }
+        ```
+        
+        ### Contact Form
+        ```javascript
+        handleContactForm(event) // Handles form submission
+        validateForm(formData)   // Validates form data
+        ```
+        
+        ## CSS Classes
+        
+        ### Theme Variables
+        ```css
+        :root {
+            --primary-color: #667eea;
+            --secondary-color: #764ba2;
+            --accent-color: #f093fb;
+            --bg-color: #ffffff;
+            --text-color: #333333;
+        }
+        ```
+        
+        ### Utility Classes
+        ```css
+        .gradient-text    // Gradient text effect
+        .glow-effect      // Glowing animation
+        .fade-in          // Fade in animation
+        .slide-up         // Slide up animation
+        ```
+        
+        ---
+        *Generated automatically on $(date)*
+        EOF
+        
+    - name: Create Changelog
+      run: |
+        git log --oneline --since="1 week ago" > docs/recent-changes.txt
+        
+        cat > docs/CHANGELOG.md << 'EOF'
+        # 📝 Changelog
+        
+        ## Recent Changes
+        
+        EOF
+        
+        echo "### $(date +'%Y-%m-%d')" >> docs/CHANGELOG.md
+        echo "" >> docs/CHANGELOG.md
+        
+        if [ -s docs/recent-changes.txt ]; then
+            sed 's/^/- /' docs/recent-changes.txt >> docs/CHANGELOG.md
+        else
+            echo "- No changes this week" >> docs/CHANGELOG.md
+        fi
+        
+        echo "" >> docs/CHANGELOG.md
+        echo "---" >> docs/CHANGELOG.md
+        echo "*Generated automatically by GitHub Actions*" >> docs/CHANGELOG.md
+        
+    - name: Commit Documentation
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add docs/
+        git commit -m "📚 Auto-update documentation" || exit 0
+        git push
