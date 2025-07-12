@@ -31,9 +31,7 @@ jobs:
       run: mkdir -p .github/scripts
         
     - name: Install dependencies
-      run: |
-        npm init -y
-        npm install axios cheerio rss-parser date-fns
+      run: npm ci
         
     - name: Check script exists
       run: |
