@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-12T17:50:29.542Z",
+  "lastUpdated": "2025-07-12T18:01:54.892Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,10 +73,25 @@
       "priority": 1
     },
     {
-      "title": "Bidirectional Communication Patterns in Modern Web Apps(9212)",
-      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane During my final year project on distributed systems, I encountered a fundamental challenge tha...",
-      "url": "https://dev.to/member_fdfd31bf/bidirectional-communication-patterns-in-modern-web-apps9212-1df2",
-      "date": "2025-07-12T17:40:40.000Z",
+      "title": "I Tried Learning Rust Through Building a Linear Regression Model",
+      "description": "Introduction 🦀 TL;DR: I learned Rust by building a linear regression model from scratch. No tutorials. Just code, docs, and pain. I've often heard ma...",
+      "url": "https://dev.to/nosegfault/i-tried-learning-rust-through-building-a-linear-regression-model-4m0b",
+      "date": "2025-07-12T17:49:07.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "15 min read",
+      "priority": 2
+    },
+    {
+      "title": "Latency Optimization Secrets for Millisecond Response Times(2767)",
+      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane As a computer science student passionate about performance optimization, I've always been fasc...",
+      "url": "https://dev.to/member_3bd028d5/latency-optimization-secrets-for-millisecond-response-times2767-31pd",
+      "date": "2025-07-12T17:47:34.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -84,44 +99,14 @@
         "programming",
         "rust"
       ],
-      "readTime": "19 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "Api Requests and Validators in Go",
-      "description": "I know there are hundreds of ways to implement it better but for learning purposes I wrote a simple request and validator mechanism here in this commi...",
-      "url": "https://dev.to/hrrydgls/api-requests-and-validators-in-go-52ih",
-      "date": "2025-07-12T17:40:31.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "go",
-        "php",
-        "laravel"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Bamboo Brush",
-      "description": "Check out this Pen I made!...",
-      "url": "https://dev.to/preetha_vaishnavi_2b82358/bamboo-brush-1gom",
-      "date": "2025-07-12T17:38:35.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "codepen",
-        "webdev",
-        "javascript"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Application of Async Programming in Web Development(5613)",
-      "description": "GitHub Homepage As a junior computer science student, I gradually recognized the importance of asynchronous programming during my web development lear...",
-      "url": "https://dev.to/member_bb466cd7/application-of-async-programming-in-web-development5613-5ao8",
-      "date": "2025-07-12T17:38:07.000Z",
+      "title": "Production Deployment Strategies for High-Performance Web Services(1150)",
+      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane My journey into production deployment began with a catastrophic failure during our first major...",
+      "url": "https://dev.to/member_bf115bc6/production-deployment-strategies-for-high-performance-web-services1150-40ep",
+      "date": "2025-07-12T17:47:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -129,7 +114,22 @@
         "programming",
         "rust"
       ],
-      "readTime": "17 min read",
+      "readTime": "25 min read",
+      "priority": 2
+    },
+    {
+      "title": "New Choice for Cross-Platform Web Service Development(4523)",
+      "description": "GitHub Homepage As a junior student, I often need to switch between different operating systems during my web development learning process. The Window...",
+      "url": "https://dev.to/member_8a2272d3/new-choice-for-cross-platform-web-service-development4523-4kja",
+      "date": "2025-07-12T17:44:46.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "programming",
+        "rust"
+      ],
+      "readTime": "15 min read",
       "priority": 2
     },
     {
