@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-12T17:29:34.702Z",
+  "lastUpdated": "2025-07-12T17:40:17.909Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,10 +73,25 @@
       "priority": 1
     },
     {
-      "title": "Efficient WebSocket Server-Side Processing(1538)",
-      "description": "GitHub Homepage During my junior year studies, WebSocket technology has always been my most interested real-time communication solution. Compared to t...",
-      "url": "https://dev.to/member_fdfd31bf/efficient-websocket-server-side-processing1538-9jl",
-      "date": "2025-07-12T17:16:33.000Z",
+      "title": "Hexagonal Architecture - Intro",
+      "description": "Understanding Hexagonal Architecture (Ports & Adapters) Sample Code with README: https://github.com/rajkundalia/hexagonal-architecture-demo — This wou...",
+      "url": "https://dev.to/rajkundalia/hexagonal-architecture-intro-1ac7",
+      "date": "2025-07-12T17:26:15.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "hexagonal",
+        "architecture",
+        "webdev"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Memory Safety Meets Extreme Performance in Web Servers(3200)",
+      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane During my third year studying computer science, I encountered a fundamental challenge that man...",
+      "url": "https://dev.to/member_bb466cd7/memory-safety-meets-extreme-performance-in-web-servers3200-3i03",
+      "date": "2025-07-12T17:25:45.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -84,14 +99,14 @@
         "programming",
         "rust"
       ],
-      "readTime": "15 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "The Number of Islands problem is a popular LeetCode question (Problem #200):",
-      "description": "Problem Statement: ✅ Swift Solution Using DFS func numIslands(_ grid: [[Character]]) -> Int { if grid.isEmpty { return 0 } var grid = grid // make a m...",
-      "url": "https://dev.to/harshpdev/the-number-of-islands-problem-is-a-popular-leetcode-question-problem-200-172d",
-      "date": "2025-07-12T17:14:55.000Z",
+      "title": "🧩 Problem Statement (LeetCode 973)",
+      "description": "Given an array of points [[x1, y1], [x2, y2], ...] and an integer K, return the K closest points to the origin (0, 0) based on Euclidean distance. ✅ S...",
+      "url": "https://dev.to/harshpdev/problem-statement-leetcode-973-3265",
+      "date": "2025-07-12T17:25:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -99,29 +114,14 @@
         "javascript",
         "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Machine Learning Fundamentals: data preprocessing",
-      "description": "## Data Preprocessing: A Production Engineering Deep Dive ### 1. Introduction In Q3 2023, a critical anomaly in our fraud detection system at FinTechC...",
-      "url": "https://dev.to/devopsfundamentals/machine-learning-fundamentals-data-preprocessing-34l2",
-      "date": "2025-07-12T17:13:33.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "machinelearning",
-        "ai",
-        "datapreprocessing"
-      ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "Middleware Architecture Patterns for Request Processing(7785)",
-      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane My understanding of middleware architecture evolved during a complex project where we needed t...",
-      "url": "https://dev.to/member_bb466cd7/middleware-architecture-patterns-for-request-processing7785-4aop",
-      "date": "2025-07-12T17:13:20.000Z",
+      "title": "High-Performance Routing System Design and Implementation(6046)",
+      "description": "GitHub Homepage During my junior year studies, routing systems have always been the core component of web frameworks. Traditional routing implementati...",
+      "url": "https://dev.to/member_c4991035/high-performance-routing-system-design-and-implementation6046-4nn8",
+      "date": "2025-07-12T17:24:58.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -129,7 +129,7 @@
         "programming",
         "rust"
       ],
-      "readTime": "21 min read",
+      "readTime": "30 min read",
       "priority": 2
     },
     {
