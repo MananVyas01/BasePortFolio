@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-12T18:01:54.892Z",
+  "lastUpdated": "2025-07-13T06:29:55.794Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,10 +73,55 @@
       "priority": 1
     },
     {
-      "title": "I Tried Learning Rust Through Building a Linear Regression Model",
-      "description": "Introduction 🦀 TL;DR: I learned Rust by building a linear regression model from scratch. No tutorials. Just code, docs, and pain. I've often heard ma...",
-      "url": "https://dev.to/nosegfault/i-tried-learning-rust-through-building-a-linear-regression-model-4m0b",
-      "date": "2025-07-12T17:49:07.000Z",
+      "title": "Git and Version Control Systems: A Developer's Essential Guide",
+      "description": "Version control is the backbone of modern software development, and Git has emerged as the industry standard tool for it. But what makes version contr...",
+      "url": "https://dev.to/matin676/git-and-version-control-systems-a-developers-essential-guide-11bh",
+      "date": "2025-07-13T06:04:36.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "git",
+        "devops"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "🚀 Think Redux and Zustand Are Fast? We Put Them to the Test.",
+      "description": "If you’re building React apps, chances are you’ve either used Redux or Zustand for state management. All solid choices for managing state in your Reac...",
+      "url": "https://dev.to/karandeepsingh7070/think-redux-and-zustand-are-fast-we-put-them-to-the-test-5cfi",
+      "date": "2025-07-13T06:04:06.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "react",
+        "redux",
+        "javascript"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Why do you contribute to Open Source? What is your motivation?",
+      "description": "Do you get paid for it? - Then probably you are told which project(s) to work on. Are you passionate about it? To \"show off\"? There are people who wor...",
+      "url": "https://dev.to/szabgab/why-do-you-contribute-to-open-source-what-is-your-motivation-2pdo",
+      "date": "2025-07-13T06:00:50.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "opensource",
+        "beginners",
+        "programming"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Day 1 & 2 of My Java Full Stack Journey:Starting with HTML & CSS Basis",
+      "description": "Hii Everyone, I'm starting my Java Full Stack Learning and it's my first day! HTML Tags I've Learned What is HTML? HTML stands for HyperText Markup La...",
+      "url": "https://dev.to/bhuvanasri/day-1-2-of-my-java-full-stack-journeystarting-with-html-css-basis-13a",
+      "date": "2025-07-13T05:56:26.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -84,52 +129,7 @@
         "javascript",
         "css"
       ],
-      "readTime": "15 min read",
-      "priority": 2
-    },
-    {
-      "title": "Latency Optimization Secrets for Millisecond Response Times(2767)",
-      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane As a computer science student passionate about performance optimization, I've always been fasc...",
-      "url": "https://dev.to/member_3bd028d5/latency-optimization-secrets-for-millisecond-response-times2767-31pd",
-      "date": "2025-07-12T17:47:34.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "programming",
-        "rust"
-      ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "Production Deployment Strategies for High-Performance Web Services(1150)",
-      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane My journey into production deployment began with a catastrophic failure during our first major...",
-      "url": "https://dev.to/member_bf115bc6/production-deployment-strategies-for-high-performance-web-services1150-40ep",
-      "date": "2025-07-12T17:47:23.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "programming",
-        "rust"
-      ],
-      "readTime": "25 min read",
-      "priority": 2
-    },
-    {
-      "title": "New Choice for Cross-Platform Web Service Development(4523)",
-      "description": "GitHub Homepage As a junior student, I often need to switch between different operating systems during my web development learning process. The Window...",
-      "url": "https://dev.to/member_8a2272d3/new-choice-for-cross-platform-web-service-development4523-4kja",
-      "date": "2025-07-12T17:44:46.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "programming",
-        "rust"
-      ],
-      "readTime": "15 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
