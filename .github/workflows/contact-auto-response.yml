@@ -1,0 +1,71 @@
+name: Contact Auto-Response
+
+on:
+  repository_dispatch:
+    types: [contact-form-submission]
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'Contact Name'
+        required: true
+        type: string
+      email:
+        description: 'Contact Email'
+        required: true
+        type: string
+      subject:
+        description: 'Contact Subject'
+        required: true
+        type: string
+      message:
+        description: 'Contact Message'
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  send-auto-response:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Send auto-response email
+      run: |
+        echo "��� Auto-Response Email Details:"
+        echo "To: ${{ github.event.client_payload.email || inputs.email }}"
+        echo "Name: ${{ github.event.client_payload.name || inputs.name }}"
+        echo "Subject: Re: ${{ github.event.client_payload.subject || inputs.subject }}"
+        echo ""
+        echo "Email Content:"
+        echo "Hi ${{ github.event.client_payload.name || inputs.name }},"
+        echo ""
+        echo "Thank you for contacting me! I've received your message about '${{ github.event.client_payload.subject || inputs.subject }}' and really appreciate you taking the time to reach out."
+        echo ""
+        echo "��� What happens next?"
+        echo "- I'll review your message carefully"
+        echo "- You can expect a personal response within 24-48 hours"
+        echo "- If it's urgent, feel free to connect with me on LinkedIn"
+        echo ""
+        echo "Best regards,"
+        echo "Manan Vyas"
+        echo ""
+        echo "✅ Auto-response email would be sent to: ${{ github.event.client_payload.email || inputs.email }}"
+        
+    - name: Log response sent
+      run: |
+        echo "## ��� Auto-Response Summary" >> $GITHUB_STEP_SUMMARY
+        echo "- **Recipient**: ${{ github.event.client_payload.name || inputs.name }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Email**: ${{ github.event.client_payload.email || inputs.email }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Subject**: ${{ github.event.client_payload.subject || inputs.subject }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Status**: ✅ Auto-response processed successfully" >> $GITHUB_STEP_SUMMARY
+        echo "- **Time**: $(date)" >> $GITHUB_STEP_SUMMARY
