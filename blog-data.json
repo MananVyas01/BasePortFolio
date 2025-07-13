@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-12T17:50:29.542Z",
+  "lastUpdated": "2025-07-13T06:29:55.794Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,63 @@
       "priority": 1
     },
     {
-      "title": "Bidirectional Communication Patterns in Modern Web Apps(9212)",
-      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane During my final year project on distributed systems, I encountered a fundamental challenge tha...",
-      "url": "https://dev.to/member_fdfd31bf/bidirectional-communication-patterns-in-modern-web-apps9212-1df2",
-      "date": "2025-07-12T17:40:40.000Z",
+      "title": "Git and Version Control Systems: A Developer's Essential Guide",
+      "description": "Version control is the backbone of modern software development, and Git has emerged as the industry standard tool for it. But what makes version contr...",
+      "url": "https://dev.to/matin676/git-and-version-control-systems-a-developers-essential-guide-11bh",
+      "date": "2025-07-13T06:04:36.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "programming",
-        "rust"
-      ],
-      "readTime": "19 min read",
-      "priority": 2
-    },
-    {
-      "title": "Api Requests and Validators in Go",
-      "description": "I know there are hundreds of ways to implement it better but for learning purposes I wrote a simple request and validator mechanism here in this commi...",
-      "url": "https://dev.to/hrrydgls/api-requests-and-validators-in-go-52ih",
-      "date": "2025-07-12T17:40:31.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "go",
-        "php",
-        "laravel"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Bamboo Brush",
-      "description": "Check out this Pen I made!...",
-      "url": "https://dev.to/preetha_vaishnavi_2b82358/bamboo-brush-1gom",
-      "date": "2025-07-12T17:38:35.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "codepen",
-        "webdev",
-        "javascript"
+        "git",
+        "devops"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Application of Async Programming in Web Development(5613)",
-      "description": "GitHub Homepage As a junior computer science student, I gradually recognized the importance of asynchronous programming during my web development lear...",
-      "url": "https://dev.to/member_bb466cd7/application-of-async-programming-in-web-development5613-5ao8",
-      "date": "2025-07-12T17:38:07.000Z",
+      "title": "🚀 Think Redux and Zustand Are Fast? We Put Them to the Test.",
+      "description": "If you’re building React apps, chances are you’ve either used Redux or Zustand for state management. All solid choices for managing state in your Reac...",
+      "url": "https://dev.to/karandeepsingh7070/think-redux-and-zustand-are-fast-we-put-them-to-the-test-5cfi",
+      "date": "2025-07-13T06:04:06.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "react",
+        "redux",
+        "javascript"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Why do you contribute to Open Source? What is your motivation?",
+      "description": "Do you get paid for it? - Then probably you are told which project(s) to work on. Are you passionate about it? To \"show off\"? There are people who wor...",
+      "url": "https://dev.to/szabgab/why-do-you-contribute-to-open-source-what-is-your-motivation-2pdo",
+      "date": "2025-07-13T06:00:50.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "opensource",
+        "beginners",
+        "programming"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Day 1 & 2 of My Java Full Stack Journey:Starting with HTML & CSS Basis",
+      "description": "Hii Everyone, I'm starting my Java Full Stack Learning and it's my first day! HTML Tags I've Learned What is HTML? HTML stands for HyperText Markup La...",
+      "url": "https://dev.to/bhuvanasri/day-1-2-of-my-java-full-stack-journeystarting-with-html-css-basis-13a",
+      "date": "2025-07-13T05:56:26.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "programming",
-        "rust"
+        "javascript",
+        "css"
       ],
-      "readTime": "17 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
