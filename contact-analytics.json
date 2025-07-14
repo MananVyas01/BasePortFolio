@@ -1,0 +1,25 @@
+{
+  "weekStart": "$(date -d '7 days ago' '+%Y-%m-%d')",
+  "weekEnd": "$(date '+%Y-%m-%d')",
+  "totalContacts": 5,
+  "contactsByDay": {
+    "Monday": 2,
+    "Tuesday": 1,
+    "Wednesday": 0,
+    "Thursday": 1,
+    "Friday": 1,
+    "Saturday": 0,
+    "Sunday": 0
+  },
+  "topicAnalysis": {
+    "project-inquiry": 3,
+    "job-opportunity": 1,
+    "technical-question": 1,
+    "feedback": 0
+  },
+  "responseStats": {
+    "responded": 4,
+    "pending": 1
+  },
+  "generatedAt": "$(date -Iseconds)"
+}
