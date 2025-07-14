@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-13T06:29:55.794Z",
+  "lastUpdated": "2025-07-14T06:33:59.606Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,61 +73,61 @@
       "priority": 1
     },
     {
-      "title": "Git and Version Control Systems: A Developer's Essential Guide",
-      "description": "Version control is the backbone of modern software development, and Git has emerged as the industry standard tool for it. But what makes version contr...",
-      "url": "https://dev.to/matin676/git-and-version-control-systems-a-developers-essential-guide-11bh",
-      "date": "2025-07-13T06:04:36.000Z",
+      "title": "Dataverse Row Level Security",
+      "description": "Row level security is one of the fundamental access requirements we need for more advanced databases. Dataverse uses RBAC (Role-Based Access Control),...",
+      "url": "https://dev.to/wyattdave/dataverse-row-level-security-54if",
+      "date": "2025-07-14T06:06:07.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "dataverse",
+        "powerplatform",
+        "powerapps"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Build Visual Workflows with n8n and Automate Everything",
+      "description": "Hello devs, As a full-stack developer working mostly with JavaScript, I often build internal tools and data pipelines. I found myself writing a lot of...",
+      "url": "https://dev.to/dilumdarshana/build-visual-workflows-with-n8n-and-automate-everything-2hk3",
+      "date": "2025-07-14T06:00:45.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "n8n",
+        "ai",
+        "workflow"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "[Boost]",
+      "description": "🚀 React for Absolute Beginners: What the Heck Is a Component? Srushti Patil ・ Jul 13 #react #webdev #beginners #javascript...",
+      "url": "https://dev.to/srushti/-1aem",
+      "date": "2025-07-14T05:48:37.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "react",
         "webdev",
-        "git",
-        "devops"
+        "beginners"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "🚀 Think Redux and Zustand Are Fast? We Put Them to the Test.",
-      "description": "If you’re building React apps, chances are you’ve either used Redux or Zustand for state management. All solid choices for managing state in your Reac...",
-      "url": "https://dev.to/karandeepsingh7070/think-redux-and-zustand-are-fast-we-put-them-to-the-test-5cfi",
-      "date": "2025-07-13T06:04:06.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "react",
-        "redux",
-        "javascript"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Why do you contribute to Open Source? What is your motivation?",
-      "description": "Do you get paid for it? - Then probably you are told which project(s) to work on. Are you passionate about it? To \"show off\"? There are people who wor...",
-      "url": "https://dev.to/szabgab/why-do-you-contribute-to-open-source-what-is-your-motivation-2pdo",
-      "date": "2025-07-13T06:00:50.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "opensource",
-        "beginners",
-        "programming"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Day 1 & 2 of My Java Full Stack Journey:Starting with HTML & CSS Basis",
-      "description": "Hii Everyone, I'm starting my Java Full Stack Learning and it's my first day! HTML Tags I've Learned What is HTML? HTML stands for HyperText Markup La...",
-      "url": "https://dev.to/bhuvanasri/day-1-2-of-my-java-full-stack-journeystarting-with-html-css-basis-13a",
-      "date": "2025-07-13T05:56:26.000Z",
+      "title": "💰 From Side Project to Revenue: GMB Booking Monetization Journey",
+      "description": "Remember that booking platform I've been building? GMB Booking is testing and I'm now diving into the scary world of monetization. Need some wisdom fr...",
+      "url": "https://dev.to/webiatic/from-side-project-to-revenue-gmb-booking-monetization-journey-5267",
+      "date": "2025-07-14T05:47:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "javascript",
-        "css"
+        "saas",
+        "web3"
       ],
       "readTime": "2 min read",
       "priority": 2
