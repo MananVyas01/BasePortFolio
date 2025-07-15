@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-14T06:33:59.606Z",
+  "lastUpdated": "2025-07-15T06:33:09.954Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Code review in the age of AI: Why developers will always own the merge button",
+      "description": "When it comes to merging code, developers will always make the final decision. But we’re rethinking how tools like GitHub Copilot can help. The post C...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/code-review-in-the-age-of-ai-why-developers-will-always-own-the-merge-button/",
+      "date": "2025-07-14T16:38:03.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "agenticworkflows"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Modeling CORS frameworks with CodeQL to find security vulnerabilities",
       "description": "Discover how to increase the coverage of your CodeQL CORS security by modeling developer headers and frameworks. The post Modeling CORS frameworks wit...",
@@ -58,78 +73,93 @@
       "priority": 1
     },
     {
-      "title": "CVE-2025-53367: An exploitable out-of-bounds write in DjVuLibre",
-      "description": "DjVuLibre has a vulnerability that could enable an attacker to gain code execution on a Linux Desktop system when the user tries to open a crafted doc...",
-      "url": "https://github.blog/security/vulnerability-research/cve-2025-53367-an-exploitable-out-of-bounds-write-in-djvulibre/",
-      "date": "2025-07-03T20:52:20.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "security",
-        "vulnerabilityresearch",
-        "cve"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Dataverse Row Level Security",
-      "description": "Row level security is one of the fundamental access requirements we need for more advanced databases. Dataverse uses RBAC (Role-Based Access Control),...",
-      "url": "https://dev.to/wyattdave/dataverse-row-level-security-54if",
-      "date": "2025-07-14T06:06:07.000Z",
+      "title": "ChatGPT Code Interpreter: The Future of Programming?",
+      "description": "A clear and engaging post from Neuroflash (July 19, 2023) on how ChatGPT’s Code Interpreter—now called Advanced Data Analysis—is transforming coding b...",
+      "url": "https://dev.to/naima6_/chatgpt-code-interpreter-the-future-of-programming-57lc",
+      "date": "2025-07-15T06:20:29.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "dataverse",
-        "powerplatform",
-        "powerapps"
+        "chatgpt",
+        "automation",
+        "ai"
       ],
-      "readTime": "5 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Build Visual Workflows with n8n and Automate Everything",
-      "description": "Hello devs, As a full-stack developer working mostly with JavaScript, I often build internal tools and data pipelines. I found myself writing a lot of...",
-      "url": "https://dev.to/dilumdarshana/build-visual-workflows-with-n8n-and-automate-everything-2hk3",
-      "date": "2025-07-14T06:00:45.000Z",
+      "title": "Top Polywork Alternatives in 2025",
+      "description": "Hey there, fellow professionals and creators! If you’ve been in the tech or networking space, you might remember Polywork as that nifty platform that ...",
+      "url": "https://dev.to/n4ze3m/top-polywork-alternatives-in-2025-51n6",
+      "date": "2025-07-15T06:19:45.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "n8n",
-        "ai",
-        "workflow"
+        "webdev",
+        "freelance",
+        "linkedin"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "[Boost]",
-      "description": "🚀 React for Absolute Beginners: What the Heck Is a Component? Srushti Patil ・ Jul 13 #react #webdev #beginners #javascript...",
-      "url": "https://dev.to/srushti/-1aem",
-      "date": "2025-07-14T05:48:37.000Z",
+      "title": "Kiro vs Copilot: This Could Change the Way You Code Forever",
+      "description": "Amazon Kiro vs GitHub Copilot: The AI developer tool landscape just got a serious shake-up with the introduction of Amazon Kiro. But how does it compa...",
+      "url": "https://dev.to/alifar/kiro-vs-copilot-this-could-change-the-way-you-code-forever-4kaa",
+      "date": "2025-07-15T06:17:03.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "react",
+        "kiro",
+        "githubcopilot",
+        "programming"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Docker Model Runner",
+      "description": "Docker has launched Docker Model Runner, a new tool designed to streamline the process of building and running generative AI models locally. This beta...",
+      "url": "https://dev.to/sirivarma/docker-model-runner-dj6",
+      "date": "2025-07-15T06:14:44.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "cloud",
+        "cloudnative",
+        "webdev"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Design Patterns For AI Interfaces",
+      "description": "Designing a new AI feature? Where do you even begin? From first steps to design flows and interactions, here’s a simple, systematic approach to buildi...",
+      "url": "https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/",
+      "date": "2025-07-14T15:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
         "webdev",
-        "beginners"
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "💰 From Side Project to Revenue: GMB Booking Monetization Journey",
-      "description": "Remember that booking platform I've been building? GMB Booking is testing and I'm now diving into the scary world of monetization. Need some wisdom fr...",
-      "url": "https://dev.to/webiatic/from-side-project-to-revenue-gmb-booking-monetization-journey-5267",
-      "date": "2025-07-14T05:47:23.000Z",
+      "title": "Setting Line Length in CSS (and Fitting Text to a Container)",
+      "description": "The many ways to juggle line length when working with text... including two proposed properties that could make it easier in the future. Setting Line ...",
+      "url": "https://css-tricks.com/setting-line-length-in-css-and-fitting-text-to-a-container/",
+      "date": "2025-07-14T12:38:23.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "webdev",
-        "saas",
-        "web3"
+        "articles",
+        "typography",
+        "webdev"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -218,36 +248,6 @@
         "articles",
         "art",
         "clippath"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "CSS Intelligence: Speculating On The Future Of A Smarter Language",
-      "description": "CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pse...",
-      "url": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
-      "date": "2025-07-02T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Gap Strikes Back: Now Stylable",
-      "description": "Styling the space between layout items — the gap — has typically required some clever workarounds. But a new CSS feature changes all that with just a ...",
-      "url": "https://css-tricks.com/the-gap-strikes-back-now-stylable/",
-      "date": "2025-07-01T12:42:38.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "flexbox",
-        "grid"
       ],
       "readTime": "1 min read",
       "priority": 2
