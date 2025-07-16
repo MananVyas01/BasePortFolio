@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-15T06:33:09.954Z",
+  "lastUpdated": "2025-07-16T06:33:09.314Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "From chaos to clarity: Using GitHub Copilot agents to improve developer workflow",
+      "description": "Explore how you can set Copilot coding agent up for success with custom instruction and Copilot setup steps. The post From chaos to clarity: Using Git...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/from-chaos-to-clarity-using-github-copilot-agents-to-improve-developer-workflows/",
+      "date": "2025-07-15T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "codingagent"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Code review in the age of AI: Why developers will always own the merge button",
       "description": "When it comes to merging code, developers will always make the final decision. But we’re rethinking how tools like GitHub Copilot can help. The post C...",
@@ -58,78 +73,63 @@
       "priority": 1
     },
     {
-      "title": "Git security vulnerabilities announced",
-      "description": "Today, the Git project released new versions to address seven security vulnerabilities that affect all prior versions of Git. The post Git security vu...",
-      "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-6/",
-      "date": "2025-07-08T17:02:11.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "git",
-        "opensource",
-        "securityalert"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "ChatGPT Code Interpreter: The Future of Programming?",
-      "description": "A clear and engaging post from Neuroflash (July 19, 2023) on how ChatGPT’s Code Interpreter—now called Advanced Data Analysis—is transforming coding b...",
-      "url": "https://dev.to/naima6_/chatgpt-code-interpreter-the-future-of-programming-57lc",
-      "date": "2025-07-15T06:20:29.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "chatgpt",
-        "automation",
-        "ai"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Top Polywork Alternatives in 2025",
-      "description": "Hey there, fellow professionals and creators! If you’ve been in the tech or networking space, you might remember Polywork as that nifty platform that ...",
-      "url": "https://dev.to/n4ze3m/top-polywork-alternatives-in-2025-51n6",
-      "date": "2025-07-15T06:19:45.000Z",
+      "title": "Stop Fighting Image Formats: A Developer's Guide to Streamlined Image Processing",
+      "description": "How the right toolkit eliminated image conversion bottlenecks from my development workflow As developers, we've all been there: you're pushing to meet...",
+      "url": "https://dev.to/hardik_b2d8f0bca/stop-fighting-image-formats-a-developers-guide-to-streamlined-image-processing-53c6",
+      "date": "2025-07-16T06:23:27.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "freelance",
-        "linkedin"
+        "programming",
+        "javascript"
+      ],
+      "readTime": "8 min read",
+      "priority": 2
+    },
+    {
+      "title": "Zero-Trust Architecture in Laravel Applications",
+      "description": "“Science and technology revolutionize our lives, but memory, tradition, and myth frame our response.” — Arthur Schlesinger Never Trust, Always Verify:...",
+      "url": "https://dev.to/addwebsolutionpvtltd/zero-trust-architecture-in-laravel-applications-174p",
+      "date": "2025-07-16T06:18:03.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "laravelframework",
+        "codetutorial",
+        "devcommunity"
+      ],
+      "readTime": "21 min read",
+      "priority": 2
+    },
+    {
+      "title": "GoLang 101: Getting Started with Go",
+      "description": "Go, Why It’s Worth Your Time Hey folks, If you’re curious about learning a new programming language, Go—also known as Golang—is definitely one to cons...",
+      "url": "https://dev.to/kazemmdev/golang-101-getting-started-with-go-383l",
+      "date": "2025-07-16T05:53:29.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "programming",
+        "go",
+        "webdev"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Kiro vs Copilot: This Could Change the Way You Code Forever",
-      "description": "Amazon Kiro vs GitHub Copilot: The AI developer tool landscape just got a serious shake-up with the introduction of Amazon Kiro. But how does it compa...",
-      "url": "https://dev.to/alifar/kiro-vs-copilot-this-could-change-the-way-you-code-forever-4kaa",
-      "date": "2025-07-15T06:17:03.000Z",
+      "title": "Efficient WebSocket Server-Side Processing(4084)",
+      "description": "GitHub Homepage During my junior year studies, WebSocket technology has always been my most interested real-time communication solution. Compared to t...",
+      "url": "https://dev.to/member_02ee4941/efficient-websocket-server-side-processing4084-1hg3",
+      "date": "2025-07-16T05:39:15.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "kiro",
-        "githubcopilot",
-        "programming"
+        "webdev",
+        "programming",
+        "rust"
       ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "Docker Model Runner",
-      "description": "Docker has launched Docker Model Runner, a new tool designed to streamline the process of building and running generative AI models locally. This beta...",
-      "url": "https://dev.to/sirivarma/docker-model-runner-dj6",
-      "date": "2025-07-15T06:14:44.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "cloud",
-        "cloudnative",
-        "webdev"
-      ],
-      "readTime": "2 min read",
+      "readTime": "15 min read",
       "priority": 2
     },
     {
