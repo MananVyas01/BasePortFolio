@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-16T06:33:09.314Z",
+  "lastUpdated": "2025-07-17T06:32:44.179Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,51 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "GitHub Availability Report: June 2025",
+      "description": "In June, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: June 2025 a...",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-june-2025/",
+      "date": "2025-07-16T21:06:17.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "companynews",
+        "newsinsights",
+        "githubavailabilityreport"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "How to catch GitHub Actions workflow injections before attackers do",
+      "description": "Strengthen your repositories against actions workflow injections — one of the most common vulnerabilities. The post How to catch GitHub Actions workfl...",
+      "url": "https://github.blog/security/vulnerability-research/how-to-catch-github-actions-workflow-injections-before-attackers-do/",
+      "date": "2025-07-16T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "security",
+        "vulnerabilityresearch",
+        "codescanning"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "For the Love of Code: a summer hackathon for joyful, ridiculous, and wildly crea",
+      "description": "That idea you've been sitting on? The domain you bought at 2AM? A silly or serious side project? This summer, we invite you to build it — for the joy,...",
+      "url": "https://github.blog/open-source/for-the-love-of-code-2025/",
+      "date": "2025-07-16T15:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "githubcopilot",
+        "opensource",
+        "hackathon"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "From chaos to clarity: Using GitHub Copilot agents to improve developer workflow",
       "description": "Explore how you can set Copilot coding agent up for success with custom instruction and Copilot setup steps. The post From chaos to clarity: Using Git...",
@@ -29,99 +74,25 @@
       "priority": 1
     },
     {
-      "title": "Code review in the age of AI: Why developers will always own the merge button",
-      "description": "When it comes to merging code, developers will always make the final decision. But we’re rethinking how tools like GitHub Copilot can help. The post C...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/code-review-in-the-age-of-ai-why-developers-will-always-own-the-merge-button/",
-      "date": "2025-07-14T16:38:03.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "generativeai",
-        "agenticworkflows"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Modeling CORS frameworks with CodeQL to find security vulnerabilities",
-      "description": "Discover how to increase the coverage of your CodeQL CORS security by modeling developer headers and frameworks. The post Modeling CORS frameworks wit...",
-      "url": "https://github.blog/security/application-security/modeling-cors-frameworks-with-codeql-to-find-security-vulnerabilities/",
-      "date": "2025-07-10T17:38:14.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "applicationsecurity",
-        "security",
-        "codeql"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Beyond prompt crafting: How to be a better partner for your AI pair programmer",
-      "description": "Ensuring quality code suggestions from Copilot goes beyond the perfect prompt. Context is key to success when working with your AI pair programmer. Th...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-prompt-crafting-how-to-be-a-better-partner-for-your-ai-pair-programmer/",
-      "date": "2025-07-09T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Stop Fighting Image Formats: A Developer's Guide to Streamlined Image Processing",
-      "description": "How the right toolkit eliminated image conversion bottlenecks from my development workflow As developers, we've all been there: you're pushing to meet...",
-      "url": "https://dev.to/hardik_b2d8f0bca/stop-fighting-image-formats-a-developers-guide-to-streamlined-image-processing-53c6",
-      "date": "2025-07-16T06:23:27.000Z",
+      "title": "I always wished there was a place to vent without being judged, so I built one",
+      "description": "Made a little anonymous website called HearMeOuttt 🌐 It's not just for confessions — you can share how your day went, random thoughts, something you'...",
+      "url": "https://dev.to/harshvdev/i-always-wished-there-was-a-place-to-vent-without-being-judged-so-i-built-one-39ae",
+      "date": "2025-07-17T06:20:44.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "programming",
-        "javascript"
+        "javascript",
+        "productivity"
       ],
-      "readTime": "8 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Zero-Trust Architecture in Laravel Applications",
-      "description": "“Science and technology revolutionize our lives, but memory, tradition, and myth frame our response.” — Arthur Schlesinger Never Trust, Always Verify:...",
-      "url": "https://dev.to/addwebsolutionpvtltd/zero-trust-architecture-in-laravel-applications-174p",
-      "date": "2025-07-16T06:18:03.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "laravelframework",
-        "codetutorial",
-        "devcommunity"
-      ],
-      "readTime": "21 min read",
-      "priority": 2
-    },
-    {
-      "title": "GoLang 101: Getting Started with Go",
-      "description": "Go, Why It’s Worth Your Time Hey folks, If you’re curious about learning a new programming language, Go—also known as Golang—is definitely one to cons...",
-      "url": "https://dev.to/kazemmdev/golang-101-getting-started-with-go-383l",
-      "date": "2025-07-16T05:53:29.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "programming",
-        "go",
-        "webdev"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Efficient WebSocket Server-Side Processing(4084)",
-      "description": "GitHub Homepage During my junior year studies, WebSocket technology has always been my most interested real-time communication solution. Compared to t...",
-      "url": "https://dev.to/member_02ee4941/efficient-websocket-server-side-processing4084-1hg3",
-      "date": "2025-07-16T05:39:15.000Z",
+      "title": "Resource Management and Memory Efficiency in Web Servers(8695)",
+      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane My deep dive into resource management began during a production incident where our web server'...",
+      "url": "https://dev.to/member_aa44a2ae/resource-management-and-memory-efficiency-in-web-servers8695-11h1",
+      "date": "2025-07-17T06:19:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -129,7 +100,67 @@
         "programming",
         "rust"
       ],
-      "readTime": "15 min read",
+      "readTime": "24 min read",
+      "priority": 2
+    },
+    {
+      "title": "Memory Safety Meets Extreme Performance in Web Servers(2889)",
+      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane During my third year studying computer science, I encountered a fundamental challenge that man...",
+      "url": "https://dev.to/member_a26aac70/memory-safety-meets-extreme-performance-in-web-servers2889-1bhl",
+      "date": "2025-07-17T06:18:44.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "programming",
+        "rust"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "How I Ranked a Venice–Rovinj Page With Clean Internal Linking and FAQ Schema",
+      "description": "Over the last couple of months, I’ve been working on a travel website targeting private transfers between European cities. One of the key challenges w...",
+      "url": "https://dev.to/voodooser/how-i-ranked-a-venice-rovinj-page-with-clean-internal-linking-and-faq-schema-41ak",
+      "date": "2025-07-17T06:18:25.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "seo",
+        "jsonld",
+        "webdev"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Tiny Screens, Big Impact: The Forgotten Art Of Developing Web Apps For Feature P",
+      "description": "Learn why flip phones still matter in 2025, and how you can build and launch web apps for these tiny devices....",
+      "url": "https://smashingmagazine.com/2025/07/tiny-screens-big-impact-developing-web-apps-feature-phones/",
+      "date": "2025-07-16T15:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "What I Took From the State of Dev 2025 Survey",
+      "description": "State of Devs 2025 survey results are out! Sunkanmi Fafowora highlights a few key results about diversity, health, and salaries. What I Took From the ...",
+      "url": "https://css-tricks.com/what-i-took-from-the-state-of-dev-2025-survey/",
+      "date": "2025-07-16T12:54:14.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "opinion",
+        "survey"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -218,36 +249,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Design Guidelines For Better Notifications UX",
-      "description": "As always in design, timing matters, and so do timely notifications. Let’s explore how we might improve the notifications UX. More design patterns in ...",
-      "url": "https://smashingmagazine.com/2025/07/design-guidelines-better-notifications-ux/",
-      "date": "2025-07-07T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Better CSS Shapes Using shape() — Part 4: Close and Move",
-      "description": "The shape() function's close and move commands may not be ones you reach for often, but are incredibly useful for certain shapes. Better CSS Shapes Us...",
-      "url": "https://css-tricks.com/better-css-shapes-using-shape-part-4-close-and-move/",
-      "date": "2025-07-07T12:48:29.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "art",
-        "clippath"
       ],
       "readTime": "1 min read",
       "priority": 2
