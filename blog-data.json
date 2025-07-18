@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-17T06:32:44.179Z",
+  "lastUpdated": "2025-07-18T06:32:30.022Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,8 +8,8 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
@@ -74,25 +74,25 @@
       "priority": 1
     },
     {
-      "title": "I always wished there was a place to vent without being judged, so I built one",
-      "description": "Made a little anonymous website called HearMeOuttt 🌐 It's not just for confessions — you can share how your day went, random thoughts, something you'...",
-      "url": "https://dev.to/harshvdev/i-always-wished-there-was-a-place-to-vent-without-being-judged-so-i-built-one-39ae",
-      "date": "2025-07-17T06:20:44.000Z",
+      "title": "JavaScript Leading Web Development",
+      "description": "Data types and structures:- bookmark_border Primitives are the simplest types of data in JavaScript. A primitive literal is a Value, with no wrapper o...",
+      "url": "https://dev.to/sunilfgh/javascript-leading-web-development-16b7",
+      "date": "2025-07-18T06:25:37.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
         "javascript",
-        "productivity"
+        "programming"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Resource Management and Memory Efficiency in Web Servers(8695)",
-      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane My deep dive into resource management began during a production incident where our web server'...",
-      "url": "https://dev.to/member_aa44a2ae/resource-management-and-memory-efficiency-in-web-servers8695-11h1",
-      "date": "2025-07-17T06:19:31.000Z",
+      "title": "Context Management and Request Lifecycle Optimization(1094)",
+      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane My deep dive into context management began during a performance optimization project where I d...",
+      "url": "https://dev.to/member_aa44a2ae/context-management-and-request-lifecycle-optimization1094-3h28",
+      "date": "2025-07-18T06:22:52.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -100,37 +100,52 @@
         "programming",
         "rust"
       ],
-      "readTime": "24 min read",
+      "readTime": "19 min read",
       "priority": 2
     },
     {
-      "title": "Memory Safety Meets Extreme Performance in Web Servers(2889)",
-      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane During my third year studying computer science, I encountered a fundamental challenge that man...",
-      "url": "https://dev.to/member_a26aac70/memory-safety-meets-extreme-performance-in-web-servers2889-1bhl",
-      "date": "2025-07-17T06:18:44.000Z",
+      "title": "Hiring Remote Employees That Fit Your Culture: A Practical Playbook",
+      "description": "Hiring Remote Employees That Fit Your Culture: A Practical Playbook Kruti for Teamcamp ・ Jul 16...",
+      "url": "https://dev.to/kruti12/hiring-remote-employees-that-fit-your-culture-a-practical-playbook-4gml",
+      "date": "2025-07-18T06:22:45.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "programming",
-        "rust"
+        "remote",
+        "career",
+        "workplace"
       ],
-      "readTime": "7 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "How I Ranked a Venice–Rovinj Page With Clean Internal Linking and FAQ Schema",
-      "description": "Over the last couple of months, I’ve been working on a travel website targeting private transfers between European cities. One of the key challenges w...",
-      "url": "https://dev.to/voodooser/how-i-ranked-a-venice-rovinj-page-with-clean-internal-linking-and-faq-schema-41ak",
-      "date": "2025-07-17T06:18:25.000Z",
+      "title": "How to Get Status Updates from Engineering Teams Without Losing Your Mind",
+      "description": "As a project manager, getting status updates from engineering teams can feel like herding cats - everyone’s busy, and no one wants to stop coding to w...",
+      "url": "https://dev.to/taskford/how-to-get-status-updates-from-engineering-teams-without-losing-your-mind-e9e",
+      "date": "2025-07-18T06:19:32.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "seo",
-        "jsonld",
+        "engineering",
+        "programming",
         "webdev"
       ],
-      "readTime": "2 min read",
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "Getting Clarity on Apple’s Liquid Glass",
+      "description": "Gathered notes on Liquid Glass, Apple’s new design language that was introduced at WWDC 2025. These links are a choice selection of posts and resource...",
+      "url": "https://css-tricks.com/getting-clarity-on-apples-liquid-glass/",
+      "date": "2025-07-17T13:23:52.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "notes",
+        "apple",
+        "designsystems"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -204,21 +219,6 @@
         "articles",
         "position",
         "scrolldrivenanimation"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Layout Maestro Course",
-      "description": "Layout. It’s one of those easy-to-learn, difficult-to-master things, like they say about playing bass. Not because it’s innately difficult to, say, pl...",
-      "url": "https://css-tricks.com/the-layout-maestro-course/",
-      "date": "2025-07-11T17:07:13.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "education",
-        "layout"
       ],
       "readTime": "1 min read",
       "priority": 2
