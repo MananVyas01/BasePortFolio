@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-18T06:32:30.022Z",
+  "lastUpdated": "2025-07-19T06:30:13.060Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,93 @@
       "priority": 1
     },
     {
-      "title": "JavaScript Leading Web Development",
-      "description": "Data types and structures:- bookmark_border Primitives are the simplest types of data in JavaScript. A primitive literal is a Value, with no wrapper o...",
-      "url": "https://dev.to/sunilfgh/javascript-leading-web-development-16b7",
-      "date": "2025-07-18T06:25:37.000Z",
+      "title": "Centralized vs Decentralized Identity tradeoffs: Twitter/X, YouTube, Mastodon, A",
+      "description": "Social media and various other online platforms require some sort of identity to provide their services and to customize experience to us. What does i...",
+      "url": "https://dev.to/binaryigor/centralized-vs-decentralized-identity-tradeoffs-twitterx-youtube-mastodon-activitypub-and-nostr-3ab5",
+      "date": "2025-07-19T05:56:30.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
         "javascript",
-        "programming"
+        "css"
       ],
-      "readTime": "1 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Context Management and Request Lifecycle Optimization(1094)",
-      "description": "GitHub Homepage: https://github.com/eastspire/hyperlane My deep dive into context management began during a performance optimization project where I d...",
-      "url": "https://dev.to/member_aa44a2ae/context-management-and-request-lifecycle-optimization1094-3h28",
-      "date": "2025-07-18T06:22:52.000Z",
+      "title": "Why \"USED\" Condition Fails in eBay Inventory API (Action Figure Category)",
+      "description": "Background In the Action Figure category on eBay, the listing UI only provides two condition options: NEW and USED. However, when creating a SKU using...",
+      "url": "https://dev.to/snowball0002/why-used-condition-fails-in-ebay-inventory-api-action-figure-category-4pm6",
+      "date": "2025-07-19T04:59:53.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "programming",
-        "rust"
+        "javascript",
+        "css"
       ],
-      "readTime": "19 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Hiring Remote Employees That Fit Your Culture: A Practical Playbook",
-      "description": "Hiring Remote Employees That Fit Your Culture: A Practical Playbook Kruti for Teamcamp ・ Jul 16...",
-      "url": "https://dev.to/kruti12/hiring-remote-employees-that-fit-your-culture-a-practical-playbook-4gml",
-      "date": "2025-07-18T06:22:45.000Z",
+      "title": "My programming environment journey",
+      "description": "No one actually cares about my programming environment journey, but I’ve often been asked to share it, perhaps for the sake of social media algorithms...",
+      "url": "https://dev.to/veer66/my-programming-environment-journey-5748",
+      "date": "2025-07-19T04:58:58.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "remote",
-        "career",
-        "workplace"
+        "programmingenvironment",
+        "webdev",
+        "javascript"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Conectando Backend e Frontend - Next Js + Nest Js",
+      "description": "Criamos um wrapper usando \"Ky\" para trazer a url correta do backend da .env Átraves desse wrapper conseguimos fazer requisições para nossa API, lembra...",
+      "url": "https://dev.to/alsetchannel/conectando-backend-e-frontend-next-js-nest-js-4gdo",
+      "date": "2025-07-19T04:49:11.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "How to Get Status Updates from Engineering Teams Without Losing Your Mind",
-      "description": "As a project manager, getting status updates from engineering teams can feel like herding cats - everyone’s busy, and no one wants to stop coding to w...",
-      "url": "https://dev.to/taskford/how-to-get-status-updates-from-engineering-teams-without-losing-your-mind-e9e",
-      "date": "2025-07-18T06:19:32.000Z",
+      "title": "Getting Creative With Versal Letters",
+      "description": "A versal letters is a typographic flourish found in illuminated manuscripts and traditional book design, where it adds visual interest and helps guide...",
+      "url": "https://css-tricks.com/getting-creative-with-versal-letters/",
+      "date": "2025-07-18T16:12:05.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "engineering",
-        "programming",
-        "webdev"
+        "articles",
+        "initialletter",
+        "inspiration"
       ],
-      "readTime": "6 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Why Non-Native Content Designers Improve Global UX",
+      "description": "Ensuring your product communicates clearly to a global audience is not just about localisation. Even for products that have a proper localisation proc...",
+      "url": "https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/",
+      "date": "2025-07-18T13:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -209,40 +239,10 @@
       "priority": 2
     },
     {
-      "title": "Scroll-Driven Sticky Heading",
-      "description": "I was playing around with scroll-driven animations, just searching for all sorts of random things you could do. That’s when I came up with the idea to...",
-      "url": "https://css-tricks.com/scroll-driven-sticky-heading/",
-      "date": "2025-07-11T17:11:00.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "position",
-        "scrolldrivenanimation"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Unmasking The Magic: The Wizard Of Oz Method For UX Research",
       "description": "The Wizard of Oz method is a proven UX research tool that simulates real interactions to uncover authentic user behavior. Victor Yocco unpacks the cor...",
       "url": "https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
       "date": "2025-07-10T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Droip: The Modern Website Builder WordPress Needed",
-      "description": "Traditional page builders have shaped how we build WordPress sites for years. Let’s take a closer look at [Droip](https://droip.com/), a modern, no-co...",
-      "url": "https://smashingmagazine.com/2025/07/modern-website-builder-wordpress-droip/",
-      "date": "2025-07-08T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
