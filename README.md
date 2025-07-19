@@ -17,10 +17,10 @@
 
 ## 🌐 Portfolio Website
 
-**[View My Full Portfolio →](https://mananvyas01.github.io/BasePortFolio/)**
+**[View My Full Portfolio →](https://mananyvas01.github.io/BasePortFolio/)**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=github)](https://mananyvas01.github.io/BasePortFolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=github)](https://mananvyas01.github.io/BasePortFolio/)
 
 ---
 
-📅 Auto-updated: 7/16/2025
+📅 Auto-updated: 7/19/2025
