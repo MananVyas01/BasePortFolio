@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-19T06:30:13.060Z",
+  "lastUpdated": "2025-07-20T06:30:11.761Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,10 +74,10 @@
       "priority": 1
     },
     {
-      "title": "Centralized vs Decentralized Identity tradeoffs: Twitter/X, YouTube, Mastodon, A",
-      "description": "Social media and various other online platforms require some sort of identity to provide their services and to customize experience to us. What does i...",
-      "url": "https://dev.to/binaryigor/centralized-vs-decentralized-identity-tradeoffs-twitterx-youtube-mastodon-activitypub-and-nostr-3ab5",
-      "date": "2025-07-19T05:56:30.000Z",
+      "title": "Test-Driven Development (TDD) and Its Relevance to AI-Generated Code",
+      "description": "Test-driven development (TDD) is a software development process that How TDD Enhances Quality in AI-Generated Code: Key Benefits Implementing Test-Dri...",
+      "url": "https://dev.to/hazrat-ali9/test-driven-development-tdd-and-its-relevance-to-ai-generated-code-1l4f",
+      "date": "2025-07-20T06:04:06.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -89,48 +89,48 @@
       "priority": 2
     },
     {
-      "title": "Why \"USED\" Condition Fails in eBay Inventory API (Action Figure Category)",
-      "description": "Background In the Action Figure category on eBay, the listing UI only provides two condition options: NEW and USED. However, when creating a SKU using...",
-      "url": "https://dev.to/snowball0002/why-used-condition-fails-in-ebay-inventory-api-action-figure-category-4pm6",
-      "date": "2025-07-19T04:59:53.000Z",
+      "title": "Building an Interactive Story Generator with Google AI Studio",
+      "description": "Building an Interactive Story Generator with Google AI Studio What I Built I created an interactive story generator that creates personalized, branchi...",
+      "url": "https://dev.to/onirestart/building-an-interactive-story-generator-with-google-ai-studio-4mk5",
+      "date": "2025-07-20T06:03:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "googleaistudio",
+        "ai",
+        "interactivefiction"
       ],
-      "readTime": "3 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "My programming environment journey",
-      "description": "No one actually cares about my programming environment journey, but I’ve often been asked to share it, perhaps for the sake of social media algorithms...",
-      "url": "https://dev.to/veer66/my-programming-environment-journey-5748",
-      "date": "2025-07-19T04:58:58.000Z",
+      "title": "Hit 100 GitHub Followers — Thank You!",
+      "description": "Just reached 100 followers on GitHub! 🎉 It’s been a fun journey sharing my projects, learning, and connecting with awesome devs. Thanks to everyone w...",
+      "url": "https://dev.to/vihanga_anuththara_0a402f/hit-100-github-followers-thank-you-5751",
+      "date": "2025-07-20T06:01:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "programmingenvironment",
+        "github",
         "webdev",
         "javascript"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Conectando Backend e Frontend - Next Js + Nest Js",
-      "description": "Criamos um wrapper usando \"Ky\" para trazer a url correta do backend da .env Átraves desse wrapper conseguimos fazer requisições para nossa API, lembra...",
-      "url": "https://dev.to/alsetchannel/conectando-backend-e-frontend-next-js-nest-js-4gdo",
-      "date": "2025-07-19T04:49:11.000Z",
+      "title": "ChatGPT o3-mini vs DeepSeek R1 Which Performs Better? - Proje Defteri",
+      "description": "Introduction Artificial intelligence models are continually advancing, particularly in reasoning and coding capabilities. OpenAI's ChatGPT o3-mini and...",
+      "url": "https://dev.to/yunusemre/chatgpt-o3-mini-vs-deepseek-r1-which-performs-better-proje-defteri-4epj",
+      "date": "2025-07-20T06:00:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "ai",
+        "llm",
+        "openai"
       ],
-      "readTime": "1 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
