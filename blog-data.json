@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-20T06:30:11.761Z",
+  "lastUpdated": "2025-07-21T06:33:30.246Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,61 +74,61 @@
       "priority": 1
     },
     {
-      "title": "Test-Driven Development (TDD) and Its Relevance to AI-Generated Code",
-      "description": "Test-driven development (TDD) is a software development process that How TDD Enhances Quality in AI-Generated Code: Key Benefits Implementing Test-Dri...",
-      "url": "https://dev.to/hazrat-ali9/test-driven-development-tdd-and-its-relevance-to-ai-generated-code-1l4f",
-      "date": "2025-07-20T06:04:06.000Z",
+      "title": "Como cheguei até o padrão CQRS naturalmente?",
+      "description": "Como desenvolvedor de software regularmente tenho feito algumas provas de conceito sobre padrões arquitecturais e design: CQRS, DDD, Clean Architectur...",
+      "url": "https://dev.to/ortizdavid/como-cheguei-ate-o-padrao-cqrs-naturalmente-3c9c",
+      "date": "2025-07-21T06:16:15.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "cqrs",
+        "mongodb",
+        "fastapi"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Querying CSV/XLS and other files：SPL Lightweight Multisource Mixed Computation P",
+      "description": "It is convenient to access files with SPL. The language can also deal with various file formats. Computing goal Find the total amount under each type ...",
+      "url": "https://dev.to/esproc_spl/querying-csvxls-and-other-filesspl-lightweight-multisource-mixed-computation-practices-2-4g2a",
+      "date": "2025-07-21T06:16:09.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "programming",
+        "discuss",
+        "softwaredevelopment"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Building an Interactive Story Generator with Google AI Studio",
-      "description": "Building an Interactive Story Generator with Google AI Studio What I Built I created an interactive story generator that creates personalized, branchi...",
-      "url": "https://dev.to/onirestart/building-an-interactive-story-generator-with-google-ai-studio-4mk5",
-      "date": "2025-07-20T06:03:00.000Z",
+      "title": "Could an AI Coach Actually Fix Rehab? Our Hackathon Experiment",
+      "description": "Physiotherapy is a pain. Literally. But the real challenge isn’t the exercises - it’s the lonely grind of doing them in your living room, day after da...",
+      "url": "https://dev.to/lukem94/could-an-ai-coach-actually-fix-rehab-our-hackathon-experiment-3lbi",
+      "date": "2025-07-21T06:15:14.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "googleaistudio",
-        "ai",
-        "interactivefiction"
+        "devchallenge",
+        "wlhchallenge",
+        "career"
       ],
-      "readTime": "7 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Hit 100 GitHub Followers — Thank You!",
-      "description": "Just reached 100 followers on GitHub! 🎉 It’s been a fun journey sharing my projects, learning, and connecting with awesome devs. Thanks to everyone w...",
-      "url": "https://dev.to/vihanga_anuththara_0a402f/hit-100-github-followers-thank-you-5751",
-      "date": "2025-07-20T06:01:23.000Z",
+      "title": "🧠 Productivity Tips for Self-Taught Developers: Build Faster, Smarter, Stronger",
+      "description": "Whether you’re transitioning careers, building passion projects, or just learning to code for the thrill of it, being a self-taught developer is both ...",
+      "url": "https://dev.to/vjygour/productivity-tips-for-self-taught-developers-build-faster-smarter-stronger-4foh",
+      "date": "2025-07-21T06:09:08.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "github",
         "webdev",
-        "javascript"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "ChatGPT o3-mini vs DeepSeek R1 Which Performs Better? - Proje Defteri",
-      "description": "Introduction Artificial intelligence models are continually advancing, particularly in reasoning and coding capabilities. OpenAI's ChatGPT o3-mini and...",
-      "url": "https://dev.to/yunusemre/chatgpt-o3-mini-vs-deepseek-r1-which-performs-better-proje-defteri-4epj",
-      "date": "2025-07-20T06:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "llm",
-        "openai"
+        "productivity",
+        "programming"
       ],
       "readTime": "3 min read",
       "priority": 2
