@@ -4,16 +4,16 @@
 
 ## 📊 Quick Stats
 - 🌟 **6** total stars
-- 📦 **25** public repositories  
+- 📦 **26** public repositories  
 - 👥 **9** followers
 
 ## 🔥 Latest Projects
 
 - **[BasePortFolio](https://github.com/MananVyas01/BasePortFolio)** - This repo contains my Temp PortFolioWebSite built using HTML/CSS with the twist of Github Actions(See The Magic). 
+- **[ForeverClass](https://github.com/MananVyas01/ForeverClass)** - No description 
 - **[OdooThon](https://github.com/MananVyas01/OdooThon)** - No description ⭐ 1
 - **[portfolio-website](https://github.com/MananVyas01/portfolio-website)** - My personal portfolio website showcasing projects, skills, resume, and blog — built with passion, powered by modern web technologies. 
 - **[jarvis-ai-assistant](https://github.com/MananVyas01/jarvis-ai-assistant)** - 🤖 JARVIS - Advanced AI-Powered Voice Assistant with Real-time Search, Content Generation, and System Automation. Built with Python, Eel, and multiple AI APIs (Groq, Cohere, HuggingFace). ⭐ 1
-- **[ml-internship-Tasks](https://github.com/MananVyas01/ml-internship-Tasks)** - No description ⭐ 1
 
 ## 🌐 Portfolio Website
 
@@ -23,4 +23,4 @@
 
 ---
 
-📅 Auto-updated: 7/19/2025
+📅 Auto-updated: 7/21/2025
