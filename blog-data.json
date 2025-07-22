@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-21T06:33:30.246Z",
+  "lastUpdated": "2025-07-22T06:32:53.911Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,93 @@
       "priority": 1
     },
     {
-      "title": "Como cheguei até o padrão CQRS naturalmente?",
-      "description": "Como desenvolvedor de software regularmente tenho feito algumas provas de conceito sobre padrões arquitecturais e design: CQRS, DDD, Clean Architectur...",
-      "url": "https://dev.to/ortizdavid/como-cheguei-ate-o-padrao-cqrs-naturalmente-3c9c",
-      "date": "2025-07-21T06:16:15.000Z",
+      "title": "Var vs Dynamic vs Object in c#",
+      "description": "In C#, var is statically typed and determined at compile-time, ensuring type safety. dynamic allows runtime flexibility but lacks compile-time checks,...",
+      "url": "https://dev.to/shreyans_padmani/var-vs-dynamic-vs-object-in-c-1g30",
+      "date": "2025-07-22T06:17:27.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "cqrs",
-        "mongodb",
-        "fastapi"
+        "dotnetcore",
+        "varvsdynamicvsobject",
+        "microsoftdotnet"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Querying CSV/XLS and other files：SPL Lightweight Multisource Mixed Computation P",
-      "description": "It is convenient to access files with SPL. The language can also deal with various file formats. Computing goal Find the total amount under each type ...",
-      "url": "https://dev.to/esproc_spl/querying-csvxls-and-other-filesspl-lightweight-multisource-mixed-computation-practices-2-4g2a",
-      "date": "2025-07-21T06:16:09.000Z",
+      "title": "Intro to OpenTelemetry Weaver",
+      "description": "📌 TL;DR OpenTelemetry Weaver is a powerful tool that brings observability-by-design into practice. It empowers teams to standardize, automate, and ma...",
+      "url": "https://dev.to/sirivarma/intro-to-opentelemetry-weaver-4om1",
+      "date": "2025-07-22T06:15:50.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "programming",
-        "discuss",
-        "softwaredevelopment"
+        "cloud",
+        "cloudnative",
+        "observability"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Could an AI Coach Actually Fix Rehab? Our Hackathon Experiment",
-      "description": "Physiotherapy is a pain. Literally. But the real challenge isn’t the exercises - it’s the lonely grind of doing them in your living room, day after da...",
-      "url": "https://dev.to/lukem94/could-an-ai-coach-actually-fix-rehab-our-hackathon-experiment-3lbi",
-      "date": "2025-07-21T06:15:14.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "devchallenge",
-        "wlhchallenge",
-        "career"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "🧠 Productivity Tips for Self-Taught Developers: Build Faster, Smarter, Stronger",
-      "description": "Whether you’re transitioning careers, building passion projects, or just learning to code for the thrill of it, being a self-taught developer is both ...",
-      "url": "https://dev.to/vjygour/productivity-tips-for-self-taught-developers-build-faster-smarter-stronger-4foh",
-      "date": "2025-07-21T06:09:08.000Z",
+      "title": "How to Build a Resumable File Uploader in React with Node.js and resumable.js",
+      "description": "📦 Why Resumable Uploads? ⚙️ Project Setup 🔹 Backend: Express + Multer Let's create a simple Express server to handle chunk uploads. mkdir resumable-...",
+      "url": "https://dev.to/hackmack4772/how-to-build-a-resumable-file-uploader-in-react-with-nodejs-and-resumablejs-2m79",
+      "date": "2025-07-22T06:11:17.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "productivity",
-        "programming"
+        "javascript",
+        "css"
       ],
-      "readTime": "3 min read",
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "The AI era is really conducive to our independent development",
+      "description": "I was originally working on JavaWeb, real-time stream processing of big data flink Storm, and my foundation in front-end, Android and iOS was very wea...",
+      "url": "https://dev.to/mkstudio/the-ai-era-is-really-conducive-to-our-independent-development-25h0",
+      "date": "2025-07-22T06:10:19.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "A Primer on Focus Trapping",
+      "description": "Focus trapping is about managing focus within an element, such that focus always stays within it. The whole process sounds simple in theory, but it ca...",
+      "url": "https://css-tricks.com/a-primer-on-focus-trapping/",
+      "date": "2025-07-21T13:14:17.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "accessibility",
+        "javascript"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Handling JavaScript Event Listeners With Parameters",
+      "description": "Event listeners are essential for interactivity in JavaScript, but they can quietly cause memory leaks if not removed properly. And what if your event...",
+      "url": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
+      "date": "2025-07-21T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -213,36 +243,6 @@
       "description": "Designing a new AI feature? Where do you even begin? From first steps to design flows and interactions, here’s a simple, systematic approach to buildi...",
       "url": "https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/",
       "date": "2025-07-14T15:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Setting Line Length in CSS (and Fitting Text to a Container)",
-      "description": "The many ways to juggle line length when working with text... including two proposed properties that could make it easier in the future. Setting Line ...",
-      "url": "https://css-tricks.com/setting-line-length-in-css-and-fitting-text-to-a-container/",
-      "date": "2025-07-14T12:38:23.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "typography",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Unmasking The Magic: The Wizard Of Oz Method For UX Research",
-      "description": "The Wizard of Oz method is a proven UX research tool that simulates real interactions to uncover authentic user behavior. Victor Yocco unpacks the cor...",
-      "url": "https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
-      "date": "2025-07-10T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
