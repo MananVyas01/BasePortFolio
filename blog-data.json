@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-22T06:32:53.911Z",
+  "lastUpdated": "2025-07-23T06:33:34.791Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Debugging UI with AI: GitHub Copilot agent mode meets MCP servers",
+      "description": "Explore how I use agentic tools like GitHub Copilot agent mode and the Playwright MCP server to accelerate troubleshooting and debugging of UI issues,...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/debugging-ui-with-ai-github-copilot-agent-mode-meets-mcp-servers/",
+      "date": "2025-07-22T21:58:35.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "agentmode"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "GitHub Availability Report: June 2025",
       "description": "In June, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: June 2025 a...",
@@ -59,55 +74,10 @@
       "priority": 1
     },
     {
-      "title": "From chaos to clarity: Using GitHub Copilot agents to improve developer workflow",
-      "description": "Explore how you can set Copilot coding agent up for success with custom instruction and Copilot setup steps. The post From chaos to clarity: Using Git...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/from-chaos-to-clarity-using-github-copilot-agents-to-improve-developer-workflows/",
-      "date": "2025-07-15T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "codingagent"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Var vs Dynamic vs Object in c#",
-      "description": "In C#, var is statically typed and determined at compile-time, ensuring type safety. dynamic allows runtime flexibility but lacks compile-time checks,...",
-      "url": "https://dev.to/shreyans_padmani/var-vs-dynamic-vs-object-in-c-1g30",
-      "date": "2025-07-22T06:17:27.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "dotnetcore",
-        "varvsdynamicvsobject",
-        "microsoftdotnet"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Intro to OpenTelemetry Weaver",
-      "description": "📌 TL;DR OpenTelemetry Weaver is a powerful tool that brings observability-by-design into practice. It empowers teams to standardize, automate, and ma...",
-      "url": "https://dev.to/sirivarma/intro-to-opentelemetry-weaver-4om1",
-      "date": "2025-07-22T06:15:50.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "cloud",
-        "cloudnative",
-        "observability"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "How to Build a Resumable File Uploader in React with Node.js and resumable.js",
-      "description": "📦 Why Resumable Uploads? ⚙️ Project Setup 🔹 Backend: Express + Multer Let's create a simple Express server to handle chunk uploads. mkdir resumable-...",
-      "url": "https://dev.to/hackmack4772/how-to-build-a-resumable-file-uploader-in-react-with-nodejs-and-resumablejs-2m79",
-      "date": "2025-07-22T06:11:17.000Z",
+      "title": "Is Translation Software Worth Paying For?",
+      "description": "Translation software might be one of the wisest investments you or your company can make for a comparatively inexpensive investment and a light onboar...",
+      "url": "https://dev.to/liamcorwin/is-translation-software-worth-paying-for-16oj",
+      "date": "2025-07-23T06:14:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -115,14 +85,44 @@
         "javascript",
         "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "The AI era is really conducive to our independent development",
-      "description": "I was originally working on JavaWeb, real-time stream processing of big data flink Storm, and my foundation in front-end, Android and iOS was very wea...",
-      "url": "https://dev.to/mkstudio/the-ai-era-is-really-conducive-to-our-independent-development-25h0",
-      "date": "2025-07-22T06:10:19.000Z",
+      "title": "Passionate AI Enthusiast Seeking Opportunity to Join an AI Company | Open to Rem",
+      "description": "Hi, I’m SM Shehab Uddin – a self-driven AI and mobile developer with a strong foundation in chatbot building, automation, and ethical hacking. I’m act...",
+      "url": "https://dev.to/sb_shehab_e478d95091125d3/passionate-ai-enthusiast-seeking-opportunity-to-join-an-ai-company-open-to-remote-work-2c15",
+      "date": "2025-07-23T06:11:43.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "career",
+        "remote"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "High-Performance Routing System Design and Implementation(9059)",
+      "description": "GitHub Homepage During my junior year studies, routing systems have always been the core component of web frameworks. Traditional routing implementati...",
+      "url": "https://dev.to/member_8c78b76f/high-performance-routing-system-design-and-implementation9059-c11",
+      "date": "2025-07-23T06:05:51.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "programming",
+        "rust"
+      ],
+      "readTime": "30 min read",
+      "priority": 2
+    },
+    {
+      "title": "Choosing a financial charting library for your trading app: 7 things to look for",
+      "description": "If you're building a trading app, we don’t need to give you the spiel about how important the charting component is. You will already know that if it ...",
+      "url": "https://dev.to/devexperts/choosing-a-financial-charting-library-for-your-trading-app-7-things-to-look-for-4436",
+      "date": "2025-07-23T05:36:18.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -130,7 +130,7 @@
         "javascript",
         "css"
       ],
-      "readTime": "1 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
@@ -240,7 +240,7 @@
     },
     {
       "title": "Design Patterns For AI Interfaces",
-      "description": "Designing a new AI feature? Where do you even begin? From first steps to design flows and interactions, here’s a simple, systematic approach to buildi...",
+      "description": "Designing a new AI feature? Where do you even begin? Here’s a simple, practical overview with useful design patterns for better AI experiences....",
       "url": "https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/",
       "date": "2025-07-14T15:00:00.000Z",
       "category": "Web Dev",
