@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-23T06:33:34.791Z",
+  "lastUpdated": "2025-07-24T06:33:54.299Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,41 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
+    "A List Apart",
     "CSS-Tricks",
-    "Smashing Magazine",
-    "A List Apart"
+    "Smashing Magazine"
   ],
   "posts": [
+    {
+      "title": "Solving the inference problem for open source AI projects with GitHub Models",
+      "description": "How using GitHub’s free inference API can make your AI-powered open source software more accessible. The post Solving the inference problem for open s...",
+      "url": "https://github.blog/ai-and-ml/llms/solving-the-inference-problem-for-open-source-ai-projects-with-github-models/",
+      "date": "2025-07-23T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "llms",
+        "aimodels"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "We need a European Sovereign Tech Fund",
+      "description": "Open source software is critical infrastructure, but it’s underfunded. With a new feasibility study, GitHub’s developer policy team is building a coal...",
+      "url": "https://github.blog/open-source/maintainers/we-need-a-european-sovereign-tech-fund/",
+      "date": "2025-07-23T07:01:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "maintainers",
+        "newsinsights",
+        "opensource"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Debugging UI with AI: GitHub Copilot agent mode meets MCP servers",
       "description": "Explore how I use agentic tools like GitHub Copilot agent mode and the Playwright MCP server to accelerate troubleshooting and debugging of UI issues,...",
@@ -44,40 +74,10 @@
       "priority": 1
     },
     {
-      "title": "How to catch GitHub Actions workflow injections before attackers do",
-      "description": "Strengthen your repositories against actions workflow injections — one of the most common vulnerabilities. The post How to catch GitHub Actions workfl...",
-      "url": "https://github.blog/security/vulnerability-research/how-to-catch-github-actions-workflow-injections-before-attackers-do/",
-      "date": "2025-07-16T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "security",
-        "vulnerabilityresearch",
-        "codescanning"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "For the Love of Code: a summer hackathon for joyful, ridiculous, and wildly crea",
-      "description": "That idea you've been sitting on? The domain you bought at 2AM? A silly or serious side project? This summer, we invite you to build it — for the joy,...",
-      "url": "https://github.blog/open-source/for-the-love-of-code-2025/",
-      "date": "2025-07-16T15:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "githubcopilot",
-        "opensource",
-        "hackathon"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Is Translation Software Worth Paying For?",
-      "description": "Translation software might be one of the wisest investments you or your company can make for a comparatively inexpensive investment and a light onboar...",
-      "url": "https://dev.to/liamcorwin/is-translation-software-worth-paying-for-16oj",
-      "date": "2025-07-23T06:14:23.000Z",
+      "title": "What is a paper capacitor?",
+      "description": "Paper capacitors are one of the fundamental types of capacitors. Usually, in capacitors, conductive materials are separated by dielectrics. Based on v...",
+      "url": "https://dev.to/jingyun_cai_38872bff5f4ed/what-is-a-paper-capacitor-5ci6",
+      "date": "2025-07-24T06:18:43.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -85,44 +85,29 @@
         "javascript",
         "css"
       ],
-      "readTime": "4 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Passionate AI Enthusiast Seeking Opportunity to Join an AI Company | Open to Rem",
-      "description": "Hi, I’m SM Shehab Uddin – a self-driven AI and mobile developer with a strong foundation in chatbot building, automation, and ethical hacking. I’m act...",
-      "url": "https://dev.to/sb_shehab_e478d95091125d3/passionate-ai-enthusiast-seeking-opportunity-to-join-an-ai-company-open-to-remote-work-2c15",
-      "date": "2025-07-23T06:11:43.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "career",
-        "remote"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "High-Performance Routing System Design and Implementation(9059)",
-      "description": "GitHub Homepage During my junior year studies, routing systems have always been the core component of web frameworks. Traditional routing implementati...",
-      "url": "https://dev.to/member_8c78b76f/high-performance-routing-system-design-and-implementation9059-c11",
-      "date": "2025-07-23T06:05:51.000Z",
+      "title": "Day 11: How to Create Animated Spinners Using Tailwind CSS",
+      "description": "Welcome to Day 11 of 15 Days of Tailwind Tips As we get deeper into this series, we’re now shifting from layout and styling basics into micro-interact...",
+      "url": "https://dev.to/ruqaiya_beguwala/day-11-how-to-create-animated-spinners-using-tailwind-css-4d69",
+      "date": "2025-07-24T06:18:42.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "programming",
-        "rust"
+        "tailwindcss",
+        "ui"
       ],
-      "readTime": "30 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Choosing a financial charting library for your trading app: 7 things to look for",
-      "description": "If you're building a trading app, we don’t need to give you the spiel about how important the charting component is. You will already know that if it ...",
-      "url": "https://dev.to/devexperts/choosing-a-financial-charting-library-for-your-trading-app-7-things-to-look-for-4436",
-      "date": "2025-07-23T05:36:18.000Z",
+      "title": "Turning Ideas Into Apps: Mobile App Development for Startups",
+      "description": "In today’s digital-first world, the right mobile app can turn an innovative idea into a thriving startup. From ride-sharing to food delivery, many of ...",
+      "url": "https://dev.to/vrindasharma/turning-ideas-into-apps-mobile-app-development-for-startups-31po",
+      "date": "2025-07-24T06:14:57.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -131,6 +116,51 @@
         "css"
       ],
       "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Implementing Real-Time Notifications in Laravel with Laravel Reverb and Pusher",
+      "description": "Real-time notifications enhance user experience by delivering instant updates without requiring page refreshes. In this article, we'll walk through th...",
+      "url": "https://dev.to/muhammmad_nawaz_d8ba895e1/implementing-real-time-notifications-in-laravel-with-laravel-reverb-and-pusher-2ob7",
+      "date": "2025-07-24T06:14:17.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "programming",
+        "tutorial"
+      ],
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "An Holistic Framework for Shared Design Leadership",
+      "description": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design pro...",
+      "url": "\n\t\t\t\t\thttps://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/\t\t\t\t",
+      "date": "2025-07-23T14:10:22.000Z",
+      "category": "Web Dev",
+      "source": "A List Apart",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "A First Look at the Interest Invoker API (for Hover-Triggered Popovers)",
+      "description": "Chrome 139 is experimenting with Open UI’s proposed Interest Invoker API, which would be used to create tooltips, hover menus, hover cards, quick acti...",
+      "url": "https://css-tricks.com/a-first-look-at-the-interest-invoker-api-for-hover-triggered-popovers/",
+      "date": "2025-07-23T12:36:48.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "interestinvokerapi",
+        "popover"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -224,21 +254,6 @@
       "priority": 2
     },
     {
-      "title": "What I Took From the State of Dev 2025 Survey",
-      "description": "State of Devs 2025 survey results are out! Sunkanmi Fafowora highlights a few key results about diversity, health, and salaries. What I Took From the ...",
-      "url": "https://css-tricks.com/what-i-took-from-the-state-of-dev-2025-survey/",
-      "date": "2025-07-16T12:54:14.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "opinion",
-        "survey"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Design Patterns For AI Interfaces",
       "description": "Designing a new AI feature? Where do you even begin? Here’s a simple, practical overview with useful design patterns for better AI experiences....",
       "url": "https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/",
@@ -266,21 +281,6 @@
         "css"
       ],
       "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "User Research Is Storytelling",
-      "description": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an act...",
-      "url": "\n\t\t\t\t\thttps://alistapart.com/article/user-research-is-storytelling/\t\t\t\t",
-      "date": "2024-05-30T18:04:43.000Z",
-      "category": "Web Dev",
-      "source": "A List Apart",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "14 min read",
       "priority": 2
     }
   ]
