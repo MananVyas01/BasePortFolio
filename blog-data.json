@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-24T06:33:54.299Z",
+  "lastUpdated": "2025-07-25T06:33:50.568Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "A List Apart",
     "CSS-Tricks",
+    "A List Apart",
     "Smashing Magazine"
   ],
   "posts": [
+    {
+      "title": "How to streamline GitHub API calls in Azure Pipelines",
+      "description": "Build a custom Azure DevOps extension that eliminates the complexity of JWT generation and token management, enabling powerful automation and enhanced...",
+      "url": "https://github.blog/enterprise-software/ci-cd/how-to-streamline-github-api-calls-in-azure-pipelines/",
+      "date": "2025-07-24T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "automation",
+        "cicd",
+        "company"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Solving the inference problem for open source AI projects with GitHub Models",
       "description": "How using GitHub’s free inference API can make your AI-powered open source software more accessible. The post Solving the inference problem for open s...",
@@ -59,78 +74,78 @@
       "priority": 1
     },
     {
-      "title": "GitHub Availability Report: June 2025",
-      "description": "In June, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: June 2025 a...",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-june-2025/",
-      "date": "2025-07-16T21:06:17.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "companynews",
-        "newsinsights",
-        "githubavailabilityreport"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "What is a paper capacitor?",
-      "description": "Paper capacitors are one of the fundamental types of capacitors. Usually, in capacitors, conductive materials are separated by dielectrics. Based on v...",
-      "url": "https://dev.to/jingyun_cai_38872bff5f4ed/what-is-a-paper-capacitor-5ci6",
-      "date": "2025-07-24T06:18:43.000Z",
+      "title": "🚀 Modern Intranet Dashboard UI Built for the Axero Frontend Challenge",
+      "description": "This is a submission for Frontend Challenge: Office Edition sponsored by Axero, Holistic Webdev: Office Space I built a modern, responsive, and intera...",
+      "url": "https://dev.to/hadil/modern-intranet-dashboard-ui-built-for-the-axero-frontend-challenge-2am8",
+      "date": "2025-07-25T06:20:01.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Day 11: How to Create Animated Spinners Using Tailwind CSS",
-      "description": "Welcome to Day 11 of 15 Days of Tailwind Tips As we get deeper into this series, we’re now shifting from layout and styling basics into micro-interact...",
-      "url": "https://dev.to/ruqaiya_beguwala/day-11-how-to-create-animated-spinners-using-tailwind-css-4d69",
-      "date": "2025-07-24T06:18:42.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "tailwindcss",
-        "ui"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "Turning Ideas Into Apps: Mobile App Development for Startups",
-      "description": "In today’s digital-first world, the right mobile app can turn an innovative idea into a thriving startup. From ride-sharing to food delivery, many of ...",
-      "url": "https://dev.to/vrindasharma/turning-ideas-into-apps-mobile-app-development-for-startups-31po",
-      "date": "2025-07-24T06:14:57.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
+        "devchallenge",
+        "frontendchallenge",
         "css"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Implementing Real-Time Notifications in Laravel with Laravel Reverb and Pusher",
-      "description": "Real-time notifications enhance user experience by delivering instant updates without requiring page refreshes. In this article, we'll walk through th...",
-      "url": "https://dev.to/muhammmad_nawaz_d8ba895e1/implementing-real-time-notifications-in-laravel-with-laravel-reverb-and-pusher-2ob7",
-      "date": "2025-07-24T06:14:17.000Z",
+      "title": "I think there is no better time than now",
+      "description": "So I Quit $200k Job To Write A Framework Alex ・ Jul 24 #webdev #backend #frontend #go...",
+      "url": "https://dev.to/derstruct/i-think-there-is-no-better-time-than-now-5dp6",
+      "date": "2025-07-25T06:17:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "programming",
-        "tutorial"
+        "backend",
+        "frontend"
       ],
-      "readTime": "9 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "6 Real-World Web Attacks Stopped by SafeLine WAF",
+      "description": "Modern web applications are under constant attack — from bot-driven SQL injections to stealthy file upload exploits. This report highlights six common...",
+      "url": "https://dev.to/sharon_42e16b8da44dabde6d/6-real-world-web-attacks-stopped-by-safeline-waf-1836",
+      "date": "2025-07-25T06:14:57.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "cybersecurity",
+        "webdev",
+        "safeline"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Reclaiming Engineering Ownership: A Hands-On Guide to Bare-Metal Cloud",
+      "description": "Introduction I decided to write this after diving into the ongoing conversation around learned helplessness in software engineering. This is something...",
+      "url": "https://dev.to/joojodontoh/reclaiming-engineering-ownership-a-hands-on-guide-to-bare-metal-cloud-1b8f",
+      "date": "2025-07-25T06:13:05.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "19 min read",
+      "priority": 2
+    },
+    {
+      "title": "Atomic Design Certification Course",
+      "description": "Brad Frost introduced the “Atomic Design” concept wayyyy back in 2013. He even wrote a book on it. And we all took notice, because that term has been ...",
+      "url": "https://css-tricks.com/atomic-design-certification-course/",
+      "date": "2025-07-24T16:16:30.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "links",
+        "designsystems",
+        "education"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -219,21 +234,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Getting Clarity on Apple’s Liquid Glass",
-      "description": "Gathered notes on Liquid Glass, Apple’s new design language that was introduced at WWDC 2025. These links are a choice selection of posts and resource...",
-      "url": "https://css-tricks.com/getting-clarity-on-apples-liquid-glass/",
-      "date": "2025-07-17T13:23:52.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "notes",
-        "apple",
-        "designsystems"
       ],
       "readTime": "1 min read",
       "priority": 2
