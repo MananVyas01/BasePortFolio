@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-25T06:33:50.568Z",
+  "lastUpdated": "2025-07-26T06:30:44.735Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
+    "Smashing Magazine",
     "CSS-Tricks",
-    "A List Apart",
-    "Smashing Magazine"
+    "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How to build secure and scalable remote MCP servers",
+      "description": "More context can mean more attack surfaces for your projects. Be prepared for what lies ahead with this guide. The post How to build secure and scalab...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/",
+      "date": "2025-07-25T17:12:02.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "aiagents"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How to streamline GitHub API calls in Azure Pipelines",
       "description": "Build a custom Azure DevOps extension that eliminates the complexity of JWT generation and token management, enabling powerful automation and enhanced...",
@@ -59,70 +74,55 @@
       "priority": 1
     },
     {
-      "title": "Debugging UI with AI: GitHub Copilot agent mode meets MCP servers",
-      "description": "Explore how I use agentic tools like GitHub Copilot agent mode and the Playwright MCP server to accelerate troubleshooting and debugging of UI issues,...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/debugging-ui-with-ai-github-copilot-agent-mode-meets-mcp-servers/",
-      "date": "2025-07-22T21:58:35.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "agentmode"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "🚀 Modern Intranet Dashboard UI Built for the Axero Frontend Challenge",
-      "description": "This is a submission for Frontend Challenge: Office Edition sponsored by Axero, Holistic Webdev: Office Space I built a modern, responsive, and intera...",
-      "url": "https://dev.to/hadil/modern-intranet-dashboard-ui-built-for-the-axero-frontend-challenge-2am8",
-      "date": "2025-07-25T06:20:01.000Z",
+      "title": "Assign Users to Teams and Queues in Power Automate Using Perform a Bound Action",
+      "description": "In one of my recent projects, I built a canvas-based Security App to streamline user access management in Dynamics 365 CE. As part of this solution, I...",
+      "url": "https://dev.to/nikhildynamicsce/assign-users-to-teams-and-queues-in-power-automate-using-perform-a-bound-action-3k8d",
+      "date": "2025-07-26T06:13:39.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "css"
+        "powerapps",
+        "powerplatform",
+        "microsoft"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "I think there is no better time than now",
-      "description": "So I Quit $200k Job To Write A Framework Alex ・ Jul 24 #webdev #backend #frontend #go...",
-      "url": "https://dev.to/derstruct/i-think-there-is-no-better-time-than-now-5dp6",
-      "date": "2025-07-25T06:17:31.000Z",
+      "title": "Is Everything in JavaScript an Object?",
+      "description": "While this is a well-known phrase among JS developers, it’s not utterly true. JavaScript has two main categories of data types: 1️⃣. Primitive Types –...",
+      "url": "https://dev.to/codebyturkan/is-everything-in-javascript-an-object-32k",
+      "date": "2025-07-26T06:11:27.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "programming",
         "webdev",
-        "backend",
-        "frontend"
+        "javascript"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "6 Real-World Web Attacks Stopped by SafeLine WAF",
-      "description": "Modern web applications are under constant attack — from bot-driven SQL injections to stealthy file upload exploits. This report highlights six common...",
-      "url": "https://dev.to/sharon_42e16b8da44dabde6d/6-real-world-web-attacks-stopped-by-safeline-waf-1836",
-      "date": "2025-07-25T06:14:57.000Z",
+      "title": "Visualize Like a Pro: Unlocking the Power of Matplotlib in Python",
+      "description": "In today's data-driven world, visual storytelling is more crucial than ever. Whether you’re a data scientist, analyst, or someone just stepping into t...",
+      "url": "https://dev.to/rishabhtpt/visualize-like-a-pro-unlocking-the-power-of-matplotlib-in-python-5d23",
+      "date": "2025-07-26T06:10:42.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "cybersecurity",
-        "webdev",
-        "safeline"
+        "matplotlib",
+        "programming",
+        "python"
       ],
-      "readTime": "2 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Reclaiming Engineering Ownership: A Hands-On Guide to Bare-Metal Cloud",
-      "description": "Introduction I decided to write this after diving into the ongoing conversation around learned helplessness in software engineering. This is something...",
-      "url": "https://dev.to/joojodontoh/reclaiming-engineering-ownership-a-hands-on-guide-to-bare-metal-cloud-1b8f",
-      "date": "2025-07-25T06:13:05.000Z",
+      "title": "Beyond the Click: The Rise of Autonomous Software Testing in 2025",
+      "description": "In the ever-evolving digital landscape of 2025, where applications undergo weekly updates and user expectations reach unprecedented heights, software ...",
+      "url": "https://dev.to/vaibhavkuls/beyond-the-click-the-rise-of-autonomous-software-testing-in-2025-3l17",
+      "date": "2025-07-26T06:10:06.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -130,7 +130,37 @@
         "javascript",
         "css"
       ],
-      "readTime": "19 min read",
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Designing Better UX For Left-Handed People",
+      "description": "Today, roughly 10% of people are left-handed. Yet most products — digital and physical — aren’t designed with it in mind. Let’s change that. More desi...",
+      "url": "https://smashingmagazine.com/2025/07/designing-better-ux-left-handed-people/",
+      "date": "2025-07-25T15:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "How to Discover a CSS Trick",
+      "description": "Do we invent or discover CSS tricks? Lee Meyer discusses how creative limitations, recursive thinking, and unexpected combinations lead to his most in...",
+      "url": "https://css-tricks.com/how-to-discover-a-css-trick/",
+      "date": "2025-07-25T13:48:36.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "inspiration",
+        "webdev"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -209,21 +239,6 @@
       "priority": 2
     },
     {
-      "title": "Getting Creative With Versal Letters",
-      "description": "A versal letters is a typographic flourish found in illuminated manuscripts and traditional book design, where it adds visual interest and helps guide...",
-      "url": "https://css-tricks.com/getting-creative-with-versal-letters/",
-      "date": "2025-07-18T16:12:05.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "initialletter",
-        "inspiration"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Why Non-Native Content Designers Improve Global UX",
       "description": "Ensuring your product communicates clearly to a global audience is not just about localisation. Even for products that have a proper localisation proc...",
       "url": "https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/",
@@ -243,21 +258,6 @@
       "description": "Learn why flip phones still matter in 2025, and how you can build and launch web apps for these tiny devices....",
       "url": "https://smashingmagazine.com/2025/07/tiny-screens-big-impact-developing-web-apps-feature-phones/",
       "date": "2025-07-16T15:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Design Patterns For AI Interfaces",
-      "description": "Designing a new AI feature? Where do you even begin? Here’s a simple, practical overview with useful design patterns for better AI experiences....",
-      "url": "https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/",
-      "date": "2025-07-14T15:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
