@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-27T06:31:03.102Z",
+  "lastUpdated": "2025-07-28T06:35:27.952Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,61 +74,61 @@
       "priority": 1
     },
     {
-      "title": "💾 Mastering Mount Points: Your Guide to Linux Filesystem Management! ✨",
-      "description": "Hey there, Linux adventurers! 👋 Ever plugged in a USB drive and wondered how your system \"sees\" it? Or perhaps you've pondered how different storage ...",
-      "url": "https://dev.to/sahillearninglinux/mastering-mount-points-your-guide-to-linux-filesystem-management-m13",
-      "date": "2025-07-27T06:19:24.000Z",
+      "title": "Voice of Voiceless - Enabling the Voiceless to Communicate",
+      "description": "This is a submission for the AssemblyAI Voice Agents Challenge This is a submission for the AssemblyAI Voice Agents Challenge Project Overview Challen...",
+      "url": "https://dev.to/mohamednizzad/voice-of-voiceless-enabling-the-voiceless-to-communicate-1ejp",
+      "date": "2025-07-28T06:18:48.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "linux",
-        "devops",
-        "redhat"
+        "devchallenge",
+        "assemblyaichallenge",
+        "ai"
       ],
-      "readTime": "7 min read",
+      "readTime": "20 min read",
       "priority": 2
     },
     {
-      "title": "Database Locking Explained: Ensuring Integrity While Impacting Performance in Co",
-      "description": "Introduction: The Necessity of Locking in Database Systems In the intricate world of database management systems (DBMS), the ability to support multip...",
-      "url": "https://dev.to/adityabhuyan/database-locking-explained-ensuring-integrity-while-impacting-performance-in-concurrent-systems-275i",
-      "date": "2025-07-27T06:18:32.000Z",
+      "title": "Code Reviewing Copilot in Power Automate",
+      "description": "I still remember the first time I saw Power Automate Copilot, it was at the Power Platform Conference back in 2023, back then it had random compose an...",
+      "url": "https://dev.to/wyattdave/code-reviewing-copilot-in-power-automate-410d",
+      "date": "2025-07-28T06:08:50.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "database",
-        "lock",
-        "concurrent"
+        "githubcopilot",
+        "powerautomate",
+        "powerplatform"
       ],
-      "readTime": "12 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Why Every Engineer Needs Professional-Grade Electrical Tapes (and Where to Get T",
-      "description": "⚡ Whether you're an embedded systems developer, a server room manager, or an IoT hobbyist — choosing the right tape could literally mean the differenc...",
-      "url": "https://dev.to/khaled_salman_ed43b93a1ae/why-every-engineer-needs-professional-grade-electrical-tapes-and-where-to-get-them-3fp6",
-      "date": "2025-07-27T06:16:40.000Z",
+      "title": "Use Algolia MCP Server & VSCode GitHub Copilot to Submit Unique Projects in Dev ",
+      "description": "This is a submission for the Algolia MCP Server Challenge Recently I've found myself participating in quite some Dev Challenges. I'm Loving it! Howeve...",
+      "url": "https://dev.to/fm/use-algolia-mcp-server-vscode-github-copilot-to-submit-unique-projects-in-dev-challenges-3ph1",
+      "date": "2025-07-28T06:03:05.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "tapes",
-        "webdev",
-        "javascript"
+        "devchallenge",
+        "algoliachallenge",
+        "webdev"
       ],
-      "readTime": "3 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "How to Protect Yourself From Malicious Links: A Complete Guide",
-      "description": "Always verify links before clicking In today's digital world, malicious links are one of the most common cybersecurity threats. Whether through email,...",
-      "url": "https://dev.to/freedom_coder/how-to-protect-yourself-from-malicious-links-a-complete-guide-2ma2",
-      "date": "2025-07-27T06:15:28.000Z",
+      "title": "Intradash - Dashboard + Bento Builder",
+      "description": "This is a submission for Frontend Challenge: Office Edition sponsored by Axero, Holistic Webdev: Office Space Intradash is a webapp dashboard with wid...",
+      "url": "https://dev.to/schemetastic/intradash-dashboard-bento-builder-3c60",
+      "date": "2025-07-28T05:59:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "cybersecurity",
-        "phishing",
-        "malicious"
+        "devchallenge",
+        "frontendchallenge",
+        "css"
       ],
       "readTime": "2 min read",
       "priority": 2
