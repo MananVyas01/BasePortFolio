@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-28T06:35:27.952Z",
+  "lastUpdated": "2025-07-29T06:34:04.751Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Scaling for impact: How GitHub Copilot supercharges smallholder farmers",
+      "description": "Empowering 10 million farm families by 2030 to generate $1 billion in new revenue. How GitHub helps One Acre Fund’s mission — driving real impact acro...",
+      "url": "https://github.blog/open-source/social-impact/scaling-for-impact-how-github-copilot-supercharges-smallholder-farmers/",
+      "date": "2025-07-28T19:53:32.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "opensource",
+        "socialimpact",
+        "githubcopilot"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How to build secure and scalable remote MCP servers",
       "description": "More context can mean more attack surfaces for your projects. Be prepared for what lies ahead with this guide. The post How to build secure and scalab...",
@@ -59,78 +74,93 @@
       "priority": 1
     },
     {
-      "title": "We need a European Sovereign Tech Fund",
-      "description": "Open source software is critical infrastructure, but it’s underfunded. With a new feasibility study, GitHub’s developer policy team is building a coal...",
-      "url": "https://github.blog/open-source/maintainers/we-need-a-european-sovereign-tech-fund/",
-      "date": "2025-07-23T07:01:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "maintainers",
-        "newsinsights",
-        "opensource"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Voice of Voiceless - Enabling the Voiceless to Communicate",
-      "description": "This is a submission for the AssemblyAI Voice Agents Challenge This is a submission for the AssemblyAI Voice Agents Challenge Project Overview Challen...",
-      "url": "https://dev.to/mohamednizzad/voice-of-voiceless-enabling-the-voiceless-to-communicate-1ejp",
-      "date": "2025-07-28T06:18:48.000Z",
+      "title": "Why LLM Memory Still Fails - A Field Guide for Builders",
+      "description": "It's an open secret that despite the immense power of Large Language Models, the AI revolution hasn’t swept through every industry and not for lack of...",
+      "url": "https://dev.to/isaachagoel/why-llm-memory-still-fails-a-field-guide-for-builders-3d78",
+      "date": "2025-07-29T06:20:57.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devchallenge",
-        "assemblyaichallenge",
-        "ai"
+        "ai",
+        "machinelearning",
+        "programming"
       ],
-      "readTime": "20 min read",
+      "readTime": "15 min read",
       "priority": 2
     },
     {
-      "title": "Code Reviewing Copilot in Power Automate",
-      "description": "I still remember the first time I saw Power Automate Copilot, it was at the Power Platform Conference back in 2023, back then it had random compose an...",
-      "url": "https://dev.to/wyattdave/code-reviewing-copilot-in-power-automate-410d",
-      "date": "2025-07-28T06:08:50.000Z",
+      "title": "Supabase vs AWS: Feature 🔖 and Pricing 💰 Comparison (2025)",
+      "description": "When comparing Supabase and AWS, the key question isn't just about raw features, it's about how much functionality you get per dollar and how easily y...",
+      "url": "https://dev.to/bytebase/supabase-vs-aws-feature-and-pricing-comparison-2025-16id",
+      "date": "2025-07-29T06:20:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "githubcopilot",
-        "powerautomate",
-        "powerplatform"
+        "aws",
+        "supabase",
+        "database"
       ],
-      "readTime": "6 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "Use Algolia MCP Server & VSCode GitHub Copilot to Submit Unique Projects in Dev ",
-      "description": "This is a submission for the Algolia MCP Server Challenge Recently I've found myself participating in quite some Dev Challenges. I'm Loving it! Howeve...",
-      "url": "https://dev.to/fm/use-algolia-mcp-server-vscode-github-copilot-to-submit-unique-projects-in-dev-challenges-3ph1",
-      "date": "2025-07-28T06:03:05.000Z",
+      "title": "Understanding DBMS: A Beginner's Guide to Databases and Their Management",
+      "description": "In today’s digital age, data is everything. Whether you're shopping online, using a social media app, or booking a flight, you’re interacting with sys...",
+      "url": "https://dev.to/rishabhtpt/understanding-dbms-a-beginners-guide-to-databases-and-their-management-8o9",
+      "date": "2025-07-29T06:13:41.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devchallenge",
-        "algoliachallenge",
-        "webdev"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "Intradash - Dashboard + Bento Builder",
-      "description": "This is a submission for Frontend Challenge: Office Edition sponsored by Axero, Holistic Webdev: Office Space Intradash is a webapp dashboard with wid...",
-      "url": "https://dev.to/schemetastic/intradash-dashboard-bento-builder-3c60",
-      "date": "2025-07-28T05:59:00.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
+        "webdev",
+        "javascript",
         "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "What’s the Most Underrated Use of AI You’ve Seen (or Built) That Actually Solves",
+      "description": "Click to read more about this interesting tech topic...",
+      "url": "https://dev.to/iamsachin/whats-the-most-underrated-use-of-ai-youve-seen-or-built-that-actually-solves-a-real-problem-43c8",
+      "date": "2025-07-29T06:13:09.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "ai",
+        "productivity"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Making a Masonry Layout That Works Today",
+      "description": "I went on to figure out how make masonry work today with other browsers. I'm happy to report I've found a way — and, bonus! — that support can be prov...",
+      "url": "https://css-tricks.com/making-a-masonry-layout-that-works-today/",
+      "date": "2025-07-28T12:42:16.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "layout",
+        "masonry"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Web Components: Working With Shadow DOM",
+      "description": "Web Components are more than just Custom Elements. Shadow DOM, HTML Templates, and Custom Elements each play a role. In this article, Russell Beswick ...",
+      "url": "https://smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/",
+      "date": "2025-07-28T08:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -209,21 +239,6 @@
       "priority": 2
     },
     {
-      "title": "A Primer on Focus Trapping",
-      "description": "Focus trapping is about managing focus within an element, such that focus always stays within it. The whole process sounds simple in theory, but it ca...",
-      "url": "https://css-tricks.com/a-primer-on-focus-trapping/",
-      "date": "2025-07-21T13:14:17.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "accessibility",
-        "javascript"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Handling JavaScript Event Listeners With Parameters",
       "description": "Event listeners are essential for interactivity in JavaScript, but they can quietly cause memory leaks if not removed properly. And what if your event...",
       "url": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
@@ -243,21 +258,6 @@
       "description": "Ensuring your product communicates clearly to a global audience is not just about localisation. Even for products that have a proper localisation proc...",
       "url": "https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/",
       "date": "2025-07-18T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Tiny Screens, Big Impact: The Forgotten Art Of Developing Web Apps For Feature P",
-      "description": "Learn why flip phones still matter in 2025, and how you can build and launch web apps for these tiny devices....",
-      "url": "https://smashingmagazine.com/2025/07/tiny-screens-big-impact-developing-web-apps-feature-phones/",
-      "date": "2025-07-16T15:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
