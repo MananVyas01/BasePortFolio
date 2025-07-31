@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-30T06:35:12.114Z",
+  "lastUpdated": "2025-07-31T06:33:53.382Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "A practical guide on how to use the GitHub MCP server",
+      "description": "Upgrade from a local MCP Docker image to GitHub’s hosted server and automate pull requests, continuous integration, and security triage in minutes — n...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/a-practical-guide-on-how-to-use-the-github-mcp-server/",
+      "date": "2025-07-30T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "aiagents"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "From first commits to big ships: Tune into our new open source podcast",
       "description": "Introducing the brand new GitHub Podcast: A show dedicated to the topics, trends, stories, and culture in and around the open source developer communi...",
@@ -59,78 +74,93 @@
       "priority": 1
     },
     {
-      "title": "How to streamline GitHub API calls in Azure Pipelines",
-      "description": "Build a custom Azure DevOps extension that eliminates the complexity of JWT generation and token management, enabling powerful automation and enhanced...",
-      "url": "https://github.blog/enterprise-software/ci-cd/how-to-streamline-github-api-calls-in-azure-pipelines/",
-      "date": "2025-07-24T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "Tracking, Security, and Control: What the Referer Header Tells You",
+      "description": "When managing a website, there's one question we constantly ask ourselves: \"Where are these visitors coming from?\" Did they find us through Google? Cl...",
+      "url": "https://dev.to/ellapark/tracking-security-and-control-what-the-referer-header-tells-you-3ghj",
+      "date": "2025-07-31T06:15:41.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "automation",
-        "cicd",
-        "company"
+        "webdev",
+        "productivity",
+        "webdev"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "The Evolution of React Exposure Tracking Components: A Frontend Engineer's Journ",
+      "description": "🚀 Discover 100+ powerful React Hooks possibilities! Visit www.reactuse.com for comprehensive documentation with MCP (Model Context Protocol) support,...",
+      "url": "https://dev.to/childrentime/the-evolution-of-react-exposure-tracking-components-a-frontend-engineers-journey-from-chaos-to-24b",
+      "date": "2025-07-31T06:14:19.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "react",
+        "frontend",
+        "webdev"
+      ],
+      "readTime": "10 min read",
+      "priority": 2
+    },
+    {
+      "title": ". isn't needed at the end of ALT attributes",
+      "description": "Don't have to use . at the end of ALT and META descriptions especially if: It’s a short, or sentence fragment. You want to keep it punchy and search–f...",
+      "url": "https://dev.to/devy/-isnt-needed-at-the-end-of-alt-attributes-52cf",
+      "date": "2025-07-31T06:00:57.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "html",
+        "seo",
+        "web"
       ],
       "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "🔮 Top 5 Future-Proof Tech Skills Every Developer Should Learn",
-      "description": "🔮 Top 5 Future-Proof Tech Skills Every Developer Should Learn Stay relevant. Stay unstoppable. Technology evolves fast — but some skills stay evergre...",
-      "url": "https://dev.to/pjdeveloper896/top-5-future-proof-tech-skills-every-developer-should-learn-3a5m",
-      "date": "2025-07-30T06:18:47.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "programming",
-        "ai",
-        "cybersecurity"
-      ],
-      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Take Control: Manage Hybrid Cloud Environment Using Azure Arc",
-      "description": "Managing a hybrid cloud environment has become increasingly challenging as businesses expand their digital presence. Today's organizations run workloa...",
-      "url": "https://dev.to/testree/take-control-manage-hybrid-cloud-environment-using-azure-arc-1m5l",
-      "date": "2025-07-30T05:59:06.000Z",
+      "title": "Charlex WebOS",
+      "description": "Charlex Web OS This project is a frontend web application that acts like a real operating system based on the web. A modern Chrome browser is all you ...",
+      "url": "https://dev.to/pyshwaa/charlex-webos-13hd",
+      "date": "2025-07-31T05:48:12.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "cloud",
-        "azure",
-        "programming"
+        "frontend",
+        "css",
+        "html"
       ],
-      "readTime": "5 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Best Translation Software for PC",
-      "description": "Want to find the best translation software for PC computers? Before you begin to sift through a long list of PC-supported CAT (Computer-Assisted Trans...",
-      "url": "https://dev.to/colinreed/best-translation-software-for-pc-35ci",
-      "date": "2025-07-30T05:56:52.000Z",
+      "title": "Keeping Article Demos Alive When Third-Party APIs Die",
+      "description": "Is there a way to build demos that do not break when the services they rely on fail? How can we ensure educational demos stay available for as long as...",
+      "url": "https://css-tricks.com/keeping-article-demos-alive-when-third-party-apis-die/",
+      "date": "2025-07-30T13:21:05.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "ai",
-        "translation",
-        "translationtools"
+        "articles",
+        "api",
+        "thirdparty"
       ],
-      "readTime": "11 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "bbb",
-      "description": "import json from datetime import datetime import ast import pandas as pd import plotly.express as px import plotly.graph_objects as go import streamli...",
-      "url": "https://dev.to/armaankhan8270/bbb-14h",
-      "date": "2025-07-30T05:50:44.000Z",
+      "title": "The Core Model: Start FROM The Answer, Not WITH The Solution",
+      "description": "The Core Model is a practical methodology that flips traditional digital development on its head. Instead of starting with solutions or structure, we ...",
+      "url": "https://smashingmagazine.com/2025/07/core-model-start-from-answer-not-solution/",
+      "date": "2025-07-30T13:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
         "javascript",
         "css"
       ],
-      "readTime": "42 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -224,40 +254,10 @@
       "priority": 2
     },
     {
-      "title": "A First Look at the Interest Invoker API (for Hover-Triggered Popovers)",
-      "description": "Chrome 139 is experimenting with Open UI’s proposed Interest Invoker API, which would be used to create tooltips, hover menus, hover cards, quick acti...",
-      "url": "https://css-tricks.com/a-first-look-at-the-interest-invoker-api-for-hover-triggered-popovers/",
-      "date": "2025-07-23T12:36:48.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "interestinvokerapi",
-        "popover"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Handling JavaScript Event Listeners With Parameters",
       "description": "Event listeners are essential for interactivity in JavaScript, but they can quietly cause memory leaks if not removed properly. And what if your event...",
       "url": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
       "date": "2025-07-21T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Why Non-Native Content Designers Improve Global UX",
-      "description": "Ensuring your product communicates clearly to a global audience is not just about localisation. Even for products that have a proper localisation proc...",
-      "url": "https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/",
-      "date": "2025-07-18T13:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
