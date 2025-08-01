@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-31T06:33:53.382Z",
+  "lastUpdated": "2025-08-01T06:35:00.059Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Onboarding your AI peer programmer: Setting up GitHub Copilot coding agent for s",
+      "description": "Learn how to configure Copilot coding agent’s environment, optimize project structure, use custom instructions, and extend its capabilities with MCP s...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/onboarding-your-ai-peer-programmer-setting-up-github-copilot-coding-agent-for-success/",
+      "date": "2025-07-31T17:12:43.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "agenticworkflows"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "A practical guide on how to use the GitHub MCP server",
       "description": "Upgrade from a local MCP Docker image to GitHub’s hosted server and automate pull requests, continuous integration, and security triage in minutes — n...",
@@ -59,76 +74,76 @@
       "priority": 1
     },
     {
-      "title": "How to build secure and scalable remote MCP servers",
-      "description": "More context can mean more attack surfaces for your projects. Be prepared for what lies ahead with this guide. The post How to build secure and scalab...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/",
-      "date": "2025-07-25T17:12:02.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "How Gamers Like You Are Making Money in 2025",
+      "description": "Let’s be real — the days of being told that gaming is a waste of time are long gone.,, In 2025, gaming has turned into a legit hustle. Whether you're ...",
+      "url": "https://dev.to/layer_spire/how-gamers-like-you-are-making-money-in-2025-4n0l",
+      "date": "2025-08-01T06:20:15.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "aiml",
-        "generativeai",
-        "aiagents"
+        "ai",
+        "money",
+        "gaming"
       ],
       "readTime": "1 min read",
-      "priority": 1
+      "priority": 2
     },
     {
-      "title": "Tracking, Security, and Control: What the Referer Header Tells You",
-      "description": "When managing a website, there's one question we constantly ask ourselves: \"Where are these visitors coming from?\" Did they find us through Google? Cl...",
-      "url": "https://dev.to/ellapark/tracking-security-and-control-what-the-referer-header-tells-you-3ghj",
-      "date": "2025-07-31T06:15:41.000Z",
+      "title": "Cross-datasource JOIN：SPL Lightweight Multisource Mixed Computation Practice #6",
+      "description": "Mixed computations between different structure data coming from multiple sources are more commonly seen. One example is the analysis involving differe...",
+      "url": "https://dev.to/esproc_spl/cross-datasource-joinspl-lightweight-multisource-mixed-computation-practice-6-4fm8",
+      "date": "2025-08-01T06:18:54.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "database",
+        "software",
+        "devops"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "How Startups Interview React Freelancers: Lessons From My Experience",
+      "description": "How Startups Interview React Freelancers A deep dive into my experience as the sole developer in a startup tasked with interviewing React freelancers ...",
+      "url": "https://dev.to/iamritikbhardwaj/how-startups-interview-react-freelancers-lessons-from-my-experience-30bi",
+      "date": "2025-08-01T06:17:14.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "productivity",
-        "webdev"
+        "javascript",
+        "css"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Naming Conventions in React: camelCase or snake_case?",
+      "description": "What we use as our naming convention often goes back to the language we are using and the preferences of the team we are working within. In JavaScript...",
+      "url": "https://dev.to/westernal/naming-conventions-in-react-camelcase-vs-snakecase-g5c",
+      "date": "2025-08-01T06:05:56.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "discuss",
+        "react"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "The Evolution of React Exposure Tracking Components: A Frontend Engineer's Journ",
-      "description": "🚀 Discover 100+ powerful React Hooks possibilities! Visit www.reactuse.com for comprehensive documentation with MCP (Model Context Protocol) support,...",
-      "url": "https://dev.to/childrentime/the-evolution-of-react-exposure-tracking-components-a-frontend-engineers-journey-from-chaos-to-24b",
-      "date": "2025-07-31T06:14:19.000Z",
+      "title": "Stories Of August (2025 Wallpapers Edition)",
+      "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. The wallpapers are designed with love by the ...",
+      "url": "https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/",
+      "date": "2025-07-31T11:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
-        "react",
-        "frontend",
-        "webdev"
-      ],
-      "readTime": "10 min read",
-      "priority": 2
-    },
-    {
-      "title": ". isn't needed at the end of ALT attributes",
-      "description": "Don't have to use . at the end of ALT and META descriptions especially if: It’s a short, or sentence fragment. You want to keep it punchy and search–f...",
-      "url": "https://dev.to/devy/-isnt-needed-at-the-end-of-alt-attributes-52cf",
-      "date": "2025-07-31T06:00:57.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "html",
-        "seo",
-        "web"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Charlex WebOS",
-      "description": "Charlex Web OS This project is a frontend web application that acts like a real operating system based on the web. A modern Chrome browser is all you ...",
-      "url": "https://dev.to/pyshwaa/charlex-webos-13hd",
-      "date": "2025-07-31T05:48:12.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "frontend",
-        "css",
-        "html"
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -251,21 +266,6 @@
         "css"
       ],
       "readTime": "9 min read",
-      "priority": 2
-    },
-    {
-      "title": "Handling JavaScript Event Listeners With Parameters",
-      "description": "Event listeners are essential for interactivity in JavaScript, but they can quietly cause memory leaks if not removed properly. And what if your event...",
-      "url": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
-      "date": "2025-07-21T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
       "priority": 2
     },
     {
