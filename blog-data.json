@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-01T06:35:00.059Z",
+  "lastUpdated": "2025-08-02T06:30:05.823Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,40 +74,40 @@
       "priority": 1
     },
     {
-      "title": "How Gamers Like You Are Making Money in 2025",
-      "description": "Let’s be real — the days of being told that gaming is a waste of time are long gone.,, In 2025, gaming has turned into a legit hustle. Whether you're ...",
-      "url": "https://dev.to/layer_spire/how-gamers-like-you-are-making-money-in-2025-4n0l",
-      "date": "2025-08-01T06:20:15.000Z",
+      "title": "YAML: A Beginner’s Introduction",
+      "description": "YAML (Yet Another Markup Language or YAML Ain’t Markup Language) is a human-readable data serialization standard that’s commonly used for configuratio...",
+      "url": "https://dev.to/nisal_sashmitha/yaml-a-beginners-introduction-42k0",
+      "date": "2025-08-02T06:17:37.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "money",
-        "gaming"
+        "beginners",
+        "yaml",
+        "webdev"
       ],
-      "readTime": "1 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Cross-datasource JOIN：SPL Lightweight Multisource Mixed Computation Practice #6",
-      "description": "Mixed computations between different structure data coming from multiple sources are more commonly seen. One example is the analysis involving differe...",
-      "url": "https://dev.to/esproc_spl/cross-datasource-joinspl-lightweight-multisource-mixed-computation-practice-6-4fm8",
-      "date": "2025-08-01T06:18:54.000Z",
+      "title": "Core Concepts in Web3",
+      "description": "Preface As a senior front-end developer in the Web2 world, I am transitioning into web3 recently. Although I have heard many times about blockchain, w...",
+      "url": "https://dev.to/loading_blocks/core-concepts-in-web3-46na",
+      "date": "2025-08-02T06:17:21.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "database",
-        "software",
-        "devops"
+        "web3",
+        "blockchain",
+        "webdev"
       ],
-      "readTime": "6 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "How Startups Interview React Freelancers: Lessons From My Experience",
-      "description": "How Startups Interview React Freelancers A deep dive into my experience as the sole developer in a startup tasked with interviewing React freelancers ...",
-      "url": "https://dev.to/iamritikbhardwaj/how-startups-interview-react-freelancers-lessons-from-my-experience-30bi",
-      "date": "2025-08-01T06:17:14.000Z",
+      "title": "Arch Linux - How To Get Volume On Screen Display with XFCE Desktop Environment",
+      "description": "This is a very common scenario on Arch Linux, especially if you're not using a full-featured desktop environment like GNOME or KDE Plasma. On Arch, th...",
+      "url": "https://dev.to/harry_tanama_51571ebf90b6/arch-linux-how-to-get-volume-on-screen-display-with-xfce-desktop-environment-4468",
+      "date": "2025-08-02T06:15:47.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -115,22 +115,22 @@
         "javascript",
         "css"
       ],
-      "readTime": "3 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Naming Conventions in React: camelCase or snake_case?",
-      "description": "What we use as our naming convention often goes back to the language we are using and the preferences of the team we are working within. In JavaScript...",
-      "url": "https://dev.to/westernal/naming-conventions-in-react-camelcase-vs-snakecase-g5c",
-      "date": "2025-08-01T06:05:56.000Z",
+      "title": "Prototype Design Pattern in Java: Clone Like a Pro!",
+      "description": "Introduction Have you ever found yourself writing the same object instantiation logic over and over again — just to get similar copies with minor diff...",
+      "url": "https://dev.to/priyankbhardwaj1199/prototype-design-pattern-in-java-clone-like-a-pro-36o7",
+      "date": "2025-08-02T06:09:51.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "discuss",
-        "react"
+        "java",
+        "designpatterns",
+        "prototype"
       ],
-      "readTime": "2 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
