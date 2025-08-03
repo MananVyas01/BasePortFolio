@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-02T06:30:05.823Z",
+  "lastUpdated": "2025-08-03T06:30:21.266Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,40 +74,40 @@
       "priority": 1
     },
     {
-      "title": "YAML: A Beginner’s Introduction",
-      "description": "YAML (Yet Another Markup Language or YAML Ain’t Markup Language) is a human-readable data serialization standard that’s commonly used for configuratio...",
-      "url": "https://dev.to/nisal_sashmitha/yaml-a-beginners-introduction-42k0",
-      "date": "2025-08-02T06:17:37.000Z",
+      "title": "✨ Building a Simple AI Prompt Keeper (with Bootstrap 5 + Alpine.js)",
+      "description": "🧭 Introduction Hey there 👋 As someone who often leans more on the introverted and quiet side of things, I usually keep a lot of ideas and helpful to...",
+      "url": "https://dev.to/adit/building-a-simple-ai-prompt-keeper-with-bootstrap-5-alpinejs-4dbj",
+      "date": "2025-08-03T06:18:30.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "beginners",
-        "yaml",
-        "webdev"
+        "webdev",
+        "ai",
+        "buildinpublic"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Building a Modern Blog with Claude Code: From Concept to Deployment",
+      "description": "As a Senior Software Engineer, I'm always exploring new tools and workflows that can accelerate development without compromising quality. Recently, I ...",
+      "url": "https://dev.to/aziar/building-a-modern-blog-with-claude-code-from-concept-to-deployment-11jl",
+      "date": "2025-08-03T06:16:02.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "nextjs",
+        "supabase",
+        "vibecoding"
       ],
       "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Core Concepts in Web3",
-      "description": "Preface As a senior front-end developer in the Web2 world, I am transitioning into web3 recently. Although I have heard many times about blockchain, w...",
-      "url": "https://dev.to/loading_blocks/core-concepts-in-web3-46na",
-      "date": "2025-08-02T06:17:21.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "web3",
-        "blockchain",
-        "webdev"
-      ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "Arch Linux - How To Get Volume On Screen Display with XFCE Desktop Environment",
-      "description": "This is a very common scenario on Arch Linux, especially if you're not using a full-featured desktop environment like GNOME or KDE Plasma. On Arch, th...",
-      "url": "https://dev.to/harry_tanama_51571ebf90b6/arch-linux-how-to-get-volume-on-screen-display-with-xfce-desktop-environment-4468",
-      "date": "2025-08-02T06:15:47.000Z",
+      "title": "Dart Lesson 7: Object-oriented (Part 1) - Basic concepts of classes and objects",
+      "description": "Starting today, we'll dive into Object-Oriented Programming (OOP). OOP is a core concept in modern programming languages, and Dart, being a purely obj...",
+      "url": "https://dev.to/jige2025/dart-lesson-7-object-oriented-part-1-basic-concepts-of-classes-and-objects-14k7",
+      "date": "2025-08-03T06:13:55.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -115,22 +115,22 @@
         "javascript",
         "css"
       ],
-      "readTime": "4 min read",
+      "readTime": "8 min read",
       "priority": 2
     },
     {
-      "title": "Prototype Design Pattern in Java: Clone Like a Pro!",
-      "description": "Introduction Have you ever found yourself writing the same object instantiation logic over and over again — just to get similar copies with minor diff...",
-      "url": "https://dev.to/priyankbhardwaj1199/prototype-design-pattern-in-java-clone-like-a-pro-36o7",
-      "date": "2025-08-02T06:09:51.000Z",
+      "title": "Earl Bagaikan Bahasa yang Nabi Sulaiman Berkomunikasi dengan Semut",
+      "description": "Teks ini beberapa dibuat oleh hasil generasi AI Tahukah kalian kisah Nabi Sulaiman yang tertulis di dalam Q.S. An-Naml: 18-19 menceritakan kisah Nabi ...",
+      "url": "https://dev.to/dev_nazwashabrina/earl-bagaikan-bahasa-yang-nabi-sulaiman-berkomunikasi-dengan-semut-4a34",
+      "date": "2025-08-03T06:10:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "java",
-        "designpatterns",
-        "prototype"
+        "earl",
+        "programming",
+        "opensource"
       ],
-      "readTime": "5 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
