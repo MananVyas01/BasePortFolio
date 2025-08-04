@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-03T06:30:21.266Z",
+  "lastUpdated": "2025-08-04T06:39:53.417Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "✨ Building a Simple AI Prompt Keeper (with Bootstrap 5 + Alpine.js)",
-      "description": "🧭 Introduction Hey there 👋 As someone who often leans more on the introverted and quiet side of things, I usually keep a lot of ideas and helpful to...",
-      "url": "https://dev.to/adit/building-a-simple-ai-prompt-keeper-with-bootstrap-5-alpinejs-4dbj",
-      "date": "2025-08-03T06:18:30.000Z",
+      "title": "Setup PocketBase For Your Integration Tests with TestContainers and xUnit",
+      "description": "I've recently started writing about how I'm building PocketBase.Net in the Building PocketBase.Net Step by Step series. However, I haven't had the opp...",
+      "url": "https://dev.to/this-is-learning/setup-pocketbase-for-your-integration-tests-with-testcontainers-and-xunit-3nf9",
+      "date": "2025-08-04T06:30:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "ai",
-        "buildinpublic"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Building a Modern Blog with Claude Code: From Concept to Deployment",
-      "description": "As a Senior Software Engineer, I'm always exploring new tools and workflows that can accelerate development without compromising quality. Recently, I ...",
-      "url": "https://dev.to/aziar/building-a-modern-blog-with-claude-code-from-concept-to-deployment-11jl",
-      "date": "2025-08-03T06:16:02.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "nextjs",
-        "supabase",
-        "vibecoding"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "Dart Lesson 7: Object-oriented (Part 1) - Basic concepts of classes and objects",
-      "description": "Starting today, we'll dive into Object-Oriented Programming (OOP). OOP is a core concept in modern programming languages, and Dart, being a purely obj...",
-      "url": "https://dev.to/jige2025/dart-lesson-7-object-oriented-part-1-basic-concepts-of-classes-and-objects-14k7",
-      "date": "2025-08-03T06:13:55.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "csharp",
+        "dotnet",
+        "testing"
       ],
       "readTime": "8 min read",
       "priority": 2
     },
     {
-      "title": "Earl Bagaikan Bahasa yang Nabi Sulaiman Berkomunikasi dengan Semut",
-      "description": "Teks ini beberapa dibuat oleh hasil generasi AI Tahukah kalian kisah Nabi Sulaiman yang tertulis di dalam Q.S. An-Naml: 18-19 menceritakan kisah Nabi ...",
-      "url": "https://dev.to/dev_nazwashabrina/earl-bagaikan-bahasa-yang-nabi-sulaiman-berkomunikasi-dengan-semut-4a34",
-      "date": "2025-08-03T06:10:31.000Z",
+      "title": "The Hidden Power of Next.js 15 in Your Hands",
+      "description": "Hey to all you pioneering programmers and those striving to build the best in the web world! 😎 Next.js 15, with its new and revolutionary features, h...",
+      "url": "https://dev.to/mahdijazini/the-hidden-power-of-nextjs-15-in-your-hands-1fje",
+      "date": "2025-08-04T06:28:38.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "earl",
-        "programming",
-        "opensource"
+        "nextjs",
+        "webdev",
+        "programming"
       ],
-      "readTime": "2 min read",
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Understanding Asset Models: Why They Matter in ITAM",
+      "description": "Your company just ordered a batch of new laptops, but when they arrive, some of them are different models from those expected. IT updates the inventor...",
+      "url": "https://dev.to/teresa_tran/understanding-asset-models-why-they-matter-in-itam-154c",
+      "date": "2025-08-04T06:25:09.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "assetmodel",
+        "itam",
+        "itasset"
+      ],
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "LLMs - Embeddings 01",
+      "description": "Word Embeddings An assignment of words to numbers is called a word embedding. Consider an example, suppose we have a 2D plane and at multiple coordina...",
+      "url": "https://dev.to/bellatrix/llms-embeddings-01-17ba",
+      "date": "2025-08-04T06:18:08.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "llm",
+        "genai",
+        "learning"
+      ],
+      "readTime": "6 min read",
       "priority": 2
     },
     {
