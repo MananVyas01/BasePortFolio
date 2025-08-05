@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-04T06:39:53.417Z",
+  "lastUpdated": "2025-08-05T06:35:20.379Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Automate your project with GitHub Models in Actions",
+      "description": "Learn how to integrate AI features with GitHub Models directly in GitHub Actions workflows. The post Automate your project with GitHub Models in Actio...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/automate-your-project-with-github-models-in-actions/",
+      "date": "2025-08-04T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "automation"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Onboarding your AI peer programmer: Setting up GitHub Copilot coding agent for s",
       "description": "Learn how to configure Copilot coding agent’s environment, optimize project structure, use custom instructions, and extend its capabilities with MCP s...",
@@ -59,78 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Scaling for impact: How GitHub Copilot supercharges smallholder farmers",
-      "description": "Empowering 10 million farm families by 2030 to generate $1 billion in new revenue. How GitHub helps One Acre Fund’s mission — driving real impact acro...",
-      "url": "https://github.blog/open-source/social-impact/scaling-for-impact-how-github-copilot-supercharges-smallholder-farmers/",
-      "date": "2025-07-28T19:53:32.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "Prompts",
+      "description": "act prompt An Ethereum Developer Imagine you are an experienced Ethereum developer tasked with creating a smart contract for a blockchain messenger. T...",
+      "url": "https://dev.to/ayoubzulfiqar/prompts-pi3",
+      "date": "2025-08-05T06:18:31.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "opensource",
-        "socialimpact",
-        "githubcopilot"
+        "promptengineering",
+        "ai",
+        "webdev"
+      ],
+      "readTime": "84 min read",
+      "priority": 2
+    },
+    {
+      "title": "Optical Bonding for Embedded Displays: Enhanced Visibility and Durability",
+      "description": "Introduction Optical bonding technology has become a key focus in the development of modern LCD display modules, especially for industrial equipment, ...",
+      "url": "https://dev.to/kevinzhang109/optical-bonding-for-embedded-displays-enhanced-visibility-and-durability-3571",
+      "date": "2025-08-05T06:16:58.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "opticalbonding",
+        "tft",
+        "lcd"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "🚀 DSA: The 8-Week Grind – Join Me in This Challenge! (Week 1, Day 1 Recap)",
+      "description": "Hey Devs! 👋 Ever started a DSA roadmap and quit halfway because it felt overwhelming? I’ve been there. That’s why I decided to stop overthinking and ...",
+      "url": "https://dev.to/gouthique/dsa-the-8-week-grind-join-me-in-this-challenge-week-1-day-1-recap-k1o",
+      "date": "2025-08-05T06:11:31.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "dsa",
+        "programming",
+        "gouthamcodes"
       ],
       "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Setup PocketBase For Your Integration Tests with TestContainers and xUnit",
-      "description": "I've recently started writing about how I'm building PocketBase.Net in the Building PocketBase.Net Step by Step series. However, I haven't had the opp...",
-      "url": "https://dev.to/this-is-learning/setup-pocketbase-for-your-integration-tests-with-testcontainers-and-xunit-3nf9",
-      "date": "2025-08-04T06:30:00.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "csharp",
-        "dotnet",
-        "testing"
-      ],
-      "readTime": "8 min read",
       "priority": 2
     },
     {
-      "title": "The Hidden Power of Next.js 15 in Your Hands",
-      "description": "Hey to all you pioneering programmers and those striving to build the best in the web world! 😎 Next.js 15, with its new and revolutionary features, h...",
-      "url": "https://dev.to/mahdijazini/the-hidden-power-of-nextjs-15-in-your-hands-1fje",
-      "date": "2025-08-04T06:28:38.000Z",
+      "title": "Playing to Win: Claude Code and the Art of AI-Controlled Development",
+      "description": "AI-assisted development is often compared to pair programming, but, I think, an equally apt metaphor is a solo tennis match between a developer and an...",
+      "url": "https://dev.to/phil-whittaker/playing-to-win-claude-code-and-the-art-of-ai-controlled-development-34ag",
+      "date": "2025-08-05T06:09:01.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "nextjs",
         "webdev",
-        "programming"
+        "javascript",
+        "css"
       ],
-      "readTime": "5 min read",
+      "readTime": "13 min read",
       "priority": 2
     },
     {
-      "title": "Understanding Asset Models: Why They Matter in ITAM",
-      "description": "Your company just ordered a batch of new laptops, but when they arrive, some of them are different models from those expected. IT updates the inventor...",
-      "url": "https://dev.to/teresa_tran/understanding-asset-models-why-they-matter-in-itam-154c",
-      "date": "2025-08-04T06:25:09.000Z",
+      "title": "Thinking Deeply About Theming and Color Naming",
+      "description": "Today, I want to discuss a couple of patterns for naming color palettes that the community is using, and how I propose we can improve, so we achieve b...",
+      "url": "https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/",
+      "date": "2025-08-04T13:14:45.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "assetmodel",
-        "itam",
-        "itasset"
+        "articles",
+        "color",
+        "uiixdesign"
       ],
-      "readTime": "9 min read",
-      "priority": 2
-    },
-    {
-      "title": "LLMs - Embeddings 01",
-      "description": "Word Embeddings An assignment of words to numbers is called a word embedding. Consider an example, suppose we have a 2D plane and at multiple coordina...",
-      "url": "https://dev.to/bellatrix/llms-embeddings-01-17ba",
-      "date": "2025-08-04T06:18:08.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "llm",
-        "genai",
-        "learning"
-      ],
-      "readTime": "6 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -234,21 +249,6 @@
         "articles",
         "inspiration",
         "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Atomic Design Certification Course",
-      "description": "Brad Frost introduced the “Atomic Design” concept wayyyy back in 2013. He even wrote a book on it. And we all took notice, because that term has been ...",
-      "url": "https://css-tricks.com/atomic-design-certification-course/",
-      "date": "2025-07-24T16:16:30.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "designsystems",
-        "education"
       ],
       "readTime": "1 min read",
       "priority": 2
