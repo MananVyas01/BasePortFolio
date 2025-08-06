@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-05T06:35:20.379Z",
+  "lastUpdated": "2025-08-06T06:35:39.121Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,8 +8,8 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
@@ -74,63 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Prompts",
-      "description": "act prompt An Ethereum Developer Imagine you are an experienced Ethereum developer tasked with creating a smart contract for a blockchain messenger. T...",
-      "url": "https://dev.to/ayoubzulfiqar/prompts-pi3",
-      "date": "2025-08-05T06:18:31.000Z",
+      "title": "The Remote Development Team Playbook: How Top Startups Maintain 90%+ Productivit",
+      "description": "Three years ago, I watched a promising startup with a brilliant product idea implode. Not due to market fit issues or funding problems, but because th...",
+      "url": "https://dev.to/teamcamp/the-remote-development-team-playbook-how-top-startups-maintain-90-productivity-2bij",
+      "date": "2025-08-06T06:27:57.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "promptengineering",
-        "ai",
-        "webdev"
+        "webdev",
+        "beginners",
+        "productivity"
       ],
-      "readTime": "84 min read",
+      "readTime": "9 min read",
       "priority": 2
     },
     {
-      "title": "Optical Bonding for Embedded Displays: Enhanced Visibility and Durability",
-      "description": "Introduction Optical bonding technology has become a key focus in the development of modern LCD display modules, especially for industrial equipment, ...",
-      "url": "https://dev.to/kevinzhang109/optical-bonding-for-embedded-displays-enhanced-visibility-and-durability-3571",
-      "date": "2025-08-05T06:16:58.000Z",
+      "title": "\"SOAP 1.1 endpoint already registered\" - Spring 6 and CXF 4 Integration Issue",
+      "description": "During our recent upgrade from Spring 3 to Spring 6 while using CXF 4, we encountered a perplexing issue: SOAP 1.1 endpoint already registered on addr...",
+      "url": "https://dev.to/binbingoloo/soap-11-endpoint-already-registered-spring-6-and-cxf-4-integration-issue-bci",
+      "date": "2025-08-06T06:23:47.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "opticalbonding",
-        "tft",
-        "lcd"
+        "java",
+        "webdev",
+        "soap"
       ],
-      "readTime": "4 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "🚀 DSA: The 8-Week Grind – Join Me in This Challenge! (Week 1, Day 1 Recap)",
-      "description": "Hey Devs! 👋 Ever started a DSA roadmap and quit halfway because it felt overwhelming? I’ve been there. That’s why I decided to stop overthinking and ...",
-      "url": "https://dev.to/gouthique/dsa-the-8-week-grind-join-me-in-this-challenge-week-1-day-1-recap-k1o",
-      "date": "2025-08-05T06:11:31.000Z",
+      "title": "Zephyr RTOS: The Modern Embedded Engineer’s Guide",
+      "description": "Why Care About RTOS in Embedded Development? What Sets Zephyr RTOS Apart? Where Is Zephyr Used? Wearable tech (think smart watches, fitness bands) IoT...",
+      "url": "https://dev.to/darshan_rathod_dev/zephyr-rtos-the-modern-embedded-engineers-guide-2ih6",
+      "date": "2025-08-06T06:21:44.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "dsa",
-        "programming",
-        "gouthamcodes"
+        "zephyrrtos",
+        "freertos",
+        "opensource"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Playing to Win: Claude Code and the Art of AI-Controlled Development",
-      "description": "AI-assisted development is often compared to pair programming, but, I think, an equally apt metaphor is a solo tennis match between a developer and an...",
-      "url": "https://dev.to/phil-whittaker/playing-to-win-claude-code-and-the-art-of-ai-controlled-development-34ag",
-      "date": "2025-08-05T06:09:01.000Z",
+      "title": "Building AI-Powered Data Pipelines: Where Data Engineering Meets Machine Learnin",
+      "description": "In the age of AI, building powerful models is no longer the hardest part — getting the right data to those models is. That’s where data engineering be...",
+      "url": "https://dev.to/santosh_ronanki_9438d5944/building-ai-powered-data-pipelines-where-data-engineering-meets-machine-learning-30mc",
+      "date": "2025-08-06T06:16:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
+      "tags": [
+        "dataengineering",
+        "ai",
+        "pipelines"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "UX Job Interview Helpers",
+      "description": "Talking points. Smart questions. A compelling story. This guide helps you prepare for your UX job interview. And remember: no act of kindness, however...",
+      "url": "https://smashingmagazine.com/2025/08/ux-job-interview-helpers/",
+      "date": "2025-08-05T13:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
         "javascript",
         "css"
       ],
-      "readTime": "13 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -213,21 +228,6 @@
       "description": "Web Components are more than just Custom Elements. Shadow DOM, HTML Templates, and Custom Elements each play a role. In this article, Russell Beswick ...",
       "url": "https://smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/",
       "date": "2025-07-28T08:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Designing Better UX For Left-Handed People",
-      "description": "Today, roughly 10% of people are left-handed. Yet most products — digital and physical — aren’t designed with it in mind. Let’s change that. More desi...",
-      "url": "https://smashingmagazine.com/2025/07/designing-better-ux-left-handed-people/",
-      "date": "2025-07-25T15:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
