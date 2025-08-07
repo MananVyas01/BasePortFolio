@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-06T06:35:39.121Z",
+  "lastUpdated": "2025-08-07T06:35:17.736Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,8 +8,8 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
@@ -74,63 +74,93 @@
       "priority": 1
     },
     {
-      "title": "The Remote Development Team Playbook: How Top Startups Maintain 90%+ Productivit",
-      "description": "Three years ago, I watched a promising startup with a brilliant product idea implode. Not due to market fit issues or funding problems, but because th...",
-      "url": "https://dev.to/teamcamp/the-remote-development-team-playbook-how-top-startups-maintain-90-productivity-2bij",
-      "date": "2025-08-06T06:27:57.000Z",
+      "title": "Virtual Meetings in 2025: A Developer's Guide to Remote Meeting",
+      "description": "Virtual Meetings in 2025: A Developer's Guide to Remote Meeting Success Kruti ・ Aug 7 #webdev #productivity #beginners #programming...",
+      "url": "https://dev.to/kruti12/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-bpe",
+      "date": "2025-08-07T06:27:43.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "beginners",
-        "productivity"
-      ],
-      "readTime": "9 min read",
-      "priority": 2
-    },
-    {
-      "title": "\"SOAP 1.1 endpoint already registered\" - Spring 6 and CXF 4 Integration Issue",
-      "description": "During our recent upgrade from Spring 3 to Spring 6 while using CXF 4, we encountered a perplexing issue: SOAP 1.1 endpoint already registered on addr...",
-      "url": "https://dev.to/binbingoloo/soap-11-endpoint-already-registered-spring-6-and-cxf-4-integration-issue-bci",
-      "date": "2025-08-06T06:23:47.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "java",
-        "webdev",
-        "soap"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Zephyr RTOS: The Modern Embedded Engineer’s Guide",
-      "description": "Why Care About RTOS in Embedded Development? What Sets Zephyr RTOS Apart? Where Is Zephyr Used? Wearable tech (think smart watches, fitness bands) IoT...",
-      "url": "https://dev.to/darshan_rathod_dev/zephyr-rtos-the-modern-embedded-engineers-guide-2ih6",
-      "date": "2025-08-06T06:21:44.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "zephyrrtos",
-        "freertos",
-        "opensource"
+        "productivity",
+        "beginners"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Building AI-Powered Data Pipelines: Where Data Engineering Meets Machine Learnin",
-      "description": "In the age of AI, building powerful models is no longer the hardest part — getting the right data to those models is. That’s where data engineering be...",
-      "url": "https://dev.to/santosh_ronanki_9438d5944/building-ai-powered-data-pipelines-where-data-engineering-meets-machine-learning-30mc",
-      "date": "2025-08-06T06:16:16.000Z",
+      "title": "Virtual Meetings in 2025: A Developer's Guide to Remote Meeting Success",
+      "description": "Virtual Meetings in 2025: A Developer's Guide to Remote Meeting Success Kruti for Teamcamp ・ Aug 6 #webdev #productivity #beginners #programming...",
+      "url": "https://dev.to/kruti12/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-4clg",
+      "date": "2025-08-07T06:26:48.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "dataengineering",
-        "ai",
-        "pipelines"
+        "webdev",
+        "productivity",
+        "beginners"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Developer-First Documentation: Why 73% of Teams Fail and How to Build Docs That ",
+      "description": "Picture this: You're a new developer joining a promising startup. Your first day involves setting up the development environment. Still, the README is...",
+      "url": "https://dev.to/teamcamp/developer-first-documentation-why-73-of-teams-fail-and-how-to-build-docs-that-get-used-47am",
+      "date": "2025-08-07T06:25:32.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "productivity",
+        "learning"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "Aurora DSQL: How to Control Time",
+      "description": "In the previous article, we explored how we arrived at Amazon Aurora DSQL and why we need a database that allows consistent writes across multiple reg...",
+      "url": "https://dev.to/aws-builders/aurora-dsql-how-to-control-time-1kh5",
+      "date": "2025-08-07T06:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "11 min read",
+      "priority": 2
+    },
+    {
+      "title": "Bringing Back Parallax With Scroll-Driven CSS Animations",
+      "description": "Parallax is a pattern in which different elements of a webpage move at varying speeds as the user scrolls, creating a three-dimensional, layered appea...",
+      "url": "https://css-tricks.com/bringing-back-parallax-with-scroll-driven-css-animations/",
+      "date": "2025-08-06T13:39:06.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "animation",
+        "scrolldrivenanimation"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Automating Design Systems: Tips And Resources For Getting Started",
+      "description": "Design systems are more than style guides: they’re made up of workflows, tokens, components, and documentation — all the stuff teams rely on to build ...",
+      "url": "https://smashingmagazine.com/2025/08/automating-design-systems-tips-resources/",
+      "date": "2025-08-06T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -219,36 +249,6 @@
         "articles",
         "layout",
         "masonry"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Web Components: Working With Shadow DOM",
-      "description": "Web Components are more than just Custom Elements. Shadow DOM, HTML Templates, and Custom Elements each play a role. In this article, Russell Beswick ...",
-      "url": "https://smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/",
-      "date": "2025-07-28T08:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "How to Discover a CSS Trick",
-      "description": "Do we invent or discover CSS tricks? Lee Meyer discusses how creative limitations, recursive thinking, and unexpected combinations lead to his most in...",
-      "url": "https://css-tricks.com/how-to-discover-a-css-trick/",
-      "date": "2025-07-25T13:48:36.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "inspiration",
-        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
