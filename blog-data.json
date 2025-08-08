@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-07T06:35:17.736Z",
+  "lastUpdated": "2025-08-08T06:34:56.524Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Junior developers aren’t obsolete: Here’s how to thrive in the age of AI",
+      "description": "The role of junior developer is evolving. If you're at this stage in your career, here's how to keep up and stand out. The post Junior developers aren...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/junior-developers-arent-obsolete-heres-how-to-thrive-in-the-age-of-ai/",
+      "date": "2025-08-07T21:05:55.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "developerskills"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Automate your project with GitHub Models in Actions",
       "description": "Learn how to integrate AI features with GitHub Models directly in GitHub Actions workflows. The post Automate your project with GitHub Models in Actio...",
@@ -59,78 +74,63 @@
       "priority": 1
     },
     {
-      "title": "From first commits to big ships: Tune into our new open source podcast",
-      "description": "Introducing the brand new GitHub Podcast: A show dedicated to the topics, trends, stories, and culture in and around the open source developer communi...",
-      "url": "https://github.blog/open-source/maintainers/from-first-commits-to-big-ships-tune-into-our-new-open-source-podcast/",
-      "date": "2025-07-29T16:31:29.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "maintainers",
-        "opensource",
-        "githubpodcast"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Virtual Meetings in 2025: A Developer's Guide to Remote Meeting",
-      "description": "Virtual Meetings in 2025: A Developer's Guide to Remote Meeting Success Kruti ・ Aug 7 #webdev #productivity #beginners #programming...",
-      "url": "https://dev.to/kruti12/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-bpe",
-      "date": "2025-08-07T06:27:43.000Z",
+      "title": "setup arch + hyprland yesterday. gonna rice it up & setup docker & stuff on it~",
+      "description": "Click to read more about this interesting tech topic...",
+      "url": "https://dev.to/999satya/setup-arch-hyprland-yesterday-gonna-rice-it-up-setup-docker-stuff-on-it-52pe",
+      "date": "2025-08-08T06:32:11.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "productivity",
-        "beginners"
+        "linux",
+        "docker",
+        "productivity"
       ],
-      "readTime": "1 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Virtual Meetings in 2025: A Developer's Guide to Remote Meeting Success",
-      "description": "Virtual Meetings in 2025: A Developer's Guide to Remote Meeting Success Kruti for Teamcamp ・ Aug 6 #webdev #productivity #beginners #programming...",
-      "url": "https://dev.to/kruti12/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-4clg",
-      "date": "2025-08-07T06:26:48.000Z",
+      "title": "Generating Dynamic Avatars in Angular Using DiceBear.",
+      "description": "User interface personalization has become a cornerstone of modern web applications. https://www.dicebear.com/, you can generate custom, SVG-based avat...",
+      "url": "https://dev.to/davidongora/generating-dynamic-avatars-in-angular-using-dicebear-3npp",
+      "date": "2025-08-08T06:31:15.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "productivity",
-        "beginners"
+        "avatars",
+        "dicebear",
+        "angular"
       ],
-      "readTime": "1 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Developer-First Documentation: Why 73% of Teams Fail and How to Build Docs That ",
-      "description": "Picture this: You're a new developer joining a promising startup. Your first day involves setting up the development environment. Still, the README is...",
-      "url": "https://dev.to/teamcamp/developer-first-documentation-why-73-of-teams-fail-and-how-to-build-docs-that-get-used-47am",
-      "date": "2025-08-07T06:25:32.000Z",
+      "title": "INSTALLING NODE.JS",
+      "description": "Today i am going to tell the steps involved in installing Node.js Node.js is a free, open-source, cross-platform JavaScript runtime environment that l...",
+      "url": "https://dev.to/asran_2025/installing-nodejs-4ba0",
+      "date": "2025-08-08T05:57:06.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "react",
         "webdev",
-        "productivity",
-        "learning"
+        "javascript"
       ],
-      "readTime": "7 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Aurora DSQL: How to Control Time",
-      "description": "In the previous article, we explored how we arrived at Amazon Aurora DSQL and why we need a database that allows consistent writes across multiple reg...",
-      "url": "https://dev.to/aws-builders/aurora-dsql-how-to-control-time-1kh5",
-      "date": "2025-08-07T06:00:00.000Z",
+      "title": "Agile Unified Process (AUP): Combining Agile with Unified Modeling",
+      "description": "What if you could combine the discipline of Unified Modeling with the speed of Agile — and get the best of both worlds? Most teams either go all-in on...",
+      "url": "https://dev.to/dct_technology/agile-unified-process-aup-combining-agile-with-unified-modeling-27kk",
+      "date": "2025-08-08T05:55:05.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "agile",
+        "aup",
+        "unifiedmodeling"
       ],
-      "readTime": "11 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
