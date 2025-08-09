@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-08T06:34:56.524Z",
+  "lastUpdated": "2025-08-09T06:30:18.974Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How to use GitHub Copilot to level up your code reviews and pull requests",
+      "description": "Discover practical ways GitHub Copilot streamlines code reviews, pull requests, and daily engineering tasks with real prompts, examples, and workflow ...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-to-level-up-your-code-reviews-and-pull-requests/",
+      "date": "2025-08-08T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "codereview"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Junior developers aren’t obsolete: Here’s how to thrive in the age of AI",
       "description": "The role of junior developer is evolving. If you're at this stage in your career, here's how to keep up and stand out. The post Junior developers aren...",
@@ -59,78 +74,93 @@
       "priority": 1
     },
     {
-      "title": "A practical guide on how to use the GitHub MCP server",
-      "description": "Upgrade from a local MCP Docker image to GitHub’s hosted server and automate pull requests, continuous integration, and security triage in minutes — n...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/a-practical-guide-on-how-to-use-the-github-mcp-server/",
-      "date": "2025-07-30T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "How I Reduced ELB Access Log Analysis Time by 80% Using AWS Data Processing MCP ",
+      "description": "The other day, we had a sudden spike in requests to one of our services, which triggered a flood of ELB latency alerts. Fortunately, I had already bui...",
+      "url": "https://dev.to/aws-builders/how-i-reduced-elb-access-log-analysis-time-by-80-using-aws-data-processing-mcp-server-43co",
+      "date": "2025-08-09T06:08:12.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "aiml",
-        "generativeai",
-        "aiagents"
+        "mcp",
+        "aws",
+        "devops"
+      ],
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "Rick Beato: A Simple Twist Of Fate",
+      "description": "A Simple Twist Of Fate explores how random encounters and surprising detours set Rick Beato’s career in motion. Alongside the story, he’s offering six...",
+      "url": "https://dev.to/music_youtube/rick-beato-a-simple-twist-of-fate-42go",
+      "date": "2025-08-09T06:01:35.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "production",
+        "diy",
+        "webdev"
       ],
       "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "setup arch + hyprland yesterday. gonna rice it up & setup docker & stuff on it~",
-      "description": "Click to read more about this interesting tech topic...",
-      "url": "https://dev.to/999satya/setup-arch-hyprland-yesterday-gonna-rice-it-up-setup-docker-stuff-on-it-52pe",
-      "date": "2025-08-08T06:32:11.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "linux",
-        "docker",
-        "productivity"
-      ],
-      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Generating Dynamic Avatars in Angular Using DiceBear.",
-      "description": "User interface personalization has become a cornerstone of modern web applications. https://www.dicebear.com/, you can generate custom, SVG-based avat...",
-      "url": "https://dev.to/davidongora/generating-dynamic-avatars-in-angular-using-dicebear-3npp",
-      "date": "2025-08-08T06:31:15.000Z",
+      "title": "AWS SES with a NestJS Backend to Send Email Verifications",
+      "description": "In my latest project, I needed to set up email verification to make sure users are providing valid email addresses when signing up. To do this, I inte...",
+      "url": "https://dev.to/aws-builders/aws-ses-with-a-nestjs-backend-to-send-email-verifications-2l9h",
+      "date": "2025-08-09T05:56:33.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "avatars",
-        "dicebear",
-        "angular"
+        "backenddevelopment",
+        "nextjs",
+        "ses"
       ],
-      "readTime": "3 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "INSTALLING NODE.JS",
-      "description": "Today i am going to tell the steps involved in installing Node.js Node.js is a free, open-source, cross-platform JavaScript runtime environment that l...",
-      "url": "https://dev.to/asran_2025/installing-nodejs-4ba0",
-      "date": "2025-08-08T05:57:06.000Z",
+      "title": "Building Cursor Powered App: A Devlog Series, Powered by Cursor (Part 4) – Authe",
+      "description": "In the last few episodes of this devlog saga, we laid down the basics. From crafting our pkg utilities to sketching out the core architecture. Now it'...",
+      "url": "https://dev.to/hrnlrsyd/building-cursor-powered-app-a-devlog-series-powered-by-cursor-part-4-authentication-logic-39ag",
+      "date": "2025-08-09T05:47:14.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "react",
+        "vibecoding",
+        "go",
+        "webdev"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "How to Prepare for CSS-Specific Interview Questions",
+      "description": "Get advice answering a set of 10 CSS-related questions you likely will encounter in front-end interviews. How to Prepare for CSS-Specific Interview Qu...",
+      "url": "https://css-tricks.com/how-to-prepare-for-css-specific-interview-questions/",
+      "date": "2025-08-08T13:42:31.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "career",
+        "webdev"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "The Power Of The Intl API: A Definitive Guide To Browser-Native Internationaliza",
+      "description": "Internationalization isn’t just translation. It’s about formatting dates, pluralizing words, sorting names, and more, all according to specific locale...",
+      "url": "https://smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/",
+      "date": "2025-08-08T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
         "webdev",
-        "javascript"
+        "javascript",
+        "css"
       ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Agile Unified Process (AUP): Combining Agile with Unified Modeling",
-      "description": "What if you could combine the discipline of Unified Modeling with the speed of Agile — and get the best of both worlds? Most teams either go all-in on...",
-      "url": "https://dev.to/dct_technology/agile-unified-process-aup-combining-agile-with-unified-modeling-27kk",
-      "date": "2025-08-08T05:55:05.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "agile",
-        "aup",
-        "unifiedmodeling"
-      ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -219,36 +249,6 @@
         "articles",
         "api",
         "thirdparty"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Core Model: Start FROM The Answer, Not WITH The Solution",
-      "description": "The Core Model is a practical methodology that flips traditional digital development on its head. Instead of starting with solutions or structure, we ...",
-      "url": "https://smashingmagazine.com/2025/07/core-model-start-from-answer-not-solution/",
-      "date": "2025-07-30T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Making a Masonry Layout That Works Today",
-      "description": "I went on to figure out how make masonry work today with other browsers. I'm happy to report I've found a way — and, bonus! — that support can be prov...",
-      "url": "https://css-tricks.com/making-a-masonry-layout-that-works-today/",
-      "date": "2025-07-28T12:42:16.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "layout",
-        "masonry"
       ],
       "readTime": "1 min read",
       "priority": 2
