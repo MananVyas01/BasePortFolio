@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-09T06:30:18.974Z",
+  "lastUpdated": "2025-08-10T06:30:21.404Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "How I Reduced ELB Access Log Analysis Time by 80% Using AWS Data Processing MCP ",
-      "description": "The other day, we had a sudden spike in requests to one of our services, which triggered a flood of ELB latency alerts. Fortunately, I had already bui...",
-      "url": "https://dev.to/aws-builders/how-i-reduced-elb-access-log-analysis-time-by-80-using-aws-data-processing-mcp-server-43co",
-      "date": "2025-08-09T06:08:12.000Z",
+      "title": "🧠Kubestronaut Cloud Native Golden Way 😎",
+      "description": "🗯Kube🧢astronaut💭 🧠To earn the Kubestronaut title, you must pass the following five CNCF certifications, all of which must be valid concurrently: ✍...",
+      "url": "https://dev.to/giridharan_devops/kubestronaut-cloud-native-golden-way-2ae9",
+      "date": "2025-08-10T06:13:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "mcp",
-        "aws",
-        "devops"
-      ],
-      "readTime": "9 min read",
-      "priority": 2
-    },
-    {
-      "title": "Rick Beato: A Simple Twist Of Fate",
-      "description": "A Simple Twist Of Fate explores how random encounters and surprising detours set Rick Beato’s career in motion. Alongside the story, he’s offering six...",
-      "url": "https://dev.to/music_youtube/rick-beato-a-simple-twist-of-fate-42go",
-      "date": "2025-08-09T06:01:35.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "production",
-        "diy",
-        "webdev"
+        "cloudnative",
+        "kubernetes",
+        "containerapps"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "AWS SES with a NestJS Backend to Send Email Verifications",
-      "description": "In my latest project, I needed to set up email verification to make sure users are providing valid email addresses when signing up. To do this, I inte...",
-      "url": "https://dev.to/aws-builders/aws-ses-with-a-nestjs-backend-to-send-email-verifications-2l9h",
-      "date": "2025-08-09T05:56:33.000Z",
+      "title": "📢 Calling All Developers — We Need Your Insights",
+      "description": "Hey devs 👋, We’re running a short 3-minute survey to understand how developers work, share, and grow in today’s world. Your input will directly help ...",
+      "url": "https://dev.to/adithya-balan/calling-all-developers-we-need-your-insights-1dje",
+      "date": "2025-08-10T06:10:36.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "backenddevelopment",
-        "nextjs",
-        "ses"
+        "webdev",
+        "programming",
+        "javascript"
       ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Building Cursor Powered App: A Devlog Series, Powered by Cursor (Part 4) – Authe",
-      "description": "In the last few episodes of this devlog saga, we laid down the basics. From crafting our pkg utilities to sketching out the core architecture. Now it'...",
-      "url": "https://dev.to/hrnlrsyd/building-cursor-powered-app-a-devlog-series-powered-by-cursor-part-4-authentication-logic-39ag",
-      "date": "2025-08-09T05:47:14.000Z",
+      "title": "Challenge the world",
+      "description": "This is a submission for the Redis AI Challenge: Beyond the Cache. What I Built Demo How I Used Redis 8...",
+      "url": "https://dev.to/yunusrabiu411/challenge-the-world-k7k",
+      "date": "2025-08-10T06:06:48.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "vibecoding",
-        "go",
+        "redischallenge",
+        "devchallenge",
+        "database"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Part 12:Your First Data Project (A Step-by-Step Guide)",
+      "description": "Introduction Mini Project Steps 1.Choose a topic:Pick something you care about (e.g., your weekly spending). 2.Collect data:Write down or find data re...",
+      "url": "https://dev.to/sanaipei001/part-12your-first-data-project-a-step-by-step-guide-3knj",
+      "date": "2025-08-10T06:04:48.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "dataproject",
+        "data",
         "webdev"
       ],
-      "readTime": "5 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
