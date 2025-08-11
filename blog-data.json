@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-10T06:30:21.404Z",
+  "lastUpdated": "2025-08-11T06:34:48.326Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,40 +74,10 @@
       "priority": 1
     },
     {
-      "title": "🧠Kubestronaut Cloud Native Golden Way 😎",
-      "description": "🗯Kube🧢astronaut💭 🧠To earn the Kubestronaut title, you must pass the following five CNCF certifications, all of which must be valid concurrently: ✍...",
-      "url": "https://dev.to/giridharan_devops/kubestronaut-cloud-native-golden-way-2ae9",
-      "date": "2025-08-10T06:13:16.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "cloudnative",
-        "kubernetes",
-        "containerapps"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "📢 Calling All Developers — We Need Your Insights",
-      "description": "Hey devs 👋, We’re running a short 3-minute survey to understand how developers work, share, and grow in today’s world. Your input will directly help ...",
-      "url": "https://dev.to/adithya-balan/calling-all-developers-we-need-your-insights-1dje",
-      "date": "2025-08-10T06:10:36.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "programming",
-        "javascript"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Challenge the world",
-      "description": "This is a submission for the Redis AI Challenge: Beyond the Cache. What I Built Demo How I Used Redis 8...",
-      "url": "https://dev.to/yunusrabiu411/challenge-the-world-k7k",
-      "date": "2025-08-10T06:06:48.000Z",
+      "title": "Redis RPG - An AI Generated Game",
+      "description": "This is a submission for the Redis AI Challenge: Real-Time AI Innovators. Redis RPG ⚔️ is a multiplayer storytelling game where players can type anyth...",
+      "url": "https://dev.to/jacobhenning/redis-rpg-43fp",
+      "date": "2025-08-11T06:27:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -115,22 +85,52 @@
         "devchallenge",
         "database"
       ],
-      "readTime": "1 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Part 12:Your First Data Project (A Step-by-Step Guide)",
-      "description": "Introduction Mini Project Steps 1.Choose a topic:Pick something you care about (e.g., your weekly spending). 2.Collect data:Write down or find data re...",
-      "url": "https://dev.to/sanaipei001/part-12your-first-data-project-a-step-by-step-guide-3knj",
-      "date": "2025-08-10T06:04:48.000Z",
+      "title": "Redis RPG - An AI Generated Game",
+      "description": "This is a submission for the Redis AI Challenge: Beyond the Cache. Redis RPG ⚔️ is a multiplayer storytelling game where players can type anything 🤯 ...",
+      "url": "https://dev.to/jacobhenning/redis-rpg-4p8h",
+      "date": "2025-08-11T06:27:14.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "dataproject",
-        "data",
+        "redischallenge",
+        "devchallenge",
+        "database"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "From Cache to Complete Platform: Redis 8 as My Primary Database for AI Wellness ",
+      "description": "This is a submission for the Redis AI Challenge: Beyond the Cache What I Built I built AI Wellness Coach - a comprehensive health and fitness platform...",
+      "url": "https://dev.to/sanket80/from-cache-to-complete-platform-redis-8-as-my-primary-database-for-ai-wellness-app-4gg2",
+      "date": "2025-08-11T06:21:51.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "redischallenge",
+        "devchallenge",
+        "database"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "How to Use php substr Function Easily",
+      "description": "Ever tried cutting a slice of cake? That’s exactly what the php substr function does – but for strings! Whether you’re new to PHP or brushing up on th...",
+      "url": "https://dev.to/serveravatar/how-to-use-php-substr-function-easily-5h83",
+      "date": "2025-08-11T06:17:40.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "php",
+        "phptutorial",
         "webdev"
       ],
-      "readTime": "1 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
