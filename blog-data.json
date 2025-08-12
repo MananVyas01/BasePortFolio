@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-11T06:34:48.326Z",
+  "lastUpdated": "2025-08-12T06:32:15.111Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,35 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Securing the supply chain at scale: Starting with 71 important open source proje",
+      "description": "Learn how the GitHub Secure Open Source Fund helped 71 open source projects significantly improve their security posture through direct funding, exper...",
+      "url": "https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/",
+      "date": "2025-08-11T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "maintainers",
+        "opensource",
+        "aisecurity"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Auf Wiedersehen, GitHub ♥️",
+      "description": "tl;dr: I am stepping down as GitHub CEO to build my next adventure. GitHub is thriving and has a bright future ahead. The following is the internal po...",
+      "url": "https://github.blog/news-insights/company-news/goodbye-github/",
+      "date": "2025-08-11T14:56:37.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "companynews",
+        "newsinsights"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How to use GitHub Copilot to level up your code reviews and pull requests",
       "description": "Discover practical ways GitHub Copilot streamlines code reviews, pull requests, and daily engineering tasks with real prompts, examples, and workflow ...",
@@ -44,93 +73,108 @@
       "priority": 1
     },
     {
-      "title": "Automate your project with GitHub Models in Actions",
-      "description": "Learn how to integrate AI features with GitHub Models directly in GitHub Actions workflows. The post Automate your project with GitHub Models in Actio...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/automate-your-project-with-github-models-in-actions/",
-      "date": "2025-08-04T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "generativeai",
-        "automation"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Onboarding your AI peer programmer: Setting up GitHub Copilot coding agent for s",
-      "description": "Learn how to configure Copilot coding agent’s environment, optimize project structure, use custom instructions, and extend its capabilities with MCP s...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/onboarding-your-ai-peer-programmer-setting-up-github-copilot-coding-agent-for-success/",
-      "date": "2025-07-31T17:12:43.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "agenticworkflows"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Redis RPG - An AI Generated Game",
-      "description": "This is a submission for the Redis AI Challenge: Real-Time AI Innovators. Redis RPG ⚔️ is a multiplayer storytelling game where players can type anyth...",
-      "url": "https://dev.to/jacobhenning/redis-rpg-43fp",
-      "date": "2025-08-11T06:27:31.000Z",
+      "title": "Developing a Medication Reminder App in 2025: Key Features and Guide",
+      "description": "In today’s fast-paced world, managing health can be a challenge, especially when it comes to remembering daily medications. Whether it’s for elderly i...",
+      "url": "https://dev.to/nencywilliams/developing-a-medication-reminder-app-in-2025-key-features-and-guide-5cjc",
+      "date": "2025-08-12T06:17:48.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "redischallenge",
-        "devchallenge",
-        "database"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "6 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Redis RPG - An AI Generated Game",
-      "description": "This is a submission for the Redis AI Challenge: Beyond the Cache. Redis RPG ⚔️ is a multiplayer storytelling game where players can type anything 🤯 ...",
-      "url": "https://dev.to/jacobhenning/redis-rpg-4p8h",
-      "date": "2025-08-11T06:27:14.000Z",
+      "title": "Automated Infrastructure Provisioning with Pulumi",
+      "description": "The pace of modern software delivery demands cloud resources that appear in minutes, scale automatically, and vanish when no longer needed. Yet many o...",
+      "url": "https://dev.to/itsmekalyani/automated-infrastructure-provisioning-with-pulumi-16jf",
+      "date": "2025-08-12T06:17:03.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "redischallenge",
-        "devchallenge",
-        "database"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "From Cache to Complete Platform: Redis 8 as My Primary Database for AI Wellness ",
-      "description": "This is a submission for the Redis AI Challenge: Beyond the Cache What I Built I built AI Wellness Coach - a comprehensive health and fitness platform...",
-      "url": "https://dev.to/sanket80/from-cache-to-complete-platform-redis-8-as-my-primary-database-for-ai-wellness-app-4gg2",
-      "date": "2025-08-11T06:21:51.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "redischallenge",
-        "devchallenge",
-        "database"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "How to Use php substr Function Easily",
-      "description": "Ever tried cutting a slice of cake? That’s exactly what the php substr function does – but for strings! Whether you’re new to PHP or brushing up on th...",
-      "url": "https://dev.to/serveravatar/how-to-use-php-substr-function-easily-5h83",
-      "date": "2025-08-11T06:17:40.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "php",
-        "phptutorial",
+        "devops",
+        "certification",
         "webdev"
       ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "From Prototype to Production: Estimating the Cost of AI Scaling",
+      "description": "You have built an AI prototype that works perfectly with 100 users. But what happens when 10,000 people start using it? Scaling AI from a working prot...",
+      "url": "https://dev.to/sanjay_serviots_08ee56986/from-prototype-to-production-estimating-the-cost-of-ai-scaling-7fo",
+      "date": "2025-08-12T06:08:52.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
       "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Nested if and syntax , Debug Point and Constructor",
+      "description": "Nested if: syntax(for): syntax(while): Debug point: What is constructor? This keyword: In java, this keyword is a special reference variable that refe...",
+      "url": "https://dev.to/preethi_nandhagopal_6d075/nested-if-and-syntax-debug-point-and-constructor-3e1e",
+      "date": "2025-08-12T06:08:06.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Getting Creative With Quotes",
+      "description": "How do you design block quotes and pull quotes to reflect a brand’s visual identity and help tell its story? Here’s how I do it by styling the HTML bl...",
+      "url": "https://css-tricks.com/getting-creative-with-quotes/",
+      "date": "2025-08-11T13:43:14.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "inspiration",
+        "typography"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Stuff & Nonsense Practical Layout Workshop",
+      "description": "Web design veteran Andy Clarke is offering a two-hour workshop all about creating practical and creative page layouts this September 18. Register and ...",
+      "url": "https://css-tricks.com/stuff-nonsense-practical-layout-workshop/",
+      "date": "2025-08-11T12:16:00.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "links",
+        "education",
+        "layout"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Designing With AI, Not Around It: Practical Advanced Techniques For Product Desi",
+      "description": "Prompting isn’t just about writing better instructions, but about designing better thinking. Ilia Kanazin and Marina Chernyshova explore how advanced ...",
+      "url": "https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/",
+      "date": "2025-08-11T08:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -204,51 +248,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Thinking Deeply About Theming and Color Naming",
-      "description": "Today, I want to discuss a couple of patterns for naming color palettes that the community is using, and how I propose we can improve, so we achieve b...",
-      "url": "https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/",
-      "date": "2025-08-04T13:14:45.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "color",
-        "uiixdesign"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Stories Of August (2025 Wallpapers Edition)",
-      "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. The wallpapers are designed with love by the ...",
-      "url": "https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/",
-      "date": "2025-07-31T11:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Keeping Article Demos Alive When Third-Party APIs Die",
-      "description": "Is there a way to build demos that do not break when the services they rely on fail? How can we ensure educational demos stay available for as long as...",
-      "url": "https://css-tricks.com/keeping-article-demos-alive-when-third-party-apis-die/",
-      "date": "2025-07-30T13:21:05.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "api",
-        "thirdparty"
       ],
       "readTime": "1 min read",
       "priority": 2
