@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-13T06:32:29.816Z",
+  "lastUpdated": "2025-08-14T06:32:42.105Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,36 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "GitHub Availability Report: July 2025",
+      "description": "In July, we experienced one incident that resulted in degraded performance across GitHub services. The post GitHub Availability Report: July 2025 appe...",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2025/",
+      "date": "2025-08-13T21:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "companynews",
+        "newsinsights",
+        "githubavailabilityreport"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "From private to public: How a United Nations organization open sourced its tech ",
+      "description": "Learn how the International Telecommunication Union made the switch to open source, and how you can too! The post From private to public: How a United...",
+      "url": "https://github.blog/open-source/social-impact/from-private-to-public-how-a-united-nations-organization-open-sourced-its-tech-in-four-steps/",
+      "date": "2025-08-13T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "opensource",
+        "socialimpact",
+        "socialimpact"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Why we open sourced our MCP server, and what it means for you",
       "description": "Learn how maintainers are using the GitHub MCP Server and what they are building in this episode of the GitHub Podcast. The post Why we open sourced o...",
@@ -44,84 +74,10 @@
       "priority": 1
     },
     {
-      "title": "Auf Wiedersehen, GitHub ♥️",
-      "description": "tl;dr: I am stepping down as GitHub CEO to build my next adventure. GitHub is thriving and has a bright future ahead. The following is the internal po...",
-      "url": "https://github.blog/news-insights/company-news/goodbye-github/",
-      "date": "2025-08-11T14:56:37.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "companynews",
-        "newsinsights"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "How to use GitHub Copilot to level up your code reviews and pull requests",
-      "description": "Discover practical ways GitHub Copilot streamlines code reviews, pull requests, and daily engineering tasks with real prompts, examples, and workflow ...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-to-level-up-your-code-reviews-and-pull-requests/",
-      "date": "2025-08-08T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "codereview"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Asynchronous Programming Patterns for Web Development(1841)",
-      "description": "GitHub Homepage: https://github.com/hyperlane-dev/hyperlane My fascination with asynchronous programming began during a project where our synchronous ...",
-      "url": "https://dev.to/member_fa85c472/asynchronous-programming-patterns-for-web-development1841-1fgb",
-      "date": "2025-08-13T06:17:13.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "programming",
-        "rust"
-      ],
-      "readTime": "24 min read",
-      "priority": 2
-    },
-    {
-      "title": "Why Some Packages Like Google Sign-In or Razorpay Don’t Work in Expo — And How t",
-      "description": "If you’re building an app with React Native using Expo, you may notice some packages — like Google Sign-In or Razorpay — don’t work in the default set...",
-      "url": "https://dev.to/sathya7032/why-some-packages-like-google-sign-in-or-razorpay-dont-work-in-expo-and-how-to-fix-it-45bm",
-      "date": "2025-08-13T06:17:06.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "reactnative",
-        "android",
-        "react"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Fire and Safety Courses in kerala: Building Skills for a Safer Tomorrow",
-      "description": "Today, workplace safety is more than a requirement for compliance. It is a moral obligation and a professional responsibility for any business. As we ...",
-      "url": "https://dev.to/techshore_seo_/fire-and-safety-courses-in-kerala-building-skills-for-a-safer-tomorrow-2eb3",
-      "date": "2025-08-13T06:14:49.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "training",
-        "firesafety",
-        "courses"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Memory Matters: Boost Performance with Cache-Friendly Access 🏎️",
-      "description": "Ever declared a variable and wondered, \"Where does this actually live in my computer?\" Let's take a deep dive into the fascinating hierarchy of memory...",
-      "url": "https://dev.to/andresjcorrea/memory-mysteries-where-your-variables-actually-live-fim",
-      "date": "2025-08-13T06:12:16.000Z",
+      "title": "If You Could Call Your Childhood Self… 🎙️",
+      "description": "Have you ever wished you could pick up a phone and speak to your younger self? What would you say? My Story When I was a kid, I experienced extreme bu...",
+      "url": "https://dev.to/ethan_parkx_09fc0c31cddf/if-you-could-call-your-childhood-self-42pp",
+      "date": "2025-08-14T06:20:17.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -129,7 +85,82 @@
         "javascript",
         "css"
       ],
-      "readTime": "5 min read",
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "A hearing aid is a small electronic device designed to help people with hearing ",
+      "description": "Click to read more about this interesting tech topic...",
+      "url": "https://dev.to/vinay_kumar_a8b33d69593f4/a-hearing-aid-is-a-small-electronic-device-designed-to-help-people-with-hearing-loss-by-amplifying-30ai",
+      "date": "2025-08-14T06:18:21.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "a11y",
+        "healthtech",
+        "webdev"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "🚀 Docker & AI: A Live Panel with Docker Captains",
+      "description": "On August 14 at 5:00 PM CEST, I’ll be joining an incredible panel of Docker Captains for a live, community-led discussion on how Docker is evolving fo...",
+      "url": "https://dev.to/kristiyanvelkov/docker-ai-a-live-panel-with-docker-captains-4omg",
+      "date": "2025-08-14T06:18:08.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Building a Data Career: The Skills That Truly Matter",
+      "description": "The need for people to understand, prioritize, manage, and analyze data is not slowing down in any industry. From quick trend analyses to advanced pre...",
+      "url": "https://dev.to/dashflow/building-a-data-career-the-skills-that-truly-matter-3bcm",
+      "date": "2025-08-14T06:17:20.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "datascience",
+        "dataengineering",
+        "career"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "We Might Need Something Between Root and Relative CSS Units for “Base Elements”",
+      "description": "I've come to realize that perhaps we need to have a unit between root and relative values. This would bring about a whole new possibility when creatin...",
+      "url": "https://css-tricks.com/we-might-need-something-between-root-and-relative-css-units-for-base-elements/",
+      "date": "2025-08-13T13:24:55.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "css",
+        "cssfunctions"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "From Line To Layout: How Past Experiences Shape Your Design Career",
+      "description": "Your past shapes who you are as a designer, no matter where your career began or how unexpected your career path may have been. Stephanie Campbell sho...",
+      "url": "https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/",
+      "date": "2025-08-13T11:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -193,21 +224,6 @@
       "priority": 2
     },
     {
-      "title": "How to Prepare for CSS-Specific Interview Questions",
-      "description": "Get advice answering a set of 10 CSS-related questions you likely will encounter in front-end interviews. How to Prepare for CSS-Specific Interview Qu...",
-      "url": "https://css-tricks.com/how-to-prepare-for-css-specific-interview-questions/",
-      "date": "2025-08-08T13:42:31.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "career",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "The Power Of The Intl API: A Definitive Guide To Browser-Native Internationaliza",
       "description": "Internationalization isn’t just translation. It’s about formatting dates, pluralizing words, sorting names, and more, all according to specific locale...",
       "url": "https://smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/",
@@ -227,21 +243,6 @@
       "description": "Design systems are more than style guides: they’re made up of workflows, tokens, components, and documentation — all the stuff teams rely on to build ...",
       "url": "https://smashingmagazine.com/2025/08/automating-design-systems-tips-resources/",
       "date": "2025-08-06T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "UX Job Interview Helpers",
-      "description": "Talking points. Smart questions. A compelling story. This guide helps you prepare for your UX job interview. And remember: no act of kindness, however...",
-      "url": "https://smashingmagazine.com/2025/08/ux-job-interview-helpers/",
-      "date": "2025-08-05T13:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
