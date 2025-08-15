@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-14T06:32:42.105Z",
+  "lastUpdated": "2025-08-15T06:32:03.089Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,35 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "GPT-5 in GitHub Copilot: How I built a game in 60 seconds",
+      "description": "How GitHub's new MCP server and GPT-5 are revolutionizing developer workflows — with live build examples. The post GPT-5 in GitHub Copilot: How I buil...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/gpt-5-in-github-copilot-how-i-built-a-game-in-60-seconds/",
+      "date": "2025-08-14T16:30:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Q1 2025 Innovation Graph update: Bar chart races, data visualization on the rise",
+      "description": "Discover the latest trends and insights on public software development activity on GitHub with the quarterly release of data for the Innovation Graph,...",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2025-innovation-graph-update-bar-chart-races-data-visualization-on-the-rise-and-key-research/",
+      "date": "2025-08-14T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "newsinsights",
+        "policy",
+        "innovationgraph"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "GitHub Availability Report: July 2025",
       "description": "In July, we experienced one incident that resulted in degraded performance across GitHub services. The post GitHub Availability Report: July 2025 appe...",
@@ -44,40 +73,40 @@
       "priority": 1
     },
     {
-      "title": "Why we open sourced our MCP server, and what it means for you",
-      "description": "Learn how maintainers are using the GitHub MCP Server and what they are building in this episode of the GitHub Podcast. The post Why we open sourced o...",
-      "url": "https://github.blog/open-source/maintainers/why-we-open-sourced-our-mcp-server-and-what-it-means-for-you/",
-      "date": "2025-08-12T13:52:49.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "Practice #4: Large Primary-Subtable Join：A Lightweight Solution to Speed up Quer",
+      "description": "This section focuses on the speed-up of primary key-based joins. The association between the primary table (orders) and its subtable (details) is prim...",
+      "url": "https://dev.to/esproc_spl/practice-4-large-primary-subtable-joina-lightweight-solution-to-speed-up-queries-by-dumping-data-4g0i",
+      "date": "2025-08-15T06:19:55.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "maintainers",
-        "opensource",
-        "githubpodcast"
+        "sql",
+        "programming",
+        "devops"
       ],
-      "readTime": "1 min read",
-      "priority": 1
+      "readTime": "4 min read",
+      "priority": 2
     },
     {
-      "title": "Securing the supply chain at scale: Starting with 71 important open source proje",
-      "description": "Learn how the GitHub Secure Open Source Fund helped 71 open source projects significantly improve their security posture through direct funding, exper...",
-      "url": "https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/",
-      "date": "2025-08-11T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "A Simple Guide to Creating, Pushing & Pulling Your First Repository\"",
+      "description": "** Why do we need git first? ** The main thing is that it is used to track our daily progress from day one, making it more consistent. Version control...",
+      "url": "https://dev.to/manikandan_a8f99e0153ef77/a-simple-guide-to-creating-pushing-pulling-your-first-repository-pbh",
+      "date": "2025-08-15T06:13:18.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "maintainers",
-        "opensource",
-        "aisecurity"
+        "git",
+        "developer",
+        "programming"
       ],
-      "readTime": "1 min read",
-      "priority": 1
+      "readTime": "2 min read",
+      "priority": 2
     },
     {
-      "title": "If You Could Call Your Childhood Self… 🎙️",
-      "description": "Have you ever wished you could pick up a phone and speak to your younger self? What would you say? My Story When I was a kid, I experienced extreme bu...",
-      "url": "https://dev.to/ethan_parkx_09fc0c31cddf/if-you-could-call-your-childhood-self-42pp",
-      "date": "2025-08-14T06:20:17.000Z",
+      "title": "STM8S105S6T6C – High-Performance 8-bit Microcontroller for Embedded Applications",
+      "description": "In embedded system design, reliable and versatile microcontrollers are essential for managing a wide range of devices efficiently. The STM8S105S6T6C i...",
+      "url": "https://dev.to/xecor_company/stm8s105s6t6c-high-performance-8-bit-microcontroller-for-embedded-applications-40c",
+      "date": "2025-08-15T06:13:14.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -89,48 +118,33 @@
       "priority": 2
     },
     {
-      "title": "A hearing aid is a small electronic device designed to help people with hearing ",
-      "description": "Click to read more about this interesting tech topic...",
-      "url": "https://dev.to/vinay_kumar_a8b33d69593f4/a-hearing-aid-is-a-small-electronic-device-designed-to-help-people-with-hearing-loss-by-amplifying-30ai",
-      "date": "2025-08-14T06:18:21.000Z",
+      "title": "🔭 OpenTelemetry in Action on Kubernetes: Part 9 - Cluster-Level Observability w",
+      "description": "Welcome to the grand finale of our observability series! So far, we’ve added visibility into our application through logs, metrics, and traces — all f...",
+      "url": "https://dev.to/kartikdudeja21/opentelemetry-in-action-on-kubernetes-part-9-cluster-level-observability-with-opentelemetry-3d5p",
+      "date": "2025-08-15T06:10:22.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "a11y",
-        "healthtech",
-        "webdev"
+        "opentelemetry",
+        "kubernetes",
+        "observability"
       ],
-      "readTime": "3 min read",
+      "readTime": "9 min read",
       "priority": 2
     },
     {
-      "title": "🚀 Docker & AI: A Live Panel with Docker Captains",
-      "description": "On August 14 at 5:00 PM CEST, I’ll be joining an incredible panel of Docker Captains for a live, community-led discussion on how Docker is evolving fo...",
-      "url": "https://dev.to/kristiyanvelkov/docker-ai-a-live-panel-with-docker-captains-4omg",
-      "date": "2025-08-14T06:18:08.000Z",
+      "title": "On Accessibility Conformance, Design Systems, and CSS “Base” Units",
+      "description": "My brain can’t help but try to make connections between seemingly disparate ideas. And that’s what happened yesterday when I read: Hidde’s “Can compon...",
+      "url": "https://css-tricks.com/on-accessibility-conformance-design-systems-and-css-base-units/",
+      "date": "2025-08-14T13:10:11.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "articles",
+        "accessibility",
+        "designsystems"
       ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Building a Data Career: The Skills That Truly Matter",
-      "description": "The need for people to understand, prioritize, manage, and analyze data is not slowing down in any industry. From quick trend analyses to advanced pre...",
-      "url": "https://dev.to/dashflow/building-a-data-career-the-skills-that-truly-matter-3bcm",
-      "date": "2025-08-14T06:17:20.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "datascience",
-        "dataengineering",
-        "career"
-      ],
-      "readTime": "6 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -189,21 +203,6 @@
         "articles",
         "inspiration",
         "typography"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Stuff & Nonsense Practical Layout Workshop",
-      "description": "Web design veteran Andy Clarke is offering a two-hour workshop all about creating practical and creative page layouts this September 18. Register and ...",
-      "url": "https://css-tricks.com/stuff-nonsense-practical-layout-workshop/",
-      "date": "2025-08-11T12:16:00.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "education",
-        "layout"
       ],
       "readTime": "1 min read",
       "priority": 2
