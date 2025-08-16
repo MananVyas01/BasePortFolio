@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-15T06:32:03.089Z",
+  "lastUpdated": "2025-08-16T06:28:58.686Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,8 +8,8 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
@@ -73,40 +73,40 @@
       "priority": 1
     },
     {
-      "title": "Practice #4: Large Primary-Subtable Join：A Lightweight Solution to Speed up Quer",
-      "description": "This section focuses on the speed-up of primary key-based joins. The association between the primary table (orders) and its subtable (details) is prim...",
-      "url": "https://dev.to/esproc_spl/practice-4-large-primary-subtable-joina-lightweight-solution-to-speed-up-queries-by-dumping-data-4g0i",
-      "date": "2025-08-15T06:19:55.000Z",
+      "title": "Secure, Self-Hosted AI Code Review Powered by Ollama",
+      "description": "Over the last year, you've probably seen a wave of AI tools promising to make code review faster. Platforms like CodeRabbit, CodeAnt, and even GitHub ...",
+      "url": "https://dev.to/shrsv/secure-self-hosted-ai-code-review-powered-by-ollama-2p55",
+      "date": "2025-08-16T06:21:05.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "sql",
         "programming",
-        "devops"
+        "ai",
+        "productivity"
       ],
-      "readTime": "4 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "A Simple Guide to Creating, Pushing & Pulling Your First Repository\"",
-      "description": "** Why do we need git first? ** The main thing is that it is used to track our daily progress from day one, making it more consistent. Version control...",
-      "url": "https://dev.to/manikandan_a8f99e0153ef77/a-simple-guide-to-creating-pushing-pulling-your-first-repository-pbh",
-      "date": "2025-08-15T06:13:18.000Z",
+      "title": "Discovering yle.fi: What I Found",
+      "description": "Discovering yle.fi: What I Found Here's what I discovered while exploring yle.fi I recently came across yle.fi and wanted to share my experience. Whil...",
+      "url": "https://dev.to/peruspuurtaja_46b7053dff1/discovering-ylefi-what-i-found-4ndh",
+      "date": "2025-08-16T06:07:50.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "git",
-        "developer",
-        "programming"
+        "discovery",
+        "web",
+        "experience"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "STM8S105S6T6C – High-Performance 8-bit Microcontroller for Embedded Applications",
-      "description": "In embedded system design, reliable and versatile microcontrollers are essential for managing a wide range of devices efficiently. The STM8S105S6T6C i...",
-      "url": "https://dev.to/xecor_company/stm8s105s6t6c-high-performance-8-bit-microcontroller-for-embedded-applications-40c",
-      "date": "2025-08-15T06:13:14.000Z",
+      "title": "Vanilla JavaScript and JavaScript Frameworks",
+      "description": "JavaScript is a crucial programming language for web development, offering a wide range of capabilities for creating dynamic and interactive websites....",
+      "url": "https://dev.to/hazrat-ali9/vanilla-javascript-and-javascript-frameworks-33pa",
+      "date": "2025-08-16T06:00:21.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -114,22 +114,67 @@
         "javascript",
         "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "🔭 OpenTelemetry in Action on Kubernetes: Part 9 - Cluster-Level Observability w",
-      "description": "Welcome to the grand finale of our observability series! So far, we’ve added visibility into our application through logs, metrics, and traces — all f...",
-      "url": "https://dev.to/kartikdudeja21/opentelemetry-in-action-on-kubernetes-part-9-cluster-level-observability-with-opentelemetry-3d5p",
-      "date": "2025-08-15T06:10:22.000Z",
+      "title": "🌍 Google Maps Platform Awards 2025",
+      "description": "This year marks 20 years of mapping innovation with the Google Maps Platform Awards, celebrating projects that push the boundaries of what’s possible ...",
+      "url": "https://dev.to/kavyatrivedi/google-maps-platform-awards-2025-261o",
+      "date": "2025-08-16T05:58:55.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "opentelemetry",
-        "kubernetes",
-        "observability"
+        "webdev",
+        "google",
+        "beginners"
       ],
-      "readTime": "9 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "The Psychology Of Color In UX Design And Digital Products",
+      "description": "Rodolpho Henrique guides you through the essential aspects of color in digital design and user experience, from the practical steps of creating effect...",
+      "url": "https://smashingmagazine.com/2025/08/psychology-color-ux-design-digital-products/",
+      "date": "2025-08-15T15:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Covering hidden=until-found",
+      "description": "Short story: Slapping hidden=until-found on an element in HTML enables any hidden content within the element to be findable in the browser with in-pag...",
+      "url": "https://css-tricks.com/covering-hiddenuntil-found/",
+      "date": "2025-08-15T12:55:36.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "accessibility",
+        "attributes"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "A Few Things About the Anchor Element’s href You Might Not Have Known",
+      "description": "It's easy to take URL superpowers for granted, even if you already have these patterns under your belt. A Few Things About the Anchor Element’s href Y...",
+      "url": "https://css-tricks.com/a-few-things-about-the-anchor-elements-href-you-might-not-have-known/",
+      "date": "2025-08-15T12:26:00.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "links",
+        "html",
+        "linksurls"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -178,36 +223,6 @@
       "priority": 2
     },
     {
-      "title": "CSS-Questions",
-      "description": "CSS-Questions is a mini site where you can test your CSS knowledge with over 100 questions. CSS-Questions originally published on CSS-Tricks, which is...",
-      "url": "https://css-tricks.com/css-questions/",
-      "date": "2025-08-12T15:02:21.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "education",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Getting Creative With Quotes",
-      "description": "How do you design block quotes and pull quotes to reflect a brand’s visual identity and help tell its story? Here’s how I do it by styling the HTML bl...",
-      "url": "https://css-tricks.com/getting-creative-with-quotes/",
-      "date": "2025-08-11T13:43:14.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "inspiration",
-        "typography"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Designing With AI, Not Around It: Practical Advanced Techniques For Product Desi",
       "description": "Prompting isn’t just about writing better instructions, but about designing better thinking. Ilia Kanazin and Marina Chernyshova explore how advanced ...",
       "url": "https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/",
@@ -227,21 +242,6 @@
       "description": "Internationalization isn’t just translation. It’s about formatting dates, pluralizing words, sorting names, and more, all according to specific locale...",
       "url": "https://smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/",
       "date": "2025-08-08T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Automating Design Systems: Tips And Resources For Getting Started",
-      "description": "Design systems are more than style guides: they’re made up of workflows, tokens, components, and documentation — all the stuff teams rely on to build ...",
-      "url": "https://smashingmagazine.com/2025/08/automating-design-systems-tips-resources/",
-      "date": "2025-08-06T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
