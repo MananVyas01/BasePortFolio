@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-16T06:28:58.686Z",
+  "lastUpdated": "2025-08-17T06:29:49.856Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,40 +73,25 @@
       "priority": 1
     },
     {
-      "title": "Secure, Self-Hosted AI Code Review Powered by Ollama",
-      "description": "Over the last year, you've probably seen a wave of AI tools promising to make code review faster. Platforms like CodeRabbit, CodeAnt, and even GitHub ...",
-      "url": "https://dev.to/shrsv/secure-self-hosted-ai-code-review-powered-by-ollama-2p55",
-      "date": "2025-08-16T06:21:05.000Z",
+      "title": "مدیریت پروژه چابک در عمل: ۷ درسی که هر تیم توسعه باید بدونه",
+      "description": "در دنیای پرشتاب توسعه نرم‌افزار، «چابکی» یا Agile دیگر یک انتخاب لوکس نیست، بلکه یک ضرورت استراتژیک است. همه ما داستان تیم‌هایی را شنیده‌ایم که با پذی...",
+      "url": "https://dev.to/parizad/mdyryt-prwjh-chbkh-dr-ml-7-drsy-khh-hr-tym-twsh-byd-bdwnh-2b0a",
+      "date": "2025-08-17T06:06:55.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "development",
         "programming",
-        "ai",
         "productivity"
       ],
-      "readTime": "7 min read",
+      "readTime": "11 min read",
       "priority": 2
     },
     {
-      "title": "Discovering yle.fi: What I Found",
-      "description": "Discovering yle.fi: What I Found Here's what I discovered while exploring yle.fi I recently came across yle.fi and wanted to share my experience. Whil...",
-      "url": "https://dev.to/peruspuurtaja_46b7053dff1/discovering-ylefi-what-i-found-4ndh",
-      "date": "2025-08-16T06:07:50.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "discovery",
-        "web",
-        "experience"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Vanilla JavaScript and JavaScript Frameworks",
-      "description": "JavaScript is a crucial programming language for web development, offering a wide range of capabilities for creating dynamic and interactive websites....",
-      "url": "https://dev.to/hazrat-ali9/vanilla-javascript-and-javascript-frameworks-33pa",
-      "date": "2025-08-16T06:00:21.000Z",
+      "title": "Handling Async State with useRecoilValueLoadable and useRecoilStateLoadable in R",
+      "description": "When working with asynchronous selectors or atom families in Recoil, the UI may need to handle multiple states of the async data: Loading (before the ...",
+      "url": "https://dev.to/safal_bhandari/handling-async-state-with-userecoilvalueloadable-and-userecoilstateloadable-in-recoil-4a3",
+      "date": "2025-08-17T06:05:10.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -114,22 +99,37 @@
         "javascript",
         "css"
       ],
-      "readTime": "4 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "🌍 Google Maps Platform Awards 2025",
-      "description": "This year marks 20 years of mapping innovation with the Google Maps Platform Awards, celebrating projects that push the boundaries of what’s possible ...",
-      "url": "https://dev.to/kavyatrivedi/google-maps-platform-awards-2025-261o",
-      "date": "2025-08-16T05:58:55.000Z",
+      "title": "HTTP Request Processing with Zero-Copy Optimization(0857)",
+      "description": "GitHub Homepage: https://github.com/hyperlane-dev/hyperlane During my advanced systems programming course, I became obsessed with understanding how da...",
+      "url": "https://dev.to/ltpp_universe/http-request-processing-with-zero-copy-optimization0857-51c2",
+      "date": "2025-08-17T06:05:03.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "google",
-        "beginners"
+        "programming",
+        "rust"
       ],
-      "readTime": "1 min read",
+      "readTime": "13 min read",
+      "priority": 2
+    },
+    {
+      "title": "Technical SEO: Best Practices for Site Speed and Indexing",
+      "description": "Competition in the digital world is fierce, and to survive in this competition, the speed of your website and proper indexing are very important. The ...",
+      "url": "https://dev.to/mdkawsharul_islamroyal_/technical-seo-best-practices-for-site-speed-and-indexing-3jco",
+      "date": "2025-08-17T06:04:24.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "2 min read",
       "priority": 2
     },
     {
