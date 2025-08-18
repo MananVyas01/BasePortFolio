@@ -3,17 +3,17 @@
 🚀 **Full Stack Developer & AI Enthusiast**
 
 ## 📊 Quick Stats
-- 🌟 **7** total stars
+- 🌟 **11** total stars
 - 📦 **26** public repositories  
 - 👥 **12** followers
 
 ## 🔥 Latest Projects
 
-- **[BasePortFolio](https://github.com/MananVyas01/BasePortFolio)** - This repo contains my Temp PortFolioWebSite built using HTML/CSS with the twist of Github Actions(See The Magic). 
-- **[ForeverClass](https://github.com/MananVyas01/ForeverClass)** - No description 
-- **[DevScope](https://github.com/MananVyas01/DevScope)** - 🚀 An all-in-one productivity tracker for developers. Track coding activity, analyze focus patterns, visualize GitHub contributions, and get AI-powered workflow insights — locally, privately, and beautifully. ⭐ 2
-- **[OdooThon](https://github.com/MananVyas01/OdooThon)** - No description ⭐ 1
-- **[portfolio-website](https://github.com/MananVyas01/portfolio-website)** - My personal portfolio website showcasing projects, skills, resume, and blog — built with passion, powered by modern web technologies. 
+- **[BasePortFolio](https://github.com/MananVyas01/BasePortFolio)** - This repo contains my Temp PortFolioWebSite built using HTML/CSS with the twist of Github Actions(See The Magic). ⭐ 1
+- **[tensorflow-forked](https://github.com/MananVyas01/tensorflow-forked)** - An Open Source Machine Learning Framework for Everyone ⭐ 1
+- **[OnboardingKit](https://github.com/MananVyas01/OnboardingKit)** - SwiftUI library for handling onboarding ⭐ 1
+- **[portfolio-website](https://github.com/MananVyas01/portfolio-website)** - My personal portfolio website showcasing projects, skills, resume, and blog — built with passion, powered by modern web technologies. ⭐ 1
+- **[ForeverClass](https://github.com/MananVyas01/ForeverClass)** - No description ⭐ 1
 
 ## 🌐 Portfolio Website
 
@@ -23,4 +23,4 @@
 
 ---
 
-📅 Auto-updated: 8/11/2025
+📅 Auto-updated: 8/18/2025
