@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-17T06:29:49.856Z",
+  "lastUpdated": "2025-08-18T06:34:38.178Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,63 @@
       "priority": 1
     },
     {
-      "title": "مدیریت پروژه چابک در عمل: ۷ درسی که هر تیم توسعه باید بدونه",
-      "description": "در دنیای پرشتاب توسعه نرم‌افزار، «چابکی» یا Agile دیگر یک انتخاب لوکس نیست، بلکه یک ضرورت استراتژیک است. همه ما داستان تیم‌هایی را شنیده‌ایم که با پذی...",
-      "url": "https://dev.to/parizad/mdyryt-prwjh-chbkh-dr-ml-7-drsy-khh-hr-tym-twsh-byd-bdwnh-2b0a",
-      "date": "2025-08-17T06:06:55.000Z",
+      "title": "Why We as Programmers Shouldn’t Use AI Art",
+      "description": "AI art is everywhere these days. Type in a prompt, and boom. You’ve got a “masterpiece” in seconds. It feels magical, but also… kind of wrong. And as ...",
+      "url": "https://dev.to/dumboprogrammer/why-we-as-programmers-shouldnt-use-ai-art-3fnj",
+      "date": "2025-08-18T06:25:59.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "development",
+        "ai",
         "programming",
-        "productivity"
+        "watercooler"
       ],
-      "readTime": "11 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Handling Async State with useRecoilValueLoadable and useRecoilStateLoadable in R",
-      "description": "When working with asynchronous selectors or atom families in Recoil, the UI may need to handle multiple states of the async data: Loading (before the ...",
-      "url": "https://dev.to/safal_bhandari/handling-async-state-with-userecoilvalueloadable-and-userecoilstateloadable-in-recoil-4a3",
-      "date": "2025-08-17T06:05:10.000Z",
+      "title": "RK3588S2: A High-Performance ARM SoC",
+      "description": "The RK3588S2 is Rockchip’s latest addition to its high-performance ARM-based processors. Designed to address the growing needs of PC, edge computing, ...",
+      "url": "https://dev.to/dongpei_liao_8092a14d7c50/rk3588s2-a-high-performance-arm-soc-406l",
+      "date": "2025-08-18T06:05:57.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "javascript",
-        "css"
+        "raspberrypi",
+        "rk3588"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "HTTP Request Processing with Zero-Copy Optimization(0857)",
-      "description": "GitHub Homepage: https://github.com/hyperlane-dev/hyperlane During my advanced systems programming course, I became obsessed with understanding how da...",
-      "url": "https://dev.to/ltpp_universe/http-request-processing-with-zero-copy-optimization0857-51c2",
-      "date": "2025-08-17T06:05:03.000Z",
+      "title": "Ringer Movies: ‘Sinners’ = An Instant ‘Rewatchable’ | The Rewatchables w/ Bill S",
+      "description": "‘Sinners’ gets the full Rewatchables treatment Bill Simmons, Van Lathan, and Wesley Morris pop open cold Irish beers to unpack Ryan Coogler’s instant ...",
+      "url": "https://dev.to/popcorn_movies/ringer-movies-sinners-an-instant-rewatchable-the-rewatchables-w-bill-simmons-van-lathan-57e4",
+      "date": "2025-08-18T06:00:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "programming",
-        "rust"
+        "movies",
+        "streaming",
+        "reviews"
       ],
-      "readTime": "13 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Technical SEO: Best Practices for Site Speed and Indexing",
-      "description": "Competition in the digital world is fierce, and to survive in this competition, the speed of your website and proper indexing are very important. The ...",
-      "url": "https://dev.to/mdkawsharul_islamroyal_/technical-seo-best-practices-for-site-speed-and-indexing-3jco",
-      "date": "2025-08-17T06:04:24.000Z",
+      "title": "Building Command-Line Tools with C# and System.CommandLine",
+      "description": "Building Command-Line Tools with C# and System.CommandLine Command-line tools are the unsung heroes of developer productivity. From simplifying comple...",
+      "url": "https://dev.to/chakewitz/building-command-line-tools-with-c-and-systemcommandline-gb7",
+      "date": "2025-08-18T05:58:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "csharp",
+        "cli",
+        "commandline"
       ],
-      "readTime": "2 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
