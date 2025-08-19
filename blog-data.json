@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-18T06:34:38.178Z",
+  "lastUpdated": "2025-08-19T06:31:23.379Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,25 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Highlights from Git 2.51",
+      "description": "The open source Git project just released Git 2.51. Here is GitHub’s look at some of the most interesting features and changes introduced since last t...",
+      "url": "https://github.blog/open-source/git/highlights-from-git-2-51/",
+      "date": "2025-08-18T17:04:36.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "git",
+        "opensource"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "GPT-5 in GitHub Copilot: How I built a game in 60 seconds",
       "description": "How GitHub's new MCP server and GPT-5 are revolutionizing developer workflows — with live build examples. The post GPT-5 in GitHub Copilot: How I buil...",
@@ -58,78 +72,93 @@
       "priority": 1
     },
     {
-      "title": "From private to public: How a United Nations organization open sourced its tech ",
-      "description": "Learn how the International Telecommunication Union made the switch to open source, and how you can too! The post From private to public: How a United...",
-      "url": "https://github.blog/open-source/social-impact/from-private-to-public-how-a-united-nations-organization-open-sourced-its-tech-in-four-steps/",
-      "date": "2025-08-13T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "opensource",
-        "socialimpact",
-        "socialimpact"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Why We as Programmers Shouldn’t Use AI Art",
-      "description": "AI art is everywhere these days. Type in a prompt, and boom. You’ve got a “masterpiece” in seconds. It feels magical, but also… kind of wrong. And as ...",
-      "url": "https://dev.to/dumboprogrammer/why-we-as-programmers-shouldnt-use-ai-art-3fnj",
-      "date": "2025-08-18T06:25:59.000Z",
+      "title": "🚀 Announcing StackBlink India’s First Developer-Focused Hosting Platform (Now w",
+      "description": "Hey DEV Community 👋 I’m super excited to share something I’ve been building for months — StackBlink, a hosting & deployment platform made for develop...",
+      "url": "https://dev.to/stackblink/announcing-stackblink-indias-first-developer-focused-hosting-platform-now-with-22-tech-stacks-5ccc",
+      "date": "2025-08-19T06:20:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "programming",
-        "watercooler"
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "RK3588S2: A High-Performance ARM SoC",
-      "description": "The RK3588S2 is Rockchip’s latest addition to its high-performance ARM-based processors. Designed to address the growing needs of PC, edge computing, ...",
-      "url": "https://dev.to/dongpei_liao_8092a14d7c50/rk3588s2-a-high-performance-arm-soc-406l",
-      "date": "2025-08-18T06:05:57.000Z",
+      "title": "## 🧠 Solving LeetCode Until I Become Top 1% — Day `62`",
+      "description": "🔹 Problem: 2348. Number of Zero-Filled Subarrays Difficulty: #Medium Tags: #Array, #Math, #SlidingWindow Find how many subarrays in a given array con...",
+      "url": "https://dev.to/therealrishat/-solving-leetcode-until-i-become-top-1-day-62-4pp1",
+      "date": "2025-08-19T06:15:42.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "raspberrypi",
-        "rk3588"
+        "javascript",
+        "css"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Ringer Movies: ‘Sinners’ = An Instant ‘Rewatchable’ | The Rewatchables w/ Bill S",
-      "description": "‘Sinners’ gets the full Rewatchables treatment Bill Simmons, Van Lathan, and Wesley Morris pop open cold Irish beers to unpack Ryan Coogler’s instant ...",
-      "url": "https://dev.to/popcorn_movies/ringer-movies-sinners-an-instant-rewatchable-the-rewatchables-w-bill-simmons-van-lathan-57e4",
-      "date": "2025-08-18T06:00:16.000Z",
+      "title": "Understanding React Native for Web and Why It Matters to Developers",
+      "description": "Technology is moving fast, and developers are constantly searching for tools that make their lives easier while improving user experiences. One framew...",
+      "url": "https://dev.to/nencywilliams/understanding-react-native-for-web-and-why-it-matters-to-developers-4a9e",
+      "date": "2025-08-19T06:15:14.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "movies",
-        "streaming",
-        "reviews"
+        "webdev",
+        "reactnative",
+        "webdev"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Generative AI in Software Development: Opportunities, Risks, and Best Practices",
+      "description": "The software development landscape is experiencing a seismic shift with the integration of generative AI tools. From GitHub Copilot to ChatGPT and Cla...",
+      "url": "https://dev.to/sanjay_serviots_08ee56986/generative-ai-in-software-development-opportunities-risks-and-best-practices-2hep",
+      "date": "2025-08-19T06:14:34.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "3D Layered Text: The Basics",
+      "description": "A client asked me to create a bulging text effect. With a bit of cleverness and some advanced CSS, I managed to get a result I’m genuinely proud of, w...",
+      "url": "https://css-tricks.com/3d-layered-text-the-basics/",
+      "date": "2025-08-18T13:46:00.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "typography",
+        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Building Command-Line Tools with C# and System.CommandLine",
-      "description": "Building Command-Line Tools with C# and System.CommandLine Command-line tools are the unsung heroes of developer productivity. From simplifying comple...",
-      "url": "https://dev.to/chakewitz/building-command-line-tools-with-c-and-systemcommandline-gb7",
-      "date": "2025-08-18T05:58:31.000Z",
+      "title": "Beyond The Hype: What AI Can Really Do For Product Design",
+      "description": "AI tools are improving fast, but it’s still not clear how they fit into a real product design workflow. Nikita Samutin walks through four core stages ...",
+      "url": "https://smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/",
+      "date": "2025-08-18T13:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
-        "csharp",
-        "cli",
-        "commandline"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "6 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -193,21 +222,6 @@
       "priority": 2
     },
     {
-      "title": "We Might Need Something Between Root and Relative CSS Units for “Base Elements”",
-      "description": "I've come to realize that perhaps we need to have a unit between root and relative values. This would bring about a whole new possibility when creatin...",
-      "url": "https://css-tricks.com/we-might-need-something-between-root-and-relative-css-units-for-base-elements/",
-      "date": "2025-08-13T13:24:55.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "css",
-        "cssfunctions"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "From Line To Layout: How Past Experiences Shape Your Design Career",
       "description": "Your past shapes who you are as a designer, no matter where your career began or how unexpected your career path may have been. Stephanie Campbell sho...",
       "url": "https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/",
@@ -227,21 +241,6 @@
       "description": "Prompting isn’t just about writing better instructions, but about designing better thinking. Ilia Kanazin and Marina Chernyshova explore how advanced ...",
       "url": "https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/",
       "date": "2025-08-11T08:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Power Of The Intl API: A Definitive Guide To Browser-Native Internationaliza",
-      "description": "Internationalization isn’t just translation. It’s about formatting dates, pluralizing words, sorting names, and more, all according to specific locale...",
-      "url": "https://smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/",
-      "date": "2025-08-08T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
