@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-19T06:31:23.379Z",
+  "lastUpdated": "2025-08-20T06:31:07.450Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Agents panel: Launch Copilot coding agent tasks anywhere on GitHub",
+      "description": "Delegate coding tasks to Copilot and track progress wherever you are on GitHub. Copilot works in the background, creates a pull request, and tags you ...",
+      "url": "https://github.blog/news-insights/product-news/agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github/",
+      "date": "2025-08-19T19:53:14.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "newsinsights",
+        "product",
+        "agenticworkflows"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Highlights from Git 2.51",
       "description": "The open source Git project just released Git 2.51. Here is GitHub’s look at some of the most interesting features and changes introduced since last t...",
@@ -57,25 +72,10 @@
       "priority": 1
     },
     {
-      "title": "GitHub Availability Report: July 2025",
-      "description": "In July, we experienced one incident that resulted in degraded performance across GitHub services. The post GitHub Availability Report: July 2025 appe...",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2025/",
-      "date": "2025-08-13T21:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "companynews",
-        "newsinsights",
-        "githubavailabilityreport"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "🚀 Announcing StackBlink India’s First Developer-Focused Hosting Platform (Now w",
-      "description": "Hey DEV Community 👋 I’m super excited to share something I’ve been building for months — StackBlink, a hosting & deployment platform made for develop...",
-      "url": "https://dev.to/stackblink/announcing-stackblink-indias-first-developer-focused-hosting-platform-now-with-22-tech-stacks-5ccc",
-      "date": "2025-08-19T06:20:00.000Z",
+      "title": "I built distributed systems at Meta. I still recommend starting with web dev.",
+      "description": "When people hear that I worked on distributed storage at Meta, they assume I must have taken the intensely technical path: writing C++ from day one, d...",
+      "url": "https://dev.to/fahimulhaq/i-built-distributed-systems-at-meta-i-still-recommend-starting-with-web-dev-5aa9",
+      "date": "2025-08-20T05:53:35.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -87,48 +87,48 @@
       "priority": 2
     },
     {
-      "title": "## 🧠 Solving LeetCode Until I Become Top 1% — Day `62`",
-      "description": "🔹 Problem: 2348. Number of Zero-Filled Subarrays Difficulty: #Medium Tags: #Array, #Math, #SlidingWindow Find how many subarrays in a given array con...",
-      "url": "https://dev.to/therealrishat/-solving-leetcode-until-i-become-top-1-day-62-4pp1",
-      "date": "2025-08-19T06:15:42.000Z",
+      "title": "Why I’d Never Let AI Rewrite It",
+      "description": "Background – How I Landed the Task When I first joined Ozone, one of my first assignments was migrating node services to Supervisord. Soon after that,...",
+      "url": "https://dev.to/pratapkute/why-id-never-let-ai-rewrite-it-4f9p",
+      "date": "2025-08-20T05:47:40.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "typescript",
+        "automation",
+        "openai"
       ],
-      "readTime": "3 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Understanding React Native for Web and Why It Matters to Developers",
-      "description": "Technology is moving fast, and developers are constantly searching for tools that make their lives easier while improving user experiences. One framew...",
-      "url": "https://dev.to/nencywilliams/understanding-react-native-for-web-and-why-it-matters-to-developers-4a9e",
-      "date": "2025-08-19T06:15:14.000Z",
+      "title": "Launch Your React Website on Netlify for Free: The Lazy Dev’s Guide 😪",
+      "description": "It feels so great when you buy a shirt, and while paying you find out another one is free. We all love free stuff, don’t we? Now, when you’re just sta...",
+      "url": "https://dev.to/naiqor/launch-your-react-website-on-netlify-for-free-the-lazy-devs-guide-2f5k",
+      "date": "2025-08-20T05:47:25.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "react",
+        "deployment",
+        "netlify"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "A Minimalist Changelog Template for Next.js 15",
+      "description": "Found a clean and minimal changelog template built with Next.js 15. It's great for quickly setting up a page to showcase product releases and updates....",
+      "url": "https://dev.to/jqueryscript/a-minimalist-changelog-template-for-nextjs-15-53b9",
+      "date": "2025-08-20T05:46:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "reactnative",
+        "nextjs",
         "webdev"
       ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "Generative AI in Software Development: Opportunities, Risks, and Best Practices",
-      "description": "The software development landscape is experiencing a seismic shift with the integration of generative AI tools. From GitHub Copilot to ChatGPT and Cla...",
-      "url": "https://dev.to/sanjay_serviots_08ee56986/generative-ai-in-software-development-opportunities-risks-and-best-practices-2hep",
-      "date": "2025-08-19T06:14:34.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
