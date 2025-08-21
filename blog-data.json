@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-20T06:31:07.450Z",
+  "lastUpdated": "2025-08-21T06:39:24.328Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Who will maintain the future? Rethinking open source leadership for a new genera",
+      "description": "Open source is aging. We can better support Gen Z contributors through purpose, flexibility, and pathways to leadership. The post Who will maintain th...",
+      "url": "https://github.blog/open-source/maintainers/who-will-maintain-the-future-rethinking-open-source-leadership-for-a-new-generation/",
+      "date": "2025-08-20T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "maintainers",
+        "opensource",
+        "maintainers"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Agents panel: Launch Copilot coding agent tasks anywhere on GitHub",
       "description": "Delegate coding tasks to Copilot and track progress wherever you are on GitHub. Copilot works in the background, creates a pull request, and tags you ...",
@@ -57,25 +72,55 @@
       "priority": 1
     },
     {
-      "title": "Q1 2025 Innovation Graph update: Bar chart races, data visualization on the rise",
-      "description": "Discover the latest trends and insights on public software development activity on GitHub with the quarterly release of data for the Innovation Graph,...",
-      "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2025-innovation-graph-update-bar-chart-races-data-visualization-on-the-rise-and-key-research/",
-      "date": "2025-08-14T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "Great read!",
+      "description": "🚀Top 15 API Marketplaces Revealed—Find Out Where Developers Are Monetizing Big Fallon Jimmy ・ Aug 21 #webdev #programming #ai #beginners...",
+      "url": "https://dev.to/linkin/great-read-551d",
+      "date": "2025-08-21T06:19:50.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "newsinsights",
-        "policy",
-        "innovationgraph"
+        "webdev",
+        "programming",
+        "ai"
       ],
       "readTime": "1 min read",
-      "priority": 1
+      "priority": 2
     },
     {
-      "title": "I built distributed systems at Meta. I still recommend starting with web dev.",
-      "description": "When people hear that I worked on distributed storage at Meta, they assume I must have taken the intensely technical path: writing C++ from day one, d...",
-      "url": "https://dev.to/fahimulhaq/i-built-distributed-systems-at-meta-i-still-recommend-starting-with-web-dev-5aa9",
-      "date": "2025-08-20T05:53:35.000Z",
+      "title": "COLLEGE STUDENT & COURSE MANAGEMENT SYSTEM WITH ORACLE LIVE SQL",
+      "description": "🚀 My Journey with SQL on Oracle LiveSQL | Assignment Practice As part of my DBMS assignment, I decided to go hands-on with Oracle LiveSQL and practic...",
+      "url": "https://dev.to/nidheesh_/college-student-course-management-system-with-oracle-live-sql-237a",
+      "date": "2025-08-21T06:17:21.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "queryverse",
+        "datacraft",
+        "tabletalk"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Serverless Deployment of a Simple Item Manager",
+      "description": "Overview This project provides a guide on how to deploy a simple item manager using a serverless architecture. At the heart of serverless computing wi...",
+      "url": "https://dev.to/antai/serverless-deployment-of-a-simple-item-manager-bic",
+      "date": "2025-08-21T06:13:09.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "devops",
+        "serverless",
+        "aws"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Mastering React: A Complete Guide for Developers",
+      "description": "React has rapidly become one of the most popular JavaScript libraries for building modern, dynamic, and scalable user interfaces. Created and maintain...",
+      "url": "https://dev.to/suraj_kumar_fb57ae0928df2/mastering-react-a-complete-guide-for-developers-11j9",
+      "date": "2025-08-21T06:11:35.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -83,50 +128,35 @@
         "javascript",
         "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Why I’d Never Let AI Rewrite It",
-      "description": "Background – How I Landed the Task When I first joined Ozone, one of my first assignments was migrating node services to Supervisord. Soon after that,...",
-      "url": "https://dev.to/pratapkute/why-id-never-let-ai-rewrite-it-4f9p",
-      "date": "2025-08-20T05:47:40.000Z",
+      "title": "3D Layered Text: Motion and Variations",
+      "description": "In this chapter, we will explore ways to animate the effect, add transitions, and play with different variations. We will look at how motion can enhan...",
+      "url": "https://css-tricks.com/3d-layered-text-motion-and-variations/",
+      "date": "2025-08-20T13:54:52.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "typescript",
-        "automation",
-        "openai"
+        "articles",
+        "animation",
+        "typography"
       ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Launch Your React Website on Netlify for Free: The Lazy Dev’s Guide 😪",
-      "description": "It feels so great when you buy a shirt, and while paying you find out another one is free. We all love free stuff, don’t we? Now, when you’re just sta...",
-      "url": "https://dev.to/naiqor/launch-your-react-website-on-netlify-for-free-the-lazy-devs-guide-2f5k",
-      "date": "2025-08-20T05:47:25.000Z",
+      "title": "The Double-Edged Sustainability Sword Of AI In Web Design",
+      "description": "AI has introduced huge efficiencies for web designers and is frequently being touted as the key to unlocking sustainable design and development. But d...",
+      "url": "https://smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/",
+      "date": "2025-08-20T10:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "react",
-        "deployment",
-        "netlify"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "A Minimalist Changelog Template for Next.js 15",
-      "description": "Found a clean and minimal changelog template built with Next.js 15. It's great for quickly setting up a page to showcase product releases and updates....",
-      "url": "https://dev.to/jqueryscript/a-minimalist-changelog-template-for-nextjs-15-53b9",
-      "date": "2025-08-20T05:46:23.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
-        "nextjs",
-        "webdev"
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -207,40 +237,10 @@
       "priority": 2
     },
     {
-      "title": "On Accessibility Conformance, Design Systems, and CSS “Base” Units",
-      "description": "My brain can’t help but try to make connections between seemingly disparate ideas. And that’s what happened yesterday when I read: Hidde’s “Can compon...",
-      "url": "https://css-tricks.com/on-accessibility-conformance-design-systems-and-css-base-units/",
-      "date": "2025-08-14T13:10:11.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "accessibility",
-        "designsystems"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "From Line To Layout: How Past Experiences Shape Your Design Career",
       "description": "Your past shapes who you are as a designer, no matter where your career began or how unexpected your career path may have been. Stephanie Campbell sho...",
       "url": "https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/",
       "date": "2025-08-13T11:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Designing With AI, Not Around It: Practical Advanced Techniques For Product Desi",
-      "description": "Prompting isn’t just about writing better instructions, but about designing better thinking. Ilia Kanazin and Marina Chernyshova explore how advanced ...",
-      "url": "https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/",
-      "date": "2025-08-11T08:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
