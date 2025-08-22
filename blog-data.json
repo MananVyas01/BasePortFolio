@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-21T06:39:24.328Z",
+  "lastUpdated": "2025-08-22T06:30:32.294Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Explore the best of GitHub Universe: 9 spaces built to spark creativity, connect",
+      "description": "See what’s happening at Universe 2025, from experimental dev tools and career coaching to community-powered spaces. Save $400 on your pass with Early ...",
+      "url": "https://github.blog/news-insights/company-news/explore-the-best-of-github-universe-9-spaces-built-to-spark-creativity-connection-and-joy/",
+      "date": "2025-08-21T18:02:34.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "companynews",
+        "newsinsights",
+        "githubuniverse"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Who will maintain the future? Rethinking open source leadership for a new genera",
       "description": "Open source is aging. We can better support Gen Z contributors through purpose, flexibility, and pathways to leadership. The post Who will maintain th...",
@@ -58,24 +73,25 @@
       "priority": 1
     },
     {
-      "title": "GPT-5 in GitHub Copilot: How I built a game in 60 seconds",
-      "description": "How GitHub's new MCP server and GPT-5 are revolutionizing developer workflows — with live build examples. The post GPT-5 in GitHub Copilot: How I buil...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/gpt-5-in-github-copilot-how-i-built-a-game-in-60-seconds/",
-      "date": "2025-08-14T16:30:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "Inspect and edit any website 3x faster and export changes effortlessly",
+      "description": "Hey developer or designer, You know how crucial it is to move fast and be efficient. SuperDev Pro to do exactly that—it's a 14-in-1 browser extension ...",
+      "url": "https://dev.to/mdanassaif/inspect-and-edit-any-website-3x-faster-and-export-changes-effortlessly-4cal",
+      "date": "2025-08-22T06:13:49.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "aiml",
-        "generativeai"
+        "development",
+        "design",
+        "frontend"
       ],
-      "readTime": "1 min read",
-      "priority": 1
+      "readTime": "3 min read",
+      "priority": 2
     },
     {
-      "title": "Great read!",
-      "description": "🚀Top 15 API Marketplaces Revealed—Find Out Where Developers Are Monetizing Big Fallon Jimmy ・ Aug 21 #webdev #programming #ai #beginners...",
-      "url": "https://dev.to/linkin/great-read-551d",
-      "date": "2025-08-21T06:19:50.000Z",
+      "title": "My 2025 Roundup of Must-Know MCP Servers",
+      "description": "If you’ve been hanging around the dev community lately, you’ve probably noticed how often MCP (Model Context Protocol) comes up in conversations. It f...",
+      "url": "https://dev.to/therealmrmumba/my-2025-roundup-of-must-know-mcp-services-3146",
+      "date": "2025-08-22T06:11:43.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -83,52 +99,37 @@
         "programming",
         "ai"
       ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "COLLEGE STUDENT & COURSE MANAGEMENT SYSTEM WITH ORACLE LIVE SQL",
-      "description": "🚀 My Journey with SQL on Oracle LiveSQL | Assignment Practice As part of my DBMS assignment, I decided to go hands-on with Oracle LiveSQL and practic...",
-      "url": "https://dev.to/nidheesh_/college-student-course-management-system-with-oracle-live-sql-237a",
-      "date": "2025-08-21T06:17:21.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "queryverse",
-        "datacraft",
-        "tabletalk"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Serverless Deployment of a Simple Item Manager",
-      "description": "Overview This project provides a guide on how to deploy a simple item manager using a serverless architecture. At the heart of serverless computing wi...",
-      "url": "https://dev.to/antai/serverless-deployment-of-a-simple-item-manager-bic",
-      "date": "2025-08-21T06:13:09.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "devops",
-        "serverless",
-        "aws"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "Mastering React: A Complete Guide for Developers",
-      "description": "React has rapidly become one of the most popular JavaScript libraries for building modern, dynamic, and scalable user interfaces. Created and maintain...",
-      "url": "https://dev.to/suraj_kumar_fb57ae0928df2/mastering-react-a-complete-guide-for-developers-11j9",
-      "date": "2025-08-21T06:11:35.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
       "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Essential Adjacent References",
+      "description": "Data analysis often involves cross-row calculations, such as Link Relative Ratio (LRR), Year-over-Year (YoY) and moving averages. Implementing cross-r...",
+      "url": "https://dev.to/esproc_spl/essential-adjacent-references-53e7",
+      "date": "2025-08-22T06:04:16.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "sql",
+        "programming",
+        "devops"
+      ],
+      "readTime": "8 min read",
+      "priority": 2
+    },
+    {
+      "title": "AI Fiesta Exposed: Scam or Smart Budget Alternative to Abacus.AI?",
+      "description": "I first heard about AI Fiesta the way most devs do—through ads promising “premium AI for pennies.” GPT-5, Claude, Gemini… all bundled into one neat pa...",
+      "url": "https://dev.to/ilsa_shaikh_089e2bfab0bf4/ai-fiesta-exposed-scam-or-smart-budget-alternative-to-abacusai-2214",
+      "date": "2025-08-22T05:59:40.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "openai",
+        "abacusai"
+      ],
+      "readTime": "3 min read",
       "priority": 2
     },
     {
