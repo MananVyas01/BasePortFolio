@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-22T06:30:32.294Z",
+  "lastUpdated": "2025-08-23T06:27:30.151Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Building your first MCP server: How to extend AI tools with custom capabilities",
+      "description": "Learn Model Context Protocol by building a turn-based game server that shows how to extend GitHub Copilot with custom tools, resources, and prompts. T...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-your-first-mcp-server-how-to-extend-ai-tools-with-custom-capabilities/",
+      "date": "2025-08-22T16:52:27.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "rubberduckthursdays"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Explore the best of GitHub Universe: 9 spaces built to spark creativity, connect",
       "description": "See what’s happening at Universe 2025, from experimental dev tools and career coaching to community-powered spaces. Save $400 on your pass with Early ...",
@@ -59,77 +74,93 @@
       "priority": 1
     },
     {
-      "title": "Highlights from Git 2.51",
-      "description": "The open source Git project just released Git 2.51. Here is GitHub’s look at some of the most interesting features and changes introduced since last t...",
-      "url": "https://github.blog/open-source/git/highlights-from-git-2-51/",
-      "date": "2025-08-18T17:04:36.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "The 5-Minute Agency Health Check: Daily Logs That Predict Project Success",
+      "description": "Running a dev agency means juggling multiple projects, clients, and deadlines simultaneously. Am i right? You know that sinking feeling when a project...",
+      "url": "https://dev.to/teamcamp/the-5-minute-agency-health-check-daily-logs-that-predict-project-success-1p43",
+      "date": "2025-08-23T06:05:51.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "agency",
+        "devops",
+        "productivity"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "Building GitNarrative: How I Parse Git History with Python to Extract Developmen",
+      "description": "When I started building GitNarrative, I thought the hardest part would be the AI integration. Turns out, the real challenge was analyzing git reposito...",
+      "url": "https://dev.to/grudged/building-gitnarrative-how-i-parse-git-history-with-python-to-extract-development-patterns-52lm",
+      "date": "2025-08-23T04:47:49.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
         "git",
-        "opensource"
+        "ai",
+        "webdev"
+      ],
+      "readTime": "10 min read",
+      "priority": 2
+    },
+    {
+      "title": "According to a recent MIT report, 95% Gen AI businesses are failing now. If you ",
+      "description": "Creating Wealth with AI: Vision vs. Execution Jaideep Parashar ・ Aug 23 #ai #beginners #machinelearning #devops...",
+      "url": "https://dev.to/jaideepparashar/according-to-a-recent-mit-report-95-gen-ai-businesses-are-failing-now-if-you-really-want-to-1lc8",
+      "date": "2025-08-23T04:17:53.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "beginners",
+        "machinelearning"
       ],
       "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Inspect and edit any website 3x faster and export changes effortlessly",
-      "description": "Hey developer or designer, You know how crucial it is to move fast and be efficient. SuperDev Pro to do exactly that—it's a 14-in-1 browser extension ...",
-      "url": "https://dev.to/mdanassaif/inspect-and-edit-any-website-3x-faster-and-export-changes-effortlessly-4cal",
-      "date": "2025-08-22T06:13:49.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "development",
-        "design",
-        "frontend"
-      ],
-      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "My 2025 Roundup of Must-Know MCP Servers",
-      "description": "If you’ve been hanging around the dev community lately, you’ve probably noticed how often MCP (Model Context Protocol) comes up in conversations. It f...",
-      "url": "https://dev.to/therealmrmumba/my-2025-roundup-of-must-know-mcp-services-3146",
-      "date": "2025-08-22T06:11:43.000Z",
+      "title": "Introduction to Mutual Funds",
+      "description": "They are investment vehicles that pool money from multiple investors to invest in a diversified portfolio of assets, such as stocks, bonds, money mark...",
+      "url": "https://dev.to/madgan95/introduction-to-mutual-funds-1n4c",
+      "date": "2025-08-23T04:13:32.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "programming",
-        "ai"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "Essential Adjacent References",
-      "description": "Data analysis often involves cross-row calculations, such as Link Relative Ratio (LRR), Year-over-Year (YoY) and moving averages. Implementing cross-r...",
-      "url": "https://dev.to/esproc_spl/essential-adjacent-references-53e7",
-      "date": "2025-08-22T06:04:16.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "sql",
-        "programming",
-        "devops"
+        "finance",
+        "basic",
+        "beginners"
       ],
       "readTime": "8 min read",
       "priority": 2
     },
     {
-      "title": "AI Fiesta Exposed: Scam or Smart Budget Alternative to Abacus.AI?",
-      "description": "I first heard about AI Fiesta the way most devs do—through ads promising “premium AI for pennies.” GPT-5, Claude, Gemini… all bundled into one neat pa...",
-      "url": "https://dev.to/ilsa_shaikh_089e2bfab0bf4/ai-fiesta-exposed-scam-or-smart-budget-alternative-to-abacusai-2214",
-      "date": "2025-08-22T05:59:40.000Z",
+      "title": "3D Layered Text: Interactivity and Dynamicism",
+      "description": "In this third and final chapter, we’re stepping into interactivity by adding JavaScript, starting with a simple :hover effect, and ending with a fully...",
+      "url": "https://css-tricks.com/3d-layered-text-interactivity-and-dynamism/",
+      "date": "2025-08-22T13:14:31.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "ai",
-        "openai",
-        "abacusai"
+        "articles",
+        "animation",
+        "background"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "A Week In The Life Of An AI-Augmented Designer",
+      "description": "If you are new to using AI in design or curious about integrating AI into your UX process without losing your human touch, this article offers a groun...",
+      "url": "https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/",
+      "date": "2025-08-22T08:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -193,7 +224,7 @@
       "priority": 2
     },
     {
-      "title": "The Psychology Of Color In UX Design And Digital Products",
+      "title": "The Psychology Of Color In UX And Digital Products",
       "description": "Rodolpho Henrique guides you through the essential aspects of color in digital design and user experience, from the practical steps of creating effect...",
       "url": "https://smashingmagazine.com/2025/08/psychology-color-ux-design-digital-products/",
       "date": "2025-08-15T15:00:00.000Z",
@@ -218,36 +249,6 @@
         "articles",
         "accessibility",
         "attributes"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "A Few Things About the Anchor Element’s href You Might Not Have Known",
-      "description": "It's easy to take URL superpowers for granted, even if you already have these patterns under your belt. A Few Things About the Anchor Element’s href Y...",
-      "url": "https://css-tricks.com/a-few-things-about-the-anchor-elements-href-you-might-not-have-known/",
-      "date": "2025-08-15T12:26:00.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "html",
-        "linksurls"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "From Line To Layout: How Past Experiences Shape Your Design Career",
-      "description": "Your past shapes who you are as a designer, no matter where your career began or how unexpected your career path may have been. Stephanie Campbell sho...",
-      "url": "https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/",
-      "date": "2025-08-13T11:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
