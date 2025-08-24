@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-23T06:27:30.151Z",
+  "lastUpdated": "2025-08-24T06:28:16.551Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "The 5-Minute Agency Health Check: Daily Logs That Predict Project Success",
-      "description": "Running a dev agency means juggling multiple projects, clients, and deadlines simultaneously. Am i right? You know that sinking feeling when a project...",
-      "url": "https://dev.to/teamcamp/the-5-minute-agency-health-check-daily-logs-that-predict-project-success-1p43",
-      "date": "2025-08-23T06:05:51.000Z",
+      "title": "Day 1: LangChain Basics - My First Chat with Claude and Titan",
+      "description": "Hey there! Welcome to my journey of learning LangChain with AWS Bedrock. I'm documenting everything as I go, so you can learn alongside me. Today was ...",
+      "url": "https://dev.to/aws-builders/day-1-langchain-basics-my-first-chat-with-claude-and-titan-3h1f",
+      "date": "2025-08-24T06:17:03.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "agency",
-        "devops",
+        "awsbedrock",
+        "langchaintutorial",
+        "developer"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Sync Obsidian Across Your Devices For Free, With GitHub And A Bit Of Nerve.",
+      "description": "I like tools that stay on disk. I like Markdown that opens in any editor. Obsidian does both. The catch is sync. The official option is paid. I wanted...",
+      "url": "https://dev.to/elliot_brenya/sync-obsidian-across-your-devices-for-free-with-github-and-a-bit-of-nerve-4hdm",
+      "date": "2025-08-24T04:27:29.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "tutorial",
+        "programming",
         "productivity"
       ],
-      "readTime": "6 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Building GitNarrative: How I Parse Git History with Python to Extract Developmen",
-      "description": "When I started building GitNarrative, I thought the hardest part would be the AI integration. Turns out, the real challenge was analyzing git reposito...",
-      "url": "https://dev.to/grudged/building-gitnarrative-how-i-parse-git-history-with-python-to-extract-development-patterns-52lm",
-      "date": "2025-08-23T04:47:49.000Z",
+      "title": "Running n8n Locally Without Regrets.",
+      "description": "I like tools that give me control. I like seeing the logs roll in my own terminal. I like knowing where the database file lives. n8n fits that mood. I...",
+      "url": "https://dev.to/elliot_brenya/running-n8n-locally-without-regrets-3l55",
+      "date": "2025-08-24T04:02:12.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "git",
-        "ai",
-        "webdev"
+        "programming",
+        "webdev",
+        "javascript"
       ],
-      "readTime": "10 min read",
+      "readTime": "9 min read",
       "priority": 2
     },
     {
-      "title": "According to a recent MIT report, 95% Gen AI businesses are failing now. If you ",
-      "description": "Creating Wealth with AI: Vision vs. Execution Jaideep Parashar ・ Aug 23 #ai #beginners #machinelearning #devops...",
-      "url": "https://dev.to/jaideepparashar/according-to-a-recent-mit-report-95-gen-ai-businesses-are-failing-now-if-you-really-want-to-1lc8",
-      "date": "2025-08-23T04:17:53.000Z",
+      "title": "Most people start their AI journey by asking the wrong question. Which tool shou",
+      "description": "Why Your AI Journey Needs a System, Not Just Tools Jaideep Parashar ・ Aug 24 #ai #webdev #beginners #discuss...",
+      "url": "https://dev.to/jaideepparashar/most-people-start-their-ai-journey-by-asking-the-wrong-question-which-tool-should-i-use-and-1m9d",
+      "date": "2025-08-24T03:40:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "beginners",
-        "machinelearning"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Introduction to Mutual Funds",
-      "description": "They are investment vehicles that pool money from multiple investors to invest in a diversified portfolio of assets, such as stocks, bonds, money mark...",
-      "url": "https://dev.to/madgan95/introduction-to-mutual-funds-1n4c",
-      "date": "2025-08-23T04:13:32.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "finance",
-        "basic",
+        "webdev",
         "beginners"
       ],
-      "readTime": "8 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
