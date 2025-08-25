@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-24T06:28:16.551Z",
+  "lastUpdated": "2025-08-25T06:32:34.678Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Day 1: LangChain Basics - My First Chat with Claude and Titan",
-      "description": "Hey there! Welcome to my journey of learning LangChain with AWS Bedrock. I'm documenting everything as I go, so you can learn alongside me. Today was ...",
-      "url": "https://dev.to/aws-builders/day-1-langchain-basics-my-first-chat-with-claude-and-titan-3h1f",
-      "date": "2025-08-24T06:17:03.000Z",
+      "title": "OpenMQTT Gateway for Radio Frequency Signals",
+      "description": "My IOT@Home stack is based on ESP8266 boards, ESPHome, Home Assistant, and InfluxDB. Each component has a dedicated role: ESPHome is the tool to confi...",
+      "url": "https://dev.to/admantium/openmqtt-gateway-for-radio-frequency-signals-5gdm",
+      "date": "2025-08-25T06:14:01.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "awsbedrock",
-        "langchaintutorial",
-        "developer"
+        "iot",
+        "esp32",
+        "mqtt"
       ],
-      "readTime": "4 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "Sync Obsidian Across Your Devices For Free, With GitHub And A Bit Of Nerve.",
-      "description": "I like tools that stay on disk. I like Markdown that opens in any editor. Obsidian does both. The catch is sync. The official option is paid. I wanted...",
-      "url": "https://dev.to/elliot_brenya/sync-obsidian-across-your-devices-for-free-with-github-and-a-bit-of-nerve-4hdm",
-      "date": "2025-08-24T04:27:29.000Z",
+      "title": "What Meta can teach us about designing storage systems that scale to billions of",
+      "description": "Designing your storage system is like maneuvering a parachute: you’ll only know it’s working when things go wrong. I’ve spent years working on large-s...",
+      "url": "https://dev.to/fahimulhaq/what-meta-can-teach-us-about-designing-storage-systems-that-scale-to-billions-of-users-3g8m",
+      "date": "2025-08-25T06:03:28.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "tutorial",
-        "programming",
-        "productivity"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "Running n8n Locally Without Regrets.",
-      "description": "I like tools that give me control. I like seeing the logs roll in my own terminal. I like knowing where the database file lives. n8n fits that mood. I...",
-      "url": "https://dev.to/elliot_brenya/running-n8n-locally-without-regrets-3l55",
-      "date": "2025-08-24T04:02:12.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "programming",
         "webdev",
-        "javascript"
+        "javascript",
+        "css"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "Time Tracking for Agency Owners Who Hate Time Tracking: The Stripe Approach",
+      "description": "Agency owners face a brutal paradox. You need accurate time tracking to bill clients and optimize operations. But manual timers kill developer focus a...",
+      "url": "https://dev.to/teamcamp/time-tracking-for-agency-owners-who-hate-time-tracking-the-stripe-approach-4a3i",
+      "date": "2025-08-25T05:07:34.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "timetracking",
+        "productivity"
       ],
       "readTime": "9 min read",
       "priority": 2
     },
     {
-      "title": "Most people start their AI journey by asking the wrong question. Which tool shou",
-      "description": "Why Your AI Journey Needs a System, Not Just Tools Jaideep Parashar ・ Aug 24 #ai #webdev #beginners #discuss...",
-      "url": "https://dev.to/jaideepparashar/most-people-start-their-ai-journey-by-asking-the-wrong-question-which-tool-should-i-use-and-1m9d",
-      "date": "2025-08-24T03:40:16.000Z",
+      "title": "Is Burnout Inevitable in the World of Tech? Let's Talk About It",
+      "description": "I originally posted this post on my blog a long time ago in a galaxy far, far away. In 2023, I burned out. I checked all the boxes for the first time....",
+      "url": "https://dev.to/canro91/is-burnout-inevitable-in-the-world-of-tech-lets-talk-about-it-30f5",
+      "date": "2025-08-25T05:00:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "webdev",
-        "beginners"
+        "career",
+        "programming",
+        "mentalhealth"
       ],
-      "readTime": "1 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
