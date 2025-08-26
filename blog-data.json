@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-25T06:32:34.678Z",
+  "lastUpdated": "2025-08-26T06:31:02.496Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Safeguarding VS Code against prompt injections",
+      "description": "When a chat conversation is poisoned by indirect prompt injection, it can result in the exposure of GitHub tokens, confidential files, or even the exe...",
+      "url": "https://github.blog/security/vulnerability-research/safeguarding-vs-code-against-prompt-injections/",
+      "date": "2025-08-25T16:01:12.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "applicationsecurity",
+        "security",
+        "supplychainsecurity"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Building your first MCP server: How to extend AI tools with custom capabilities",
       "description": "Learn Model Context Protocol by building a turn-based game server that shows how to extend GitHub Copilot with custom tools, resources, and prompts. T...",
@@ -59,40 +74,10 @@
       "priority": 1
     },
     {
-      "title": "Agents panel: Launch Copilot coding agent tasks anywhere on GitHub",
-      "description": "Delegate coding tasks to Copilot and track progress wherever you are on GitHub. Copilot works in the background, creates a pull request, and tags you ...",
-      "url": "https://github.blog/news-insights/product-news/agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github/",
-      "date": "2025-08-19T19:53:14.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "newsinsights",
-        "product",
-        "agenticworkflows"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "OpenMQTT Gateway for Radio Frequency Signals",
-      "description": "My IOT@Home stack is based on ESP8266 boards, ESPHome, Home Assistant, and InfluxDB. Each component has a dedicated role: ESPHome is the tool to confi...",
-      "url": "https://dev.to/admantium/openmqtt-gateway-for-radio-frequency-signals-5gdm",
-      "date": "2025-08-25T06:14:01.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "iot",
-        "esp32",
-        "mqtt"
-      ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "What Meta can teach us about designing storage systems that scale to billions of",
-      "description": "Designing your storage system is like maneuvering a parachute: you’ll only know it’s working when things go wrong. I’ve spent years working on large-s...",
-      "url": "https://dev.to/fahimulhaq/what-meta-can-teach-us-about-designing-storage-systems-that-scale-to-billions-of-users-3g8m",
-      "date": "2025-08-25T06:03:28.000Z",
+      "title": "Mastering Prefix & Suffix Problems in DSA (with Java Code)",
+      "description": "Prefix and suffix techniques are foundational in competitive programming and interview DSA problems. They allow us to preprocess arrays or strings for...",
+      "url": "https://dev.to/rock_win_c053fa5fb2399067/mastering-prefix-suffix-problems-in-dsa-with-java-code-jj5",
+      "date": "2025-08-26T06:23:37.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -100,37 +85,67 @@
         "javascript",
         "css"
       ],
-      "readTime": "6 min read",
+      "readTime": "11 min read",
       "priority": 2
     },
     {
-      "title": "Time Tracking for Agency Owners Who Hate Time Tracking: The Stripe Approach",
-      "description": "Agency owners face a brutal paradox. You need accurate time tracking to bill clients and optimize operations. But manual timers kill developer focus a...",
-      "url": "https://dev.to/teamcamp/time-tracking-for-agency-owners-who-hate-time-tracking-the-stripe-approach-4a3i",
-      "date": "2025-08-25T05:07:34.000Z",
+      "title": "Why Kubernetes is the Safety Net for Your AI Circus ?",
+      "description": "Why Kubernetes Matters for AI (Setting the Stage) Let's be honest: I've worked in multiple deployments and AI workloads differ from standard web appli...",
+      "url": "https://dev.to/ranga-devops/why-kubernetes-is-the-safety-net-for-your-ai-circus--2l12",
+      "date": "2025-08-26T06:19:36.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "timetracking",
-        "productivity"
+        "kubernetes",
+        "ai"
       ],
-      "readTime": "9 min read",
+      "readTime": "16 min read",
       "priority": 2
     },
     {
-      "title": "Is Burnout Inevitable in the World of Tech? Let's Talk About It",
-      "description": "I originally posted this post on my blog a long time ago in a galaxy far, far away. In 2023, I burned out. I checked all the boxes for the first time....",
-      "url": "https://dev.to/canro91/is-burnout-inevitable-in-the-world-of-tech-lets-talk-about-it-30f5",
-      "date": "2025-08-25T05:00:00.000Z",
+      "title": "Blocking Suspected DDoS IPs with SafeLine WAF",
+      "description": "When you're running any public-facing service—even in a homelab—you may eventually run into hostile traffic, including potential DDoS (Distributed Den...",
+      "url": "https://dev.to/sharon_42e16b8da44dabde6d/blocking-suspected-ddos-ips-with-safeline-waf-3jae",
+      "date": "2025-08-26T06:18:12.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "career",
-        "programming",
-        "mentalhealth"
+        "safeline",
+        "waf",
+        "cybersecurity"
       ],
       "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance",
+      "description": "GitHub Home It was another Black Friday. At 3 AM, my phone started screaming like crazy. 😱 It wasn't my alarm; it was the monitoring alert. Our flags...",
+      "url": "https://dev.to/member_74898956/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-5a38",
+      "date": "2025-08-26T06:16:07.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "programming",
+        "rust"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "Getting Creative With Images in Long-Form Content",
+      "description": "Images in long-form content can (and often should) do more than illustrate. They help set the pace, influence how readers feel, and add character that...",
+      "url": "https://css-tricks.com/getting-creative-with-images-in-long-form-content/",
+      "date": "2025-08-25T17:16:35.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "images",
+        "uiixdesign"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -234,21 +249,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Covering hidden=until-found",
-      "description": "Short story: Slapping hidden=until-found on an element in HTML enables any hidden content within the element to be findable in the browser with in-pag...",
-      "url": "https://css-tricks.com/covering-hiddenuntil-found/",
-      "date": "2025-08-15T12:55:36.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "accessibility",
-        "attributes"
       ],
       "readTime": "1 min read",
       "priority": 2
