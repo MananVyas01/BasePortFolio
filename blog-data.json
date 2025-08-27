@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-26T06:31:02.496Z",
+  "lastUpdated": "2025-08-27T06:28:55.553Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Rediscovering joy in learning: Jason Lengstorf on the state of development",
+      "description": "We sit down with Jason Lengstorf on the GitHub Podcast, where he shares his perspective on education, AI, open source, and more. The post Rediscoverin...",
+      "url": "https://github.blog/developer-skills/career-growth/rediscovering-joy-in-learning-jason-lengstorf-on-the-state-of-development/",
+      "date": "2025-08-26T16:10:14.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "careergrowth",
+        "developerskills",
+        "githubpodcast"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Safeguarding VS Code against prompt injections",
       "description": "When a chat conversation is poisoned by indirect prompt injection, it can result in the exposure of GitHub tokens, confidential files, or even the exe...",
@@ -59,78 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Who will maintain the future? Rethinking open source leadership for a new genera",
-      "description": "Open source is aging. We can better support Gen Z contributors through purpose, flexibility, and pathways to leadership. The post Who will maintain th...",
-      "url": "https://github.blog/open-source/maintainers/who-will-maintain-the-future-rethinking-open-source-leadership-for-a-new-generation/",
-      "date": "2025-08-20T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "maintainers",
-        "opensource",
-        "maintainers"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Mastering Prefix & Suffix Problems in DSA (with Java Code)",
-      "description": "Prefix and suffix techniques are foundational in competitive programming and interview DSA problems. They allow us to preprocess arrays or strings for...",
-      "url": "https://dev.to/rock_win_c053fa5fb2399067/mastering-prefix-suffix-problems-in-dsa-with-java-code-jj5",
-      "date": "2025-08-26T06:23:37.000Z",
+      "title": "Universal database MCP server for MySQL, PostgreSQL, SQL Server, MariaDB,Oracle",
+      "description": "You may visit this Github link: https://github.com/wenb1n-dev/SmartDB_MCP SmartDB is a universal database gateway that implements the Model Context Pr...",
+      "url": "https://dev.to/wenb1ndev/universal-database-mcp-server-for-mysql-postgresql-sql-server-mariadboracle-2cpa",
+      "date": "2025-08-27T06:21:40.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "11 min read",
-      "priority": 2
-    },
-    {
-      "title": "Why Kubernetes is the Safety Net for Your AI Circus ?",
-      "description": "Why Kubernetes Matters for AI (Setting the Stage) Let's be honest: I've worked in multiple deployments and AI workloads differ from standard web appli...",
-      "url": "https://dev.to/ranga-devops/why-kubernetes-is-the-safety-net-for-your-ai-circus--2l12",
-      "date": "2025-08-26T06:19:36.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "kubernetes",
-        "ai"
-      ],
-      "readTime": "16 min read",
-      "priority": 2
-    },
-    {
-      "title": "Blocking Suspected DDoS IPs with SafeLine WAF",
-      "description": "When you're running any public-facing service—even in a homelab—you may eventually run into hostile traffic, including potential DDoS (Distributed Den...",
-      "url": "https://dev.to/sharon_42e16b8da44dabde6d/blocking-suspected-ddos-ips-with-safeline-waf-3jae",
-      "date": "2025-08-26T06:18:12.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "safeline",
-        "waf",
-        "cybersecurity"
+        "mcp",
+        "mysql",
+        "postgressql"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance",
-      "description": "GitHub Home It was another Black Friday. At 3 AM, my phone started screaming like crazy. 😱 It wasn't my alarm; it was the monitoring alert. Our flags...",
-      "url": "https://dev.to/member_74898956/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-5a38",
-      "date": "2025-08-26T06:16:07.000Z",
+      "title": "Why Industrial TFT LCD Displays Are the Backbone of Modern Manufacturing",
+      "description": "Industrial environments are evolving fast. From factory floors to outdoor kiosks, digital displays are now critical for real-time monitoring, automati...",
+      "url": "https://dev.to/dora_001/why-industrial-tft-lcd-displays-are-the-backbone-of-modern-manufacturing-3mea",
+      "date": "2025-08-27T06:17:20.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "programming",
-        "rust"
+        "tft",
+        "lcd",
+        "display"
       ],
-      "readTime": "7 min read",
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "8 Best Practices for Adding an Image Uploader to Your Website",
+      "description": "Imagine this: a student is filling out a lengthy online form in an educational institute, and he is almost done. Finally, he has to upload the scanned...",
+      "url": "https://dev.to/ideradevtools/8-best-practices-for-adding-an-image-uploader-to-your-website-4l8f",
+      "date": "2025-08-27T06:13:23.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "filestack",
+        "programming",
+        "javascript"
+      ],
+      "readTime": "11 min read",
+      "priority": 2
+    },
+    {
+      "title": "Alec Steele: How Fine Leather Bags Are Handmade In Great Britain",
+      "description": "How Fine Leather Bags Are Handmade In Great Britain Alec Steele, blacksmith and metal‐crafter extraordinaire, takes you behind the scenes at renowned ...",
+      "url": "https://dev.to/maker_youtube/alec-steele-how-fine-leather-bags-are-handmade-in-great-britain-1oc3",
+      "date": "2025-08-27T06:03:46.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "project",
+        "webdev",
+        "javascript"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Optimizing PWAs For Different Display Modes",
+      "description": "Progressive Web Apps (PWAs) are a great way to make apps built for the web feel native, but in moving away from a browser environment, we can introduc...",
+      "url": "https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/",
+      "date": "2025-08-26T08:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -228,21 +243,6 @@
       "description": "AI tools are improving fast, but it’s still not clear how they fit into a real product design workflow. Nikita Samutin walks through four core stages ...",
       "url": "https://smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/",
       "date": "2025-08-18T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Psychology Of Color In UX And Digital Products",
-      "description": "Rodolpho Henrique guides you through the essential aspects of color in digital design and user experience, from the practical steps of creating effect...",
-      "url": "https://smashingmagazine.com/2025/08/psychology-color-ux-design-digital-products/",
-      "date": "2025-08-15T15:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
