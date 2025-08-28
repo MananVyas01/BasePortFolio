@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-27T06:28:55.553Z",
+  "lastUpdated": "2025-08-28T06:29:57.831Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How to use GitHub Copilot on github.com: A power user’s guide",
+      "description": "Explore how to use GitHub Copilot on github.com to automate tasks, assign agents, prototype ideas, and streamline your entire workflow — all without a...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-on-github-com-a-power-users-guide/",
+      "date": "2025-08-27T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "githubcheckout"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Rediscovering joy in learning: Jason Lengstorf on the state of development",
       "description": "We sit down with Jason Lengstorf on the GitHub Podcast, where he shares his perspective on education, AI, open source, and more. The post Rediscoverin...",
@@ -59,76 +74,91 @@
       "priority": 1
     },
     {
-      "title": "Explore the best of GitHub Universe: 9 spaces built to spark creativity, connect",
-      "description": "See what’s happening at Universe 2025, from experimental dev tools and career coaching to community-powered spaces. Save $400 on your pass with Early ...",
-      "url": "https://github.blog/news-insights/company-news/explore-the-best-of-github-universe-9-spaces-built-to-spark-creativity-connection-and-joy/",
-      "date": "2025-08-21T18:02:34.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "companynews",
-        "newsinsights",
-        "githubuniverse"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Universal database MCP server for MySQL, PostgreSQL, SQL Server, MariaDB,Oracle",
-      "description": "You may visit this Github link: https://github.com/wenb1n-dev/SmartDB_MCP SmartDB is a universal database gateway that implements the Model Context Pr...",
-      "url": "https://dev.to/wenb1ndev/universal-database-mcp-server-for-mysql-postgresql-sql-server-mariadboracle-2cpa",
-      "date": "2025-08-27T06:21:40.000Z",
+      "title": "The Ultimate Guide to mHealth Applications Development",
+      "description": "The growing popularity and the use of mobile technology cannot be ignored at any rate. Every industry is undergoing a revolution, and the healthcare i...",
+      "url": "https://dev.to/jeni860/the-ultimate-guide-to-mhealth-applications-development-5741",
+      "date": "2025-08-28T06:11:55.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "mcp",
-        "mysql",
-        "postgressql"
+        "mhealth",
+        "healthcare",
+        "app"
+      ],
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "Why “All-in-One” Productivity Tools Fail (and What Actually Works)",
+      "description": "Every few months, a new productivity app launches with the same promise: I’ve fallen for that pitch more times than I’d like to admit. Notion, ClickUp...",
+      "url": "https://dev.to/bibhash_dutta_099/why-all-in-one-productivity-tools-fail-and-what-actually-works-3gf7",
+      "date": "2025-08-28T06:10:32.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "discuss",
+        "opensource"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Why Industrial TFT LCD Displays Are the Backbone of Modern Manufacturing",
-      "description": "Industrial environments are evolving fast. From factory floors to outdoor kiosks, digital displays are now critical for real-time monitoring, automati...",
-      "url": "https://dev.to/dora_001/why-industrial-tft-lcd-displays-are-the-backbone-of-modern-manufacturing-3mea",
-      "date": "2025-08-27T06:17:20.000Z",
+      "title": "Top 7 WordPress Icon Plugins You Should Try",
+      "description": "You're building your WordPress site and need icons. Simple enough, right? Then you realize your theme has maybe three decent icons, and they don't mat...",
+      "url": "https://dev.to/masumparvej/top-7-wordpress-icon-plugins-you-should-try-49ed",
+      "date": "2025-08-28T06:09:33.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "tft",
-        "lcd",
-        "display"
+        "webdev",
+        "wordpress",
+        "vue"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "Understanding Classification in Supervised Learning",
+      "description": "Machine learning is everywhere today, from Netflix recommendations to fraud detection . One of the most important techniques behind these systems is s...",
+      "url": "https://dev.to/datawithnaomi/understanding-classification-in-supervised-learning-1h7e",
+      "date": "2025-08-28T06:08:31.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "machinelearning",
+        "datascience",
+        "learning"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "8 Best Practices for Adding an Image Uploader to Your Website",
-      "description": "Imagine this: a student is filling out a lengthy online form in an educational institute, and he is almost done. Finally, he has to upload the scanned...",
-      "url": "https://dev.to/ideradevtools/8-best-practices-for-adding-an-image-uploader-to-your-website-4l8f",
-      "date": "2025-08-27T06:13:23.000Z",
+      "title": "A Radio Button Shopping Cart Trick",
+      "description": "Here's an approach for animating products added to a shopping cart that handles an infinite number of items using a variation of the ol' Checkbox Hack...",
+      "url": "https://css-tricks.com/a-radio-button-shopping-cart-trick/",
+      "date": "2025-08-27T14:18:12.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "filestack",
-        "programming",
-        "javascript"
+        "articles",
+        "animation",
+        "forms"
       ],
-      "readTime": "11 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Alec Steele: How Fine Leather Bags Are Handmade In Great Britain",
-      "description": "How Fine Leather Bags Are Handmade In Great Britain Alec Steele, blacksmith and metal‐crafter extraordinaire, takes you behind the scenes at renowned ...",
-      "url": "https://dev.to/maker_youtube/alec-steele-how-fine-leather-bags-are-handmade-in-great-britain-1oc3",
-      "date": "2025-08-27T06:03:46.000Z",
+      "title": "Designing For TV: The Evergreen Pattern That Shapes TV Experiences",
+      "description": "TV interface design is a unique, fascinating, and often overlooked field. It’s been guided by decades of evolution and innovation, yet still firmly co...",
+      "url": "https://smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/",
+      "date": "2025-08-27T13:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
-        "project",
         "webdev",
-        "javascript"
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -213,36 +243,6 @@
       "description": "AI has introduced huge efficiencies for web designers and is frequently being touted as the key to unlocking sustainable design and development. But d...",
       "url": "https://smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/",
       "date": "2025-08-20T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "3D Layered Text: The Basics",
-      "description": "A client asked me to create a bulging text effect. With a bit of cleverness and some advanced CSS, I managed to get a result I’m genuinely proud of, w...",
-      "url": "https://css-tricks.com/3d-layered-text-the-basics/",
-      "date": "2025-08-18T13:46:00.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "typography",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Beyond The Hype: What AI Can Really Do For Product Design",
-      "description": "AI tools are improving fast, but it’s still not clear how they fit into a real product design workflow. Nikita Samutin walks through four core stages ...",
-      "url": "https://smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/",
-      "date": "2025-08-18T13:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
