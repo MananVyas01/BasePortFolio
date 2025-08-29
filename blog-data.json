@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-28T06:29:57.831Z",
+  "lastUpdated": "2025-08-29T06:29:10.933Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,36 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How GitHub Models can help open source maintainers focus on what matters",
+      "description": "Learn how GitHub Models helps open source maintainers automate repetitive tasks like issue triage, duplicate detection, and contributor onboarding — s...",
+      "url": "https://github.blog/open-source/maintainers/how-github-models-can-help-open-source-maintainers-focus-on-what-matters/",
+      "date": "2025-08-28T19:02:44.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "maintainers",
+        "opensource",
+        "githubmodels"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "How we accelerated Secret Protection engineering with Copilot",
+      "description": "Learn how the Secret Protection engineering team collaborated with GitHub Copilot coding agent to expand validity check coverage. The post How we acce...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-accelerated-secret-protection-engineering-with-copilot/",
+      "date": "2025-08-28T17:08:51.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "applicationsecurity"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How to use GitHub Copilot on github.com: A power user’s guide",
       "description": "Explore how to use GitHub Copilot on github.com to automate tasks, assign agents, prototype ideas, and streamline your entire workflow — all without a...",
@@ -44,91 +74,61 @@
       "priority": 1
     },
     {
-      "title": "Safeguarding VS Code against prompt injections",
-      "description": "When a chat conversation is poisoned by indirect prompt injection, it can result in the exposure of GitHub tokens, confidential files, or even the exe...",
-      "url": "https://github.blog/security/vulnerability-research/safeguarding-vs-code-against-prompt-injections/",
-      "date": "2025-08-25T16:01:12.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "What is GitHub Actions? A Beginner-Friendly Guide with Examples",
+      "description": "Introduction When I was researching how to automate the deployment of a React app, I discovered that it can be done using GitHub Actions. But then I t...",
+      "url": "https://dev.to/a-k-0047/what-is-github-actions-a-beginner-friendly-guide-with-examples-me",
+      "date": "2025-08-29T06:06:25.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "applicationsecurity",
-        "security",
-        "supplychainsecurity"
+        "beginners",
+        "github",
+        "githubactions"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "IGN: Acecraft x Tom and Jerry - Official Crossover Gameplay Trailer",
+      "description": "Acecraft, the mobile aerial shoot ’em up from Skystone Games, just dropped a Tom & Jerry crossover trailer that has the iconic cat and mouse piloting ...",
+      "url": "https://dev.to/gg_news/ign-acecraft-x-tom-and-jerry-official-crossover-gameplay-trailer-4kd1",
+      "date": "2025-08-29T06:00:54.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "indie",
+        "pcgaming",
+        "webdev"
       ],
       "readTime": "1 min read",
-      "priority": 1
+      "priority": 2
     },
     {
-      "title": "Building your first MCP server: How to extend AI tools with custom capabilities",
-      "description": "Learn Model Context Protocol by building a turn-based game server that shows how to extend GitHub Copilot with custom tools, resources, and prompts. T...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/building-your-first-mcp-server-how-to-extend-ai-tools-with-custom-capabilities/",
-      "date": "2025-08-22T16:52:27.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "IGN: Honkai: Nexus Anima - Official 'Side by Side' Teaser Trailer",
+      "description": "Honkai: Nexus Anima – “Side by Side” Teaser Trailer HoYoverse just dropped the announcement teaser for Honkai: Nexus Anima, the newest spin on the Hon...",
+      "url": "https://dev.to/gg_news/ign-honkai-nexus-anima-official-side-by-side-teaser-trailer-1o22",
+      "date": "2025-08-29T06:00:39.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "aiml",
-        "githubcopilot",
-        "rubberduckthursdays"
+        "pcgaming",
+        "indie",
+        "webdev"
       ],
       "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "The Ultimate Guide to mHealth Applications Development",
-      "description": "The growing popularity and the use of mobile technology cannot be ignored at any rate. Every industry is undergoing a revolution, and the healthcare i...",
-      "url": "https://dev.to/jeni860/the-ultimate-guide-to-mhealth-applications-development-5741",
-      "date": "2025-08-28T06:11:55.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "mhealth",
-        "healthcare",
-        "app"
-      ],
-      "readTime": "9 min read",
       "priority": 2
     },
     {
-      "title": "Why “All-in-One” Productivity Tools Fail (and What Actually Works)",
-      "description": "Every few months, a new productivity app launches with the same promise: I’ve fallen for that pitch more times than I’d like to admit. Notion, ClickUp...",
-      "url": "https://dev.to/bibhash_dutta_099/why-all-in-one-productivity-tools-fail-and-what-actually-works-3gf7",
-      "date": "2025-08-28T06:10:32.000Z",
+      "title": "Saving Plans e Instancias Reservadas en AWS",
+      "description": "Los Savings Plans (SP) son un modelo de precios flexibles que ofrecen precios más bajos en comparación con los precios bajo demanda, a cambio de compr...",
+      "url": "https://dev.to/barbara_gaspar/saving-plans-e-instancias-reservadas-en-aws-4jef",
+      "date": "2025-08-29T06:00:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "discuss",
-        "opensource"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Top 7 WordPress Icon Plugins You Should Try",
-      "description": "You're building your WordPress site and need icons. Simple enough, right? Then you realize your theme has maybe three decent icons, and they don't mat...",
-      "url": "https://dev.to/masumparvej/top-7-wordpress-icon-plugins-you-should-try-49ed",
-      "date": "2025-08-28T06:09:33.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "wordpress",
-        "vue"
-      ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "Understanding Classification in Supervised Learning",
-      "description": "Machine learning is everywhere today, from Netflix recommendations to fraud detection . One of the most important techniques behind these systems is s...",
-      "url": "https://dev.to/datawithnaomi/understanding-classification-in-supervised-learning-1h7e",
-      "date": "2025-08-28T06:08:31.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "machinelearning",
-        "datascience",
-        "learning"
+        "savingplans",
+        "instanciasreservadas",
+        "cloudfinancialmanagementaws"
       ],
       "readTime": "3 min read",
       "priority": 2
