@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-29T06:29:10.933Z",
+  "lastUpdated": "2025-08-30T06:26:02.234Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Under the hood: Exploring the AI models powering GitHub Copilot",
+      "description": "Learn how GitHub Copilot’s evolving models and infrastructure center developer choice and power agentic workflows. The post Under the hood: Exploring ...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/under-the-hood-exploring-the-ai-models-powering-github-copilot/",
+      "date": "2025-08-29T16:14:42.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "ai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How GitHub Models can help open source maintainers focus on what matters",
       "description": "Learn how GitHub Models helps open source maintainers automate repetitive tasks like issue triage, duplicate detection, and contributor onboarding — s...",
@@ -59,78 +74,93 @@
       "priority": 1
     },
     {
-      "title": "Rediscovering joy in learning: Jason Lengstorf on the state of development",
-      "description": "We sit down with Jason Lengstorf on the GitHub Podcast, where he shares his perspective on education, AI, open source, and more. The post Rediscoverin...",
-      "url": "https://github.blog/developer-skills/career-growth/rediscovering-joy-in-learning-jason-lengstorf-on-the-state-of-development/",
-      "date": "2025-08-26T16:10:14.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "careergrowth",
-        "developerskills",
-        "githubpodcast"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "What is GitHub Actions? A Beginner-Friendly Guide with Examples",
-      "description": "Introduction When I was researching how to automate the deployment of a React app, I discovered that it can be done using GitHub Actions. But then I t...",
-      "url": "https://dev.to/a-k-0047/what-is-github-actions-a-beginner-friendly-guide-with-examples-me",
-      "date": "2025-08-29T06:06:25.000Z",
+      "title": "Trait-Driven Rust Architecture",
+      "description": "Trait-Driven Rust Architecture This project demonstrates clean architecture principles in Rust using traits, structured error handling, and domain mod...",
+      "url": "https://dev.to/raminfp/trait-driven-rust-architecture-1ife",
+      "date": "2025-08-30T06:22:37.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "beginners",
-        "github",
-        "githubactions"
+        "rust",
+        "architecture",
+        "design"
       ],
-      "readTime": "3 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "IGN: Acecraft x Tom and Jerry - Official Crossover Gameplay Trailer",
-      "description": "Acecraft, the mobile aerial shoot ’em up from Skystone Games, just dropped a Tom & Jerry crossover trailer that has the iconic cat and mouse piloting ...",
-      "url": "https://dev.to/gg_news/ign-acecraft-x-tom-and-jerry-official-crossover-gameplay-trailer-4kd1",
-      "date": "2025-08-29T06:00:54.000Z",
+      "title": "Deploying an n8n AI Chatbot Agent on AWS ECS with Amazon Bedrock",
+      "description": "1. Introduction N8n is a popular workflow automation tool renowned for its robust integration capabilities and built-in AI features. This article prov...",
+      "url": "https://dev.to/aws-builders/deploying-an-n8n-ai-chatbot-agent-on-aws-ecs-with-amazon-bedrock-ock",
+      "date": "2025-08-30T06:16:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "indie",
-        "pcgaming",
-        "webdev"
+        "aws",
+        "n8n",
+        "ecs"
       ],
-      "readTime": "1 min read",
+      "readTime": "9 min read",
       "priority": 2
     },
     {
-      "title": "IGN: Honkai: Nexus Anima - Official 'Side by Side' Teaser Trailer",
-      "description": "Honkai: Nexus Anima – “Side by Side” Teaser Trailer HoYoverse just dropped the announcement teaser for Honkai: Nexus Anima, the newest spin on the Hon...",
-      "url": "https://dev.to/gg_news/ign-honkai-nexus-anima-official-side-by-side-teaser-trailer-1o22",
-      "date": "2025-08-29T06:00:39.000Z",
+      "title": "Critical Vulneribilty on Docker Desktop",
+      "description": "Recently, I saw that a critical vulnerability in Docker Desktop has come into discussion. Guys, for those of us using Docker on Windows or Mac, we nee...",
+      "url": "https://dev.to/ardhrubo/critical-vulneribilty-on-docker-desktop-4ki9",
+      "date": "2025-08-30T06:12:22.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "pcgaming",
-        "indie",
-        "webdev"
+        "docker",
+        "security",
+        "container"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Saving Plans e Instancias Reservadas en AWS",
-      "description": "Los Savings Plans (SP) son un modelo de precios flexibles que ofrecen precios más bajos en comparación con los precios bajo demanda, a cambio de compr...",
-      "url": "https://dev.to/barbara_gaspar/saving-plans-e-instancias-reservadas-en-aws-4jef",
-      "date": "2025-08-29T06:00:00.000Z",
+      "title": "The Day Transformers Stared Back at Me😂",
+      "description": "Table of Contents The Moment of Truth Neural Networks: The Foundation Feed-Forward Networks: One Direction Only RNNs: The Memory Keepers The Problem T...",
+      "url": "https://dev.to/fonyuygita/the-day-transformers-stared-back-at-me-2c1p",
+      "date": "2025-08-30T06:08:22.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "savingplans",
-        "instanciasreservadas",
-        "cloudfinancialmanagementaws"
+        "gpt3",
+        "programming",
+        "machinelearning"
       ],
-      "readTime": "3 min read",
+      "readTime": "19 min read",
+      "priority": 2
+    },
+    {
+      "title": "CSS Elevator: A Pure CSS State Machine With Floor Navigation",
+      "description": "In this article, author Chris Sabourin walk through how modern CSS features can build a fully functional, interactive elevator that knows where it is,...",
+      "url": "https://css-tricks.com/css-elevator-a-pure-css-state-machine-with-floor-navigation/",
+      "date": "2025-08-29T13:06:48.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "animation",
+        "customproperties"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Prompting Is A Design Act: How To Brief, Guide And Iterate With AI",
+      "description": "Prompting is more than giving AI some instructions. You could think of it as a design act, part creative brief and part conversation design. This seco...",
+      "url": "https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/",
+      "date": "2025-08-29T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -213,36 +243,6 @@
       "description": "If you are new to using AI in design or curious about integrating AI into your UX process without losing your human touch, this article offers a groun...",
       "url": "https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/",
       "date": "2025-08-22T08:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "3D Layered Text: Motion and Variations",
-      "description": "In this chapter, we will explore ways to animate the effect, add transitions, and play with different variations. We will look at how motion can enhan...",
-      "url": "https://css-tricks.com/3d-layered-text-motion-and-variations/",
-      "date": "2025-08-20T13:54:52.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "animation",
-        "typography"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Double-Edged Sustainability Sword Of AI In Web Design",
-      "description": "AI has introduced huge efficiencies for web designers and is frequently being touted as the key to unlocking sustainable design and development. But d...",
-      "url": "https://smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/",
-      "date": "2025-08-20T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
