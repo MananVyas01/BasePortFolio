@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-30T06:26:02.234Z",
+  "lastUpdated": "2025-08-31T06:27:09.591Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Trait-Driven Rust Architecture",
-      "description": "Trait-Driven Rust Architecture This project demonstrates clean architecture principles in Rust using traits, structured error handling, and domain mod...",
-      "url": "https://dev.to/raminfp/trait-driven-rust-architecture-1ife",
-      "date": "2025-08-30T06:22:37.000Z",
+      "title": "Supercharge Your React Apps with Signals: The Future of Reactive State Managemen",
+      "description": "The State Management Struggle: A Frontend Dev’s Confession As a frontend developer, I’ve wrestled with state management more times than I’d like to ad...",
+      "url": "https://dev.to/krish_kakadiya_5f0eaf6342/supercharge-your-react-apps-with-signals-the-future-of-reactive-state-management-in-2025-47a3",
+      "date": "2025-08-31T06:17:45.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "rust",
-        "architecture",
-        "design"
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Deploying an n8n AI Chatbot Agent on AWS ECS with Amazon Bedrock",
-      "description": "1. Introduction N8n is a popular workflow automation tool renowned for its robust integration capabilities and built-in AI features. This article prov...",
-      "url": "https://dev.to/aws-builders/deploying-an-n8n-ai-chatbot-agent-on-aws-ecs-with-amazon-bedrock-ock",
-      "date": "2025-08-30T06:16:23.000Z",
+      "title": "Ética e IA: diretrizes e regulamentações",
+      "description": "## Navegando no Labirinto Digital: Leis, Viés e a Responsabilidade da IA O mundo digital está em constante ebulição, e com ele, a forma como coletamos...",
+      "url": "https://dev.to/lucaspereiradesouzat/etica-e-ia-diretrizes-e-regulamentacoes-54oe",
+      "date": "2025-08-31T06:13:24.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "aws",
-        "n8n",
-        "ecs"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "9 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Critical Vulneribilty on Docker Desktop",
-      "description": "Recently, I saw that a critical vulnerability in Docker Desktop has come into discussion. Guys, for those of us using Docker on Windows or Mac, we nee...",
-      "url": "https://dev.to/ardhrubo/critical-vulneribilty-on-docker-desktop-4ki9",
-      "date": "2025-08-30T06:12:22.000Z",
+      "title": "Mono in Spring Boot Explained with Simple Examples",
+      "description": "🟢 Imagine this scenario: @GetMapping(\"/hello\") public String sayHello() { return \"Hello World!\"; } 👉 Here, the method returns a String directly. The...",
+      "url": "https://dev.to/realnamehidden1_61/mono-in-spring-boot-explained-with-simple-examples-45o5",
+      "date": "2025-08-31T06:01:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "docker",
-        "security",
-        "container"
+        "java",
+        "springboot",
+        "interview"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "The Day Transformers Stared Back at Me😂",
-      "description": "Table of Contents The Moment of Truth Neural Networks: The Foundation Feed-Forward Networks: One Direction Only RNNs: The Memory Keepers The Problem T...",
-      "url": "https://dev.to/fonyuygita/the-day-transformers-stared-back-at-me-2c1p",
-      "date": "2025-08-30T06:08:22.000Z",
+      "title": "Building My First React Portfolio: Challenges, Learning, and Growth",
+      "description": "Recently, I started working on my portfolio website with React and Tailwind. I wanted it to have a minimal black and white theme with some subtle anim...",
+      "url": "https://dev.to/minoosh/building-my-first-react-portfolio-challenges-learning-and-growth-59l",
+      "date": "2025-08-31T06:00:19.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "gpt3",
-        "programming",
-        "machinelearning"
+        "react",
+        "tailwindcss",
+        "frontend"
       ],
-      "readTime": "19 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
