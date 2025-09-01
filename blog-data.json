@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-31T06:27:09.591Z",
+  "lastUpdated": "2025-09-01T06:32:30.458Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,8 +8,8 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
@@ -74,63 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Supercharge Your React Apps with Signals: The Future of Reactive State Managemen",
-      "description": "The State Management Struggle: A Frontend Dev’s Confession As a frontend developer, I’ve wrestled with state management more times than I’d like to ad...",
-      "url": "https://dev.to/krish_kakadiya_5f0eaf6342/supercharge-your-react-apps-with-signals-the-future-of-reactive-state-management-in-2025-47a3",
-      "date": "2025-08-31T06:17:45.000Z",
+      "title": "LLM-Sentinel: Shield your AI calls from leaking secrets",
+      "description": "Every day, API keys, tokens, emails, and DB URLs slip into prompts, logs, or demos. Once they hit the LLM, they’re out of your control. I built LLM-Se...",
+      "url": "https://dev.to/raaihank/llm-sentinel-shield-your-ai-calls-from-leaking-secrets-39k4",
+      "date": "2025-09-01T06:26:02.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "Ética e IA: diretrizes e regulamentações",
-      "description": "## Navegando no Labirinto Digital: Leis, Viés e a Responsabilidade da IA O mundo digital está em constante ebulição, e com ele, a forma como coletamos...",
-      "url": "https://dev.to/lucaspereiradesouzat/etica-e-ia-diretrizes-e-regulamentacoes-54oe",
-      "date": "2025-08-31T06:13:24.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Mono in Spring Boot Explained with Simple Examples",
-      "description": "🟢 Imagine this scenario: @GetMapping(\"/hello\") public String sayHello() { return \"Hello World!\"; } 👉 Here, the method returns a String directly. The...",
-      "url": "https://dev.to/realnamehidden1_61/mono-in-spring-boot-explained-with-simple-examples-45o5",
-      "date": "2025-08-31T06:01:31.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "java",
-        "springboot",
-        "interview"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Building My First React Portfolio: Challenges, Learning, and Growth",
-      "description": "Recently, I started working on my portfolio website with React and Tailwind. I wanted it to have a minimal black and white theme with some subtle anim...",
-      "url": "https://dev.to/minoosh/building-my-first-react-portfolio-challenges-learning-and-growth-59l",
-      "date": "2025-08-31T06:00:19.000Z",
+      "title": "Managing Power Automate Flows like a Genius",
+      "description": "Lets be honest, creating Power Automate flows is pretty dam easy (and I don't mean with Copilot), to the point where keeping track of them is.... well...",
+      "url": "https://dev.to/wyattdave/managing-power-automate-flows-like-a-genius-5965",
+      "date": "2025-09-01T06:19:18.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "react",
-        "tailwindcss",
-        "frontend"
+        "powerautomate",
+        "powerplatform",
+        "lowcode"
       ],
-      "readTime": "2 min read",
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "AI Job Matching Agent That Reads Your Resume (n8n + Bright Data Challenge)",
+      "description": "This is a submission for the AI Agents Challenge powered by n8n and Bright Data 👋 Hey everyone! This is my submission to the n8n + Bright Data AI Age...",
+      "url": "https://dev.to/vika2210/ai-job-matching-agent-that-reads-your-resume-n8n-bright-data-challenge-12hf",
+      "date": "2025-09-01T06:16:33.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "ai"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Generate a Barcode with Text in Java Using ZXing",
+      "description": "I recently came across a barcode generation example in Python on X.com, and it inspired me to build something similar in Java. In this post, we’ll gen...",
+      "url": "https://dev.to/yarivanovsky/generate-a-barcode-with-text-in-java-using-zxing-39g8",
+      "date": "2025-09-01T06:16:22.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "java",
+        "zxing",
+        "barcode"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "A Breeze Of Inspiration In September (2025 Wallpapers Edition)",
+      "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? We’ve got some eye-catching designs to make you...",
+      "url": "https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/",
+      "date": "2025-08-31T08:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -234,21 +249,6 @@
         "articles",
         "animation",
         "background"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "A Week In The Life Of An AI-Augmented Designer",
-      "description": "If you are new to using AI in design or curious about integrating AI into your UX process without losing your human touch, this article offers a groun...",
-      "url": "https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/",
-      "date": "2025-08-22T08:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
