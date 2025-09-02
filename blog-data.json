@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-01T06:32:30.458Z",
+  "lastUpdated": "2025-09-02T06:30:31.615Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,10 +74,40 @@
       "priority": 1
     },
     {
-      "title": "LLM-Sentinel: Shield your AI calls from leaking secrets",
-      "description": "Every day, API keys, tokens, emails, and DB URLs slip into prompts, logs, or demos. Once they hit the LLM, they’re out of your control. I built LLM-Se...",
-      "url": "https://dev.to/raaihank/llm-sentinel-shield-your-ai-calls-from-leaking-secrets-39k4",
-      "date": "2025-09-01T06:26:02.000Z",
+      "title": "A Basic Form Order in Juris",
+      "description": "Here is a basic form in Juris. Form...",
+      "url": "https://dev.to/artyprog/a-basic-form-order-in-juris-47he",
+      "date": "2025-09-02T06:18:43.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "juris",
+        "webdev",
+        "javascript"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Concurrent Programming in Android - Part II",
+      "description": "Note : Here are my two tutorials on Android Concurrency Model. Please have a look at these: In the part - I of the discussion on concurrent programmin...",
+      "url": "https://dev.to/sommukhopadhyay/concurrent-programming-in-android-part-ii-7io",
+      "date": "2025-09-02T06:11:12.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "programming",
+        "android",
+        "webdev"
+      ],
+      "readTime": "12 min read",
+      "priority": 2
+    },
+    {
+      "title": "Why You Shouldn’t Ignore Early-Stage Projects",
+      "description": "Most people only hear about a project after it’s trending. By then, the best opportunities are usually gone. That’s why understanding early-stage proj...",
+      "url": "https://dev.to/mkzaman58/why-you-shouldnt-ignore-early-stage-projects-5bgp",
+      "date": "2025-09-02T06:10:24.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -89,48 +119,18 @@
       "priority": 2
     },
     {
-      "title": "Managing Power Automate Flows like a Genius",
-      "description": "Lets be honest, creating Power Automate flows is pretty dam easy (and I don't mean with Copilot), to the point where keeping track of them is.... well...",
-      "url": "https://dev.to/wyattdave/managing-power-automate-flows-like-a-genius-5965",
-      "date": "2025-09-01T06:19:18.000Z",
+      "title": "How Solana Token Development Bridges Blockchain and Real-World Assets",
+      "description": "In recent years, the conversation around blockchain has shifted from being solely about cryptocurrencies to exploring its potential in revolutionizing...",
+      "url": "https://dev.to/glenn_phillips_fe2122fd39/how-solana-token-development-bridges-blockchain-and-real-world-assets-3h6c",
+      "date": "2025-09-02T06:10:11.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "powerautomate",
-        "powerplatform",
-        "lowcode"
+        "blockchain",
+        "web3",
+        "cryptocurrency"
       ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "AI Job Matching Agent That Reads Your Resume (n8n + Bright Data Challenge)",
-      "description": "This is a submission for the AI Agents Challenge powered by n8n and Bright Data 👋 Hey everyone! This is my submission to the n8n + Bright Data AI Age...",
-      "url": "https://dev.to/vika2210/ai-job-matching-agent-that-reads-your-resume-n8n-bright-data-challenge-12hf",
-      "date": "2025-09-01T06:16:33.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "ai"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Generate a Barcode with Text in Java Using ZXing",
-      "description": "I recently came across a barcode generation example in Python on X.com, and it inspired me to build something similar in Java. In this post, we’ll gen...",
-      "url": "https://dev.to/yarivanovsky/generate-a-barcode-with-text-in-java-using-zxing-39g8",
-      "date": "2025-09-01T06:16:22.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "java",
-        "zxing",
-        "barcode"
-      ],
-      "readTime": "4 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
