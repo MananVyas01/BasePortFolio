@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-02T06:30:31.615Z",
+  "lastUpdated": "2025-09-03T06:28:04.547Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Spec-driven development with AI: Get started with a new open source toolkit",
+      "description": "Developers can use their AI tool of choice for spec-driven development with this open source toolkit. The post Spec-driven development with AI: Get st...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/",
+      "date": "2025-09-02T16:48:03.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "githubcopilot"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Under the hood: Exploring the AI models powering GitHub Copilot",
       "description": "Learn how GitHub Copilot’s evolving models and infrastructure center developer choice and power agentic workflows. The post Under the hood: Exploring ...",
@@ -59,55 +74,55 @@
       "priority": 1
     },
     {
-      "title": "How to use GitHub Copilot on github.com: A power user’s guide",
-      "description": "Explore how to use GitHub Copilot on github.com to automate tasks, assign agents, prototype ideas, and streamline your entire workflow — all without a...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-on-github-com-a-power-users-guide/",
-      "date": "2025-08-27T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "githubcheckout"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "A Basic Form Order in Juris",
-      "description": "Here is a basic form in Juris. Form...",
-      "url": "https://dev.to/artyprog/a-basic-form-order-in-juris-47he",
-      "date": "2025-09-02T06:18:43.000Z",
+      "title": "One way to solve the Screen Rotation problem while dealing with Android Asynctas",
+      "description": "In many cases of Android applications employing Asynctask, the Activity that creates the Asynctask, may finish before the background job is actually d...",
+      "url": "https://dev.to/sommukhopadhyay/one-way-to-solve-the-screen-rotation-problem-while-dealing-with-android-asynctask-409d",
+      "date": "2025-09-03T06:10:08.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "juris",
-        "webdev",
-        "javascript"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Concurrent Programming in Android - Part II",
-      "description": "Note : Here are my two tutorials on Android Concurrency Model. Please have a look at these: In the part - I of the discussion on concurrent programmin...",
-      "url": "https://dev.to/sommukhopadhyay/concurrent-programming-in-android-part-ii-7io",
-      "date": "2025-09-02T06:11:12.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "programming",
+        "androiddev",
         "android",
-        "webdev"
+        "java"
       ],
-      "readTime": "12 min read",
+      "readTime": "13 min read",
       "priority": 2
     },
     {
-      "title": "Why You Shouldn’t Ignore Early-Stage Projects",
-      "description": "Most people only hear about a project after it’s trending. By then, the best opportunities are usually gone. That’s why understanding early-stage proj...",
-      "url": "https://dev.to/mkzaman58/why-you-shouldnt-ignore-early-stage-projects-5bgp",
-      "date": "2025-09-02T06:10:24.000Z",
+      "title": "Rust for Beginners: 8 Practical Tips to Get Started",
+      "description": "Intro I've been learning and writing Rust for about 7 years now, but I still remember the beginner frustration where everything felt really difficult ...",
+      "url": "https://dev.to/iolivia/rust-for-beginners-8-practical-tips-to-get-started-1jd",
+      "date": "2025-09-03T06:02:39.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "rust",
+        "beginners",
+        "programming"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "\"Starting Small, Dreaming Big : My Web Dev Dairy\"",
+      "description": "Hi Dev Community👋, It feels challenging at times, but also very exciting! So far, I've learned about HTML tags and elements, and I was even able to c...",
+      "url": "https://dev.to/sharifa_ahmad_af2e7b39b15/starting-small-dreaming-big-my-web-dev-dairy-131d",
+      "date": "2025-09-03T06:01:10.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "beginners",
+        "programming"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "GameSpot: 007 First Light - State of Play Gameplay Deep Dive Livestream",
+      "description": "Watch on YouTube...",
+      "url": "https://dev.to/gg_news/gamespot-007-first-light-state-of-play-gameplay-deep-dive-livestream-pil",
+      "date": "2025-09-03T06:00:35.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -119,18 +134,18 @@
       "priority": 2
     },
     {
-      "title": "How Solana Token Development Bridges Blockchain and Real-World Assets",
-      "description": "In recent years, the conversation around blockchain has shifted from being solely about cryptocurrencies to exploring its potential in revolutionizing...",
-      "url": "https://dev.to/glenn_phillips_fe2122fd39/how-solana-token-development-bridges-blockchain-and-real-world-assets-3h6c",
-      "date": "2025-09-02T06:10:11.000Z",
+      "title": "Should the CSS light-dark() Function Support More Than Light and Dark Values?",
+      "description": "The light-dark() function is currently designed to support just two color schemes. Should it support others? Sunkanmi Fafowora says yes and no. Should...",
+      "url": "https://css-tricks.com/should-the-css-light-dark-function-support-more-than-light-and-dark-values/",
+      "date": "2025-09-02T14:44:26.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "blockchain",
-        "web3",
-        "cryptocurrency"
+        "articles",
+        "color",
+        "cssfunctions"
       ],
-      "readTime": "7 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -234,21 +249,6 @@
         "articles",
         "images",
         "uiixdesign"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "3D Layered Text: Interactivity and Dynamicism",
-      "description": "In this third and final chapter, we’re stepping into interactivity by adding JavaScript, starting with a simple :hover effect, and ending with a fully...",
-      "url": "https://css-tricks.com/3d-layered-text-interactivity-and-dynamism/",
-      "date": "2025-08-22T13:14:31.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "animation",
-        "background"
       ],
       "readTime": "1 min read",
       "priority": 2
