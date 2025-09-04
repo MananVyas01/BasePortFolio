@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-03T06:28:04.547Z",
+  "lastUpdated": "2025-09-04T06:28:41.807Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "5 tips for writing better custom instructions for Copilot",
+      "description": "This guide offers five essential tips for writing effective GitHub Copilot custom instructions, covering project overview, tech stack, coding guidelin...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/5-tips-for-writing-better-custom-instructions-for-copilot/",
+      "date": "2025-09-03T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "agenticworkflows"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Spec-driven development with AI: Get started with a new open source toolkit",
       "description": "Developers can use their AI tool of choice for spec-driven development with this open source toolkit. The post Spec-driven development with AI: Get st...",
@@ -59,78 +74,63 @@
       "priority": 1
     },
     {
-      "title": "How we accelerated Secret Protection engineering with Copilot",
-      "description": "Learn how the Secret Protection engineering team collaborated with GitHub Copilot coding agent to expand validity check coverage. The post How we acce...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-accelerated-secret-protection-engineering-with-copilot/",
-      "date": "2025-08-28T17:08:51.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "applicationsecurity"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "One way to solve the Screen Rotation problem while dealing with Android Asynctas",
-      "description": "In many cases of Android applications employing Asynctask, the Activity that creates the Asynctask, may finish before the background job is actually d...",
-      "url": "https://dev.to/sommukhopadhyay/one-way-to-solve-the-screen-rotation-problem-while-dealing-with-android-asynctask-409d",
-      "date": "2025-09-03T06:10:08.000Z",
+      "title": "How Are Tokenized Stocks Changing the Game for Young Digital Investors?",
+      "description": "The rise of blockchain technology has reshaped various industries, and the financial sector is no exception. Among its most groundbreaking innovations...",
+      "url": "https://dev.to/belly_william_ec336cacf4e/how-are-tokenized-stocks-changing-the-game-for-young-digital-investors-42k",
+      "date": "2025-09-04T06:16:37.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "androiddev",
-        "android",
-        "java"
-      ],
-      "readTime": "13 min read",
-      "priority": 2
-    },
-    {
-      "title": "Rust for Beginners: 8 Practical Tips to Get Started",
-      "description": "Intro I've been learning and writing Rust for about 7 years now, but I still remember the beginner frustration where everything felt really difficult ...",
-      "url": "https://dev.to/iolivia/rust-for-beginners-8-practical-tips-to-get-started-1jd",
-      "date": "2025-09-03T06:02:39.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "rust",
         "beginners",
-        "programming"
+        "blockchain",
+        "learning"
       ],
-      "readTime": "7 min read",
+      "readTime": "10 min read",
       "priority": 2
     },
     {
-      "title": "\"Starting Small, Dreaming Big : My Web Dev Dairy\"",
-      "description": "Hi Dev Community👋, It feels challenging at times, but also very exciting! So far, I've learned about HTML tags and elements, and I was even able to c...",
-      "url": "https://dev.to/sharifa_ahmad_af2e7b39b15/starting-small-dreaming-big-my-web-dev-dairy-131d",
-      "date": "2025-09-03T06:01:10.000Z",
+      "title": "Troubleshooting Broken Function Level Authorization",
+      "description": "APIs are under attack, and Broken Function Level Authorization (BFLA) is a major culprit. BFLA happens when APIs fail to enforce proper permission che...",
+      "url": "https://dev.to/zuplo/troubleshooting-broken-function-level-authorization-3d9p",
+      "date": "2025-09-04T06:15:08.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "beginners",
-        "programming"
+        "security",
+        "api",
+        "webdev"
       ],
-      "readTime": "1 min read",
+      "readTime": "20 min read",
       "priority": 2
     },
     {
-      "title": "GameSpot: 007 First Light - State of Play Gameplay Deep Dive Livestream",
-      "description": "Watch on YouTube...",
-      "url": "https://dev.to/gg_news/gamespot-007-first-light-state-of-play-gameplay-deep-dive-livestream-pil",
-      "date": "2025-09-03T06:00:35.000Z",
+      "title": "Troubleshooting Broken Object Level Authorization",
+      "description": "Broken Object Level Authorization (BOLA) is the top API security risk according to OWASP. It happens when APIs fail to verify if users are authorized ...",
+      "url": "https://dev.to/zuplo/troubleshooting-broken-object-level-authorization-44f1",
+      "date": "2025-09-04T06:14:52.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "security",
+        "api",
+        "webdev"
+      ],
+      "readTime": "17 min read",
+      "priority": 2
+    },
+    {
+      "title": "An Explicit Approach to Async Reactivity",
+      "description": "One of the biggest pain points I've experienced with modern web frameworks is the combination of async logic and reactive bindings. Working with async...",
+      "url": "https://dev.to/tobi_augenstein/an-explicit-approach-to-async-reactivity-45h9",
+      "date": "2025-09-04T06:14:06.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
         "javascript",
-        "css"
+        "typescript"
       ],
-      "readTime": "1 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
