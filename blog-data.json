@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-04T06:28:41.807Z",
+  "lastUpdated": "2025-09-05T06:28:45.524Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,39 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "GitHub is enabling broader access for developers in Syria following new governme",
+      "description": "With the relaxation of sanctions and export controls on Syria, GitHub will once again be broadly available to Syrian developers. The post GitHub is en...",
+      "url": "https://github.blog/company/github-is-enabling-broader-access-for-developers-in-syria-following-new-government-trade-rules/",
+      "date": "2025-09-05T06:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "company"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Building smarter interactions with MCP elicitation: From clunky tool calls to se",
+      "description": "Explore how MCP elicitation transforms AI tool interactions by gathering missing information upfront. The post Building smarter interactions with MCP ...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-smarter-interactions-with-mcp-elicitation-from-clunky-tool-calls-to-seamless-user-experiences/",
+      "date": "2025-09-04T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "generativeai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "5 tips for writing better custom instructions for Copilot",
       "description": "This guide offers five essential tips for writing effective GitHub Copilot custom instructions, covering project overview, tech stack, coding guidelin...",
@@ -44,93 +72,78 @@
       "priority": 1
     },
     {
-      "title": "Under the hood: Exploring the AI models powering GitHub Copilot",
-      "description": "Learn how GitHub Copilot’s evolving models and infrastructure center developer choice and power agentic workflows. The post Under the hood: Exploring ...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/under-the-hood-exploring-the-ai-models-powering-github-copilot/",
-      "date": "2025-08-29T16:14:42.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "ai"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "How GitHub Models can help open source maintainers focus on what matters",
-      "description": "Learn how GitHub Models helps open source maintainers automate repetitive tasks like issue triage, duplicate detection, and contributor onboarding — s...",
-      "url": "https://github.blog/open-source/maintainers/how-github-models-can-help-open-source-maintainers-focus-on-what-matters/",
-      "date": "2025-08-28T19:02:44.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "maintainers",
-        "opensource",
-        "githubmodels"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "How Are Tokenized Stocks Changing the Game for Young Digital Investors?",
-      "description": "The rise of blockchain technology has reshaped various industries, and the financial sector is no exception. Among its most groundbreaking innovations...",
-      "url": "https://dev.to/belly_william_ec336cacf4e/how-are-tokenized-stocks-changing-the-game-for-young-digital-investors-42k",
-      "date": "2025-09-04T06:16:37.000Z",
+      "title": "Latches in C++ 20 concurrency - just like the CountdownLatch of Java concurrency",
+      "description": "Multithreaded programming is inherently difficult. One of the reasons is that we can't have control over how a thread will start and finish - in which...",
+      "url": "https://dev.to/sommukhopadhyay/latches-in-c-20-concurrency-just-like-the-countdownlatch-of-java-concurrency-package-26g9",
+      "date": "2025-09-05T06:24:38.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "beginners",
-        "blockchain",
-        "learning"
+        "cpp",
+        "concurrentprogramming",
+        "cpp20"
       ],
-      "readTime": "10 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Troubleshooting Broken Function Level Authorization",
-      "description": "APIs are under attack, and Broken Function Level Authorization (BFLA) is a major culprit. BFLA happens when APIs fail to enforce proper permission che...",
-      "url": "https://dev.to/zuplo/troubleshooting-broken-function-level-authorization-3d9p",
-      "date": "2025-09-04T06:15:08.000Z",
+      "title": "VIM Editor Tutorial for Beginners – Learn VIM the Easy Way",
+      "description": "VIM is one of the most powerful text editors available in Linux and Unix systems. It can be intimidating for beginners, but once you get the basics, y...",
+      "url": "https://dev.to/kmsaifullah/vim-editor-tutorial-for-beginners-learn-vim-the-easy-way-5bj3",
+      "date": "2025-09-05T06:20:14.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "security",
-        "api",
+        "linux",
+        "devops",
         "webdev"
       ],
-      "readTime": "20 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Troubleshooting Broken Object Level Authorization",
-      "description": "Broken Object Level Authorization (BOLA) is the top API security risk according to OWASP. It happens when APIs fail to verify if users are authorized ...",
-      "url": "https://dev.to/zuplo/troubleshooting-broken-object-level-authorization-44f1",
-      "date": "2025-09-04T06:14:52.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "security",
-        "api",
-        "webdev"
-      ],
-      "readTime": "17 min read",
-      "priority": 2
-    },
-    {
-      "title": "An Explicit Approach to Async Reactivity",
-      "description": "One of the biggest pain points I've experienced with modern web frameworks is the combination of async logic and reactive bindings. Working with async...",
-      "url": "https://dev.to/tobi_augenstein/an-explicit-approach-to-async-reactivity-45h9",
-      "date": "2025-09-04T06:14:06.000Z",
+      "title": "Top 10 Free Frontend UI Libraries & Frameworks for Developers in 2025",
+      "description": "If you’re like me, building beautiful, responsive web apps can sometimes feel like reinventing the wheel. I’ve spent countless hours tweaking CSS, fig...",
+      "url": "https://dev.to/therealmrmumba/top-10-free-frontend-ui-libraries-frameworks-for-developers-in-2025-3h20",
+      "date": "2025-09-05T06:18:24.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "javascript",
-        "typescript"
+        "programming",
+        "javascript"
       ],
-      "readTime": "5 min read",
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Prototype Design Pattern in Python...",
+      "description": "The prototype design pattern is a creational pattern. If the creation of an object is a very costly affair and we already have a similar kind of objec...",
+      "url": "https://dev.to/sommukhopadhyay/prototype-design-pattern-in-python-33ei",
+      "date": "2025-09-05T06:11:19.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "python",
+        "gof",
+        "designpatterns"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Designing For TV: Principles, Patterns And Practical Guidance (Part 2)",
+      "description": "After covering in detail the underlying interaction paradigms of TV experiences in [Part 1](https://www.smashingmagazine.com/2025/08/designing-tv-ever...",
+      "url": "https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/",
+      "date": "2025-09-04T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -209,25 +222,10 @@
       "priority": 2
     },
     {
-      "title": "Designing For TV: The Evergreen Pattern That Shapes TV Experiences",
+      "title": "Designing For TV: The Evergreen Pattern That Shapes TV Experiences (Part 1)",
       "description": "TV interface design is a unique, fascinating, and often overlooked field. It’s been guided by decades of evolution and innovation, yet still firmly co...",
       "url": "https://smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/",
       "date": "2025-08-27T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Optimizing PWAs For Different Display Modes",
-      "description": "Progressive Web Apps (PWAs) are a great way to make apps built for the web feel native, but in moving away from a browser environment, we can introduc...",
-      "url": "https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/",
-      "date": "2025-08-26T08:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
