@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-05T06:28:45.524Z",
+  "lastUpdated": "2025-09-06T06:25:43.985Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How to debug a web app with Playwright MCP and GitHub Copilot",
+      "description": "Reproduce and debug web app issues with ease using the Playwright MCP server and GitHub Copilot. The post How to debug a web app with Playwright MCP a...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-debug-a-web-app-with-playwright-mcp-and-github-copilot/",
+      "date": "2025-09-05T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "mcp"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "GitHub is enabling broader access for developers in Syria following new governme",
       "description": "With the relaxation of sanctions and export controls on Syria, GitHub will once again be broadly available to Syrian developers. The post GitHub is en...",
@@ -57,78 +72,78 @@
       "priority": 1
     },
     {
-      "title": "Spec-driven development with AI: Get started with a new open source toolkit",
-      "description": "Developers can use their AI tool of choice for spec-driven development with this open source toolkit. The post Spec-driven development with AI: Get st...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/",
-      "date": "2025-09-02T16:48:03.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "generativeai",
-        "githubcopilot"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Latches in C++ 20 concurrency - just like the CountdownLatch of Java concurrency",
-      "description": "Multithreaded programming is inherently difficult. One of the reasons is that we can't have control over how a thread will start and finish - in which...",
-      "url": "https://dev.to/sommukhopadhyay/latches-in-c-20-concurrency-just-like-the-countdownlatch-of-java-concurrency-package-26g9",
-      "date": "2025-09-05T06:24:38.000Z",
+      "title": "Part-39: 🔐 GCE VM Authentication in Google Cloud Platform",
+      "description": "When working with Google Compute Engine (GCE), secure authentication is essential for accessing and managing your Virtual Machines (VMs). Depending on...",
+      "url": "https://dev.to/latchudevops/part-39-gce-vm-authentication-in-google-cloud-platform-3nhk",
+      "date": "2025-09-06T06:13:34.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "cpp",
-        "concurrentprogramming",
-        "cpp20"
+        "googlecloud",
+        "cloud",
+        "devops"
       ],
-      "readTime": "3 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "VIM Editor Tutorial for Beginners – Learn VIM the Easy Way",
-      "description": "VIM is one of the most powerful text editors available in Linux and Unix systems. It can be intimidating for beginners, but once you get the basics, y...",
-      "url": "https://dev.to/kmsaifullah/vim-editor-tutorial-for-beginners-learn-vim-the-easy-way-5bj3",
-      "date": "2025-09-05T06:20:14.000Z",
+      "title": "My Command Reference",
+      "description": "Docker Commands Container Management # List all containers (running and stopped) docker ps -a # List only running containers docker ps # Stop all runn...",
+      "url": "https://dev.to/ktauchathuranga/my-command-reference-56ne",
+      "date": "2025-09-06T06:04:37.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "linux",
-        "devops",
-        "webdev"
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Top 10 Free Frontend UI Libraries & Frameworks for Developers in 2025",
-      "description": "If you’re like me, building beautiful, responsive web apps can sometimes feel like reinventing the wheel. I’ve spent countless hours tweaking CSS, fig...",
-      "url": "https://dev.to/therealmrmumba/top-10-free-frontend-ui-libraries-frameworks-for-developers-in-2025-3h20",
-      "date": "2025-09-05T06:18:24.000Z",
+      "title": "🧠 Breaking Negative Thinking Patterns with Cognitive Behavioral Therapy (CBT): ",
+      "description": "A Fresh Take: Why Developers Should Care About CBT We talk a lot about debugging code — but what about debugging our thoughts? As developers, remote w...",
+      "url": "https://dev.to/nvelup_e92618d5196e8d9f43/breaking-negative-thinking-patterns-with-cognitive-behavioral-therapy-cbt-a-practical-guide-39e0",
+      "date": "2025-09-06T05:55:09.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "programming",
-        "javascript"
+        "mentalhealth",
+        "productivity",
+        "cbt"
       ],
-      "readTime": "4 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Prototype Design Pattern in Python...",
-      "description": "The prototype design pattern is a creational pattern. If the creation of an object is a very costly affair and we already have a similar kind of objec...",
-      "url": "https://dev.to/sommukhopadhyay/prototype-design-pattern-in-python-33ei",
-      "date": "2025-09-05T06:11:19.000Z",
+      "title": "Mastering Null and Undefined in JavaScript",
+      "description": "Understanding Null and Undefined in JavaScript JavaScript is a versatile and widely-used programming language, but it can be confusing for developers ...",
+      "url": "https://dev.to/adrahi/mastering-null-and-undefined-in-javascript-10bb",
+      "date": "2025-09-06T05:54:30.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "gof",
-        "designpatterns"
+        "javascript",
+        "null",
+        "undefined"
       ],
-      "readTime": "4 min read",
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "What You Need to Know About CSS Color Interpolation",
+      "description": "Color what? Sunkanmi Fafowora explains how an everyday task for CSS can be used to create better colors experiences. What You Need to Know About CSS C...",
+      "url": "https://css-tricks.com/what-you-need-to-know-about-css-color-interpolation/",
+      "date": "2025-09-05T13:44:06.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "color",
+        "cssfunctions"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -232,21 +247,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Getting Creative With Images in Long-Form Content",
-      "description": "Images in long-form content can (and often should) do more than illustrate. They help set the pace, influence how readers feel, and add character that...",
-      "url": "https://css-tricks.com/getting-creative-with-images-in-long-form-content/",
-      "date": "2025-08-25T17:16:35.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "images",
-        "uiixdesign"
       ],
       "readTime": "1 min read",
       "priority": 2
