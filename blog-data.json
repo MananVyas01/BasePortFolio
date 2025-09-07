@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-06T06:25:43.985Z",
+  "lastUpdated": "2025-09-07T06:25:58.313Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -72,63 +72,63 @@
       "priority": 1
     },
     {
-      "title": "Part-39: 🔐 GCE VM Authentication in Google Cloud Platform",
-      "description": "When working with Google Compute Engine (GCE), secure authentication is essential for accessing and managing your Virtual Machines (VMs). Depending on...",
-      "url": "https://dev.to/latchudevops/part-39-gce-vm-authentication-in-google-cloud-platform-3nhk",
-      "date": "2025-09-06T06:13:34.000Z",
+      "title": "Framepack AI",
+      "description": "Framepack AI: The Revolutionary AI Video Generation Model https://framepackai.org/ Framepack AI is a breakthrough neural network structure for AI vide...",
+      "url": "https://dev.to/leo_king_25a8aa998a261145/framepack-ai-28h1",
+      "date": "2025-09-07T06:19:54.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "googlecloud",
-        "cloud",
-        "devops"
+        "ai",
+        "webdev",
+        "javascript"
       ],
-      "readTime": "7 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "My Command Reference",
-      "description": "Docker Commands Container Management # List all containers (running and stopped) docker ps -a # List only running containers docker ps # Stop all runn...",
-      "url": "https://dev.to/ktauchathuranga/my-command-reference-56ne",
-      "date": "2025-09-06T06:04:37.000Z",
+      "title": "Building a MAC Address Changer in Python: My System-Level Networking Journey",
+      "description": "I recently created a Python tool to explore system-level networking on Linux. The project allows you to view your current MAC address, set a custom MA...",
+      "url": "https://dev.to/trifalic/building-a-mac-address-changer-in-python-my-system-level-networking-journey-27p3",
+      "date": "2025-09-07T06:18:41.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "programming",
+        "python",
+        "ethical"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Python Selenium architecture",
+      "description": "Selenium WebDriver architecture: The architecture of Selenium WebDriver tells about the Working process of Selenium internally. Selenium is one of the...",
+      "url": "https://dev.to/namrata_saha_f82d00e587b0/python-selenium-architecture-4ehj",
+      "date": "2025-09-07T06:08:55.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "selenium",
+        "python",
+        "automation"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Part 4: Migration to RsBuild",
+      "description": "Recap of Part 3. In the previous episode, we added: Jest test runner CSS with PostCSS asset handling bundle-size observability As the boilerplate grow...",
+      "url": "https://dev.to/verthon/part-4-migration-to-rsbuild-5368",
+      "date": "2025-09-07T06:08:33.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "🧠 Breaking Negative Thinking Patterns with Cognitive Behavioral Therapy (CBT): ",
-      "description": "A Fresh Take: Why Developers Should Care About CBT We talk a lot about debugging code — but what about debugging our thoughts? As developers, remote w...",
-      "url": "https://dev.to/nvelup_e92618d5196e8d9f43/breaking-negative-thinking-patterns-with-cognitive-behavioral-therapy-cbt-a-practical-guide-39e0",
-      "date": "2025-09-06T05:55:09.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "mentalhealth",
-        "productivity",
-        "cbt"
+        "webpack",
+        "performance"
       ],
       "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Mastering Null and Undefined in JavaScript",
-      "description": "Understanding Null and Undefined in JavaScript JavaScript is a versatile and widely-used programming language, but it can be confusing for developers ...",
-      "url": "https://dev.to/adrahi/mastering-null-and-undefined-in-javascript-10bb",
-      "date": "2025-09-06T05:54:30.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "javascript",
-        "null",
-        "undefined"
-      ],
-      "readTime": "2 min read",
       "priority": 2
     },
     {
