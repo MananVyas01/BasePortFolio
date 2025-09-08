@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-07T06:25:58.313Z",
+  "lastUpdated": "2025-09-08T06:31:01.825Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -72,63 +72,63 @@
       "priority": 1
     },
     {
-      "title": "Framepack AI",
-      "description": "Framepack AI: The Revolutionary AI Video Generation Model https://framepackai.org/ Framepack AI is a breakthrough neural network structure for AI vide...",
-      "url": "https://dev.to/leo_king_25a8aa998a261145/framepack-ai-28h1",
-      "date": "2025-09-07T06:19:54.000Z",
+      "title": "Serving Private Files from Backblaze B2 in FastAPI",
+      "description": "Serving Private Files from Backblaze B2 in FastAPI I recently needed to serve private files (like PDFs and images) from my FastAPI backend, but I didn...",
+      "url": "https://dev.to/mumbere_darius_ed30fc85dc/serving-private-files-from-backblaze-b2-in-fastapi-3lpo",
+      "date": "2025-09-08T06:16:42.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
         "webdev",
-        "javascript"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Building a MAC Address Changer in Python: My System-Level Networking Journey",
-      "description": "I recently created a Python tool to explore system-level networking on Linux. The project allows you to view your current MAC address, set a custom MA...",
-      "url": "https://dev.to/trifalic/building-a-mac-address-changer-in-python-my-system-level-networking-journey-27p3",
-      "date": "2025-09-07T06:18:41.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
         "programming",
-        "python",
-        "ethical"
+        "fastapi"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Python Selenium architecture",
-      "description": "Selenium WebDriver architecture: The architecture of Selenium WebDriver tells about the Working process of Selenium internally. Selenium is one of the...",
-      "url": "https://dev.to/namrata_saha_f82d00e587b0/python-selenium-architecture-4ehj",
-      "date": "2025-09-07T06:08:55.000Z",
+      "title": "PKI 101: Why Public Key Infrastructure matters",
+      "description": "The Everyday Developer Problem Imagine you’re building a chat app with login and messaging features. It works fine locally, but the moment you put it ...",
+      "url": "https://dev.to/dcs-soni/pki-101-why-public-key-infrastructure-matters-2e9m",
+      "date": "2025-09-08T06:16:17.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "selenium",
-        "python",
-        "automation"
+        "pki",
+        "security",
+        "devops"
       ],
-      "readTime": "1 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "Part 4: Migration to RsBuild",
-      "description": "Recap of Part 3. In the previous episode, we added: Jest test runner CSS with PostCSS asset handling bundle-size observability As the boilerplate grow...",
-      "url": "https://dev.to/verthon/part-4-migration-to-rsbuild-5368",
-      "date": "2025-09-07T06:08:33.000Z",
+      "title": "Will Vibe Coding Kill LowCode",
+      "description": "The short answer is no, the long is still no but its complicated, let me explain. I've seen multiple posts and blogs about how the Power Platform (my ...",
+      "url": "https://dev.to/wyattdave/will-vibe-coding-kill-lowcode-1c37",
+      "date": "2025-09-08T06:14:14.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "webpack",
-        "performance"
+        "powerplatform",
+        "powerapps",
+        "powerautomate"
       ],
-      "readTime": "3 min read",
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "Kubernetes Storage Playlist - Part 2: Implementing Amazon EFS Storage with EKS u",
+      "description": "In this blog, we will walk through how to integrate Amazon Elastic File System (EFS) with Amazon Elastic Kubernetes Service (EKS) using Terraform for ...",
+      "url": "https://dev.to/aws-builders/kubernetes-storage-playlist-part-2-implementing-amazon-efs-storage-with-eks-using-terraform-and-542j",
+      "date": "2025-09-08T06:10:28.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "kubernetes",
+        "aws",
+        "eks"
+      ],
+      "readTime": "18 min read",
       "priority": 2
     },
     {
