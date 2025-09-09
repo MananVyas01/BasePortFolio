@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-08T06:31:01.825Z",
+  "lastUpdated": "2025-09-09T06:30:08.541Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -72,63 +72,78 @@
       "priority": 1
     },
     {
-      "title": "Serving Private Files from Backblaze B2 in FastAPI",
-      "description": "Serving Private Files from Backblaze B2 in FastAPI I recently needed to serve private files (like PDFs and images) from my FastAPI backend, but I didn...",
-      "url": "https://dev.to/mumbere_darius_ed30fc85dc/serving-private-files-from-backblaze-b2-in-fastapi-3lpo",
-      "date": "2025-09-08T06:16:42.000Z",
+      "title": "Signals Form: Introduction",
+      "description": "Introduction and Disclaimer First and foremost, the APIs that will be mentioned in this article are still highly experimental and may be subject to ch...",
+      "url": "https://dev.to/this-is-angular/signals-form-introduction-11d1",
+      "date": "2025-09-09T06:17:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "angular",
+        "news",
+        "typescript"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "Mastering Context and Async Data in Svelte (with Examples)",
+      "description": "Imagine your boss sends a memo that only the intern at the end of the hall really needs. Instead of walking it over, the boss hands it to every manage...",
+      "url": "https://dev.to/a1guy/mastering-context-and-async-data-in-svelte-with-examples-31h8",
+      "date": "2025-09-09T06:14:16.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "svelte",
         "webdev",
-        "programming",
-        "fastapi"
+        "javascript"
+      ],
+      "readTime": "12 min read",
+      "priority": 2
+    },
+    {
+      "title": "CI: A Practical Guide to Continuous Integration",
+      "description": "Hey there, fellow developers! 👋 Ever wondered how large teams manage to integrate their code changes frequently without breaking everything? Or how t...",
+      "url": "https://dev.to/vickdapro/ci-a-practical-guide-to-continuous-integration-f7f",
+      "date": "2025-09-09T06:12:53.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ci",
+        "devops",
+        "automatedtesting"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Role & Permission Based Access Control in React (Static Access)",
+      "description": "When building an admin panel, one of the most important concerns is how to handle access control. Not every user should be able to see or do everythin...",
+      "url": "https://dev.to/naserrasouli/role-permission-based-access-control-in-react-static-access-4ac2",
+      "date": "2025-09-09T06:09:57.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "react",
+        "typescript",
+        "javascript"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Composition in CSS",
+      "description": "CSS is a composable language by nature. This composition nature is already built into the cascade. We simply don't talk about composition as a Big Thi...",
+      "url": "https://css-tricks.com/composition-in-css/",
+      "date": "2025-09-08T13:55:26.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "cascade",
+        "css"
       ],
       "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "PKI 101: Why Public Key Infrastructure matters",
-      "description": "The Everyday Developer Problem Imagine you’re building a chat app with login and messaging features. It works fine locally, but the moment you put it ...",
-      "url": "https://dev.to/dcs-soni/pki-101-why-public-key-infrastructure-matters-2e9m",
-      "date": "2025-09-08T06:16:17.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "pki",
-        "security",
-        "devops"
-      ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "Will Vibe Coding Kill LowCode",
-      "description": "The short answer is no, the long is still no but its complicated, let me explain. I've seen multiple posts and blogs about how the Power Platform (my ...",
-      "url": "https://dev.to/wyattdave/will-vibe-coding-kill-lowcode-1c37",
-      "date": "2025-09-08T06:14:14.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "powerplatform",
-        "powerapps",
-        "powerautomate"
-      ],
-      "readTime": "9 min read",
-      "priority": 2
-    },
-    {
-      "title": "Kubernetes Storage Playlist - Part 2: Implementing Amazon EFS Storage with EKS u",
-      "description": "In this blog, we will walk through how to integrate Amazon Elastic File System (EFS) with Amazon Elastic Kubernetes Service (EKS) using Terraform for ...",
-      "url": "https://dev.to/aws-builders/kubernetes-storage-playlist-part-2-implementing-amazon-efs-storage-with-eks-using-terraform-and-542j",
-      "date": "2025-09-08T06:10:28.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "kubernetes",
-        "aws",
-        "eks"
-      ],
-      "readTime": "18 min read",
       "priority": 2
     },
     {
@@ -217,21 +232,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "A Radio Button Shopping Cart Trick",
-      "description": "Here's an approach for animating products added to a shopping cart that handles an infinite number of items using a variation of the ol' Checkbox Hack...",
-      "url": "https://css-tricks.com/a-radio-button-shopping-cart-trick/",
-      "date": "2025-08-27T14:18:12.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "animation",
-        "forms"
       ],
       "readTime": "1 min read",
       "priority": 2
