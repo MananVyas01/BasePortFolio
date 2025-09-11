@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-10T06:29:02.831Z",
+  "lastUpdated": "2025-09-11T06:29:38.283Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Your guide to GitHub Universe 2025: The schedule just launched!",
+      "description": "Create your own agenda of favorites, sign up for one-on-on mentoring sessions, and register if you haven’t already. We’ll see you there! The post Your...",
+      "url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2025-the-schedule-just-launched/",
+      "date": "2025-09-10T20:52:28.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "companynews",
+        "newsinsights",
+        "githubuniverse"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How to use the GitHub and JFrog integration for secure, traceable builds from co",
       "description": "Connect commits to artifacts without switching tools. The post How to use the GitHub and JFrog integration for secure, traceable builds from commit to...",
@@ -57,40 +72,25 @@
       "priority": 1
     },
     {
-      "title": "Building smarter interactions with MCP elicitation: From clunky tool calls to se",
-      "description": "Explore how MCP elicitation transforms AI tool interactions by gathering missing information upfront. The post Building smarter interactions with MCP ...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/building-smarter-interactions-with-mcp-elicitation-from-clunky-tool-calls-to-seamless-user-experiences/",
-      "date": "2025-09-04T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "generativeai"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Digital Twins 2.0: AI-Powered Real-Time Models for Developers",
-      "description": "Digital twins aren’t just a buzzword anymore; they’ve gone from nice-to-have simulations to strategic, AI-powered systems that mirror live processes, ...",
-      "url": "https://dev.to/jyothsna_devi_a41eee1ca3f/digital-twins-20-ai-powered-real-time-models-for-developers-3937",
-      "date": "2025-09-10T06:26:06.000Z",
+      "title": "React Server Components: They're Not What You Think (And They Change Everything)",
+      "description": "You've heard the buzz. You've seen the cryptic Next.js docs. Maybe you've even tried to use them and got thoroughly confused. React Server Components ...",
+      "url": "https://dev.to/ilsa_shaikh_089e2bfab0bf4/react-server-components-theyre-not-what-you-think-and-they-change-everything-55fk",
+      "date": "2025-09-11T06:20:03.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "digitaltwins",
-        "developercommunity"
+        "react",
+        "performance"
       ],
-      "readTime": "3 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Promise in JavaScript",
-      "description": "Promise A Promise in JavaScript is an object that represents the eventual completion (success) or failure of an asynchronous operation and its resulti...",
-      "url": "https://dev.to/bhuvanasri/promise-in-javascript-1gee",
-      "date": "2025-09-10T06:14:54.000Z",
+      "title": "How to Setup Robotics and Coding Lab for Schools: Complete 2025 Guide",
+      "description": "Setting up a robotics and coding lab transforms your school into a hub of innovation and future-ready learning. As technology continues reshaping educ...",
+      "url": "https://dev.to/makers_muse/how-to-setup-robotics-and-coding-lab-for-schools-complete-2025-guide-461b",
+      "date": "2025-09-11T06:17:06.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -98,37 +98,67 @@
         "javascript",
         "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Explaining the LMAX Disruptor",
-      "description": "More than a decade ago, the LMAX Disruptor pattern entered the scene. I found it interesting. But frankly had trouble wrapping my head around it. It w...",
-      "url": "https://dev.to/kspeakman/explaining-the-lmax-disruptor-jkd",
-      "date": "2025-09-10T06:05:29.000Z",
+      "title": "Auto-Magic: Generating Function Stubs with Evolutionary Algorithms",
+      "description": "Auto-Magic: Generating Function Stubs with Evolutionary Algorithms Tired of symbolic execution grinding to a halt when it hits an external function? D...",
+      "url": "https://dev.to/arvindsundararajan/auto-magic-generating-function-stubs-with-evolutionary-algorithms-1355",
+      "date": "2025-09-11T06:12:25.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "jvm",
-        "architecture",
-        "programming"
+        "testing",
+        "security",
+        "ai"
       ],
-      "readTime": "6 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "I Didn't Understand Program.cs in .NET, So I Wrote This",
-      "description": "When I created a new ASP.NET Core Web App (Model-View-Controller) project in .NET 8, I found there were some lines I didn't fully understand. So, I'm ...",
-      "url": "https://dev.to/fakestandard/i-didnt-understand-programcs-in-net-8-so-i-wrote-this-1mpf",
-      "date": "2025-09-10T06:05:00.000Z",
+      "title": "Timeboxing: The Secret Weapon of True Agility",
+      "description": "Imagine this: You sit down to finish a task, and hours later you’re still tweaking the same line of code, polishing a pixel, or overthinking the \"perf...",
+      "url": "https://dev.to/dct_technology/timeboxing-the-secret-weapon-of-true-agility-33mb",
+      "date": "2025-09-11T06:11:43.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "dotnet",
-        "csharp",
-        "webdev"
+        "agile",
+        "webdev",
+        "timeboxing"
       ],
-      "readTime": "2 min read",
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "What’re Your Top 4 CSS Properties?",
+      "description": "Everyone has a different opinion which is great because it demonstrates the messy, non-linear craft that is thinking like a front-end developer. What’...",
+      "url": "https://css-tricks.com/whatre-your-top-4-css-properties/",
+      "date": "2025-09-10T13:13:41.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "cssproperties",
+        "opinion"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Integrating CSS Cascade Layers To An Existing Project",
+      "description": "The idea behind this is to share a full, unfiltered look at integrating CSS Cascade Layers into an existing legacy codebase. In practice, it’s about r...",
+      "url": "https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/",
+      "date": "2025-09-10T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -207,40 +237,10 @@
       "priority": 2
     },
     {
-      "title": "CSS Elevator: A Pure CSS State Machine With Floor Navigation",
-      "description": "In this article, author Chris Sabourin walk through how modern CSS features can build a fully functional, interactive elevator that knows where it is,...",
-      "url": "https://css-tricks.com/css-elevator-a-pure-css-state-machine-with-floor-navigation/",
-      "date": "2025-08-29T13:06:48.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "animation",
-        "customproperties"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Prompting Is A Design Act: How To Brief, Guide And Iterate With AI",
       "description": "Prompting is more than giving AI some instructions. You could think of it as a design act, part creative brief and part conversation design. This seco...",
       "url": "https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/",
       "date": "2025-08-29T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Designing For TV: The Evergreen Pattern That Shapes TV Experiences (Part 1)",
-      "description": "TV interface design is a unique, fascinating, and often overlooked field. It’s been guided by decades of evolution and innovation, yet still firmly co...",
-      "url": "https://smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/",
-      "date": "2025-08-27T13:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
