@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-12T06:28:58.579Z",
+  "lastUpdated": "2025-09-13T06:25:40.285Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Building personal apps with open source and AI",
+      "description": "Hear about the personal tools we use to improve our workflows (and how to get started building your own) on this episode of the GitHub Podcast. The po...",
+      "url": "https://github.blog/open-source/maintainers/building-personal-apps-with-open-source-and-ai/",
+      "date": "2025-09-12T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "maintainers",
+        "opensource",
+        "ai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "GitHub Availability Report: August 2025",
       "description": "In August, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: August 20...",
@@ -59,78 +74,93 @@
       "priority": 1
     },
     {
-      "title": "How to use the GitHub and JFrog integration for secure, traceable builds from co",
-      "description": "Connect commits to artifacts without switching tools. The post How to use the GitHub and JFrog integration for secure, traceable builds from commit to...",
-      "url": "https://github.blog/enterprise-software/devsecops/how-to-use-the-github-and-jfrog-integration-for-secure-traceable-builds-from-commit-to-production/",
-      "date": "2025-09-09T22:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "HTMX Dependent Dropdowns: 5 Strategies I Learned the Hard Way",
+      "description": "A fellow developer's guide to building reactive forms without the framework bloat Hey there! 👋 So I've been on this journey lately to become what I c...",
+      "url": "https://dev.to/sisproid/htmx-dependent-dropdowns-5-strategies-i-learned-the-hard-way-2lj5",
+      "date": "2025-09-13T06:18:10.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "devsecops",
-        "enterprisesoftware",
-        "compliance"
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "Meet Super Banana 🍌",
+      "description": "This is a submission for the Google AI Studio Multimodal Challenge Content is king, but eye-catching visuals are the gatekeepers. For creators and e-c...",
+      "url": "https://dev.to/abhinav-writes/meet-super-banana-7hf",
+      "date": "2025-09-13T06:16:38.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "devchallenge",
+        "googleaichallenge",
+        "ai"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Proving God with JavaScript? A React & TypeScript Experiment",
+      "description": "Have you ever wondered if it's possible to simulate philosophical arguments using code? That's exactly what inspired me to build GodSim — an interacti...",
+      "url": "https://dev.to/aelassas/proving-god-with-javascript-a-react-typescript-experiment-2c3m",
+      "date": "2025-09-13T06:12:58.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "typescript"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "Quantum Composition: Teaching AI to Paint Like Picasso",
+      "description": "Quantum Composition: Teaching AI to Paint Like Picasso Imagine AI that doesn't just regurgitate what it's seen, but truly understands how to combine c...",
+      "url": "https://dev.to/arvindsundararajan/quantum-composition-teaching-ai-to-paint-like-picasso-3dnd",
+      "date": "2025-09-13T06:12:24.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "quantumcomputing",
+        "machinelearning",
+        "ai"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "From Data To Decisions: UX Strategies For Real-Time Dashboards",
+      "description": "Real-time dashboards are decision assistants, not passive displays. In environments like fleet management, healthcare, and operations, the cost of a d...",
+      "url": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
+      "date": "2025-09-12T15:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Let the Agent Fly: How kiro’s Spec-Driven Loop Turns “Documentation Absolutism” ",
-      "description": "Let the Agent Fly: How kiro’s Spec-Driven Loop Turns “Documentation Absolutism” into Velocity Reality check: Management demands assurance & documentat...",
-      "url": "https://dev.to/subara3/let-the-agent-fly-how-kiros-spec-driven-loop-turns-documentation-absolutism-into-velocity-38ac",
-      "date": "2025-09-12T06:23:07.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "kiro",
-        "webdev",
-        "javascript"
-      ],
-      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Lessons & Practices for Building and Optimizing Multi-Agent RAG Systems with DSP",
-      "description": "Introduction Recap: DSPy + GEPA Setup DSPy is a declarative framework for composing LM modules, tools, agents, etc. It lets you write more structured ...",
-      "url": "https://dev.to/sky_yv_11b3d5d44877d27276/lessons-practices-for-building-and-optimizing-multi-agent-rag-systems-with-dspy-and-gepa-2lh7",
-      "date": "2025-09-12T06:19:42.000Z",
+      "title": "What Can We Actually Do With corner-shape?",
+      "description": "When I first started messing around with code, rounded corners required five background images or an image sprite likely created in Photoshop, so when...",
+      "url": "https://css-tricks.com/what-can-we-actually-do-with-corner-shape/",
+      "date": "2025-09-12T14:20:45.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "rag",
-        "llm",
-        "python"
+        "articles",
+        "cssproperties",
+        "shapes"
       ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "Why Most AI Agents Fail in Production (And How to Build Ones That Don’t)",
-      "description": "Why Most AI Agents Fail in Production (And How to Build Ones That Don’t) Common Failure Modes of AI Agents in Production Chasing flashy demos, not dur...",
-      "url": "https://dev.to/sky_yv_11b3d5d44877d27276/why-most-ai-agents-fail-in-production-and-how-to-build-ones-that-dont-1c00",
-      "date": "2025-09-12T06:19:14.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "Top Features of C Language Every Beginner Should Know",
-      "description": "C language is often called the mother of all programming languages, and for good reason. Developed by Dennis Ritchie at Bell Labs in 1972, C laid the ...",
-      "url": "https://dev.to/suraj_kumar_fb57ae0928df2/top-features-of-c-language-every-beginner-should-know-235e",
-      "date": "2025-09-12T06:18:24.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "5 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -194,21 +224,6 @@
       "priority": 2
     },
     {
-      "title": "What You Need to Know About CSS Color Interpolation",
-      "description": "Color what? Sunkanmi Fafowora explains how an everyday task for CSS can be used to create better colors experiences. What You Need to Know About CSS C...",
-      "url": "https://css-tricks.com/what-you-need-to-know-about-css-color-interpolation/",
-      "date": "2025-09-05T13:44:06.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "color",
-        "cssfunctions"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Designing For TV: Principles, Patterns And Practical Guidance (Part 2)",
       "description": "After covering in detail the underlying interaction paradigms of TV experiences in [Part 1](https://www.smashingmagazine.com/2025/08/designing-tv-ever...",
       "url": "https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/",
@@ -228,21 +243,6 @@
       "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? We’ve got some eye-catching designs to make you...",
       "url": "https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/",
       "date": "2025-08-31T08:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Prompting Is A Design Act: How To Brief, Guide And Iterate With AI",
-      "description": "Prompting is more than giving AI some instructions. You could think of it as a design act, part creative brief and part conversation design. This seco...",
-      "url": "https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/",
-      "date": "2025-08-29T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
