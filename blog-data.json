@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-14T06:26:11.277Z",
+  "lastUpdated": "2025-09-15T06:31:05.808Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,55 +74,55 @@
       "priority": 1
     },
     {
-      "title": "Best UI Animation Libraries & Inspiration for Modern Designers",
-      "description": "In today’s digital world, UI animation is more than just eye candy it enhances usability, guides interactions, and creates delightful experiences. Whe...",
-      "url": "https://dev.to/tamim_ahmed_412f3d75a7fc0/best-ui-animation-libraries-inspiration-for-modern-designers-257f",
-      "date": "2025-09-14T06:01:35.000Z",
+      "title": "Security Risks and Improvement Strategies for Multi-Channel OTP Fallback",
+      "description": "Since March 2023, when WhatsApp officially launched Authentication Templates, major cloud communication platforms (such as Twilio Verify, Vonage, Sinc...",
+      "url": "https://dev.to/lunarecho/security-risks-and-improvement-strategies-for-multi-channel-otp-fallback-3mec",
+      "date": "2025-09-15T06:20:55.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
+        "architecture",
+        "cloud",
+        "security"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "JavaScript Numbers: The Ultimate Guide for Developers",
+      "description": "JavaScript Numbers: The Ultimate Guide for Developers Welcome to the world of JavaScript numbers. They seem simple on the surface—just digits and a de...",
+      "url": "https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-numbers-the-ultimate-guide-for-developers-40nf",
+      "date": "2025-09-15T06:20:33.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "java",
         "javascript",
-        "css"
+        "webdev"
       ],
-      "readTime": "2 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Referenceable: Generate Unique Laravel Model References the",
-      "description": "In many web applications, generating unique reference numbers for models is a common requirement. an e-commerce platform that needs order numbers, an ...",
-      "url": "https://dev.to/eg-mohamed/referenceable-generate-unique-laravel-model-references-the-400n",
-      "date": "2025-09-14T05:59:57.000Z",
+      "title": "My Web Dev Journey Begins 🚀",
+      "description": "Hey everyone, I’m Nikhil Sharma, an upcoming full-stack developer. Day 1 of my learning journey. Right now, I’m starting with the fundamentals: HTML, ...",
+      "url": "https://dev.to/nikhilsharma6/my-web-dev-journey-begins-lca",
+      "date": "2025-09-15T06:20:26.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "laravel",
-        "php",
-        "opensource"
+        "codenewbie",
+        "beginners",
+        "webdev"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "How to get a job without losing your mind!",
-      "description": "What's up, everyone! How's it going? 😎 Welcome to another vlog where we're going to talk about something that's kept us all up at night: How to get a...",
-      "url": "https://dev.to/jestebandev/how-to-get-a-job-without-losing-your-mind-3ifg",
-      "date": "2025-09-14T05:53:51.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "career",
-        "mentalhealth",
-        "motivation"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "🌟 Story Weaver: An AI-Powered Multimodal App for Crafting and Experiencing Stor",
-      "description": "This is a submission for the Google AI Studio Multimodal Challenge I built StoryWeaver AI, a multimodal storytelling web application powered by Google...",
-      "url": "https://dev.to/pravesh_sudha_3c2b0c2b5e0/story-weaver-an-ai-powered-multimodal-app-for-crafting-and-experiencing-stories-5a55",
-      "date": "2025-09-14T05:53:47.000Z",
+      "title": "Bharat Vesh: Try On India’s Traditions with AI",
+      "description": "This is a submission for the Google AI Studio Multimodal Challenge I built Bharat Vesh, an interactive and culturally rich AI applet that allows users...",
+      "url": "https://dev.to/akshatbindal/bharat-vesh-try-on-indias-traditions-with-ai-1gj3",
+      "date": "2025-09-15T06:13:18.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
