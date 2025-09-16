@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-15T06:31:05.808Z",
+  "lastUpdated": "2025-09-16T06:29:27.866Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Post-quantum security for SSH access on GitHub",
+      "description": "GitHub is introducing post-quantum secure key exchange methods for SSH access to better protect Git data in transit. The post Post-quantum security fo...",
+      "url": "https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/",
+      "date": "2025-09-15T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "engineering",
+        "platformsecurity",
+        "git"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Building personal apps with open source and AI",
       "description": "Hear about the personal tools we use to improve our workflows (and how to get started building your own) on this episode of the GitHub Podcast. The po...",
@@ -59,78 +74,93 @@
       "priority": 1
     },
     {
-      "title": "Your guide to GitHub Universe 2025: The schedule just launched!",
-      "description": "Create your own agenda of favorites, sign up for one-on-on mentoring sessions, and register if you haven’t already. We’ll see you there! The post Your...",
-      "url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2025-the-schedule-just-launched/",
-      "date": "2025-09-10T20:52:28.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "companynews",
-        "newsinsights",
-        "githubuniverse"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Security Risks and Improvement Strategies for Multi-Channel OTP Fallback",
-      "description": "Since March 2023, when WhatsApp officially launched Authentication Templates, major cloud communication platforms (such as Twilio Verify, Vonage, Sinc...",
-      "url": "https://dev.to/lunarecho/security-risks-and-improvement-strategies-for-multi-channel-otp-fallback-3mec",
-      "date": "2025-09-15T06:20:55.000Z",
+      "title": "How to Deal with MCP “Tool Poisoning”",
+      "description": "Overview Introduction to MCP MCP “Tool Poisoning” Attack The tool poisoning attack is a covert attack method implemented through the Model Control Pro...",
+      "url": "https://dev.to/observabilityguy/how-to-deal-with-mcp-tool-poisoning-31d6",
+      "date": "2025-09-16T06:24:54.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "architecture",
-        "cloud",
-        "security"
+        "tooling",
+        "mcp",
+        "llm"
       ],
-      "readTime": "2 min read",
+      "readTime": "20 min read",
       "priority": 2
     },
     {
-      "title": "JavaScript Numbers: The Ultimate Guide for Developers",
-      "description": "JavaScript Numbers: The Ultimate Guide for Developers Welcome to the world of JavaScript numbers. They seem simple on the surface—just digits and a de...",
-      "url": "https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-numbers-the-ultimate-guide-for-developers-40nf",
-      "date": "2025-09-15T06:20:33.000Z",
+      "title": "A Beginner’s Guide to Channel Attribution Modeling in Marketing (with Markov Cha",
+      "description": "Introduction In today’s digital-first world, a customer rarely makes a purchase decision after just one interaction. Instead, they typically pass thro...",
+      "url": "https://dev.to/thedatageek/a-beginners-guide-to-channel-attribution-modeling-in-marketing-with-markov-chains-and-an-r-case-3m03",
+      "date": "2025-09-16T06:21:25.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "java",
-        "javascript",
+        "marketing",
+        "datascience",
+        "tutorial"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Stop Repeating Yourself: How Custom Hooks Will Change Your React Code Forever",
+      "description": "Let's be real. Have you ever copied and pasted the same chunk of code between two different React components? Maybe it was code to: Fetch data from an...",
+      "url": "https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-repeating-yourself-how-custom-hooks-will-change-your-react-code-forever-36i",
+      "date": "2025-09-16T06:12:23.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "react",
+        "programming",
         "webdev"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "My Web Dev Journey Begins 🚀",
-      "description": "Hey everyone, I’m Nikhil Sharma, an upcoming full-stack developer. Day 1 of my learning journey. Right now, I’m starting with the fundamentals: HTML, ...",
-      "url": "https://dev.to/nikhilsharma6/my-web-dev-journey-begins-lca",
-      "date": "2025-09-15T06:20:26.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "codenewbie",
-        "beginners",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Bharat Vesh: Try On India’s Traditions with AI",
-      "description": "This is a submission for the Google AI Studio Multimodal Challenge I built Bharat Vesh, an interactive and culturally rich AI applet that allows users...",
-      "url": "https://dev.to/akshatbindal/bharat-vesh-try-on-indias-traditions-with-ai-1gj3",
-      "date": "2025-09-15T06:13:18.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "devchallenge",
-        "googleaichallenge",
-        "ai"
       ],
       "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Ringer Movies: ‘Tin Cup’ — Classic Sports Movie, Flawed Classic, or Both? | The ",
+      "description": "What’s the Deal? The Ringer crew—Bill Simmons, Joe House and Craig Horlbeck—hit the links on the 1996 Kevin Costner golf flick Tin Cup, weighing its c...",
+      "url": "https://dev.to/popcorn_movies/ringer-movies-tin-cup-classic-sports-movie-flawed-classic-or-both-the-rewatchables-4dal",
+      "date": "2025-09-16T06:00:50.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "movies",
+        "reviews",
+        "webdev"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "The “Most Hated” CSS Feature: cos() and sin()",
+      "description": "I want to look at practical uses for CSS trigonometric functions. And we'll start with what may be the most popular functions of the \"worst\" feature: ...",
+      "url": "https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/",
+      "date": "2025-09-15T14:31:06.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "animations",
+        "math"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Creating Elastic And Bounce Effects With Expressive Animator",
+      "description": "Elastic and bounce effects have long been among the most desirable but time-consuming techniques in motion design. Expressive Animator streamlines the...",
+      "url": "https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/",
+      "date": "2025-09-15T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -209,40 +239,10 @@
       "priority": 2
     },
     {
-      "title": "Composition in CSS",
-      "description": "CSS is a composable language by nature. This composition nature is already built into the cascade. We simply don't talk about composition as a Big Thi...",
-      "url": "https://css-tricks.com/composition-in-css/",
-      "date": "2025-09-08T13:55:26.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "cascade",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Designing For TV: Principles, Patterns And Practical Guidance (Part 2)",
       "description": "After covering in detail the underlying interaction paradigms of TV experiences in [Part 1](https://www.smashingmagazine.com/2025/08/designing-tv-ever...",
       "url": "https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/",
       "date": "2025-09-04T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "A Breeze Of Inspiration In September (2025 Wallpapers Edition)",
-      "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? We’ve got some eye-catching designs to make you...",
-      "url": "https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/",
-      "date": "2025-08-31T08:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
