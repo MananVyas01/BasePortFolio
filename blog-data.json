@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-16T06:29:27.866Z",
+  "lastUpdated": "2025-09-17T06:29:30.117Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Meet the GitHub MCP Registry: The fastest way to discover MCP Servers",
+      "description": "This is your new home base for discovering MCP servers. Learn how we’re working with the broader community on MCP publication and discovery. The post ...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/meet-the-github-mcp-registry-the-fastest-way-to-discover-mcp-servers/",
+      "date": "2025-09-16T16:27:54.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "mcp"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Post-quantum security for SSH access on GitHub",
       "description": "GitHub is introducing post-quantum secure key exchange methods for SSH access to better protect Git data in transit. The post Post-quantum security fo...",
@@ -59,76 +74,91 @@
       "priority": 1
     },
     {
-      "title": "GitHub Copilot coding agent 101: Getting started with agentic workflows on GitHu",
-      "description": "Delegate it a task, and coding agent can independently write, run, and test code. Here’s how you can make the most of it. The post GitHub Copilot codi...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-coding-agent-101-getting-started-with-agentic-workflows-on-github/",
-      "date": "2025-09-11T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "ai"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "How to Deal with MCP “Tool Poisoning”",
-      "description": "Overview Introduction to MCP MCP “Tool Poisoning” Attack The tool poisoning attack is a covert attack method implemented through the Model Control Pro...",
-      "url": "https://dev.to/observabilityguy/how-to-deal-with-mcp-tool-poisoning-31d6",
-      "date": "2025-09-16T06:24:54.000Z",
+      "title": "When (Not If) Containers Misbehave",
+      "description": "In my previous article, Fargate + Lambda are better together, I introduced the concept of a hybrid architecture where I can route traffic between ECS ...",
+      "url": "https://dev.to/aws-builders/when-not-if-containers-misbehave-1kao",
+      "date": "2025-09-17T06:27:30.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "tooling",
-        "mcp",
-        "llm"
+        "serverless",
+        "aws",
+        "container"
       ],
-      "readTime": "20 min read",
+      "readTime": "11 min read",
       "priority": 2
     },
     {
-      "title": "A Beginner’s Guide to Channel Attribution Modeling in Marketing (with Markov Cha",
-      "description": "Introduction In today’s digital-first world, a customer rarely makes a purchase decision after just one interaction. Instead, they typically pass thro...",
-      "url": "https://dev.to/thedatageek/a-beginners-guide-to-channel-attribution-modeling-in-marketing-with-markov-chains-and-an-r-case-3m03",
-      "date": "2025-09-16T06:21:25.000Z",
+      "title": "Build a Full-Stack QR Code Generator in MERN with GraphQL & MongoDB (No External",
+      "description": "Have you ever found yourself in a situation where you needed to generate a QR code for a URL but didn't want to rely on external APIs? So, as the wedd...",
+      "url": "https://dev.to/lfariaus/build-a-full-stack-qr-code-generator-in-mern-with-graphql-mongodb-no-external-api-needed-1fbg",
+      "date": "2025-09-17T06:24:46.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "marketing",
-        "datascience",
-        "tutorial"
+        "node",
+        "graphql",
+        "mongodb"
       ],
       "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Stop Repeating Yourself: How Custom Hooks Will Change Your React Code Forever",
-      "description": "Let's be real. Have you ever copied and pasted the same chunk of code between two different React components? Maybe it was code to: Fetch data from an...",
-      "url": "https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-repeating-yourself-how-custom-hooks-will-change-your-react-code-forever-36i",
-      "date": "2025-09-16T06:12:23.000Z",
+      "title": "When JS blocks parsing your HTML",
+      "description": "A browser builds a webpage step by step: Reads the HTML file top to bottom. It converts the text into tokens, then into the DOM tree. If the browser e...",
+      "url": "https://dev.to/rinonten/when-js-blocks-parsing-your-html-29jm",
+      "date": "2025-09-17T06:24:39.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "react",
-        "programming",
-        "webdev"
+        "webdev",
+        "beginners",
+        "javascript"
       ],
-      "readTime": "3 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Ringer Movies: ‘Tin Cup’ — Classic Sports Movie, Flawed Classic, or Both? | The ",
-      "description": "What’s the Deal? The Ringer crew—Bill Simmons, Joe House and Craig Horlbeck—hit the links on the 1996 Kevin Costner golf flick Tin Cup, weighing its c...",
-      "url": "https://dev.to/popcorn_movies/ringer-movies-tin-cup-classic-sports-movie-flawed-classic-or-both-the-rewatchables-4dal",
-      "date": "2025-09-16T06:00:50.000Z",
+      "title": "Mastering Microservices: Lessons from Netflix’s Journey on AWS",
+      "description": "Netflix, a global streaming giant, runs its infrastructure on AWS, transitioning from a monolithic architecture to a microservices architecture to add...",
+      "url": "https://dev.to/vincenttommi/mastering-microservices-lessons-from-netflixs-journey-on-aws-3b7n",
+      "date": "2025-09-17T06:22:08.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "movies",
-        "reviews",
-        "webdev"
+        "programming",
+        "distributedsystems",
+        "softwaredevelopment"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "SerpApi: A Complete API For Fetching Search Engine Data",
+      "description": "From competitive SEO research and monitoring prices to training AI and parsing local geographic data, real-time search results power smarter apps. Too...",
+      "url": "https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/",
+      "date": "2025-09-16T17:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Functional Personas With AI: A Lean, Practical Workflow",
+      "description": "For too long, personas have been created with considerable effort, only to offer limited value. Paul Boag shows how to breathe new life into this stal...",
+      "url": "https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/",
+      "date": "2025-09-16T08:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -219,36 +249,6 @@
         "articles",
         "cssproperties",
         "opinion"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Integrating CSS Cascade Layers To An Existing Project",
-      "description": "The idea behind this is to share a full, unfiltered look at integrating CSS Cascade Layers into an existing legacy codebase. In practice, it’s about r...",
-      "url": "https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/",
-      "date": "2025-09-10T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Designing For TV: Principles, Patterns And Practical Guidance (Part 2)",
-      "description": "After covering in detail the underlying interaction paradigms of TV experiences in [Part 1](https://www.smashingmagazine.com/2025/08/designing-tv-ever...",
-      "url": "https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/",
-      "date": "2025-09-04T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
