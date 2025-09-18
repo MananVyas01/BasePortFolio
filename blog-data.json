@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-17T06:29:30.117Z",
+  "lastUpdated": "2025-09-18T06:28:58.379Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,8 +8,8 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
@@ -74,63 +74,78 @@
       "priority": 1
     },
     {
-      "title": "When (Not If) Containers Misbehave",
-      "description": "In my previous article, Fargate + Lambda are better together, I introduced the concept of a hybrid architecture where I can route traffic between ECS ...",
-      "url": "https://dev.to/aws-builders/when-not-if-containers-misbehave-1kao",
-      "date": "2025-09-17T06:27:30.000Z",
+      "title": "Cyberspace Visibility and Privacy: Why Your Router Might Appear in ZoomEye",
+      "description": "In today’s hyper-connected world, our devices are not just gateways to the internet—they are part of the internet itself. Search engines like ZoomEye,...",
+      "url": "https://dev.to/sqlmap/cyberspace-visibility-and-privacy-why-your-router-might-appear-in-zoomeye-43h5",
+      "date": "2025-09-18T06:22:14.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "serverless",
-        "aws",
-        "container"
+        "privacy",
+        "iot",
+        "cybersecurity"
       ],
-      "readTime": "11 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Build a Full-Stack QR Code Generator in MERN with GraphQL & MongoDB (No External",
-      "description": "Have you ever found yourself in a situation where you needed to generate a QR code for a URL but didn't want to rely on external APIs? So, as the wedd...",
-      "url": "https://dev.to/lfariaus/build-a-full-stack-qr-code-generator-in-mern-with-graphql-mongodb-no-external-api-needed-1fbg",
-      "date": "2025-09-17T06:24:46.000Z",
+      "title": "Multitasking Is a Myth – How Focused Work Measurably Boosts Productivity",
+      "description": "Executive Summary “Getting more done at the same time” sounds efficient – but it isn’t. Cognitive psychology has shown for decades: true simultaneity ...",
+      "url": "https://dev.to/thomasdelfing_de/multitasking-is-a-myth-how-focused-work-measurably-boosts-productivity-3045",
+      "date": "2025-09-18T06:21:42.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "node",
-        "graphql",
-        "mongodb"
+        "productivity",
+        "focus",
+        "workplace"
       ],
       "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "When JS blocks parsing your HTML",
-      "description": "A browser builds a webpage step by step: Reads the HTML file top to bottom. It converts the text into tokens, then into the DOM tree. If the browser e...",
-      "url": "https://dev.to/rinonten/when-js-blocks-parsing-your-html-29jm",
-      "date": "2025-09-17T06:24:39.000Z",
+      "title": "Fundamentals of Machine Learning",
+      "description": "Features -> Input variables or attributes that describe each data sample . In a dataset to predict house prices , the features could be things like ar...",
+      "url": "https://dev.to/mujahida_joynab_64c7407d8/fundamentals-of-machine-learning-22o3",
+      "date": "2025-09-18T06:18:38.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "beginners",
-        "javascript"
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Working Through the Paradox: Serving the Greater Good in Hard Times",
+      "description": "There’s a quiet moral tension hanging over much of the federal contracting community these days – a sort of collective soul-searching we don’t always ...",
+      "url": "https://dev.to/bid_solution/working-through-the-paradox-serving-the-greater-good-in-hard-times-3858",
+      "date": "2025-09-18T06:18:32.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "governmentwork",
+        "ethicsatwork",
+        "publicservice"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Mastering Microservices: Lessons from Netflix’s Journey on AWS",
-      "description": "Netflix, a global streaming giant, runs its infrastructure on AWS, transitioning from a monolithic architecture to a microservices architecture to add...",
-      "url": "https://dev.to/vincenttommi/mastering-microservices-lessons-from-netflixs-journey-on-aws-3b7n",
-      "date": "2025-09-17T06:22:08.000Z",
+      "title": "Is it Time to Un-Sass?",
+      "description": "Many of the Sass features we've grown to love have made their way into native CSS in some shape or form. So, should we still use Sass? This is how dev...",
+      "url": "https://css-tricks.com/is-it-time-to-un-sass/",
+      "date": "2025-09-17T14:02:25.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "programming",
-        "distributedsystems",
-        "softwaredevelopment"
+        "articles",
+        "csspreprocessors",
+        "webdev"
       ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -234,21 +249,6 @@
         "links",
         "csspreprocessors",
         "node"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "What’re Your Top 4 CSS Properties?",
-      "description": "Everyone has a different opinion which is great because it demonstrates the messy, non-linear craft that is thinking like a front-end developer. What’...",
-      "url": "https://css-tricks.com/whatre-your-top-4-css-properties/",
-      "date": "2025-09-10T13:13:41.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "cssproperties",
-        "opinion"
       ],
       "readTime": "1 min read",
       "priority": 2
