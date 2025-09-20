@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-19T06:29:05.613Z",
+  "lastUpdated": "2025-09-20T06:26:41.856Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,8 +8,8 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
@@ -74,63 +74,93 @@
       "priority": 1
     },
     {
-      "title": "Secure Remote Access with AWS Verified Access",
-      "description": "Managing secure connectivity to private workloads has always been a challenge. Traditionally, organizations relied on VPNs or bastion hosts. While fun...",
-      "url": "https://dev.to/aws-builders/secure-remote-access-with-aws-verified-access-53d9",
-      "date": "2025-09-19T06:12:41.000Z",
+      "title": "Python Variables: A Complete Beginner's Guide with Examples & Best Practices",
+      "description": "Python Variables: Your Ultimate Guide to Storing Data and Building Code Welcome, future coders! If you're taking your first steps into the incredible ...",
+      "url": "https://dev.to/satyam_gupta_0d1ff2152dcc/python-variables-a-complete-beginners-guide-with-examples-best-practices-2hi2",
+      "date": "2025-09-20T06:08:33.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "aws",
-        "security",
-        "backend"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "JavaScript DOM: A Beginner’s Guide to Changing Styles and Classes",
-      "description": "A website is more than just content. The way it looks and reacts to user actions creates the real experience. In JavaScript, the Document Object Model...",
-      "url": "https://dev.to/wisdomudo/javascript-dom-a-beginners-guide-to-changing-styles-and-classes-32b",
-      "date": "2025-09-19T06:08:29.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "javascript",
-        "css",
-        "beginners"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Battle of Real-Time Databases: Firebase vs Supabase vs Postgres",
-      "description": "Imagine this: you’re building an app where users expect instant updates—chat messages delivered in milliseconds, dashboards updating without refresh, ...",
-      "url": "https://dev.to/dct_technology/the-battle-of-real-time-databases-firebase-vs-supabase-vs-postgres-3gfc",
-      "date": "2025-09-19T06:03:18.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "vectordatabase",
-        "webdev",
+        "python",
+        "coding",
         "programming"
       ],
-      "readTime": "3 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Best Platform to Learn Google Cloud Platform: A Dev’s Take",
-      "description": "The Struggle of Learning GCP I’ll be real with you. The first time I had to spin up resources on Google Cloud Platform (GCP), I felt like someone had ...",
-      "url": "https://dev.to/stack_overflowed/best-platform-to-learn-google-cloud-platform-a-devs-take-4027",
-      "date": "2025-09-19T06:03:17.000Z",
+      "title": "My first UI based Rust application - A Skip Counter - created using iced UI libr",
+      "description": "It's rightly said that when someone teaches another person, actually two people learn. Here goes my contribution on Teacher's day. Happy Teacher's day...",
+      "url": "https://dev.to/sommukhopadhyay/my-first-ui-based-rust-application-a-skip-counter-created-using-iced-ui-library-1eb2",
+      "date": "2025-09-20T06:05:30.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "googlecloud",
-        "webdev",
-        "cloudcomputing"
+        "rust",
+        "programming",
+        "webdev"
       ],
-      "readTime": "4 min read",
+      "readTime": "8 min read",
+      "priority": 2
+    },
+    {
+      "title": "Python Comments: The Ultimate Guide to Writing Clean, Effective Code",
+      "description": "Python Comments: The Ultimate Guide to Writing Clean, Effective Code You’ve done it. You’ve finally cracked it. After hours of intense focus, the comp...",
+      "url": "https://dev.to/satyam_gupta_0d1ff2152dcc/python-comments-the-ultimate-guide-to-writing-clean-effective-code-ndi",
+      "date": "2025-09-20T06:04:36.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "python",
+        "programming",
+        "beginners"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "React Component Testing: Best Practices for 2025 🧪",
+      "description": "Introduction Testing React components is essential to ensure your app is reliable, maintainable, and bug-free 🚀. With front-end apps getting more com...",
+      "url": "https://dev.to/tahamjp/react-component-testing-best-practices-for-2025-2674",
+      "date": "2025-09-20T05:54:34.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "testing",
+        "frontend",
+        "javascript"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "On inclusive personas and inclusive user research",
+      "description": "A set of notes taken from Eric Bailey's article about the use of inclusive personas and user research. On inclusive personas and inclusive user resear...",
+      "url": "https://css-tricks.com/on-inclusive-personas-and-inclusive-user-research/",
+      "date": "2025-09-19T13:58:37.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "notes",
+        "accessibility",
+        "uiixdesign"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "The Psychology Of Trust In AI: A Guide To Measuring And Designing For User Confi",
+      "description": "With digital products moving to incorporate generative and agentic AI at an increasingly frequent rate, trust has become the invisible user interface....",
+      "url": "https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/",
+      "date": "2025-09-19T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -209,21 +239,6 @@
       "priority": 2
     },
     {
-      "title": "Creating Elastic And Bounce Effects With Expressive Animator",
-      "description": "Elastic and bounce effects have long been among the most desirable but time-consuming techniques in motion design. Expressive Animator streamlines the...",
-      "url": "https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/",
-      "date": "2025-09-15T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "What Can We Actually Do With corner-shape?",
       "description": "When I first started messing around with code, rounded corners required five background images or an image sprite likely created in Photoshop, so when...",
       "url": "https://css-tricks.com/what-can-we-actually-do-with-corner-shape/",
@@ -234,21 +249,6 @@
         "articles",
         "cssproperties",
         "shapes"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Compiling Multiple CSS Files into One",
-      "description": "Stu Robson outlines two ways to compile multiple CSS files when you aren't relying on Sass for it. Compiling Multiple CSS Files into One originally pu...",
-      "url": "https://css-tricks.com/compiling-multiple-css-files-into-one/",
-      "date": "2025-09-11T15:16:34.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "csspreprocessors",
-        "node"
       ],
       "readTime": "1 min read",
       "priority": 2
