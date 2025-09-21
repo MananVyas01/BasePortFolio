@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-20T06:26:41.856Z",
+  "lastUpdated": "2025-09-21T06:27:41.218Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Python Variables: A Complete Beginner's Guide with Examples & Best Practices",
-      "description": "Python Variables: Your Ultimate Guide to Storing Data and Building Code Welcome, future coders! If you're taking your first steps into the incredible ...",
-      "url": "https://dev.to/satyam_gupta_0d1ff2152dcc/python-variables-a-complete-beginners-guide-with-examples-best-practices-2hi2",
-      "date": "2025-09-20T06:08:33.000Z",
+      "title": "Part-75: To Implement a Regional External Network Load balancer with TCP Pass th",
+      "description": "Cloud Load Balancing - Network Load Balancer (TCP Pass-through) A Layer 4 load balancer (works at TCP/UDP level, not HTTP). It’s called pass-through b...",
+      "url": "https://dev.to/latchudevops/part-75-to-implement-a-regional-external-network-load-balancer-with-tcp-pass-through-in-gcp-cloud-2kk1",
+      "date": "2025-09-21T06:19:48.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "coding",
-        "programming"
+        "googlecloud",
+        "cloud",
+        "devops"
       ],
-      "readTime": "6 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "My first UI based Rust application - A Skip Counter - created using iced UI libr",
-      "description": "It's rightly said that when someone teaches another person, actually two people learn. Here goes my contribution on Teacher's day. Happy Teacher's day...",
-      "url": "https://dev.to/sommukhopadhyay/my-first-ui-based-rust-application-a-skip-counter-created-using-iced-ui-library-1eb2",
-      "date": "2025-09-20T06:05:30.000Z",
+      "title": "The feature flags",
+      "description": "Imagine launching a new feature to your entire user base, only to discover a critical bug that brings your application to a halt. The frantic rollback...",
+      "url": "https://dev.to/umangmittal/the-feature-flags-39c6",
+      "date": "2025-09-21T06:06:32.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "rust",
-        "programming",
-        "webdev"
+        "learning",
+        "beginners",
+        "softwaredevelopment"
       ],
-      "readTime": "8 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Python Comments: The Ultimate Guide to Writing Clean, Effective Code",
-      "description": "Python Comments: The Ultimate Guide to Writing Clean, Effective Code You’ve done it. You’ve finally cracked it. After hours of intense focus, the comp...",
-      "url": "https://dev.to/satyam_gupta_0d1ff2152dcc/python-comments-the-ultimate-guide-to-writing-clean-effective-code-ndi",
-      "date": "2025-09-20T06:04:36.000Z",
+      "title": "Kiro Did It! – From Prompt to Customer API Using Vibe Coding!",
+      "description": "Hi! I’m Girish, an AWS Community Builder and Cloud Tech Enthusiast. In this article, I’ll share how I used AWS Kiro’s vibe coding feature to build a C...",
+      "url": "https://dev.to/bhatiagirish/kiro-did-it-from-prompt-to-customer-api-using-vibe-coding-5hil",
+      "date": "2025-09-21T06:05:02.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "programming",
-        "beginners"
+        "aws",
+        "kiro",
+        "ai"
       ],
-      "readTime": "7 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "React Component Testing: Best Practices for 2025 🧪",
-      "description": "Introduction Testing React components is essential to ensure your app is reliable, maintainable, and bug-free 🚀. With front-end apps getting more com...",
-      "url": "https://dev.to/tahamjp/react-component-testing-best-practices-for-2025-2674",
-      "date": "2025-09-20T05:54:34.000Z",
+      "title": "From Junior to Pro: Mastering Code Design with S.O.L.I.D.",
+      "description": "In the world of software development, we often talk about building \"good\" code. But what does \"good\" really mean? Is it code that runs fast? Code that...",
+      "url": "https://dev.to/umangmittal/from-junior-to-pro-mastering-code-design-with-solid-4nhh",
+      "date": "2025-09-21T05:58:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "testing",
-        "frontend",
-        "javascript"
+        "solidprinciples",
+        "learning",
+        "productivity"
       ],
-      "readTime": "2 min read",
+      "readTime": "10 min read",
       "priority": 2
     },
     {
