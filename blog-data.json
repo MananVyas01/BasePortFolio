@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-21T06:27:41.218Z",
+  "lastUpdated": "2025-09-22T06:31:07.722Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Part-75: To Implement a Regional External Network Load balancer with TCP Pass th",
-      "description": "Cloud Load Balancing - Network Load Balancer (TCP Pass-through) A Layer 4 load balancer (works at TCP/UDP level, not HTTP). It’s called pass-through b...",
-      "url": "https://dev.to/latchudevops/part-75-to-implement-a-regional-external-network-load-balancer-with-tcp-pass-through-in-gcp-cloud-2kk1",
-      "date": "2025-09-21T06:19:48.000Z",
+      "title": "Global Event Bus in Vue",
+      "description": "When building Vue applications, especially those that involve multiple deeply nested components, one of the trickiest parts is communication. How do y...",
+      "url": "https://dev.to/jacobandrewsky/global-event-bus-in-vue-16bl",
+      "date": "2025-09-22T06:19:40.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "googlecloud",
-        "cloud",
-        "devops"
+        "vue",
+        "typescript",
+        "javascript"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "The feature flags",
-      "description": "Imagine launching a new feature to your entire user base, only to discover a critical bug that brings your application to a halt. The frantic rollback...",
-      "url": "https://dev.to/umangmittal/the-feature-flags-39c6",
-      "date": "2025-09-21T06:06:32.000Z",
+      "title": "What You Really Need Is Event-Based Laravel",
+      "description": "Many times while building Laravel applications, I ran into situations where a single process required handling multiple tasks. At first, I wrote every...",
+      "url": "https://dev.to/raheelshan/what-you-really-need-is-event-based-laravel-37a4",
+      "date": "2025-09-22T06:19:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "learning",
+        "laravel",
+        "eventdriven",
+        "programming"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "01. Pengenalan Pemrograman Mobile",
+      "description": "📱 Pengenalan Pemrograman Mobile Pemrograman mobile adalah proses membuat aplikasi yang berjalan pada perangkat mobile seperti smartphone dan tablet. ...",
+      "url": "https://dev.to/sandatya_widhi_ce7cb1c809/01-pengenenalan-pemrogramanmobile-2d5d",
+      "date": "2025-09-22T06:15:22.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
         "beginners",
-        "softwaredevelopment"
+        "mobile",
+        "programming"
       ],
-      "readTime": "4 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Kiro Did It! – From Prompt to Customer API Using Vibe Coding!",
-      "description": "Hi! I’m Girish, an AWS Community Builder and Cloud Tech Enthusiast. In this article, I’ll share how I used AWS Kiro’s vibe coding feature to build a C...",
-      "url": "https://dev.to/bhatiagirish/kiro-did-it-from-prompt-to-customer-api-using-vibe-coding-5hil",
-      "date": "2025-09-21T06:05:02.000Z",
+      "title": "Anthropic Economic Index – September 2025 📈",
+      "description": "AI Adoption is Growing Fast, but Unevenly Across Tasks, Regions, and Income Groups Introduction Anthropic has released its latest Economic Index (Sept...",
+      "url": "https://dev.to/techstuff/anthropic-economic-index-september-2025-1h55",
+      "date": "2025-09-22T06:09:08.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "aws",
-        "kiro",
-        "ai"
+        "science",
+        "education",
+        "employment"
       ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "From Junior to Pro: Mastering Code Design with S.O.L.I.D.",
-      "description": "In the world of software development, we often talk about building \"good\" code. But what does \"good\" really mean? Is it code that runs fast? Code that...",
-      "url": "https://dev.to/umangmittal/from-junior-to-pro-mastering-code-design-with-solid-4nhh",
-      "date": "2025-09-21T05:58:23.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "solidprinciples",
-        "learning",
-        "productivity"
-      ],
-      "readTime": "10 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
