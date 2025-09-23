@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-22T06:31:07.722Z",
+  "lastUpdated": "2025-09-23T06:30:16.052Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,55 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Our plan for a more secure npm supply chain",
+      "description": "Addressing a surge in package registry attacks, GitHub is strengthening npm's security with stricter authentication, granular tokens, and enhanced tru...",
+      "url": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/",
+      "date": "2025-09-23T00:29:50.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "security",
+        "supplychainsecurity",
+        "githubsecuritylab"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assi",
+      "description": "Our commitment is to empower every developer and stay true to our north star by building an open, secure, and AI-powered platform that defines the fut...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/gartner-positions-github-as-a-leader-in-the-2025-magic-quadrant-for-ai-code-assistants-for-the-second-year-in-a-row/",
+      "date": "2025-09-22T18:24:17.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "ai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "What’s next for Git? 20 years in, the community is still pushing forward",
+      "description": "Git Merge 2025 isn’t just about celebrating 20 years of Git - it’s about what comes next. In this post, we’re highlighting some of the talks and speak...",
+      "url": "https://github.blog/open-source/whats-next-for-git-20-years-in-the-community-is-still-pushing-forward/",
+      "date": "2025-09-22T16:33:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "git",
+        "opensource"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "5 ways to integrate GitHub Copilot coding agent into your workflow",
       "description": "Already know the basics of GitHub Copilot coding agent? Here are five ways to offload chores, tackle tech debt, and keep your workflow moving fast. Th...",
@@ -29,108 +73,78 @@
       "priority": 1
     },
     {
-      "title": "Meet the GitHub MCP Registry: The fastest way to discover MCP Servers",
-      "description": "This is your new home base for discovering MCP servers. Learn how we’re working with the broader community on MCP publication and discovery. The post ...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/meet-the-github-mcp-registry-the-fastest-way-to-discover-mcp-servers/",
-      "date": "2025-09-16T16:27:54.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "mcp"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Post-quantum security for SSH access on GitHub",
-      "description": "GitHub is introducing post-quantum secure key exchange methods for SSH access to better protect Git data in transit. The post Post-quantum security fo...",
-      "url": "https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/",
-      "date": "2025-09-15T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "engineering",
-        "platformsecurity",
-        "git"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Building personal apps with open source and AI",
-      "description": "Hear about the personal tools we use to improve our workflows (and how to get started building your own) on this episode of the GitHub Podcast. The po...",
-      "url": "https://github.blog/open-source/maintainers/building-personal-apps-with-open-source-and-ai/",
-      "date": "2025-09-12T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "maintainers",
-        "opensource",
-        "ai"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Global Event Bus in Vue",
-      "description": "When building Vue applications, especially those that involve multiple deeply nested components, one of the trickiest parts is communication. How do y...",
-      "url": "https://dev.to/jacobandrewsky/global-event-bus-in-vue-16bl",
-      "date": "2025-09-22T06:19:40.000Z",
+      "title": "Java Cheat Sheet",
+      "description": "1. BASICS: // Package declaration (optional) package mypackage; // Import statements import java.util.*; // Main class public class Main { public stat...",
+      "url": "https://dev.to/elmyrockers/java-cheat-sheet-1a58",
+      "date": "2025-09-23T06:23:51.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "vue",
-        "typescript",
-        "javascript"
+        "programming",
+        "java",
+        "cheatsheet"
+      ],
+      "readTime": "18 min read",
+      "priority": 2
+    },
+    {
+      "title": "PHP JIT Compiler",
+      "description": "PHP JIT Compiler: How It Works and Why It Matters Introduction PHP has traditionally been an interpreted language, which means that every time you run...",
+      "url": "https://dev.to/vishal_rajput_310e810159e/php-jit-compiler-4kk1",
+      "date": "2025-09-23T06:23:47.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "programming",
+        "php",
+        "jit"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "What You Really Need Is Event-Based Laravel",
-      "description": "Many times while building Laravel applications, I ran into situations where a single process required handling multiple tasks. At first, I wrote every...",
-      "url": "https://dev.to/raheelshan/what-you-really-need-is-event-based-laravel-37a4",
-      "date": "2025-09-22T06:19:23.000Z",
+      "title": "From a Medium Post to B2B SaaS: How One DM Changed Everything",
+      "description": "The Butterfly Effect That Started It All Three years ago, I never imagined that sharing my YouTube earnings on Medium would lead to building a SaaS pl...",
+      "url": "https://dev.to/toolstube/from-a-medium-post-to-b2b-saas-how-one-dm-changed-everything-2jc5",
+      "date": "2025-09-23T06:18:26.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "laravel",
-        "eventdriven",
-        "programming"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "01. Pengenalan Pemrograman Mobile",
-      "description": "📱 Pengenalan Pemrograman Mobile Pemrograman mobile adalah proses membuat aplikasi yang berjalan pada perangkat mobile seperti smartphone dan tablet. ...",
-      "url": "https://dev.to/sandatya_widhi_ce7cb1c809/01-pengenenalan-pemrogramanmobile-2d5d",
-      "date": "2025-09-22T06:15:22.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "beginners",
-        "mobile",
-        "programming"
+        "webdev",
+        "youtube",
+        "marketing"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Anthropic Economic Index – September 2025 📈",
-      "description": "AI Adoption is Growing Fast, but Unevenly Across Tasks, Regions, and Income Groups Introduction Anthropic has released its latest Economic Index (Sept...",
-      "url": "https://dev.to/techstuff/anthropic-economic-index-september-2025-1h55",
-      "date": "2025-09-22T06:09:08.000Z",
+      "title": "Shodan vs ZoomEye Query Syntax Comparison",
+      "description": "This article provides a side-by-side comparison of the most common query operators in Shodan vs the latest syntax in ZoomEye. When it comes to cybersp...",
+      "url": "https://dev.to/stark_zhuang_df5076f35c68/shodan-vs-zoomeye-query-syntax-comparison-17hh",
+      "date": "2025-09-23T06:17:30.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "science",
-        "education",
-        "employment"
+        "cybersecurity",
+        "osint",
+        "webdev"
       ],
-      "readTime": "3 min read",
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Ambient Animations In Web Design: Principles And Implementation (Part 1)",
+      "description": "Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, s...",
+      "url": "https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/",
+      "date": "2025-09-22T13:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -198,21 +212,6 @@
       "description": "From competitive SEO research and monitoring prices to training AI and parsing local geographic data, real-time search results power smarter apps. Too...",
       "url": "https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/",
       "date": "2025-09-16T17:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Functional Personas With AI: A Lean, Practical Workflow",
-      "description": "For too long, personas have been created with considerable effort, only to offer limited value. Paul Boag shows how to breathe new life into this stal...",
-      "url": "https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/",
-      "date": "2025-09-16T08:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
