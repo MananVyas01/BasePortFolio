@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-23T06:30:16.052Z",
+  "lastUpdated": "2025-09-24T06:29:18.441Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "A step-by-step guide to modernizing Java projects with GitHub Copilot agent mode",
+      "description": "Learn how to use GitHub Copilot agent mode to modernize legacy Java projects with guided upgrades, automated fixes, and cloud-ready migrations. The po...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/a-step-by-step-guide-to-modernizing-java-projects-with-github-copilot-agent-mode/",
+      "date": "2025-09-23T13:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "agentmode"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Our plan for a more secure npm supply chain",
       "description": "Addressing a surge in package registry attacks, GitHub is strengthening npm's security with stricter authentication, granular tokens, and enhanced tru...",
@@ -58,78 +73,63 @@
       "priority": 1
     },
     {
-      "title": "5 ways to integrate GitHub Copilot coding agent into your workflow",
-      "description": "Already know the basics of GitHub Copilot coding agent? Here are five ways to offload chores, tackle tech debt, and keep your workflow moving fast. Th...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/5-ways-to-integrate-github-copilot-coding-agent-into-your-workflow/",
-      "date": "2025-09-18T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "agentmode"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Java Cheat Sheet",
-      "description": "1. BASICS: // Package declaration (optional) package mypackage; // Import statements import java.util.*; // Main class public class Main { public stat...",
-      "url": "https://dev.to/elmyrockers/java-cheat-sheet-1a58",
-      "date": "2025-09-23T06:23:51.000Z",
+      "title": "Building and Deploying a Cloud-Native FastAPI Student Tracker App with MongoDB, ",
+      "description": "I once carried out a skills gap analysis on myself as a DevOps engineer, looking for my next challenging opportunity. I realised that although I had b...",
+      "url": "https://dev.to/keneojiteli/building-and-deploying-a-cloud-native-fastapi-student-tracker-app-with-mongodb-kubernetes-and-1m8",
+      "date": "2025-09-24T06:13:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "programming",
-        "java",
-        "cheatsheet"
+        "cloudnative",
+        "aws",
+        "devops"
       ],
-      "readTime": "18 min read",
+      "readTime": "10 min read",
       "priority": 2
     },
     {
-      "title": "PHP JIT Compiler",
-      "description": "PHP JIT Compiler: How It Works and Why It Matters Introduction PHP has traditionally been an interpreted language, which means that every time you run...",
-      "url": "https://dev.to/vishal_rajput_310e810159e/php-jit-compiler-4kk1",
-      "date": "2025-09-23T06:23:47.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "programming",
-        "php",
-        "jit"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "From a Medium Post to B2B SaaS: How One DM Changed Everything",
-      "description": "The Butterfly Effect That Started It All Three years ago, I never imagined that sharing my YouTube earnings on Medium would lead to building a SaaS pl...",
-      "url": "https://dev.to/toolstube/from-a-medium-post-to-b2b-saas-how-one-dm-changed-everything-2jc5",
-      "date": "2025-09-23T06:18:26.000Z",
+      "title": "How to Create Groups Efficiently in Tableau",
+      "description": "Introduction Business dashboards are valuable only when they combine speed, accuracy, and usability. In modern analytics, every second counts—especial...",
+      "url": "https://dev.to/dipti_moryani_185c244d578/how-to-create-groups-efficiently-in-tableau-554f",
+      "date": "2025-09-24T06:11:12.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "youtube",
-        "marketing"
+        "javascript",
+        "css"
       ],
-      "readTime": "3 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Shodan vs ZoomEye Query Syntax Comparison",
-      "description": "This article provides a side-by-side comparison of the most common query operators in Shodan vs the latest syntax in ZoomEye. When it comes to cybersp...",
-      "url": "https://dev.to/stark_zhuang_df5076f35c68/shodan-vs-zoomeye-query-syntax-comparison-17hh",
-      "date": "2025-09-23T06:17:30.000Z",
+      "title": "GameSpot: Yakuza 3 Gaiden Dark Ties Trailer | RGG Summit 2025",
+      "description": "Yakuza 3 Gaiden: Dark Ties just dropped its first trailer at RGG Summit 2025, and it’s putting Yoshitaka Mine front and center as the new protagonist....",
+      "url": "https://dev.to/gg_news/gamespot-yakuza-3-gaiden-dark-ties-trailer-rgg-summit-2025-35nb",
+      "date": "2025-09-24T06:01:12.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "cybersecurity",
-        "osint",
+        "playstation",
+        "pcgaming",
         "webdev"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "GameSpot: Yakuza Kiwami 3 and Dark Ties Gameplay Breakdown | RGG Direct 2025",
+      "description": "Yakuza fans, mark your calendars: on Tue. 9/23 at 9:30 pm PDT, RGG Direct is back with exclusive deep dives into Yakuza Kiwami 3 and the Gaiden spinof...",
+      "url": "https://dev.to/gg_news/gamespot-yakuza-kiwami-3-and-dark-ties-gameplay-breakdown-rgg-direct-2025-3imi",
+      "date": "2025-09-24T06:01:01.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "playstation",
+        "pcgaming",
+        "retrogaming"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
