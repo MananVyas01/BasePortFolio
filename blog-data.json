@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-25T06:29:59.521Z",
+  "lastUpdated": "2025-09-26T06:28:48.512Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Building beyond the browser: Keeley Hammond on Electron, open source, and the fu",
+      "description": "Learn what it really takes to sustain one of the web’s most widely used frameworks on this episode of the GitHub Podcast. The post Building beyond the...",
+      "url": "https://github.blog/open-source/maintainers/building-beyond-the-browser-keeley-hammond-on-electron-open-source-and-the-future-of-maintainership/",
+      "date": "2025-09-25T17:05:48.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "maintainers",
+        "opensource",
+        "electron"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "GitHub Copilot gets smarter at finding your code: Inside our new embedding model",
       "description": "Learn about a new Copilot embedding model that makes code search in VS Code faster, lighter on memory, and far more accurate. The post GitHub Copilot ...",
@@ -59,76 +74,61 @@
       "priority": 1
     },
     {
-      "title": "Our plan for a more secure npm supply chain",
-      "description": "Addressing a surge in package registry attacks, GitHub is strengthening npm's security with stricter authentication, granular tokens, and enhanced tru...",
-      "url": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/",
-      "date": "2025-09-23T00:29:50.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "security",
-        "supplychainsecurity",
-        "githubsecuritylab"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "The victims deserve to see every single person in this conspiracy held accountab",
-      "description": "How California Attorney Scott R. Carpenter Abuses His State Bar License To Help Clients Commit Crimes Marcus ・ Sep 25 #fraud #legalcorruption #scottrc...",
-      "url": "https://dev.to/techtalk/the-victims-deserve-to-see-every-single-person-in-this-conspiracy-held-accountable-not-just-the-2o5e",
-      "date": "2025-09-25T06:17:41.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "fraud",
-        "legalcorruption",
-        "scottrcarpenter"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "How I fixed the Chakra UI List component not found error by updating to the late",
-      "description": "Introduction While developing an app with React (Vite + TypeScript), I introduced Chakra UI as my UI library. import { Box, Heading, Text, List, ListI...",
-      "url": "https://dev.to/kazutora_hattori_66972c88/how-i-fixed-the-chakra-ui-list-component-not-found-error-by-updating-to-the-latest-version-emg",
-      "date": "2025-09-25T06:11:27.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "chakraui",
-        "webdev",
-        "programming"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Electric Border ⚡ (SVG seed thrashing)",
-      "description": "Check out this Pen I made!...",
-      "url": "https://dev.to/chchkchk22488/electric-border-svg-seed-thrashing-3geo",
-      "date": "2025-09-25T06:08:02.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "codepen",
-        "webdev",
-        "javascript"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "AI for Coding Interviews: How It’s Changing the Way We Prepare",
-      "description": "Coding interviews test more than problem-solving—they test clarity, speed, and adaptability. Discover how AI is transforming interview prep, from smar...",
-      "url": "https://dev.to/alex_hunter_44f4c9ed6671e/ai-for-coding-interviews-how-its-changing-the-way-we-prepare-5ajg",
-      "date": "2025-09-25T06:07:24.000Z",
+      "title": "Employees who have accumulated more than 5 years of work experience in New York-",
+      "description": "Here is the employee information table for a certain company called Employees: The date and target location of each transfer are recorded in it. Now p...",
+      "url": "https://dev.to/esproc_spl/employees-who-have-accumulated-more-than-5-years-of-work-experience-in-new-york-spl-programming-2ah0",
+      "date": "2025-09-26T06:21:03.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "programming",
-        "leetcode",
-        "interview"
+        "devops",
+        "opensource"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Anix: A Streamlined Platform for Anime Enthusiasts",
+      "description": "For dedicated anime fans, finding a reliable streaming destination is a top priority. The ideal site combines a vast library, high-quality video, and ...",
+      "url": "https://dev.to/jessica_yamada_2f4cfd0e06/anix-a-streamlined-platform-for-anime-enthusiasts-193m",
+      "date": "2025-09-26T06:17:59.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "How Vue Animations Enhance User Engagement and Interaction on Digital Platforms",
+      "description": "Introduction Capturing and retaining customer attention has become one of the toughest hurdles for businesses offering digital products. Static and li...",
+      "url": "https://dev.to/fiona_blackwood_07/how-vue-animations-enhance-user-engagement-and-interaction-on-digital-platforms-49g9",
+      "date": "2025-09-26T06:15:29.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "vue",
+        "animation",
+        "webdev"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Factory Method in Clprolf: Clear Rules for Object Creation",
+      "description": "Design patterns solve recurring problems in object-oriented design. Factory Method pattern, written in Clprolf. Even if you don’t know Clprolf yet, do...",
+      "url": "https://dev.to/charles_koffler_bcabc582b/factory-method-in-clprolf-clear-rules-for-object-creation-4ga",
+      "date": "2025-09-26T06:14:40.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "architecture",
+        "designpatterns",
+        "programming"
       ],
       "readTime": "6 min read",
       "priority": 2
