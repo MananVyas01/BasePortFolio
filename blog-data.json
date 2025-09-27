@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-26T06:28:48.512Z",
+  "lastUpdated": "2025-09-27T06:25:33.402Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,41 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
+    "A List Apart",
     "CSS-Tricks",
-    "A List Apart"
+    "Smashing Magazine"
   ],
   "posts": [
+    {
+      "title": "How GitHub protects developers from copyright enforcement overreach",
+      "description": "Why the U.S. Supreme Court case Cox v. Sony matters for developers and sharing updates to our Transparency Center and Acceptable Use Policies. The pos...",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/how-github-protects-developers-from-copyright-enforcement-overreach/",
+      "date": "2025-09-26T17:06:17.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "newsinsights",
+        "policy",
+        "githubpolicy"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Kicking off Cybersecurity Awareness Month 2025: Researcher Spotlights and Enhanc",
+      "description": "For this year’s Cybersecurity Awareness Month, GitHub’s Bug Bounty team is excited to offer some additional incentives to security researchers! The po...",
+      "url": "https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-2025-researcher-spotlights-and-enhanced-incentives/",
+      "date": "2025-09-26T15:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "security",
+        "vulnerabilityresearch",
+        "bugbounty"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Building beyond the browser: Keeley Hammond on Electron, open source, and the fu",
       "description": "Learn what it really takes to sustain one of the web’s most widely used frameworks on this episode of the GitHub Podcast. The post Building beyond the...",
@@ -44,93 +74,108 @@
       "priority": 1
     },
     {
-      "title": "Using AI to map hope for refugees with UNHCR, the UN Refugee Agency",
-      "description": "With the help of GitHub, UNHCR turned drone imagery into maps — helping refugees in Kakuma and Kalobeyei build sustainable, powered communities. The p...",
-      "url": "https://github.blog/open-source/social-impact/using-ai-to-map-hope-for-refugees-with-unhcr-the-un-refugee-agency/",
-      "date": "2025-09-24T16:12:47.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "opensource",
-        "socialimpact",
-        "socialimpact"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "A step-by-step guide to modernizing Java projects with GitHub Copilot agent mode",
-      "description": "Learn how to use GitHub Copilot agent mode to modernize legacy Java projects with guided upgrades, automated fixes, and cloud-ready migrations. The po...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/a-step-by-step-guide-to-modernizing-java-projects-with-github-copilot-agent-mode/",
-      "date": "2025-09-23T13:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "agentmode"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Employees who have accumulated more than 5 years of work experience in New York-",
-      "description": "Here is the employee information table for a certain company called Employees: The date and target location of each transfer are recorded in it. Now p...",
-      "url": "https://dev.to/esproc_spl/employees-who-have-accumulated-more-than-5-years-of-work-experience-in-new-york-spl-programming-2ah0",
-      "date": "2025-09-26T06:21:03.000Z",
+      "title": "All about Gradient Descent",
+      "description": "Linear regression is an important algorithms in machine learning. It models the relationship between a dependent variable (target) and one or more ind...",
+      "url": "https://dev.to/_a_m_a_n_pandey/all-about-gradient-descent-15bo",
+      "date": "2025-09-27T06:11:39.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "programming",
+        "ai",
+        "machinelearning",
+        "linearregression"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "Part-87: 🚀 Kubernetes Deployments with Imperative Commands in GCP (Google Kuber",
+      "description": "In this guide, we’ll explore Kubernetes Deployments using the imperative way on Google Kubernetes Engine (GKE). Create Deployment Scale the Deployment...",
+      "url": "https://dev.to/latchudevops/part-87-kubernetes-deployments-with-imperative-commands-in-gcp-google-kubernetes-engine-1l46",
+      "date": "2025-09-27T06:08:11.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "kubernetes",
         "devops",
-        "opensource"
+        "learning"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Anix: A Streamlined Platform for Anime Enthusiasts",
-      "description": "For dedicated anime fans, finding a reliable streaming destination is a top priority. The ideal site combines a vast library, high-quality video, and ...",
-      "url": "https://dev.to/jessica_yamada_2f4cfd0e06/anix-a-streamlined-platform-for-anime-enthusiasts-193m",
-      "date": "2025-09-26T06:17:59.000Z",
+      "title": "COLORS: Penyair - Bambú | A COLORS SHOW",
+      "description": "Penyair – Bambú | A COLORS SHOW Penyair, hailing from Suba, Bogotá, stops by the COLORS stage with a meditative performance of his brand-new single “B...",
+      "url": "https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-178c",
+      "date": "2025-09-27T06:05:54.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
+      "tags": [
+        "streaming",
+        "livestreaming",
+        "hiphop"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "KEXP: Thee Marloes - Over (Live on KEXP)",
+      "description": "Thee Marloes roll into KEXP’s Seattle studio on August 1, 2025 for an electrifying live take on “Over.” Frontwoman Natassya Sianturi leads on vocals a...",
+      "url": "https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-50jm",
+      "date": "2025-09-27T06:05:45.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "indie",
+        "livestreaming",
+        "production"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Design Dialects: Breaking the Rules, Not the System",
+      "description": "\"Language is not merely a set of unrelated sounds, clauses, rules, and meanings; it is a totally coherent system bound to context and behavior.\" — Ken...",
+      "url": "\n\t\t\t\t\thttps://alistapart.com/article/design-dialects-breaking-the-rules-not-the-system/\t\t\t\t",
+      "date": "2025-09-26T16:48:12.000Z",
+      "category": "Web Dev",
+      "source": "A List Apart",
       "tags": [
         "webdev",
         "javascript",
         "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "How Vue Animations Enhance User Engagement and Interaction on Digital Platforms",
-      "description": "Introduction Capturing and retaining customer attention has become one of the toughest hurdles for businesses offering digital products. Static and li...",
-      "url": "https://dev.to/fiona_blackwood_07/how-vue-animations-enhance-user-engagement-and-interaction-on-digital-platforms-49g9",
-      "date": "2025-09-26T06:15:29.000Z",
+      "title": "Recreating Gmail’s Google Gemini Animation",
+      "description": "John Rhea challenged himself to recreate the fancy button using the new CSS shape() function sprinkled with animation to get things pretty close. Recr...",
+      "url": "https://css-tricks.com/recreating-gmails-google-gemini-animation/",
+      "date": "2025-09-26T14:45:13.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "vue",
+        "articles",
         "animation",
         "webdev"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Factory Method in Clprolf: Clear Rules for Object Creation",
-      "description": "Design patterns solve recurring problems in object-oriented design. Factory Method pattern, written in Clprolf. Even if you don’t know Clprolf yet, do...",
-      "url": "https://dev.to/charles_koffler_bcabc582b/factory-method-in-clprolf-clear-rules-for-object-creation-4ga",
-      "date": "2025-09-26T06:14:40.000Z",
+      "title": "From Prompt To Partner: Designing Your Custom AI Assistant",
+      "description": "What if your best AI prompts didn’t disappear into your unorganized chat history, but came back tomorrow as a reliable assistant? In this article, you...",
+      "url": "https://smashingmagazine.com/2025/09/from-prompt-to-partner-designing-custom-ai-assistant/",
+      "date": "2025-09-26T10:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
-        "architecture",
-        "designpatterns",
-        "programming"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "6 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -209,21 +254,6 @@
       "priority": 2
     },
     {
-      "title": "How To Minimize The Environmental Impact Of Your Website",
-      "description": "As responsible digital professionals, we are becoming increasingly aware of the environmental impact of our work and need to find effective and pragma...",
-      "url": "https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/",
-      "date": "2025-09-18T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Is it Time to Un-Sass?",
       "description": "Many of the Sass features we've grown to love have made their way into native CSS in some shape or form. So, should we still use Sass? This is how dev...",
       "url": "https://css-tricks.com/is-it-time-to-un-sass/",
@@ -234,21 +264,6 @@
         "articles",
         "csspreprocessors",
         "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "The “Most Hated” CSS Feature: cos() and sin()",
-      "description": "I want to look at practical uses for CSS trigonometric functions. And we'll start with what may be the most popular functions of the \"worst\" feature: ...",
-      "url": "https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/",
-      "date": "2025-09-15T14:31:06.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "animations",
-        "math"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -266,21 +281,6 @@
         "css"
       ],
       "readTime": "9 min read",
-      "priority": 2
-    },
-    {
-      "title": "From Beta to Bedrock: Build Products that Stick.",
-      "description": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few we...",
-      "url": "\n\t\t\t\t\thttps://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/\t\t\t\t",
-      "date": "2025-04-23T18:04:31.000Z",
-      "category": "Web Dev",
-      "source": "A List Apart",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "5 min read",
       "priority": 2
     }
   ]
