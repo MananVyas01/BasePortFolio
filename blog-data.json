@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-27T06:25:33.402Z",
+  "lastUpdated": "2025-09-28T06:26:59.445Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,61 +74,61 @@
       "priority": 1
     },
     {
-      "title": "All about Gradient Descent",
-      "description": "Linear regression is an important algorithms in machine learning. It models the relationship between a dependent variable (target) and one or more ind...",
-      "url": "https://dev.to/_a_m_a_n_pandey/all-about-gradient-descent-15bo",
-      "date": "2025-09-27T06:11:39.000Z",
+      "title": "Playing Quantum Tic-Tac-Toe with Python and Qiskit",
+      "description": "My daughter loves playing Tic-Tac-Toe, it's simple, quick, and endlessly fun. Watching her strategize made me wonder: what if we could add a quantum t...",
+      "url": "https://dev.to/graveybeard/playing-quantum-tic-tac-toe-with-python-and-qiskit-2289",
+      "date": "2025-09-28T06:15:11.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "machinelearning",
-        "linearregression"
+        "python",
+        "quantum",
+        "qiskit"
       ],
-      "readTime": "6 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "Part-87: 🚀 Kubernetes Deployments with Imperative Commands in GCP (Google Kuber",
-      "description": "In this guide, we’ll explore Kubernetes Deployments using the imperative way on Google Kubernetes Engine (GKE). Create Deployment Scale the Deployment...",
-      "url": "https://dev.to/latchudevops/part-87-kubernetes-deployments-with-imperative-commands-in-gcp-google-kubernetes-engine-1l46",
-      "date": "2025-09-27T06:08:11.000Z",
+      "title": "A Crispy History of Node.js",
+      "description": "Hey everyone! Ever wondered how Node.js became the powerhouse it is today? It's a fascinating story of innovation, community, and even a little bit of...",
+      "url": "https://dev.to/rahul_kalita_ef112347128e/a-crispy-history-of-nodejs-581c",
+      "date": "2025-09-28T06:08:07.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "kubernetes",
-        "devops",
-        "learning"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "COLORS: Penyair - Bambú | A COLORS SHOW",
-      "description": "Penyair – Bambú | A COLORS SHOW Penyair, hailing from Suba, Bogotá, stops by the COLORS stage with a meditative performance of his brand-new single “B...",
-      "url": "https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-178c",
-      "date": "2025-09-27T06:05:54.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "streaming",
-        "livestreaming",
-        "hiphop"
+        "webdev",
+        "node",
+        "javascript"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "KEXP: Thee Marloes - Over (Live on KEXP)",
-      "description": "Thee Marloes roll into KEXP’s Seattle studio on August 1, 2025 for an electrifying live take on “Over.” Frontwoman Natassya Sianturi leads on vocals a...",
-      "url": "https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-50jm",
-      "date": "2025-09-27T06:05:45.000Z",
+      "title": "Adam Savage's Tested: Advice on Weathering Today's Uncertain, Hostile Times",
+      "description": "TL;DR Adam Savage kicks things off by urging us to lead with empathy, kindness and respect—especially when the world feels hostile and chaotic. He’s c...",
+      "url": "https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-3mpk",
+      "date": "2025-09-28T06:06:01.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "indie",
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/",
+      "description": "Back to School Mixing Night with Ken Lewis – 10/1/2025 Join 2× Grammy winner Ken Lewis for a free live Q&A where he pulls back the curtain on the mix ...",
+      "url": "https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gbi",
+      "date": "2025-09-28T06:05:40.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
         "livestreaming",
-        "production"
+        "production",
+        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
