@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-28T06:26:59.445Z",
+  "lastUpdated": "2025-09-29T06:31:20.955Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Playing Quantum Tic-Tac-Toe with Python and Qiskit",
-      "description": "My daughter loves playing Tic-Tac-Toe, it's simple, quick, and endlessly fun. Watching her strategize made me wonder: what if we could add a quantum t...",
-      "url": "https://dev.to/graveybeard/playing-quantum-tic-tac-toe-with-python-and-qiskit-2289",
-      "date": "2025-09-28T06:15:11.000Z",
+      "title": "Build a RAG Personal Finance Application with Nuclia, KendoReact and Next.js",
+      "description": "This is a submission for the KendoReact Free Components Challenge. I built SparrowStash, a personal finance dashboard that goes beyond simple expense ...",
+      "url": "https://dev.to/dovanminhan/build-a-rag-personal-finance-application-with-nuclia-kendoreact-and-nextjs-23p7",
+      "date": "2025-09-29T06:26:10.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "quantum",
-        "qiskit"
+        "devchallenge",
+        "kendoreactchallenge",
+        "react"
       ],
-      "readTime": "7 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "A Crispy History of Node.js",
-      "description": "Hey everyone! Ever wondered how Node.js became the powerhouse it is today? It's a fascinating story of innovation, community, and even a little bit of...",
-      "url": "https://dev.to/rahul_kalita_ef112347128e/a-crispy-history-of-nodejs-581c",
-      "date": "2025-09-28T06:08:07.000Z",
+      "title": "Building Dynamic Skeleton Loaders in React the Easy Way",
+      "description": "Loading states are everywhere—from profile cards to dashboards. Skeleton loaders keep users engaged while data is being fetched, but writing custom sk...",
+      "url": "https://dev.to/sinan_mp_dc8f4d9a51b63c29/building-dynamic-skeleton-loaders-in-react-the-easy-way-1fae",
+      "date": "2025-09-29T06:19:58.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "node",
-        "javascript"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Adam Savage's Tested: Advice on Weathering Today's Uncertain, Hostile Times",
-      "description": "TL;DR Adam Savage kicks things off by urging us to lead with empathy, kindness and respect—especially when the world feels hostile and chaotic. He’s c...",
-      "url": "https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-3mpk",
-      "date": "2025-09-28T06:06:01.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
+        "react",
         "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/",
-      "description": "Back to School Mixing Night with Ken Lewis – 10/1/2025 Join 2× Grammy winner Ken Lewis for a free live Q&A where he pulls back the curtain on the mix ...",
-      "url": "https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gbi",
-      "date": "2025-09-28T06:05:40.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "livestreaming",
-        "production",
         "webdev"
       ],
-      "readTime": "1 min read",
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "My understanding of microservices was totally wrong",
+      "description": "Introduction I have been building CRUD applications for a long time, during my previous job, internships, and university assignments. In a typical CRU...",
+      "url": "https://dev.to/rohan_mhadgut_10/my-understanding-of-microservices-was-totally-wrong-j9",
+      "date": "2025-09-29T06:15:16.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "microservices",
+        "architecture",
+        "webdev"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "How to future-proof your web app's password authentication",
+      "description": "TL;DR Declare: const { login } = useTideCloak(); Add this: Login That's it. No password storage, no hashing logic. Traditional authentication knows da...",
+      "url": "https://dev.to/tidefoundation/how-to-future-proof-your-web-apps-password-authentication-3oh3",
+      "date": "2025-09-29T06:14:34.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "authentication",
+        "identity",
+        "react"
+      ],
+      "readTime": "5 min read",
       "priority": 2
     },
     {
