@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-29T06:31:20.955Z",
+  "lastUpdated": "2025-09-30T06:30:14.558Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "A List Apart",
     "CSS-Tricks",
+    "A List Apart",
     "Smashing Magazine"
   ],
   "posts": [
+    {
+      "title": "CodeQL zero to hero part 5: Debugging queries",
+      "description": "Learn to debug and fix your CodeQL queries. The post CodeQL zero to hero part 5: Debugging queries appeared first on The GitHub Blog....",
+      "url": "https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-5-debugging-queries/",
+      "date": "2025-09-29T15:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "security",
+        "vulnerabilityresearch",
+        "codescanning"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How GitHub protects developers from copyright enforcement overreach",
       "description": "Why the U.S. Supreme Court case Cox v. Sony matters for developers and sharing updates to our Transparency Center and Acceptable Use Policies. The pos...",
@@ -29,7 +44,7 @@
       "priority": 1
     },
     {
-      "title": "Kicking off Cybersecurity Awareness Month 2025: Researcher Spotlights and Enhanc",
+      "title": "Kicking off Cybersecurity Awareness Month 2025: Researcher spotlights and enhanc",
       "description": "For this year’s Cybersecurity Awareness Month, GitHub’s Bug Bounty team is excited to offer some additional incentives to security researchers! The po...",
       "url": "https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-2025-researcher-spotlights-and-enhanced-incentives/",
       "date": "2025-09-26T15:00:00.000Z",
@@ -59,78 +74,78 @@
       "priority": 1
     },
     {
-      "title": "GitHub Copilot gets smarter at finding your code: Inside our new embedding model",
-      "description": "Learn about a new Copilot embedding model that makes code search in VS Code faster, lighter on memory, and far more accurate. The post GitHub Copilot ...",
-      "url": "https://github.blog/news-insights/product-news/copilot-new-embedding-model-vs-code/",
-      "date": "2025-09-24T20:24:18.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "🚀 The Ultimate Algorithms & Data Structures Cheat Sheet Collection",
+      "description": "When preparing for coding interviews, brushing up on fundamentals, or simply strengthening your problem-solving skills, having quick access to high-qu...",
+      "url": "https://dev.to/harsh8088/the-ultimate-algorithms-data-structures-cheat-sheet-collection-2p2k",
+      "date": "2025-09-30T06:17:42.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "newsinsights",
-        "product",
-        "aimodels"
+        "algorithms",
+        "datastructure",
+        "cheetsheet"
       ],
       "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Build a RAG Personal Finance Application with Nuclia, KendoReact and Next.js",
-      "description": "This is a submission for the KendoReact Free Components Challenge. I built SparrowStash, a personal finance dashboard that goes beyond simple expense ...",
-      "url": "https://dev.to/dovanminhan/build-a-rag-personal-finance-application-with-nuclia-kendoreact-and-nextjs-23p7",
-      "date": "2025-09-29T06:26:10.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "devchallenge",
-        "kendoreactchallenge",
-        "react"
-      ],
-      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Building Dynamic Skeleton Loaders in React the Easy Way",
-      "description": "Loading states are everywhere—from profile cards to dashboards. Skeleton loaders keep users engaged while data is being fetched, but writing custom sk...",
-      "url": "https://dev.to/sinan_mp_dc8f4d9a51b63c29/building-dynamic-skeleton-loaders-in-react-the-easy-way-1fae",
-      "date": "2025-09-29T06:19:58.000Z",
+      "title": "¿El futuro del modelado es la IA o la especialización?",
+      "description": "Hola a todos, Últimamente he estado experimentando con las capacidades de generación de imágenes de IA y Tencent Hunyuan, específicamente con Gemini y...",
+      "url": "https://dev.to/yomero243/el-futuro-del-modelado-es-la-ia-o-la-especializacion-240b",
+      "date": "2025-09-30T06:14:18.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "react",
-        "javascript",
-        "webdev"
+        "webdev",
+        "espaol",
+        "spanish"
       ],
-      "readTime": "3 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "My understanding of microservices was totally wrong",
-      "description": "Introduction I have been building CRUD applications for a long time, during my previous job, internships, and university assignments. In a typical CRU...",
-      "url": "https://dev.to/rohan_mhadgut_10/my-understanding-of-microservices-was-totally-wrong-j9",
-      "date": "2025-09-29T06:15:16.000Z",
+      "title": "Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/",
+      "description": "Mixing Night – BACK TO SCHOOL NIGHT (10/1/2025) Hop on a FREE livestream with 2X Grammy winner Ken Lewis as he demonstrates the mixing tricks behind 1...",
+      "url": "https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5953",
+      "date": "2025-09-30T06:09:08.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "microservices",
-        "architecture",
-        "webdev"
+        "production",
+        "livestreaming",
+        "digital"
       ],
-      "readTime": "5 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "How to future-proof your web app's password authentication",
-      "description": "TL;DR Declare: const { login } = useTideCloak(); Add this: Login That's it. No password storage, no hashing logic. Traditional authentication knows da...",
-      "url": "https://dev.to/tidefoundation/how-to-future-proof-your-web-apps-password-authentication-3oh3",
-      "date": "2025-09-29T06:14:34.000Z",
+      "title": "COLORS: Penyair - Bambú | A COLORS SHOW",
+      "description": "Penyair ignites the COLORS stage with “Bambú” Bogotá’s own Penyair (aka @PenyairOficial) rolls through COLORS for a hypnotic, meditative take on his b...",
+      "url": "https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1c5c",
+      "date": "2025-09-30T06:08:53.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "authentication",
-        "identity",
-        "react"
+        "indie",
+        "streaming",
+        "livestreaming"
       ],
-      "readTime": "5 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Touring New CSS Features in Safari 26",
+      "description": "Safari 26 adds:75 new features, 3 deprecations, and 171 other improvements. Here's all the CSS goodness you'll want to know about. Touring New CSS Fea...",
+      "url": "https://css-tricks.com/touring-new-css-features-in-safari-26/",
+      "date": "2025-09-29T14:31:16.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "browser",
+        "news"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -249,21 +264,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Is it Time to Un-Sass?",
-      "description": "Many of the Sass features we've grown to love have made their way into native CSS in some shape or form. So, should we still use Sass? This is how dev...",
-      "url": "https://css-tricks.com/is-it-time-to-un-sass/",
-      "date": "2025-09-17T14:02:25.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "csspreprocessors",
-        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
