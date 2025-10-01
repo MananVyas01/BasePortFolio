@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-30T06:30:14.558Z",
+  "lastUpdated": "2025-10-01T06:30:10.359Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
+    "Smashing Magazine",
     "CSS-Tricks",
-    "A List Apart",
-    "Smashing Magazine"
+    "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Spec-driven development: Using Markdown as a programming language when building ",
+      "description": "I coded my latest app entirely in Markdown and let GitHub Copilot compile it into Go. This resulted in cleaner specs, faster iteration, and no more co...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/",
+      "date": "2025-09-30T19:07:46.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "githubcopilot"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "CodeQL zero to hero part 5: Debugging queries",
       "description": "Learn to debug and fix your CodeQL queries. The post CodeQL zero to hero part 5: Debugging queries appeared first on The GitHub Blog....",
@@ -59,76 +74,76 @@
       "priority": 1
     },
     {
-      "title": "Building beyond the browser: Keeley Hammond on Electron, open source, and the fu",
-      "description": "Learn what it really takes to sustain one of the web’s most widely used frameworks on this episode of the GitHub Podcast. The post Building beyond the...",
-      "url": "https://github.blog/open-source/maintainers/building-beyond-the-browser-keeley-hammond-on-electron-open-source-and-the-future-of-maintainership/",
-      "date": "2025-09-25T17:05:48.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "maintainers",
-        "opensource",
-        "electron"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "🚀 The Ultimate Algorithms & Data Structures Cheat Sheet Collection",
-      "description": "When preparing for coding interviews, brushing up on fundamentals, or simply strengthening your problem-solving skills, having quick access to high-qu...",
-      "url": "https://dev.to/harsh8088/the-ultimate-algorithms-data-structures-cheat-sheet-collection-2p2k",
-      "date": "2025-09-30T06:17:42.000Z",
+      "title": "What's new in the 2025 State of JavaScript survey",
+      "description": "It feels weird to announce the annual State of JavaScript survey while it's still warm out and the leaves haven't even turned red yet, but this year w...",
+      "url": "https://dev.to/sachagreif/whats-new-in-the-2025-state-of-javascript-survey-17ii",
+      "date": "2025-10-01T06:15:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "algorithms",
-        "datastructure",
-        "cheetsheet"
+        "surveys",
+        "javascript",
+        "typescript"
       ],
-      "readTime": "1 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "¿El futuro del modelado es la IA o la especialización?",
-      "description": "Hola a todos, Últimamente he estado experimentando con las capacidades de generación de imágenes de IA y Tencent Hunyuan, específicamente con Gemini y...",
-      "url": "https://dev.to/yomero243/el-futuro-del-modelado-es-la-ia-o-la-especializacion-240b",
-      "date": "2025-09-30T06:14:18.000Z",
+      "title": "AI Writing Assistants in 2025: Free vs Paid – Which Should You Choose?",
+      "description": "AI writing assistants have become indispensable in 2025. Whether you’re a blogger, marketer, or business owner, these tools help generate content fast...",
+      "url": "https://dev.to/sanjaynaker/ai-writing-assistants-in-2025-free-vs-paid-which-should-you-choose-3on3",
+      "date": "2025-10-01T06:12:20.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "espaol",
-        "spanish"
+        "ai",
+        "productivity",
+        "blockchain"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
       "title": "Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/",
-      "description": "Mixing Night – BACK TO SCHOOL NIGHT (10/1/2025) Hop on a FREE livestream with 2X Grammy winner Ken Lewis as he demonstrates the mixing tricks behind 1...",
-      "url": "https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5953",
-      "date": "2025-09-30T06:09:08.000Z",
+      "description": "Mixing Night with Ken Lewis – BACK TO SCHOOL NIGHT (10/1/2025) Get ready for a free, live Mixing Night Audio session with 2× Grammy winner Ken Lewis (...",
+      "url": "https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-dee",
+      "date": "2025-10-01T06:09:15.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "production",
         "livestreaming",
-        "digital"
+        "production",
+        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
       "title": "COLORS: Penyair - Bambú | A COLORS SHOW",
-      "description": "Penyair ignites the COLORS stage with “Bambú” Bogotá’s own Penyair (aka @PenyairOficial) rolls through COLORS for a hypnotic, meditative take on his b...",
-      "url": "https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1c5c",
-      "date": "2025-09-30T06:08:53.000Z",
+      "description": "Penyair, hailing from Suba in Bogotá, drops a meditative COLORS performance of his new single “Bambú,” riding the wave of his latest album Filantropía...",
+      "url": "https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-344b",
+      "date": "2025-10-01T06:09:04.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "indie",
         "streaming",
         "livestreaming"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Shades Of October (2025 Wallpapers Edition)",
+      "description": "How about some new wallpapers to get your desktop ready for fall and the upcoming Halloween season? We’ve got you covered! Following our monthly tradi...",
+      "url": "https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/",
+      "date": "2025-09-30T11:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -249,21 +264,6 @@
         "notes",
         "accessibility",
         "uiixdesign"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Psychology Of Trust In AI: A Guide To Measuring And Designing For User Confi",
-      "description": "With digital products moving to incorporate generative and agentic AI at an increasingly frequent rate, trust has become the invisible user interface....",
-      "url": "https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/",
-      "date": "2025-09-19T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
