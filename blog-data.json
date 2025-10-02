@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-01T06:30:10.359Z",
+  "lastUpdated": "2025-10-02T06:29:19.357Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,8 +8,8 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
@@ -74,61 +74,76 @@
       "priority": 1
     },
     {
-      "title": "What's new in the 2025 State of JavaScript survey",
-      "description": "It feels weird to announce the annual State of JavaScript survey while it's still warm out and the leaves haven't even turned red yet, but this year w...",
-      "url": "https://dev.to/sachagreif/whats-new-in-the-2025-state-of-javascript-survey-17ii",
-      "date": "2025-10-01T06:15:00.000Z",
+      "title": "Enhancing MiroFlow: Tracking Data Sources for AskPaul App",
+      "description": "When building predictive market applications askpaul.ai, transparency in data sources is crucial for user trust and informed decision-making. Our plat...",
+      "url": "https://dev.to/askpaul/enhancing-miroflow-tracking-data-sources-for-askpaul-app-53em",
+      "date": "2025-10-02T06:16:15.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "surveys",
+        "webdev",
         "javascript",
-        "typescript"
+        "css"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "AI Writing Assistants in 2025: Free vs Paid – Which Should You Choose?",
-      "description": "AI writing assistants have become indispensable in 2025. Whether you’re a blogger, marketer, or business owner, these tools help generate content fast...",
-      "url": "https://dev.to/sanjaynaker/ai-writing-assistants-in-2025-free-vs-paid-which-should-you-choose-3on3",
-      "date": "2025-10-01T06:12:20.000Z",
+      "title": "You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events",
+      "description": "GitHub Home In our toolbox, there are always a few \"star\" tools. 🛠️ In the realm of real-time web communication, WebSocket is undoubtedly the brighte...",
+      "url": "https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-192k",
+      "date": "2025-10-02T06:15:34.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "productivity",
-        "blockchain"
+        "webdev",
+        "programming",
+        "rust"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "ACID Properties",
+      "description": "Demonstrating ACID Properties in MySQL with Accounts Table In this blog, we’ll explore the ACID properties—Atomicity, Consistency, Isolation, and Dura...",
+      "url": "https://dev.to/divya__sundarasekaran_459/acid-properties-42pd",
+      "date": "2025-10-02T06:15:24.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/",
-      "description": "Mixing Night with Ken Lewis – BACK TO SCHOOL NIGHT (10/1/2025) Get ready for a free, live Mixing Night Audio session with 2× Grammy winner Ken Lewis (...",
-      "url": "https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-dee",
-      "date": "2025-10-01T06:09:15.000Z",
+      "title": "Getting Started with AWS Bedrock AgentCore (preview)",
+      "description": "Introduction Usually software processes data in a predefined way and follows specific steps to complete a task. In contrast, AI agents can perceive, d...",
+      "url": "https://dev.to/claudio_codes/getting-started-with-aws-bedrock-agentcore-preview-34km",
+      "date": "2025-10-02T06:12:21.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "livestreaming",
-        "production",
-        "webdev"
+        "ai",
+        "aws",
+        "beginners"
       ],
-      "readTime": "1 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "COLORS: Penyair - Bambú | A COLORS SHOW",
-      "description": "Penyair, hailing from Suba in Bogotá, drops a meditative COLORS performance of his new single “Bambú,” riding the wave of his latest album Filantropía...",
-      "url": "https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-344b",
-      "date": "2025-10-01T06:09:04.000Z",
+      "title": "Same Idea, Different Paint Brush",
+      "description": "Naturally, everything looks like code when I'm staring at a blank canvas. That's whether the canvas is paper, a screen, some Figma artboard, or what h...",
+      "url": "https://css-tricks.com/same-idea-different-paint-brush/",
+      "date": "2025-10-01T13:02:47.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "indie",
-        "streaming",
-        "livestreaming"
+        "articles",
+        "inspiration",
+        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -249,21 +264,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "On inclusive personas and inclusive user research",
-      "description": "A set of notes taken from Eric Bailey's article about the use of inclusive personas and user research. On inclusive personas and inclusive user resear...",
-      "url": "https://css-tricks.com/on-inclusive-personas-and-inclusive-user-research/",
-      "date": "2025-09-19T13:58:37.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "notes",
-        "accessibility",
-        "uiixdesign"
       ],
       "readTime": "1 min read",
       "priority": 2
