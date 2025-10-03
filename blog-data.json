@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-02T06:29:19.357Z",
+  "lastUpdated": "2025-10-03T06:28:29.706Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How we automated accessibility compliance in five hours with GitHub Copilot",
+      "description": "See how we turned weekly accessibility grade signals into an automated, accountable remediation workflow—powered by GitHub Copilot and cross‑functiona...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/",
+      "date": "2025-10-02T19:19:14.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "accessibility"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Spec-driven development: Using Markdown as a programming language when building ",
       "description": "I coded my latest app entirely in Markdown and let GitHub Copilot compile it into Go. This resulted in cleaner specs, faster iteration, and no more co...",
@@ -59,78 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Kicking off Cybersecurity Awareness Month 2025: Researcher spotlights and enhanc",
-      "description": "For this year’s Cybersecurity Awareness Month, GitHub’s Bug Bounty team is excited to offer some additional incentives to security researchers! The po...",
-      "url": "https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-2025-researcher-spotlights-and-enhanced-incentives/",
-      "date": "2025-09-26T15:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "security",
-        "vulnerabilityresearch",
-        "bugbounty"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Enhancing MiroFlow: Tracking Data Sources for AskPaul App",
-      "description": "When building predictive market applications askpaul.ai, transparency in data sources is crucial for user trust and informed decision-making. Our plat...",
-      "url": "https://dev.to/askpaul/enhancing-miroflow-tracking-data-sources-for-askpaul-app-53em",
-      "date": "2025-10-02T06:16:15.000Z",
+      "title": "Oracle Autonomous Database Dedicated: Fleet Administration, Provisioning, and Ro",
+      "description": "Oracle Autonomous Database on Dedicated Exadata Infrastructure enables organizations to build private database clouds with self-service capabilities w...",
+      "url": "https://dev.to/derrickryangiggs/oracle-autonomous-database-dedicated-fleet-administration-provisioning-and-role-based-management-4h35",
+      "date": "2025-10-03T06:19:38.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events",
-      "description": "GitHub Home In our toolbox, there are always a few \"star\" tools. 🛠️ In the realm of real-time web communication, WebSocket is undoubtedly the brighte...",
-      "url": "https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-192k",
-      "date": "2025-10-02T06:15:34.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "programming",
-        "rust"
+        "oracleautonomousdatabase",
+        "databaseprovisioning",
+        "fleetadministration"
       ],
       "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "ACID Properties",
-      "description": "Demonstrating ACID Properties in MySQL with Accounts Table In this blog, we’ll explore the ACID properties—Atomicity, Consistency, Isolation, and Dura...",
-      "url": "https://dev.to/divya__sundarasekaran_459/acid-properties-42pd",
-      "date": "2025-10-02T06:15:24.000Z",
+      "title": "How to Make a Solidity Contract 100x Cheaper and Faster",
+      "description": "If you've built on Ethereum, you know the drill: everything lives in Solidity. That means when you want to do something more compute-heavy, like run a...",
+      "url": "https://dev.to/bengreenberg/how-to-make-a-solidity-contract-100x-cheaper-and-faster-4he3",
+      "date": "2025-10-03T06:15:54.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "solidity",
+        "rust",
+        "web3"
       ],
-      "readTime": "2 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Getting Started with AWS Bedrock AgentCore (preview)",
-      "description": "Introduction Usually software processes data in a predefined way and follows specific steps to complete a task. In contrast, AI agents can perceive, d...",
-      "url": "https://dev.to/claudio_codes/getting-started-with-aws-bedrock-agentcore-preview-34km",
-      "date": "2025-10-02T06:12:21.000Z",
+      "title": "Make Professional Videos People Want to Watch",
+      "description": "I’ve begun to realise that most — okay, all (guilty) — of my Saturdays are now spent doom scrolling. Not exactly the healthiest habit. I wake up, fres...",
+      "url": "https://dev.to/narrative/make-professional-videos-people-want-to-watch-4nia",
+      "date": "2025-10-03T06:15:11.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "audienceengagement",
+        "contentstrategy",
+        "videomarketing"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "How AI is Changing the Future of Photo Editing",
+      "description": "How AI is Changing the Future of Photo Editing From background removal to generative design—how AI is reshaping visuals for creators and businesses In...",
+      "url": "https://dev.to/hassan_3bbb2ffd268a7bcf0b/how-ai-is-changing-the-future-of-photo-editing-53ji",
+      "date": "2025-10-03T06:14:46.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "aws",
-        "beginners"
+        "photoediting",
+        "design"
       ],
-      "readTime": "5 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
