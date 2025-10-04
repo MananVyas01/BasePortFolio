@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-03T06:28:29.706Z",
+  "lastUpdated": "2025-10-04T06:26:07.184Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,26 +8,11 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
-    {
-      "title": "How we automated accessibility compliance in five hours with GitHub Copilot",
-      "description": "See how we turned weekly accessibility grade signals into an automated, accountable remediation workflow—powered by GitHub Copilot and cross‑functiona...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/",
-      "date": "2025-10-02T19:19:14.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "accessibility"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
     {
       "title": "Spec-driven development: Using Markdown as a programming language when building ",
       "description": "I coded my latest app entirely in Markdown and let GitHub Copilot compile it into Go. This resulted in cleaner specs, faster iteration, and no more co...",
@@ -74,63 +59,93 @@
       "priority": 1
     },
     {
-      "title": "Oracle Autonomous Database Dedicated: Fleet Administration, Provisioning, and Ro",
-      "description": "Oracle Autonomous Database on Dedicated Exadata Infrastructure enables organizations to build private database clouds with self-service capabilities w...",
-      "url": "https://dev.to/derrickryangiggs/oracle-autonomous-database-dedicated-fleet-administration-provisioning-and-role-based-management-4h35",
-      "date": "2025-10-03T06:19:38.000Z",
+      "title": "Kicking off Cybersecurity Awareness Month 2025: Researcher spotlights and enhanc",
+      "description": "For this year’s Cybersecurity Awareness Month, GitHub’s Bug Bounty team is excited to offer some additional incentives to security researchers! The po...",
+      "url": "https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-2025-researcher-spotlights-and-enhanced-incentives/",
+      "date": "2025-09-26T15:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "security",
+        "vulnerabilityresearch",
+        "bugbounty"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Cercle: Parra for Cuva - Nightjar (Live Version) | Cercle Odyssey",
+      "description": "Parra for Cuva’s live “Nightjar” is his third drop on Cercle Records, premiering at Cercle Odyssey in Mexico City. Deep electronic beats meet soaring,...",
+      "url": "https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-5ah4",
+      "date": "2025-10-04T06:13:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "oracleautonomousdatabase",
-        "databaseprovisioning",
-        "fleetadministration"
+        "indie",
+        "livestreaming",
+        "digital"
       ],
-      "readTime": "7 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "How to Make a Solidity Contract 100x Cheaper and Faster",
-      "description": "If you've built on Ethereum, you know the drill: everything lives in Solidity. That means when you want to do something more compute-heavy, like run a...",
-      "url": "https://dev.to/bengreenberg/how-to-make-a-solidity-contract-100x-cheaper-and-faster-4he3",
-      "date": "2025-10-03T06:15:54.000Z",
+      "title": "KEXP: strongboi - magic (Live on KEXP)",
+      "description": "strongboi brings “magic” to KEXP’s live session On August 14, 2025, Brooklyn-based collective strongboi rocked the KEXP studio with a live take of the...",
+      "url": "https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-39jf",
+      "date": "2025-10-04T06:12:57.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "solidity",
-        "rust",
-        "web3"
+        "indie",
+        "livestreaming",
+        "production"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Make Professional Videos People Want to Watch",
-      "description": "I’ve begun to realise that most — okay, all (guilty) — of my Saturdays are now spent doom scrolling. Not exactly the healthiest habit. I wake up, fres...",
-      "url": "https://dev.to/narrative/make-professional-videos-people-want-to-watch-4nia",
-      "date": "2025-10-03T06:15:11.000Z",
+      "title": "KEXP: Waxahatchee - Evil Spawn (Live on KEXP)",
+      "description": "Waxahatchee rolled into the KEXP studio on August 11, 2025, and delivered a raw, heart-on-sleeve take on “Evil Spawn.” Katie Crutchfield led the charg...",
+      "url": "https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-e3b",
+      "date": "2025-10-04T06:12:49.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "audienceengagement",
-        "contentstrategy",
-        "videomarketing"
+        "indie",
+        "streaming",
+        "production"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "How AI is Changing the Future of Photo Editing",
-      "description": "How AI is Changing the Future of Photo Editing From background removal to generative design—how AI is reshaping visuals for creators and businesses In...",
-      "url": "https://dev.to/hassan_3bbb2ffd268a7bcf0b/how-ai-is-changing-the-future-of-photo-editing-53ji",
-      "date": "2025-10-03T06:14:46.000Z",
+      "title": "Polyphonic: The War Songs of Greenwich Village",
+      "description": "Watch on YouTube...",
+      "url": "https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3j1c",
+      "date": "2025-10-04T06:12:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "photoediting",
-        "design"
+        "indie",
+        "diy",
+        "distribution"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Intent Prototyping: A Practical Guide To Building With Clarity (Part 2)",
+      "description": "Ready to move beyond static mockups? Here is a practical, step-by-step guide to Intent Prototyping — a disciplined method that uses AI to turn your de...",
+      "url": "https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/",
+      "date": "2025-10-03T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -249,21 +264,6 @@
         "articles",
         "animation",
         "cssfunctions"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Ambient Animations In Web Design: Principles And Implementation (Part 1)",
-      "description": "Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, s...",
-      "url": "https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/",
-      "date": "2025-09-22T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
