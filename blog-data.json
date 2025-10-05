@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-04T06:26:07.184Z",
+  "lastUpdated": "2025-10-05T06:26:30.766Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,46 +74,46 @@
       "priority": 1
     },
     {
+      "title": "Database Normalization",
+      "description": "Database Normalization: Database normalization is the process of structuring a relational database to reduce redundancy and improve data integrity. In...",
+      "url": "https://dev.to/arun_prasath_fa013c5e6085/database-normalization-1l1m",
+      "date": "2025-10-05T06:19:01.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "programming",
+        "sql",
+        "database"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
       "title": "Cercle: Parra for Cuva - Nightjar (Live Version) | Cercle Odyssey",
-      "description": "Parra for Cuva’s live “Nightjar” is his third drop on Cercle Records, premiering at Cercle Odyssey in Mexico City. Deep electronic beats meet soaring,...",
-      "url": "https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-5ah4",
-      "date": "2025-10-04T06:13:16.000Z",
+      "description": "Parra for Cuva’s latest live gem “Nightjar,” recorded at Cercle Odyssey in Mexico City, marks his third release on Cercle Records. It fuses deep elect...",
+      "url": "https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-2e81",
+      "date": "2025-10-05T06:15:03.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "indie",
-        "livestreaming",
-        "digital"
+        "streaming",
+        "livestreaming"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
       "title": "KEXP: strongboi - magic (Live on KEXP)",
-      "description": "strongboi brings “magic” to KEXP’s live session On August 14, 2025, Brooklyn-based collective strongboi rocked the KEXP studio with a live take of the...",
-      "url": "https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-39jf",
-      "date": "2025-10-04T06:12:57.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "indie",
-        "livestreaming",
-        "production"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "KEXP: Waxahatchee - Evil Spawn (Live on KEXP)",
-      "description": "Waxahatchee rolled into the KEXP studio on August 11, 2025, and delivered a raw, heart-on-sleeve take on “Evil Spawn.” Katie Crutchfield led the charg...",
-      "url": "https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-e3b",
-      "date": "2025-10-04T06:12:49.000Z",
+      "description": "strongboi drops a killer live version of “magic” on KEXP On August 14, 2025, strongboi rocked the KEXP studio with “magic,” featuring Alice Matthew (v...",
+      "url": "https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1bpi",
+      "date": "2025-10-05T06:14:47.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "indie",
         "streaming",
-        "production"
+        "livestreaming"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -121,14 +121,14 @@
     {
       "title": "Polyphonic: The War Songs of Greenwich Village",
       "description": "Watch on YouTube...",
-      "url": "https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3j1c",
-      "date": "2025-10-04T06:12:31.000Z",
+      "url": "https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3n58",
+      "date": "2025-10-05T06:11:29.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "indie",
-        "diy",
-        "distribution"
+        "distribution",
+        "diy"
       ],
       "readTime": "1 min read",
       "priority": 2
