@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-05T06:26:30.766Z",
+  "lastUpdated": "2025-10-06T06:30:37.895Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,61 +74,61 @@
       "priority": 1
     },
     {
-      "title": "Database Normalization",
-      "description": "Database Normalization: Database normalization is the process of structuring a relational database to reduce redundancy and improve data integrity. In...",
-      "url": "https://dev.to/arun_prasath_fa013c5e6085/database-normalization-1l1m",
-      "date": "2025-10-05T06:19:01.000Z",
+      "title": "How to Delete a Code Wiki in Azure DevOps",
+      "description": "In one of my projects, I initially created a Code Wiki next to the regular project Wiki in Azure DevOps, thinking it might be useful, but later realiz...",
+      "url": "https://dev.to/truelime/how-to-delete-a-code-wiki-in-azure-devops-4lf2",
+      "date": "2025-10-06T06:26:17.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "programming",
-        "sql",
-        "database"
+        "azuredevops",
+        "cli",
+        "wiki"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Cercle: Parra for Cuva - Nightjar (Live Version) | Cercle Odyssey",
-      "description": "Parra for Cuva’s latest live gem “Nightjar,” recorded at Cercle Odyssey in Mexico City, marks his third release on Cercle Records. It fuses deep elect...",
-      "url": "https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-2e81",
-      "date": "2025-10-05T06:15:03.000Z",
+      "title": "Include product body field in Shopify drawer search results",
+      "description": "Introduction Many themes don’t include the body field as part of the search condition in the drawer (the search that appears when clicking the search ...",
+      "url": "https://dev.to/orfeo/include-product-body-field-in-shopify-drawer-search-results-315j",
+      "date": "2025-10-06T06:24:58.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "indie",
-        "streaming",
-        "livestreaming"
+        "frontend",
+        "javascript",
+        "tutorial"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "KEXP: strongboi - magic (Live on KEXP)",
-      "description": "strongboi drops a killer live version of “magic” on KEXP On August 14, 2025, strongboi rocked the KEXP studio with “magic,” featuring Alice Matthew (v...",
-      "url": "https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1bpi",
-      "date": "2025-10-05T06:14:47.000Z",
+      "title": "Using @mixin for referencing in traits in PHP (Laravel example)",
+      "description": "When building modular PHP applications, traits are a great way to keep your code organized and reusable. Let’s walk through an example showing how to ...",
+      "url": "https://dev.to/orfeo/using-mixin-for-referencing-in-traits-in-php-laravel-example-dm9",
+      "date": "2025-10-06T06:24:41.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "indie",
-        "streaming",
-        "livestreaming"
+        "tutorial",
+        "laravel",
+        "tooling"
       ],
-      "readTime": "1 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Polyphonic: The War Songs of Greenwich Village",
-      "description": "Watch on YouTube...",
-      "url": "https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3n58",
-      "date": "2025-10-05T06:11:29.000Z",
+      "title": "Hello world",
+      "description": "👋 Hello Dev Community! Hi everyone, my name is José Rodolfo. I’m a software engineer and lecturer based in Costa Rica, currently pursuing an MSc in C...",
+      "url": "https://dev.to/zenidog8/hello-world-4hjk",
+      "date": "2025-10-06T06:24:37.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "indie",
-        "distribution",
-        "diy"
+        "discuss",
+        "career",
+        "computerscience"
       ],
       "readTime": "1 min read",
       "priority": 2
