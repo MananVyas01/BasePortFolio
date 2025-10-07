@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-06T06:30:37.895Z",
+  "lastUpdated": "2025-10-07T06:29:34.210Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "The developer role is evolving. Here’s how to stay ahead.",
+      "description": "AI is changing how software gets built. Explore the skills you need to keep up and stand out. The post The developer role is evolving. Here’s how to s...",
+      "url": "https://github.blog/ai-and-ml/the-developer-role-is-evolving-heres-how-to-stay-ahead/",
+      "date": "2025-10-06T20:12:49.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "companynews",
+        "newsinsights"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Spec-driven development: Using Markdown as a programming language when building ",
       "description": "I coded my latest app entirely in Markdown and let GitHub Copilot compile it into Go. This resulted in cleaner specs, faster iteration, and no more co...",
@@ -59,76 +74,91 @@
       "priority": 1
     },
     {
-      "title": "Kicking off Cybersecurity Awareness Month 2025: Researcher spotlights and enhanc",
-      "description": "For this year’s Cybersecurity Awareness Month, GitHub’s Bug Bounty team is excited to offer some additional incentives to security researchers! The po...",
-      "url": "https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-2025-researcher-spotlights-and-enhanced-incentives/",
-      "date": "2025-09-26T15:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "security",
-        "vulnerabilityresearch",
-        "bugbounty"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "How to Delete a Code Wiki in Azure DevOps",
-      "description": "In one of my projects, I initially created a Code Wiki next to the regular project Wiki in Azure DevOps, thinking it might be useful, but later realiz...",
-      "url": "https://dev.to/truelime/how-to-delete-a-code-wiki-in-azure-devops-4lf2",
-      "date": "2025-10-06T06:26:17.000Z",
+      "title": "horcrux: Split files into encrypted fragments for Node & React Native (TypeScrip",
+      "description": "Horcrux is a TypeScript library for splitting files into encrypted fragments — “horcruxes” — inspired by Harry Potter. Think of it as digital horcruxe...",
+      "url": "https://dev.to/nchika/horcrux-split-files-into-encrypted-fragments-for-node-react-native-typescript-library-6h6",
+      "date": "2025-10-07T06:22:48.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "azuredevops",
-        "cli",
-        "wiki"
+        "typescript",
+        "reactnative",
+        "node"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Include product body field in Shopify drawer search results",
-      "description": "Introduction Many themes don’t include the body field as part of the search condition in the drawer (the search that appears when clicking the search ...",
-      "url": "https://dev.to/orfeo/include-product-body-field-in-shopify-drawer-search-results-315j",
-      "date": "2025-10-06T06:24:58.000Z",
+      "title": "Optimizing AWS DevOps Workflows Through Smarter CI/CD and Version Control",
+      "description": "Read More: Optimizing AWS DevOps Workflows Through Smarter CI/CD and Version Control What Is AWS DevOps? AWS DevOps combines the power of Amazon Web S...",
+      "url": "https://dev.to/vishal_more_02990955c9358/optimizing-aws-devops-workflows-through-smarter-cicd-and-version-control-4406",
+      "date": "2025-10-07T06:19:56.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "frontend",
-        "javascript",
-        "tutorial"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Using @mixin for referencing in traits in PHP (Laravel example)",
-      "description": "When building modular PHP applications, traits are a great way to keep your code organized and reusable. Let’s walk through an example showing how to ...",
-      "url": "https://dev.to/orfeo/using-mixin-for-referencing-in-traits-in-php-laravel-example-dm9",
-      "date": "2025-10-06T06:24:41.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "tutorial",
-        "laravel",
-        "tooling"
+        "programming",
+        "ai",
+        "aws"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Hello world",
-      "description": "👋 Hello Dev Community! Hi everyone, my name is José Rodolfo. I’m a software engineer and lecturer based in Costa Rica, currently pursuing an MSc in C...",
-      "url": "https://dev.to/zenidog8/hello-world-4hjk",
-      "date": "2025-10-06T06:24:37.000Z",
+      "title": "React Questions",
+      "description": "1.What is the difference between a functional component and a class component in React? Functional Component: This is a normal Javascript function whi...",
+      "url": "https://dev.to/vidya_varshini/react-questions-1ppk",
+      "date": "2025-10-07T06:18:42.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "discuss",
-        "career",
-        "computerscience"
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Don’t Tear Down the Fence: Why Understanding Comes Before Change",
+      "description": "🧱 Chesterton’s Fence: Understanding Before You Change In the rush to improve, innovate, and “move fast,” it’s easy to forget one key rule: Don’t remo...",
+      "url": "https://dev.to/hardikidea/dont-tear-down-the-fence-why-understanding-comes-before-change-2bd2",
+      "date": "2025-10-07T06:11:29.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Getting Creative With shape-outside",
+      "description": "There are so many creative opportunities for using shape-outside that I’m surprised I see it used so rarely. So, how can you use it to add personality...",
+      "url": "https://css-tricks.com/getting-creative-with-shape-outside/",
+      "date": "2025-10-06T15:45:40.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "cssshapes",
+        "images"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Smashing Animations Part 5: Building Adaptive SVGs With ``, ``, And CSS Media Qu",
+      "description": "SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds...",
+      "url": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
+      "date": "2025-10-06T13:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -234,36 +264,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Intent Prototyping: The Allure And Danger Of Pure Vibe Coding In Enterprise UX (",
-      "description": "Yegor Gilyov examines the problem of over-reliance on static high-fidelity mockups, which often leave the conceptual model and user flows dangerously ...",
-      "url": "https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/",
-      "date": "2025-09-24T17:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "CSS Typed Arithmetic",
-      "description": "Starting in Chrome 140, we'll be able to calculate numeric values with mixed data types. Sounds small, but Amit demonstrates how big a deal this is, c...",
-      "url": "https://css-tricks.com/css-typed-arithmetic/",
-      "date": "2025-09-24T12:49:22.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "animation",
-        "cssfunctions"
       ],
       "readTime": "1 min read",
       "priority": 2
