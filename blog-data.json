@@ -1,18 +1,49 @@
 {
-  "lastUpdated": "2025-10-08T06:30:19.356Z",
+  "lastUpdated": "2025-10-09T06:30:40.177Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
-    "Web Dev"
+    "Web Dev",
+    "JavaScript"
   ],
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
-    "A List Apart"
+    "A List Apart",
+    "JavaScript Weekly"
   ],
   "posts": [
+    {
+      "title": "GitHub Availability Report: September 2025",
+      "description": "In September, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: Septem...",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2025/",
+      "date": "2025-10-09T02:19:28.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "companynews",
+        "newsinsights",
+        "githubavailabilityreport"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Completing urgent fixes anywhere with GitHub Copilot coding agent and mobile",
+      "description": "Unlock the full potential of the GitHub platform. See how Copilot coding agent and GitHub Mobile combine to help you tackle development tasks and urge...",
+      "url": "https://github.blog/developer-skills/github/completing-urgent-fixes-anywhere-with-github-copilot-coding-agent-and-mobile/",
+      "date": "2025-10-08T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "developerskills",
+        "github",
+        "codingagent"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How GitHub Copilot enabled accessibility governance process improvements in reco",
       "description": "See how we turned weekly accessibility grade signals into an automated, accountable remediation workflow—powered by GitHub Copilot and cross‑functiona...",
@@ -44,108 +75,63 @@
       "priority": 1
     },
     {
-      "title": "The developer role is evolving. Here’s how to stay ahead.",
-      "description": "AI is changing how software gets built. Explore the skills you need to keep up and stand out. The post The developer role is evolving. Here’s how to s...",
-      "url": "https://github.blog/ai-and-ml/the-developer-role-is-evolving-heres-how-to-stay-ahead/",
-      "date": "2025-10-06T20:12:49.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "companynews",
-        "newsinsights"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Spec-driven development: Using Markdown as a programming language when building ",
-      "description": "I coded my latest app entirely in Markdown and let GitHub Copilot compile it into Go. This resulted in cleaner specs, faster iteration, and no more co...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/",
-      "date": "2025-09-30T19:07:46.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "generativeai",
-        "githubcopilot"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Understanding SpankBang: A Look at the Platform",
-      "description": "In today’s digital world, video content has become more accessible than ever before. With thousands of websites offering videos and images, users have...",
-      "url": "https://dev.to/maigretbusiness/understanding-spankbang-a-look-at-the-platform-4cbl",
-      "date": "2025-10-08T06:15:32.000Z",
+      "title": "From Zero to 373 Days: How Daily LeetCode Challenges Transformed My Programming ",
+      "description": "When I first heard people talking about “problem-solving”, I had no idea what it actually meant. It was one of those phrases I kept seeing on LinkedIn...",
+      "url": "https://dev.to/hadil/from-zero-to-373-days-how-daily-leetcode-challenges-transformed-my-programming-journey-47o9",
+      "date": "2025-10-09T06:28:40.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "spankbang",
-        "spankbangs",
+        "programming",
+        "learning",
+        "coding"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "How AI Chatbots Are Transforming Customer Support in 2025",
+      "description": "Customer support has always been a critical component of business success, but traditional support channels are often costly, slow, and inconsistent. ...",
+      "url": "https://dev.to/ryan-mathews/how-ai-chatbots-are-transforming-customer-support-in-2025-c0i",
+      "date": "2025-10-09T06:19:10.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "programming",
         "webdev"
       ],
       "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "COLORS: Nono La Grinta | A COLORS SHOW",
-      "description": "Nono La Grinta | A COLORS SHOW Paris-based rapper Nono La Grinta delivers every line with razor-sharp precision and raw grit in this uncompromising CO...",
-      "url": "https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-4h17",
-      "date": "2025-10-08T06:12:01.000Z",
+      "title": "How to Choose the Right Automated Testing Tools for Your Tech Stack?",
+      "description": "If you’ve ever been in the middle of a sprint, rushing to deploy new features, and your test suite suddenly breaks — you’re not alone. Choosing the ri...",
+      "url": "https://dev.to/sophielane/how-to-choose-the-right-automated-testing-tools-for-your-tech-stack-189",
+      "date": "2025-10-09T06:18:11.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "hiphop",
-        "streaming",
-        "livestreaming"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "1 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage (Live on KEXP)",
-      "description": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs “Blockage” Live on KEXP Newcastle psych-rockers Pigs Pigs Pigs Pigs Pigs Pigs Pigs ripped through “Blockage” live i...",
-      "url": "https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4apb",
-      "date": "2025-10-08T06:11:49.000Z",
+      "title": "Your Reading Speed: How Cognitive Science Defines the Comprehension Sweet Spot",
+      "description": "You’ve probably tried to read faster at some point -skimming chapters, scrolling through articles, or racing to finish that pile of reports. But have ...",
+      "url": "https://dev.to/brain_athlete/your-reading-speed-how-cognitive-science-defines-the-comprehension-sweet-spot-4end",
+      "date": "2025-10-09T06:17:02.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "indie",
-        "livestreaming",
-        "production"
+        "speedreadingtechniques",
+        "learnspeedreading",
+        "improvereadingspeed"
       ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm (Live on KEXP)",
-      "description": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs – “The Wyrm” (Live on KEXP) London noise-rock septet Pigs Pigs Pigs Pigs Pigs Pigs Pigs tore through “The Wyrm” in ...",
-      "url": "https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-418p",
-      "date": "2025-10-08T06:11:39.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "indie",
-        "streaming",
-        "livestreaming"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Getting Creative With shape-outside",
-      "description": "There are so many creative opportunities for using shape-outside that I’m surprised I see it used so rarely. So, how can you use it to add personality...",
-      "url": "https://css-tricks.com/getting-creative-with-shape-outside/",
-      "date": "2025-10-06T15:45:40.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "cssshapes",
-        "images"
-      ],
-      "readTime": "1 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
@@ -179,21 +165,6 @@
       "priority": 2
     },
     {
-      "title": "Same Idea, Different Paint Brush",
-      "description": "Naturally, everything looks like code when I'm staring at a blank canvas. That's whether the canvas is paper, a screen, some Figma artboard, or what h...",
-      "url": "https://css-tricks.com/same-idea-different-paint-brush/",
-      "date": "2025-10-01T13:02:47.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "inspiration",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Shades Of October (2025 Wallpapers Edition)",
       "description": "How about some new wallpapers to get your desktop ready for fall and the upcoming Halloween season? We’ve got you covered! Following our monthly tradi...",
       "url": "https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/",
@@ -204,21 +175,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Touring New CSS Features in Safari 26",
-      "description": "Safari 26 adds:75 new features, 3 deprecations, and 171 other improvements. Here's all the CSS goodness you'll want to know about. Touring New CSS Fea...",
-      "url": "https://css-tricks.com/touring-new-css-features-in-safari-26/",
-      "date": "2025-09-29T14:31:16.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "browser",
-        "news"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -236,21 +192,6 @@
         "css"
       ],
       "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "Recreating Gmail’s Google Gemini Animation",
-      "description": "John Rhea challenged himself to recreate the fancy button using the new CSS shape() function sprinkled with animation to get things pretty close. Recr...",
-      "url": "https://css-tricks.com/recreating-gmails-google-gemini-animation/",
-      "date": "2025-09-26T14:45:13.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "animation",
-        "webdev"
-      ],
-      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -282,6 +223,58 @@
       ],
       "readTime": "9 min read",
       "priority": 2
+    },
+    {
+      "title": "From Beta to Bedrock: Build Products that Stick.",
+      "description": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few we...",
+      "url": "\n\t\t\t\t\thttps://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/\t\t\t\t",
+      "date": "2025-04-23T18:04:31.000Z",
+      "category": "Web Dev",
+      "source": "A List Apart",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "User Research Is Storytelling",
+      "description": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an act...",
+      "url": "\n\t\t\t\t\thttps://alistapart.com/article/user-research-is-storytelling/\t\t\t\t",
+      "date": "2024-05-30T18:04:43.000Z",
+      "category": "Web Dev",
+      "source": "A List Apart",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "14 min read",
+      "priority": 2
+    },
+    {
+      "title": "React 19.2 is in the building",
+      "description": "#​755 — October 3, 2025 Read on the Web JavaScript Weekly The State of JavaScript 2025 Survey — Each year, Devographics runs an epic survey of as many...",
+      "url": "https://javascriptweekly.com/issues/755",
+      "date": "2025-10-03T00:00:00.000Z",
+      "category": "JavaScript",
+      "source": "JavaScript Weekly",
+      "tags": [],
+      "readTime": "6 min read",
+      "priority": 3
+    },
+    {
+      "title": "The first browser with JavaScript landed 30 years ago",
+      "description": "#​754 — September 26, 2025 Read on the Web JavaScript Weekly Give Your AI Eyes: Introducing Chrome DevTools MCP — The Chrome team has released an MCP ...",
+      "url": "https://javascriptweekly.com/issues/754",
+      "date": "2025-09-26T00:00:00.000Z",
+      "category": "JavaScript",
+      "source": "JavaScript Weekly",
+      "tags": [],
+      "readTime": "6 min read",
+      "priority": 3
     }
   ]
 }
