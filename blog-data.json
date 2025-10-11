@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-10T06:30:13.373Z",
+  "lastUpdated": "2025-10-11T06:26:02.875Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -60,7 +60,7 @@
     },
     {
       "title": "How GitHub Copilot enabled accessibility governance process improvements in reco",
-      "description": "See how we turned weekly accessibility grade signals into an automated, accountable remediation workflow—powered by GitHub Copilot and cross‑functiona...",
+      "description": "See how we turned weekly accessibility signals into an automated, accountable remediation workflow—powered by GitHub Copilot and cross‑functional coll...",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/",
       "date": "2025-10-07T17:00:00.000Z",
       "category": "Tech Insights",
@@ -74,40 +74,40 @@
       "priority": 1
     },
     {
-      "title": "Understanding Path Analysis Using R",
-      "description": "In the world of data analytics, understanding how variables influence one another is often more important than simply predicting an outcome. Imagine t...",
-      "url": "https://dev.to/anshuman_816f8012be0c9b6c/understanding-path-analysis-using-r-2e2l",
-      "date": "2025-10-10T06:25:52.000Z",
+      "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
+      "description": "SABRI’s Soulful COLORS Debut In her COLORS performance, Dutch-born dynamo SABRI bares her heart on “Sold Myself For Love,” the lead single from her ne...",
+      "url": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1g7h",
+      "date": "2025-10-11T06:09:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "indie",
+        "streaming",
+        "livestreaming"
       ],
-      "readTime": "5 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Building a Browser FPS from Scratch: Sicar.io and the Lumina.pw Engine",
-      "description": "I've been heads‑down on Sicar.io, a fast, skill‑forward FPS that runs entirely in the browser. This devlog is a look behind the curtain: how the game ...",
-      "url": "https://dev.to/hoodgail/building-a-browser-fps-from-scratch-sicario-and-the-luminapw-engine-gh7",
-      "date": "2025-10-10T06:24:58.000Z",
+      "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
+      "description": "Nono La Grinta crushes his COLORS session with a no-holds-barred performance of “LOVE YOU,” showcasing the Parisian rapper’s razor-sharp delivery stra...",
+      "url": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4fcg",
+      "date": "2025-10-11T06:09:22.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "gamedev",
-        "programming",
-        "typescript"
+        "hiphop",
+        "livestreaming",
+        "streaming"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)",
-      "description": "Babe Rainbow – “Aquarium Cowgirl” Live on KEXP Babe Rainbow tore through a live take of “Aquarium Cowgirl” in the KEXP studio (recorded August 14, 202...",
-      "url": "https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-5b16",
-      "date": "2025-10-10T06:10:33.000Z",
+      "title": "KEXP: Wet Leg - mangetout (Live on KEXP)",
+      "description": "Wet Leg Serve Up “mangetout” Live on KEXP Wet Leg stormed the KEXP studio on September 9, 2025, with their infectious track “mangetout,” showcasing Rh...",
+      "url": "https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4fp5",
+      "date": "2025-10-11T06:09:07.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -119,16 +119,31 @@
       "priority": 2
     },
     {
-      "title": "KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)",
-      "description": "Hunx and His Punx storm the KEXP studio in a high-octane live take of Alone In Hollywood On Acid, recorded August 26, 2025. Seth Bogart leads the char...",
-      "url": "https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-26oj",
-      "date": "2025-10-10T06:10:24.000Z",
+      "title": "KEXP: Wet Leg - davina mccall (Live on KEXP)",
+      "description": "Wet Leg Live on KEXP Wet Leg tore into “davina mccall” live at KEXP’s studio in Seattle on September 9, 2025, with Rhian Teasdale and Hester Chambers ...",
+      "url": "https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-4fna",
+      "date": "2025-10-11T06:09:02.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "indie",
-        "streaming",
-        "livestreaming"
+        "livestreaming",
+        "production"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "We Completely Missed width/height: stretch",
+      "description": "The TL;DR is that stretch does the same thing as declaring 100%, but ignores padding when looking at the available space. We Completely Missed width/h...",
+      "url": "https://css-tricks.com/we-completely-missed-width-height-stretch/",
+      "date": "2025-10-10T14:03:52.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "boxmodel",
+        "cssproperties"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -219,21 +234,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Touring New CSS Features in Safari 26",
-      "description": "Safari 26 adds:75 new features, 3 deprecations, and 171 other improvements. Here's all the CSS goodness you'll want to know about. Touring New CSS Fea...",
-      "url": "https://css-tricks.com/touring-new-css-features-in-safari-26/",
-      "date": "2025-09-29T14:31:16.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "browser",
-        "news"
       ],
       "readTime": "1 min read",
       "priority": 2
