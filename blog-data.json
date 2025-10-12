@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-11T06:26:02.875Z",
+  "lastUpdated": "2025-10-12T06:26:35.060Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,61 +74,61 @@
       "priority": 1
     },
     {
-      "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
-      "description": "SABRI’s Soulful COLORS Debut In her COLORS performance, Dutch-born dynamo SABRI bares her heart on “Sold Myself For Love,” the lead single from her ne...",
-      "url": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1g7h",
-      "date": "2025-10-11T06:09:31.000Z",
+      "title": "The Man Who Spoke to Machines: How Dennis Ritchie Changed My Life",
+      "description": "🌟 The Man Who Spoke to Machines: How Dennis Ritchie Changed My Life | Home agunechemba.name.ng...",
+      "url": "https://dev.to/agunechemba/the-man-who-spoke-to-machines-how-dennis-ritchie-changed-my-life-331i",
+      "date": "2025-10-12T06:16:32.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "indie",
-        "streaming",
-        "livestreaming"
+        "webdev",
+        "programming",
+        "c"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
+      "title": "Systems As Mirrors",
+      "description": "There’s something quietly unsettling about Conway’s Law. Most people who’ve worked in software long enough can sense its truth. What unsettles is what...",
+      "url": "https://dev.to/interstelios/systems-as-mirrors-3g5n",
+      "date": "2025-10-12T06:14:34.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "architecture",
+        "conway",
+        "ddd"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Stop “Vibe Coding”: What Worked for Me as a Front-End Tech Lead",
+      "description": "TL;DR: I built a 7-step workflow to pair with AI effectively: align on context, plan, track progress, implement in small steps, reflect, test, and run...",
+      "url": "https://dev.to/haco29/stop-vibe-coding-what-worked-for-me-as-a-front-end-tech-lead-1ljh",
+      "date": "2025-10-12T06:13:34.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "react",
+        "cursor"
+      ],
+      "readTime": "8 min read",
+      "priority": 2
+    },
+    {
       "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
-      "description": "Nono La Grinta crushes his COLORS session with a no-holds-barred performance of “LOVE YOU,” showcasing the Parisian rapper’s razor-sharp delivery stra...",
-      "url": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4fcg",
-      "date": "2025-10-11T06:09:22.000Z",
+      "description": "Meet Paris’s own Nono La Grinta who just lit up A COLORS SHOW with his unapologetic track “LOVE YOU,” flexing precision bars straight from his upcomin...",
+      "url": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-8d1",
+      "date": "2025-10-12T06:11:51.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "hiphop",
         "livestreaming",
         "streaming"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "KEXP: Wet Leg - mangetout (Live on KEXP)",
-      "description": "Wet Leg Serve Up “mangetout” Live on KEXP Wet Leg stormed the KEXP studio on September 9, 2025, with their infectious track “mangetout,” showcasing Rh...",
-      "url": "https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4fp5",
-      "date": "2025-10-11T06:09:07.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "indie",
-        "livestreaming",
-        "production"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "KEXP: Wet Leg - davina mccall (Live on KEXP)",
-      "description": "Wet Leg Live on KEXP Wet Leg tore into “davina mccall” live at KEXP’s studio in Seattle on September 9, 2025, with Rhian Teasdale and Hester Chambers ...",
-      "url": "https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-4fna",
-      "date": "2025-10-11T06:09:02.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "indie",
-        "livestreaming",
-        "production"
       ],
       "readTime": "1 min read",
       "priority": 2
