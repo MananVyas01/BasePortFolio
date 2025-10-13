@@ -3,17 +3,17 @@
 🚀 **Full Stack Developer & AI Enthusiast**
 
 ## 📊 Quick Stats
-- 🌟 **10** total stars
-- 📦 **28** public repositories  
+- 🌟 **8** total stars
+- 📦 **29** public repositories  
 - 👥 **13** followers
 
 ## 🔥 Latest Projects
 
 - **[BasePortFolio](https://github.com/MananVyas01/BasePortFolio)** - This repo contains my Temp PortFolioWebSite built using HTML/CSS with the twist of Github Actions(See The Magic). ⭐ 1
+- **[TempIndusCup](https://github.com/MananVyas01/TempIndusCup)** - No description 
 - **[neuron-runner](https://github.com/MananVyas01/neuron-runner)** - 🧠 AI-themed endless runner game with neural network player, dynamic ML worlds, real-time stats dashboard, and educational content. Built with Python & Pygame. ⭐ 2
 - **[vibe-coding-GDG](https://github.com/MananVyas01/vibe-coding-GDG)** - No description 
 - **[Sample-Template](https://github.com/MananVyas01/Sample-Template)** - No description 
-- **[tensorflow-forked](https://github.com/MananVyas01/tensorflow-forked)** - An Open Source Machine Learning Framework for Everyone ⭐ 1
 
 ## 🌐 Portfolio Website
 
@@ -23,4 +23,4 @@
 
 ---
 
-📅 Auto-updated: 10/6/2025
+📅 Auto-updated: 10/13/2025
