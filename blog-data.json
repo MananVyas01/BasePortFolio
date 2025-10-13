@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-12T06:26:35.060Z",
+  "lastUpdated": "2025-10-13T06:31:49.408Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,61 +74,61 @@
       "priority": 1
     },
     {
-      "title": "The Man Who Spoke to Machines: How Dennis Ritchie Changed My Life",
-      "description": "🌟 The Man Who Spoke to Machines: How Dennis Ritchie Changed My Life | Home agunechemba.name.ng...",
-      "url": "https://dev.to/agunechemba/the-man-who-spoke-to-machines-how-dennis-ritchie-changed-my-life-331i",
-      "date": "2025-10-12T06:16:32.000Z",
+      "title": "How Midgen AI's 'Show, Don't Tell' Converter Elevates Storytelling",
+      "description": "Mastering the Narrative: How Midgen AI's 'Show, Don't Tell' Converter Elevates Storytelling Inputting Flat Narration: The primary step involves the au...",
+      "url": "https://dev.to/mdsiaofficial/how-midgen-ais-show-dont-tell-converter-elevates-storytelling-49m4",
+      "date": "2025-10-13T06:14:11.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "programming",
-        "c"
+        "books",
+        "writing",
+        "pubsub"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Bikes, Big Data, and Better Cities: How Tech is Reshaping Urban Mobility",
+      "description": "Bikes, Big Data, and Better Cities: How Tech is Reshaping Urban Mobility Have you ever white-knuckled your handlebars, weaving through traffic, wonder...",
+      "url": "https://dev.to/ahmmrizv9/bikes-big-data-and-better-cities-how-tech-is-reshaping-urban-mobility-4pom",
+      "date": "2025-10-13T06:11:11.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "bigdata",
+        "urbanplanning",
+        "sustainablemobility"
+      ],
+      "readTime": "12 min read",
+      "priority": 2
+    },
+    {
+      "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
+      "description": "Nono La Grinta – LOVE YOU | A COLORS SHOW Paris-based MC Nono La Grinta steps onto the COLORS stage with razor-sharp precision and raw grit, deliverin...",
+      "url": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1mno",
+      "date": "2025-10-13T06:10:49.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "hiphop",
+        "streaming",
+        "livestreaming"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Systems As Mirrors",
-      "description": "There’s something quietly unsettling about Conway’s Law. Most people who’ve worked in software long enough can sense its truth. What unsettles is what...",
-      "url": "https://dev.to/interstelios/systems-as-mirrors-3g5n",
-      "date": "2025-10-12T06:14:34.000Z",
+      "title": "Polyphonic: When artists don't write their own songs",
+      "description": "Watch on YouTube...",
+      "url": "https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-55pl",
+      "date": "2025-10-13T06:10:15.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "architecture",
-        "conway",
-        "ddd"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Stop “Vibe Coding”: What Worked for Me as a Front-End Tech Lead",
-      "description": "TL;DR: I built a 7-step workflow to pair with AI effectively: align on context, plan, track progress, implement in small steps, reflect, test, and run...",
-      "url": "https://dev.to/haco29/stop-vibe-coding-what-worked-for-me-as-a-front-end-tech-lead-1ljh",
-      "date": "2025-10-12T06:13:34.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "react",
-        "cursor"
-      ],
-      "readTime": "8 min read",
-      "priority": 2
-    },
-    {
-      "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
-      "description": "Meet Paris’s own Nono La Grinta who just lit up A COLORS SHOW with his unapologetic track “LOVE YOU,” flexing precision bars straight from his upcomin...",
-      "url": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-8d1",
-      "date": "2025-10-12T06:11:51.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "hiphop",
-        "livestreaming",
-        "streaming"
+        "indie",
+        "production",
+        "distribution"
       ],
       "readTime": "1 min read",
       "priority": 2
