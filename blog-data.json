@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-14T06:29:56.457Z",
+  "lastUpdated": "2025-10-15T06:30:05.305Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How GitHub Copilot and AI agents are saving legacy systems",
+      "description": "GitHub Copilot and AI agents are making legacy COBOL systems accessible to modern developers. The post How GitHub Copilot and AI agents are saving leg...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-and-ai-agents-are-saving-legacy-systems/",
+      "date": "2025-10-14T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "aiagents"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "GitHub Copilot CLI: How to get started",
       "description": "Discover how to use GitHub Copilot directly in the terminal. From cloning a repository to opening a pull request, here’s how to streamline your workfl...",
@@ -59,78 +74,63 @@
       "priority": 1
     },
     {
-      "title": "GitHub Availability Report: September 2025",
-      "description": "In September, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: Septem...",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2025/",
-      "date": "2025-10-09T02:19:28.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "companynews",
-        "newsinsights",
-        "githubavailabilityreport"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "FlashFuzz ⚡Quick URL Fuzzing & Secret Scanning, straight from your browser",
-      "description": "TL;DR: I built FlashFuzz, an open-source browser extension that fuzzes URLs and scans loaded JavaScript for likely secrets across all open tabs — so y...",
-      "url": "https://dev.to/ademkouki/flashfuzz-quick-url-fuzzing-secret-scanning-straight-from-your-browser-4f54",
-      "date": "2025-10-14T06:18:10.000Z",
+      "title": "🔐 10 Core Concepts Every Developer Should Know About Data Security",
+      "description": "Encryption Decryption Hashing GUID (Globally Unique Identifier) Clear Text / Cipher Text Codex Keygen (Key Generator) Digital Signature SSL/TLS End-to...",
+      "url": "https://dev.to/kasra10/10-core-concepts-every-developer-should-know-about-data-security-o9d",
+      "date": "2025-10-15T06:17:41.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "opensource",
-        "security"
+        "cybersecurity",
+        "encryption",
+        "digitalsignatures"
       ],
-      "readTime": "4 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
-      "description": "Indys Blu delivers a heart-wrenching performance of her single “Saddest Song” on A COLORS SHOW, blending poetic lyrics with raw emotion as she command...",
-      "url": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-37ld",
-      "date": "2025-10-14T06:16:22.000Z",
+      "title": "Building an AI-Powered CV Screening System with Explainable Scoring",
+      "description": "Website Demo : https://hireco.intelix.fun/ https://github.com/nesnyx/Hireco-AI Currently i joined Hackthon and i build this app. Building an AI Scorin...",
+      "url": "https://dev.to/nesnyx/building-an-ai-powered-cv-screening-system-with-explainable-scoring-20o",
+      "date": "2025-10-15T06:14:19.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "indie",
-        "streaming",
-        "livestreaming"
+        "ai",
+        "programming",
+        "python"
       ],
-      "readTime": "1 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "KEXP: Ezra Furman - Power Of The Moon (Live on KEXP)",
-      "description": "Ezra Furman – Power Of The Moon (Live on KEXP) Ezra and crew stormed KEXP’s studio on August 13, 2025, laying down a raw, electrifying version of “Pow...",
-      "url": "https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-50eo",
-      "date": "2025-10-14T06:16:11.000Z",
+      "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
+      "description": "Beautiful new music making environment! (GRM Atelier) Andrew Huang got early access to GRM Tools’ new Atelier plugin suite, helped shape it with feedb...",
+      "url": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-oej",
+      "date": "2025-10-15T06:13:55.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "indie",
-        "livestreaming",
-        "production"
+        "production",
+        "digital",
+        "streaming"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "KEXP: Ezra Furman - Jump Out (Live on KEXP)",
-      "description": "Ezra Furman and her all-star band—Liz Furman on vocals/guitar, Ben Joseph on keys and guitar, Sam Durkes on drums, Jorgen Jorgensen on bass and Lilah ...",
-      "url": "https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-3onf",
-      "date": "2025-10-14T06:16:00.000Z",
+      "title": "Ensemble Learning in Machine Learning: Why Multiple Models Outperform One",
+      "description": "When building a machine learning model, accuracy is always the main goal. But a single model often struggles to perform well across all kinds of data....",
+      "url": "https://dev.to/bharathprasad/ensemble-learning-in-machine-learning-why-multiple-models-outperform-one-59dp",
+      "date": "2025-10-15T06:13:45.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "indie",
-        "livestreaming",
-        "production"
+        "datascience",
+        "machinelearning",
+        "ai"
       ],
-      "readTime": "1 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
