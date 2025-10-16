@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-15T06:30:05.305Z",
+  "lastUpdated": "2025-10-16T06:29:57.823Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
+    "A List Apart",
     "CSS-Tricks",
-    "Smashing Magazine",
-    "A List Apart"
+    "Smashing Magazine"
   ],
   "posts": [
+    {
+      "title": "Copilot: Faster, smarter, and built for how you work now",
+      "description": "Discover how GitHub Copilot has evolved from a high-powered autocomplete tool to a powerful, multi-model agentic assistant. The post Copilot: Faster, ...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/copilot-faster-smarter-and-built-for-how-you-work-now/",
+      "date": "2025-10-15T15:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "githubcopilotcli"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How GitHub Copilot and AI agents are saving legacy systems",
       "description": "GitHub Copilot and AI agents are making legacy COBOL systems accessible to modern developers. The post How GitHub Copilot and AI agents are saving leg...",
@@ -59,83 +74,98 @@
       "priority": 1
     },
     {
-      "title": "20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉",
-      "description": "Git Merge 2025 celebrated 20 years of Git with talks, collaboration, and community. Catch the highlights and recordings. The post 20 Years of Git, 2 d...",
-      "url": "https://github.blog/open-source/git/20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights/",
-      "date": "2025-10-09T08:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "git",
-        "opensource",
-        "gitmerge"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "🔐 10 Core Concepts Every Developer Should Know About Data Security",
-      "description": "Encryption Decryption Hashing GUID (Globally Unique Identifier) Clear Text / Cipher Text Codex Keygen (Key Generator) Digital Signature SSL/TLS End-to...",
-      "url": "https://dev.to/kasra10/10-core-concepts-every-developer-should-know-about-data-security-o9d",
-      "date": "2025-10-15T06:17:41.000Z",
+      "title": "Hashicorp Vault: High-Level Architecture, Components, and Key Concepts",
+      "description": "Image Source: Hashicorp, Architecture, https://developer.hashicorp.com/vault/docs/internals/architecture. Hashicorp Vault is a flexibility and robustn...",
+      "url": "https://dev.to/admantium/hashicorp-vault-high-level-architecture-components-and-key-concepts-4d8j",
+      "date": "2025-10-16T06:17:35.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "cybersecurity",
-        "encryption",
-        "digitalsignatures"
+        "hashicorp",
+        "vault",
+        "webdev"
       ],
-      "readTime": "3 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "Building an AI-Powered CV Screening System with Explainable Scoring",
-      "description": "Website Demo : https://hireco.intelix.fun/ https://github.com/nesnyx/Hireco-AI Currently i joined Hackthon and i build this app. Building an AI Scorin...",
-      "url": "https://dev.to/nesnyx/building-an-ai-powered-cv-screening-system-with-explainable-scoring-20o",
-      "date": "2025-10-15T06:14:19.000Z",
+      "title": "I built Log Bull — the simple alternative to ELK, Loki and Graylog to collect lo",
+      "description": "Over the past ~5 years, I have often faced the task of collecting logs, usually from small or medium-sized codebases. Sending logs from code is not a ...",
+      "url": "https://dev.to/rostislav_dugin/i-built-log-bull-the-simple-alternative-to-elk-loki-and-graylog-to-collect-logs-from-code-5eji",
+      "date": "2025-10-16T06:15:29.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "programming",
-        "python"
+        "webdev",
+        "development",
+        "programming"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Secret Productivity Hack On VS Code",
+      "description": "Hey Techies, I was watching some random coding react conf video(If your a react developer you should try once). Guess what I found a hack which I don'...",
+      "url": "https://dev.to/harish_kumar_20cdaccf4610/secret-productivity-hack-on-vs-code-1cna",
+      "date": "2025-10-16T06:13:23.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "vscode",
+        "react",
+        "typescript"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
       "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
-      "description": "Beautiful new music making environment! (GRM Atelier) Andrew Huang got early access to GRM Tools’ new Atelier plugin suite, helped shape it with feedb...",
-      "url": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-oej",
-      "date": "2025-10-15T06:13:55.000Z",
+      "description": "Beautiful new music making environment! (GRM Atelier) Andrew Huang digs into his early-access preview of GRM Tools Atelier, showcasing its standout gl...",
+      "url": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4920",
+      "date": "2025-10-16T06:09:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "production",
-        "digital",
-        "streaming"
+        "streaming",
+        "digital"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Ensemble Learning in Machine Learning: Why Multiple Models Outperform One",
-      "description": "When building a machine learning model, accuracy is always the main goal. But a single model often struggles to perform well across all kinds of data....",
-      "url": "https://dev.to/bharathprasad/ensemble-learning-in-machine-learning-why-multiple-models-outperform-one-59dp",
-      "date": "2025-10-15T06:13:45.000Z",
+      "title": "Design for Amiability: Lessons from Vienna",
+      "description": "Today’s web is not always an amiable place. Sites greet you with a popover that demands assent to their cookie policy, and leave you with Taboola ads ...",
+      "url": "\n\t\t\t\t\thttps://alistapart.com/article/design-for-amiability-lessons-from-vienna/\t\t\t\t",
+      "date": "2025-10-15T15:35:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "A List Apart",
       "tags": [
-        "datascience",
-        "machinelearning",
-        "ai"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "10 min read",
+      "priority": 2
+    },
+    {
+      "title": "Sequential linear() Animation With N Elements",
+      "description": "Let’s suppose you have N elements with the same animation that should animate sequentially. Modern CSS makes this easy and it works for any number of ...",
+      "url": "https://css-tricks.com/sequential-linear-animation-with-n-elements/",
+      "date": "2025-10-15T13:39:39.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "animation",
+        "cssfunctions"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
       "title": "Masonry: Watching a CSS Feature Evolve",
-      "description": "Looking at the CSS Masonry discussions and what they can teach us about the development of new CSS features. What is the CSSWG’s role? What influence ...",
+      "description": "What can CSS Masonry discussions teach us about the development of new CSS features? What is the CSSWG’s role? What influence do browsers have? What c...",
       "url": "https://css-tricks.com/masonry-watching-a-css-feature-evolve/",
       "date": "2025-10-13T14:31:35.000Z",
       "category": "Web Dev",
@@ -189,21 +219,6 @@
         "links",
         "color",
         "cssfunctions"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Getting Creative With shape-outside",
-      "description": "There are so many creative opportunities for using shape-outside that I’m surprised I see it used so rarely. So, how can you use it to add personality...",
-      "url": "https://css-tricks.com/getting-creative-with-shape-outside/",
-      "date": "2025-10-06T15:45:40.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "cssshapes",
-        "images"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -266,21 +281,6 @@
         "css"
       ],
       "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "An Holistic Framework for Shared Design Leadership",
-      "description": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design pro...",
-      "url": "\n\t\t\t\t\thttps://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/\t\t\t\t",
-      "date": "2025-07-23T14:10:22.000Z",
-      "category": "Web Dev",
-      "source": "A List Apart",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "9 min read",
       "priority": 2
     }
   ]
