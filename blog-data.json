@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-16T06:29:57.823Z",
+  "lastUpdated": "2025-10-17T06:29:08.999Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
+    "Smashing Magazine",
     "A List Apart",
-    "CSS-Tricks",
-    "Smashing Magazine"
+    "CSS-Tricks"
   ],
   "posts": [
+    {
+      "title": "How to navigate GitHub Universe (or any tech conference) if you’re an introvert",
+      "description": "If alone time is your love language—don’t worry, it’s ours too—you can still attend, learn from, and enjoy big events like GitHub Universe. Here are s...",
+      "url": "https://github.blog/news-insights/company-news/how-to-navigate-github-universe-or-any-tech-conference-if-youre-an-introvert/",
+      "date": "2025-10-16T16:14:02.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "companynews",
+        "newsinsights",
+        "githubuniverse"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Copilot: Faster, smarter, and built for how you work now",
       "description": "Discover how GitHub Copilot has evolved from a high-powered autocomplete tool to a powerful, multi-model agentic assistant. The post Copilot: Faster, ...",
@@ -59,76 +74,76 @@
       "priority": 1
     },
     {
-      "title": "How to build reliable AI workflows with agentic primitives and context engineeri",
-      "description": "See how this three-part framework will turn AI into a repeatable and reliable engineering practice. The post How to build reliable AI workflows with a...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering/",
-      "date": "2025-10-13T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
+      "description": "Nono La Grinta, a Paris-based rapper, delivers a razor-sharp, no-holds-barred performance of “LOVE YOU” on A COLORS SHOW, teasing his upcoming debut p...",
+      "url": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1mc1",
+      "date": "2025-10-17T06:11:34.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "aiml",
-        "githubcopilot",
-        "agenticai"
+        "hiphop",
+        "streaming",
+        "livestreaming"
       ],
       "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Hashicorp Vault: High-Level Architecture, Components, and Key Concepts",
-      "description": "Image Source: Hashicorp, Architecture, https://developer.hashicorp.com/vault/docs/internals/architecture. Hashicorp Vault is a flexibility and robustn...",
-      "url": "https://dev.to/admantium/hashicorp-vault-high-level-architecture-components-and-key-concepts-4d8j",
-      "date": "2025-10-16T06:17:35.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "hashicorp",
-        "vault",
-        "webdev"
-      ],
-      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "I built Log Bull — the simple alternative to ELK, Loki and Graylog to collect lo",
-      "description": "Over the past ~5 years, I have often faced the task of collecting logs, usually from small or medium-sized codebases. Sending logs from code is not a ...",
-      "url": "https://dev.to/rostislav_dugin/i-built-log-bull-the-simple-alternative-to-elk-loki-and-graylog-to-collect-logs-from-code-5eji",
-      "date": "2025-10-16T06:15:29.000Z",
+      "title": "KEXP: Circles Around the Sun & Mikaela Davis - After Sunrise (Live on KEXP)",
+      "description": "Circles Around the Sun & Mikaela Davis on KEXP KEXP welcomed psychedelic jam outfit Circles Around the Sun alongside harpist-vocalist Mikaela Davis fo...",
+      "url": "https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-25i",
+      "date": "2025-10-17T06:11:14.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
+      "tags": [
+        "indie",
+        "livestreaming",
+        "production"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "KEXP: Jorja Smith - With You (Live on KEXP)",
+      "description": "Jorja Smith – “With You” (Live on KEXP) On August 8, 2025, Jorja Smith hit the KEXP studio for a stripped-back live take of her track “With You,” trad...",
+      "url": "https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-2gfp",
+      "date": "2025-10-17T06:11:06.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "indie",
+        "livestreaming",
+        "production"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "KEXP: Jorja Smith - The Way I Love You (Live on KEXP)",
+      "description": "Jorja Smith brings soulful vibes to KEXP’s studio in a live take on “The Way I Love You,” recorded August 8, 2025. She’s joined by guitarist Benjamin ...",
+      "url": "https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-i3",
+      "date": "2025-10-17T06:10:56.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "indie",
+        "livestreaming",
+        "production"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "How To Make Your UX Research Hard To Ignore",
+      "description": "Research isn’t everything. Facts alone don’t win arguments, but powerful stories do. Here’s how to turn your research into narratives that inspire tru...",
+      "url": "https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/",
+      "date": "2025-10-16T13:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
-        "development",
-        "programming"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "Secret Productivity Hack On VS Code",
-      "description": "Hey Techies, I was watching some random coding react conf video(If your a react developer you should try once). Guess what I found a hack which I don'...",
-      "url": "https://dev.to/harish_kumar_20cdaccf4610/secret-productivity-hack-on-vs-code-1cna",
-      "date": "2025-10-16T06:13:23.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "vscode",
-        "react",
-        "typescript"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
-      "description": "Beautiful new music making environment! (GRM Atelier) Andrew Huang digs into his early-access preview of GRM Tools Atelier, showcasing its standout gl...",
-      "url": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4920",
-      "date": "2025-10-16T06:09:16.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "production",
-        "streaming",
-        "digital"
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -243,21 +258,6 @@
       "description": "Ready to move beyond static mockups? Here is a practical, step-by-step guide to Intent Prototyping — a disciplined method that uses AI to turn your de...",
       "url": "https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/",
       "date": "2025-10-03T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Shades Of October (2025 Wallpapers Edition)",
-      "description": "How about some new wallpapers to get your desktop ready for fall and the upcoming Halloween season? We’ve got you covered! Following our monthly tradi...",
-      "url": "https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/",
-      "date": "2025-09-30T11:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
