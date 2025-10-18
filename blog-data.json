@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-17T06:29:08.999Z",
+  "lastUpdated": "2025-10-18T06:27:15.987Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "CSS-Tricks"
   ],
   "posts": [
+    {
+      "title": "Accelerate developer productivity with these 9 open source AI and MCP projects",
+      "description": "GitHub Copilot and VS Code teams, along with the Microsoft Open Source Program Office (OSPO), sponsored these nine open source MCP projects that provi...",
+      "url": "https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/",
+      "date": "2025-10-17T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "opensource",
+        "generativeai",
+        "githubcopilot"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How to navigate GitHub Universe (or any tech conference) if you’re an introvert",
       "description": "If alone time is your love language—don’t worry, it’s ours too—you can still attend, learn from, and enjoy big events like GitHub Universe. Here are s...",
@@ -59,25 +74,40 @@
       "priority": 1
     },
     {
-      "title": "GitHub Copilot CLI: How to get started",
-      "description": "Discover how to use GitHub Copilot directly in the terminal. From cloning a repository to opening a pull request, here’s how to streamline your workfl...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-how-to-get-started/",
-      "date": "2025-10-13T22:40:04.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "I’m SO Looking Forward to Not Needing a Build System Again",
+      "description": "Have you been working on the frontend with Javascript? Have you ever noticed what used to be simple has become a full build system? Frontend developme...",
+      "url": "https://dev.to/raheelshan/im-so-looking-forward-to-not-needing-a-build-system-again-a57",
+      "date": "2025-10-18T06:17:37.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "aiml",
-        "githubcopilot",
-        "cli"
+        "webdev",
+        "html",
+        "javascript"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
+      "description": "Beautiful New Music Making Environment: GRM Atelier Andrew Huang gets hands-on with GRM Tools Atelier, a sleek modular playground packed with one-knob...",
+      "url": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-1b8b",
+      "date": "2025-10-18T06:13:47.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "production",
+        "digital",
+        "indie"
       ],
       "readTime": "1 min read",
-      "priority": 1
+      "priority": 2
     },
     {
       "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
-      "description": "Nono La Grinta, a Paris-based rapper, delivers a razor-sharp, no-holds-barred performance of “LOVE YOU” on A COLORS SHOW, teasing his upcoming debut p...",
-      "url": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1mc1",
-      "date": "2025-10-17T06:11:34.000Z",
+      "description": "Nono La Grinta brings the heat Paris-based rapper Nono La Grinta delivers every line with razor-sharp precision and raw grit on his unapologetic perfo...",
+      "url": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-30cc",
+      "date": "2025-10-18T06:13:36.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -89,46 +119,31 @@
       "priority": 2
     },
     {
-      "title": "KEXP: Circles Around the Sun & Mikaela Davis - After Sunrise (Live on KEXP)",
-      "description": "Circles Around the Sun & Mikaela Davis on KEXP KEXP welcomed psychedelic jam outfit Circles Around the Sun alongside harpist-vocalist Mikaela Davis fo...",
-      "url": "https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-25i",
-      "date": "2025-10-17T06:11:14.000Z",
+      "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
+      "description": "Indys Blu – Saddest Song | A COLORS SHOW New Orleans songstress Indys Blu lays bare her heart in a stripped-down COLORS performance of “Saddest Song,”...",
+      "url": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-42oo",
+      "date": "2025-10-18T06:13:26.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "indie",
-        "livestreaming",
-        "production"
+        "streaming",
+        "livestreaming"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "KEXP: Jorja Smith - With You (Live on KEXP)",
-      "description": "Jorja Smith – “With You” (Live on KEXP) On August 8, 2025, Jorja Smith hit the KEXP studio for a stripped-back live take of her track “With You,” trad...",
-      "url": "https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-2gfp",
-      "date": "2025-10-17T06:11:06.000Z",
+      "title": "AI In UX: Achieve More With Less",
+      "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons l...",
+      "url": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
+      "date": "2025-10-17T08:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
-        "indie",
-        "livestreaming",
-        "production"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "KEXP: Jorja Smith - The Way I Love You (Live on KEXP)",
-      "description": "Jorja Smith brings soulful vibes to KEXP’s studio in a live take on “The Way I Love You,” recorded August 8, 2025. She’s joined by guitarist Benjamin ...",
-      "url": "https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-i3",
-      "date": "2025-10-17T06:10:56.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "indie",
-        "livestreaming",
-        "production"
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -243,21 +258,6 @@
       "description": "SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds...",
       "url": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
       "date": "2025-10-06T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Intent Prototyping: A Practical Guide To Building With Clarity (Part 2)",
-      "description": "Ready to move beyond static mockups? Here is a practical, step-by-step guide to Intent Prototyping — a disciplined method that uses AI to turn your de...",
-      "url": "https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/",
-      "date": "2025-10-03T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
