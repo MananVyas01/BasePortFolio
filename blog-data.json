@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-18T06:27:15.987Z",
+  "lastUpdated": "2025-10-19T06:28:16.230Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,55 +74,55 @@
       "priority": 1
     },
     {
-      "title": "I’m SO Looking Forward to Not Needing a Build System Again",
-      "description": "Have you been working on the frontend with Javascript? Have you ever noticed what used to be simple has become a full build system? Frontend developme...",
-      "url": "https://dev.to/raheelshan/im-so-looking-forward-to-not-needing-a-build-system-again-a57",
-      "date": "2025-10-18T06:17:37.000Z",
+      "title": "“Debugging 101: How to Read and Understand Python Error Messages”",
+      "description": "We’ve all been there — you run your code confidently, only to see a red wall of error messages screaming back at you. But here’s the secret 👉 those e...",
+      "url": "https://dev.to/mithukr/debugging-101-how-to-read-and-understand-python-error-messages-3mon",
+      "date": "2025-10-19T06:20:52.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "html",
-        "javascript"
+        "javascript",
+        "developer",
+        "webdev"
       ],
-      "readTime": "4 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
       "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
-      "description": "Beautiful New Music Making Environment: GRM Atelier Andrew Huang gets hands-on with GRM Tools Atelier, a sleek modular playground packed with one-knob...",
-      "url": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-1b8b",
-      "date": "2025-10-18T06:13:47.000Z",
+      "description": "Beautiful New Music Making Environment! (GRM Atelier) Andrew Huang dives into GRM Tools’ Atelier—a fresh, modular playground for sound designers and p...",
+      "url": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-465e",
+      "date": "2025-10-19T06:12:03.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "production",
         "digital",
-        "indie"
+        "streaming"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
       "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
-      "description": "Nono La Grinta brings the heat Paris-based rapper Nono La Grinta delivers every line with razor-sharp precision and raw grit on his unapologetic perfo...",
-      "url": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-30cc",
-      "date": "2025-10-18T06:13:36.000Z",
+      "description": "Nono La Grinta, the Paris-based rapper, brings raw energy and razor-sharp delivery to his uncompromising performance of “LOVE YOU” on A COLORS SHOW, g...",
+      "url": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-ck9",
+      "date": "2025-10-19T06:11:55.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "hiphop",
-        "streaming",
-        "livestreaming"
+        "livestreaming",
+        "streaming"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
       "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
-      "description": "Indys Blu – Saddest Song | A COLORS SHOW New Orleans songstress Indys Blu lays bare her heart in a stripped-down COLORS performance of “Saddest Song,”...",
-      "url": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-42oo",
-      "date": "2025-10-18T06:13:26.000Z",
+      "description": "New Orleans vocalist Indys Blu takes centerstage on A COLORS SHOW with a stirring, poetic performance of her single “Saddest Song,” weaving raw heartb...",
+      "url": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-27bo",
+      "date": "2025-10-19T06:11:45.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
