@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-19T06:28:16.230Z",
+  "lastUpdated": "2025-10-20T06:31:16.417Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,25 +74,25 @@
       "priority": 1
     },
     {
-      "title": "“Debugging 101: How to Read and Understand Python Error Messages”",
-      "description": "We’ve all been there — you run your code confidently, only to see a red wall of error messages screaming back at you. But here’s the secret 👉 those e...",
-      "url": "https://dev.to/mithukr/debugging-101-how-to-read-and-understand-python-error-messages-3mon",
-      "date": "2025-10-19T06:20:52.000Z",
+      "title": "Data Engineering 102: Understanding Transactions, ACID, and Isolation in Postgre",
+      "description": "The Power of Transactions & ACID . Before a Data Engineer can design reliable data systems or move petabytes through ETL pipelines, one question alway...",
+      "url": "https://dev.to/sajjadrahman56/data-engineering-102-understanding-transactions-acid-and-isolation-in-postgresql-2l60",
+      "date": "2025-10-20T06:16:02.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "javascript",
-        "developer",
-        "webdev"
+        "systemdesign",
+        "dataengineering",
+        "aws"
       ],
-      "readTime": "2 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
       "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
-      "description": "Beautiful New Music Making Environment! (GRM Atelier) Andrew Huang dives into GRM Tools’ Atelier—a fresh, modular playground for sound designers and p...",
-      "url": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-465e",
-      "date": "2025-10-19T06:12:03.000Z",
+      "description": "Beautiful new music-making playground: Andrew Huang dives into GRM Tools Atelier, showing off its fresh global-centric workflow, slick modulation syst...",
+      "url": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-53p2",
+      "date": "2025-10-20T06:11:42.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -104,25 +104,10 @@
       "priority": 2
     },
     {
-      "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
-      "description": "Nono La Grinta, the Paris-based rapper, brings raw energy and razor-sharp delivery to his uncompromising performance of “LOVE YOU” on A COLORS SHOW, g...",
-      "url": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-ck9",
-      "date": "2025-10-19T06:11:55.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "hiphop",
-        "livestreaming",
-        "streaming"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
-      "description": "New Orleans vocalist Indys Blu takes centerstage on A COLORS SHOW with a stirring, poetic performance of her single “Saddest Song,” weaving raw heartb...",
-      "url": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-27bo",
-      "date": "2025-10-19T06:11:45.000Z",
+      "title": "COLORS: UMI | A COLORS SHOW",
+      "description": "UMI | A COLORS SHOW Los Angeles–based artist UMI (@WHOISUMI) steps onto the minimalist COLORS stage with her soothing presence and ethereal vocals, de...",
+      "url": "https://dev.to/music_youtube/colors-umi-a-colors-show-1jnm",
+      "date": "2025-10-20T06:11:34.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -131,6 +116,21 @@
         "livestreaming"
       ],
       "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "3 Best AI UGC Ad Generators of 2025",
+      "description": "I tested a bunch of AI UGC ad generators for a few days. Most of them turned out to be either overhyped or just plain bad. But a few stood out and act...",
+      "url": "https://dev.to/artturijalli/3-best-ai-ugc-ad-generators-of-2025-lco",
+      "date": "2025-10-20T06:11:33.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "16 min read",
       "priority": 2
     },
     {
