@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-20T06:31:16.417Z",
+  "lastUpdated": "2025-10-21T06:30:20.370Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
+    "CSS-Tricks",
     "Smashing Magazine",
-    "A List Apart",
-    "CSS-Tricks"
+    "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Inside the breach that broke the internet: The untold story of Log4Shell",
+      "description": "Log4Shell proved that open source security isn't guaranteed and isn’t just a code problem. It's about supporting, enabling, and empowering the people ...",
+      "url": "https://github.blog/open-source/inside-the-breach-that-broke-the-internet-the-untold-story-of-log4shell/",
+      "date": "2025-10-20T16:00:16.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "opensource",
+        "log4j",
+        "opensource"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Accelerate developer productivity with these 9 open source AI and MCP projects",
       "description": "GitHub Copilot and VS Code teams, along with the Microsoft Open Source Program Office (OSPO), sponsored these nine open source MCP projects that provi...",
@@ -59,40 +74,55 @@
       "priority": 1
     },
     {
-      "title": "How GitHub Copilot and AI agents are saving legacy systems",
-      "description": "GitHub Copilot and AI agents are making legacy COBOL systems accessible to modern developers. The post How GitHub Copilot and AI agents are saving leg...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-and-ai-agents-are-saving-legacy-systems/",
-      "date": "2025-10-14T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "aiagents"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Data Engineering 102: Understanding Transactions, ACID, and Isolation in Postgre",
-      "description": "The Power of Transactions & ACID . Before a Data Engineer can design reliable data systems or move petabytes through ETL pipelines, one question alway...",
-      "url": "https://dev.to/sajjadrahman56/data-engineering-102-understanding-transactions-acid-and-isolation-in-postgresql-2l60",
-      "date": "2025-10-20T06:16:02.000Z",
+      "title": "\"#1 Understanding Scope in JavaScript — The Invisible Boundaries of Your Code\"",
+      "description": "\"Understanding Scope in JavaScript —\" In JavaScript, scope defines where a variable is accessible within your code. Think of it as the visibility zone...",
+      "url": "https://dev.to/mithukr/understanding-scope-in-javascript-the-invisible-boundaries-of-your-code-29b2",
+      "date": "2025-10-21T06:23:50.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "systemdesign",
-        "dataengineering",
-        "aws"
+        "javascript",
+        "programming",
+        "hiring"
       ],
-      "readTime": "6 min read",
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Evidence-Based Engineering: How Research Shapes My Full Stack Development Proces",
+      "description": "Introduction In today’s fast-paced world of web development, many developers focus on speed — shipping features as quickly as possible. But speed with...",
+      "url": "https://dev.to/sain_bux_dev/evidence-based-engineering-how-research-shapes-my-full-stack-development-process-44dl",
+      "date": "2025-10-21T06:20:35.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "fullstack",
+        "sainbux",
+        "productivity"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Best Free Image to Music AI Generator: Transform Photos into Songs with Music Ma",
+      "description": "In the era of AI-driven creativity, turning visual inspirations into auditory masterpieces has never been easier. The Image to Music AI Generator from...",
+      "url": "https://dev.to/music_maker_0ba7ab4493cd9/best-free-image-to-music-ai-generator-transform-photos-into-songs-with-music-maker-ai-3756",
+      "date": "2025-10-21T06:14:10.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "webdev",
+        "javascript"
+      ],
+      "readTime": "3 min read",
       "priority": 2
     },
     {
       "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
-      "description": "Beautiful new music-making playground: Andrew Huang dives into GRM Tools Atelier, showing off its fresh global-centric workflow, slick modulation syst...",
-      "url": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-53p2",
-      "date": "2025-10-20T06:11:42.000Z",
+      "description": "Beautiful new music making environment! (GRM Atelier) Andrew Huang gets a first look at GRM’s brand-new Atelier suite, showing off its unique global c...",
+      "url": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3k2n",
+      "date": "2025-10-21T06:13:40.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -104,33 +134,18 @@
       "priority": 2
     },
     {
-      "title": "COLORS: UMI | A COLORS SHOW",
-      "description": "UMI | A COLORS SHOW Los Angeles–based artist UMI (@WHOISUMI) steps onto the minimalist COLORS stage with her soothing presence and ethereal vocals, de...",
-      "url": "https://dev.to/music_youtube/colors-umi-a-colors-show-1jnm",
-      "date": "2025-10-20T06:11:34.000Z",
+      "title": "Building a Honeypot Field That Works",
+      "description": "Honeypots are fields that developers use to prevent spam submissions. They still work in 2025. But you got to set a couple of tricks in place so spamb...",
+      "url": "https://css-tricks.com/building-a-honeypot-field-that-works/",
+      "date": "2025-10-20T16:11:40.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "indie",
-        "streaming",
-        "livestreaming"
+        "articles",
+        "forms",
+        "security"
       ],
       "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "3 Best AI UGC Ad Generators of 2025",
-      "description": "I tested a bunch of AI UGC ad generators for a few days. Most of them turned out to be either overhyped or just plain bad. But a few stood out and act...",
-      "url": "https://dev.to/artturijalli/3-best-ai-ugc-ad-generators-of-2025-lco",
-      "date": "2025-10-20T06:11:33.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "16 min read",
       "priority": 2
     },
     {
@@ -234,21 +249,6 @@
         "articles",
         "boxmodel",
         "cssproperties"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "The thing about contrast-color",
-      "description": "One of our favorites, Andy Clarke, on the one thing keeping the CSS contrast-color() function from true glory: For my website design, I chose a dark b...",
-      "url": "https://css-tricks.com/the-thing-about-contrast-color/",
-      "date": "2025-10-08T14:52:58.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "color",
-        "cssfunctions"
       ],
       "readTime": "1 min read",
       "priority": 2
