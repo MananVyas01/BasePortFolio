@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-21T06:30:20.370Z",
+  "lastUpdated": "2025-10-22T06:31:26.943Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How to update community health files with AI",
+      "description": "Have you ever thought about using AI to update community health files for your repositories? This blog shares actionable next steps for doing just tha...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-update-community-health-files-with-ai/",
+      "date": "2025-10-21T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "communityhealthfiles"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Inside the breach that broke the internet: The untold story of Log4Shell",
       "description": "Log4Shell proved that open source security isn't guaranteed and isn’t just a code problem. It's about supporting, enabling, and empowering the people ...",
@@ -59,78 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Copilot: Faster, smarter, and built for how you work now",
-      "description": "Discover how GitHub Copilot has evolved from a high-powered autocomplete tool to a powerful, multi-model agentic assistant. The post Copilot: Faster, ...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/copilot-faster-smarter-and-built-for-how-you-work-now/",
-      "date": "2025-10-15T15:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "Using Claude Code with GitHub Copilot Subscription",
+      "description": "Do you have a Github Copilot subscription sitting around doing nothing? Why not pair it with the Claude Code (claimed by many developers as the best A...",
+      "url": "https://dev.to/allentcm/using-claude-code-with-github-copilot-subscription-2obj",
+      "date": "2025-10-22T06:24:17.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "aiml",
+        "claudecode",
         "githubcopilot",
-        "githubcopilotcli"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "\"#1 Understanding Scope in JavaScript — The Invisible Boundaries of Your Code\"",
-      "description": "\"Understanding Scope in JavaScript —\" In JavaScript, scope defines where a variable is accessible within your code. Think of it as the visibility zone...",
-      "url": "https://dev.to/mithukr/understanding-scope-in-javascript-the-invisible-boundaries-of-your-code-29b2",
-      "date": "2025-10-21T06:23:50.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "javascript",
-        "programming",
-        "hiring"
+        "ai"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Evidence-Based Engineering: How Research Shapes My Full Stack Development Proces",
-      "description": "Introduction In today’s fast-paced world of web development, many developers focus on speed — shipping features as quickly as possible. But speed with...",
-      "url": "https://dev.to/sain_bux_dev/evidence-based-engineering-how-research-shapes-my-full-stack-development-process-44dl",
-      "date": "2025-10-21T06:20:35.000Z",
+      "title": "Open-Source Cypress Testing Project – 40+ UI Test Cases!",
+      "description": "Hey testers, devs, and automation learners! 👋 🧪 Project: Cypress-Sample-Test-Cases 🌐 Tech: JavaScript + Cypress 🎯 What’s Inside? ✅ 40+ test cases ...",
+      "url": "https://dev.to/masaid_zeb_a57995c342d96b/open-source-cypress-testing-project-40-ui-test-cases-3d76",
+      "date": "2025-10-22T06:22:06.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "fullstack",
-        "sainbux",
-        "productivity"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Best Free Image to Music AI Generator: Transform Photos into Songs with Music Ma",
-      "description": "In the era of AI-driven creativity, turning visual inspirations into auditory masterpieces has never been easier. The Image to Music AI Generator from...",
-      "url": "https://dev.to/music_maker_0ba7ab4493cd9/best-free-image-to-music-ai-generator-transform-photos-into-songs-with-music-maker-ai-3756",
-      "date": "2025-10-21T06:14:10.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
         "webdev",
-        "javascript"
+        "testing",
+        "qa"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
-      "description": "Beautiful new music making environment! (GRM Atelier) Andrew Huang gets a first look at GRM’s brand-new Atelier suite, showing off its unique global c...",
-      "url": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3k2n",
-      "date": "2025-10-21T06:13:40.000Z",
+      "title": "New universal drivers for IoT Platform",
+      "description": "In some of the previous blogs, I wrote a lot about the IoT platform from Total.js. Like what it is, why it can be useful, how to install individual pa...",
+      "url": "https://dev.to/palo/new-universal-drivers-for-iot-platform-3fbe",
+      "date": "2025-10-22T06:19:26.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "production",
-        "digital",
-        "streaming"
+        "iot",
+        "industry40",
+        "totaljs"
       ],
-      "readTime": "1 min read",
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "Build and push Docker images to Amazon ECR using Terraform",
+      "description": "Introduction In general you would want to deploy infrastructure using terraform, build and push docker images in CI/CD phase. But let's say, just in c...",
+      "url": "https://dev.to/ashraf-minhaj/build-and-push-docker-images-to-amazon-ecr-using-terraform-4m67",
+      "date": "2025-10-22T06:19:16.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "devops",
+        "aws",
+        "terraform"
+      ],
+      "readTime": "6 min read",
       "priority": 2
     },
     {
