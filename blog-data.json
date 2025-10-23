@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-22T06:31:26.943Z",
+  "lastUpdated": "2025-10-23T06:30:09.330Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,36 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "From karaoke terminals to AI résumés: The winners of GitHub’s For the Love of Co",
+      "description": "This summer, we invited devs to participate in our hackathon for joyful, ridiculous, and wildly creative projects. Here are the winners of For the Lov...",
+      "url": "https://github.blog/open-source/from-karaoke-terminals-to-ai-resumes-the-winners-of-githubs-for-the-love-of-code-challenge/",
+      "date": "2025-10-22T20:30:35.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "opensource",
+        "developerexperience",
+        "opensource"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Top security researcher shares their bug bounty process",
+      "description": "For this year’s Cybersecurity Awareness Month, the GitHub Bug Bounty team is excited to put the spotlight on a talented security researcher—André Stor...",
+      "url": "https://github.blog/security/top-security-researcher-shares-their-bug-bounty-process/",
+      "date": "2025-10-22T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "applicationsecurity",
+        "security",
+        "supplychainsecurity"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How to update community health files with AI",
       "description": "Have you ever thought about using AI to update community health files for your repositories? This blog shares actionable next steps for doing just tha...",
@@ -44,93 +74,93 @@
       "priority": 1
     },
     {
-      "title": "Accelerate developer productivity with these 9 open source AI and MCP projects",
-      "description": "GitHub Copilot and VS Code teams, along with the Microsoft Open Source Program Office (OSPO), sponsored these nine open source MCP projects that provi...",
-      "url": "https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/",
-      "date": "2025-10-17T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "opensource",
-        "generativeai",
-        "githubcopilot"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "How to navigate GitHub Universe (or any tech conference) if you’re an introvert",
-      "description": "If alone time is your love language—don’t worry, it’s ours too—you can still attend, learn from, and enjoy big events like GitHub Universe. Here are s...",
-      "url": "https://github.blog/news-insights/company-news/how-to-navigate-github-universe-or-any-tech-conference-if-youre-an-introvert/",
-      "date": "2025-10-16T16:14:02.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "companynews",
-        "newsinsights",
-        "githubuniverse"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Using Claude Code with GitHub Copilot Subscription",
-      "description": "Do you have a Github Copilot subscription sitting around doing nothing? Why not pair it with the Claude Code (claimed by many developers as the best A...",
-      "url": "https://dev.to/allentcm/using-claude-code-with-github-copilot-subscription-2obj",
-      "date": "2025-10-22T06:24:17.000Z",
+      "title": "ASP.NET Core Dependency Injection From Scopes & Lifetimes to .NET 9 Source Gener",
+      "description": "Dependency Injection in ASP.NET Core is simple... until you hit a subtle memory leak or a captive dependency bug. Are you positive you're not creating...",
+      "url": "https://dev.to/oguzhan-agir-02/aspnet-core-dependency-injection-from-scopes-lifetimes-to-net-9-source-generators-3f06",
+      "date": "2025-10-23T06:19:24.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "claudecode",
-        "githubcopilot",
-        "ai"
+        "dotnet",
+        "aspnetcore",
+        "webdev"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Open-Source Cypress Testing Project – 40+ UI Test Cases!",
-      "description": "Hey testers, devs, and automation learners! 👋 🧪 Project: Cypress-Sample-Test-Cases 🌐 Tech: JavaScript + Cypress 🎯 What’s Inside? ✅ 40+ test cases ...",
-      "url": "https://dev.to/masaid_zeb_a57995c342d96b/open-source-cypress-testing-project-40-ui-test-cases-3d76",
-      "date": "2025-10-22T06:22:06.000Z",
+      "title": "Transforming AI Monetization: The Future of LLM-Powered Applications",
+      "description": "Hook: Welcome to the Future of Advertising: The Era of Conversation Commerce As developers, we’re witnessing a seismic shift in how users interact wit...",
+      "url": "https://dev.to/monetzly/transforming-ai-monetization-the-future-of-llm-powered-applications-ece",
+      "date": "2025-10-23T06:18:26.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "webdev",
+        "api"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Google SWE Intern Interview Experience — The Key to Nailing Both Rounds",
+      "description": "Just finished my Google Software Engineer Intern interview process — two rounds, both passed smoothly. Here’s a detailed breakdown of the real intervi...",
+      "url": "https://dev.to/net_programhelp_e160eef28/google-swe-intern-interview-experience-the-key-to-nailing-both-rounds-5465",
+      "date": "2025-10-23T06:17:49.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "testing",
-        "qa"
+        "javascript",
+        "css"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "My Meme App — Make, Share & Laugh Anytime!",
+      "description": "Hey everyone! 👋 I just built a fun little meme app that lets you create and share memes in seconds. Whether you want to make a quick joke, roast your...",
+      "url": "https://dev.to/elin_olsson_deac9f61751dc/my-meme-app-make-share-laugh-anytime-4k0d",
+      "date": "2025-10-23T06:16:54.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "New universal drivers for IoT Platform",
-      "description": "In some of the previous blogs, I wrote a lot about the IoT platform from Total.js. Like what it is, why it can be useful, how to install individual pa...",
-      "url": "https://dev.to/palo/new-universal-drivers-for-iot-platform-3fbe",
-      "date": "2025-10-22T06:19:26.000Z",
+      "title": "An Introduction to JavaScript Expressions",
+      "description": "A thorough but approachable lesson on JavaScript expressions excerpted JavaScript For Everyone, a complete online course offered by our friends at Pic...",
+      "url": "https://css-tricks.com/an-introduction-to-javascript-expressions/",
+      "date": "2025-10-22T19:08:23.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "iot",
-        "industry40",
-        "totaljs"
+        "articles",
+        "javascript",
+        "webdev"
       ],
-      "readTime": "6 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Build and push Docker images to Amazon ECR using Terraform",
-      "description": "Introduction In general you would want to deploy infrastructure using terraform, build and push docker images in CI/CD phase. But let's say, just in c...",
-      "url": "https://dev.to/ashraf-minhaj/build-and-push-docker-images-to-amazon-ecr-using-terraform-4m67",
-      "date": "2025-10-22T06:19:16.000Z",
+      "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
+      "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add at...",
+      "url": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
+      "date": "2025-10-22T13:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
-        "devops",
-        "aws",
-        "terraform"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "6 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -228,36 +258,6 @@
       "description": "From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital...",
       "url": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
       "date": "2025-10-13T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "We Completely Missed width/height: stretch",
-      "description": "The TL;DR is that stretch does the same thing as declaring 100%, but ignores padding when looking at the available space. We Completely Missed width/h...",
-      "url": "https://css-tricks.com/we-completely-missed-width-height-stretch/",
-      "date": "2025-10-10T14:03:52.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "boxmodel",
-        "cssproperties"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Smashing Animations Part 5: Building Adaptive SVGs With ``, ``, And CSS Media Qu",
-      "description": "SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds...",
-      "url": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
-      "date": "2025-10-06T13:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
