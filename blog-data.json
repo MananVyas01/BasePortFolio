@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-23T06:30:09.330Z",
+  "lastUpdated": "2025-10-24T06:29:14.710Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "The road to better completions: Building a faster, smarter GitHub Copilot with a",
+      "description": "Find out about the latest custom models powering the completions experience in GitHub Copilot. The post The road to better completions: Building a fas...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/the-road-to-better-completions-building-a-faster-smarter-github-copilot-with-a-new-custom-model/",
+      "date": "2025-10-23T18:31:12.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "aiagents"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "From karaoke terminals to AI résumés: The winners of GitHub’s For the Love of Co",
       "description": "This summer, we invited devs to participate in our hackathon for joyful, ridiculous, and wildly creative projects. Here are the winners of For the Lov...",
@@ -59,78 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Inside the breach that broke the internet: The untold story of Log4Shell",
-      "description": "Log4Shell proved that open source security isn't guaranteed and isn’t just a code problem. It's about supporting, enabling, and empowering the people ...",
-      "url": "https://github.blog/open-source/inside-the-breach-that-broke-the-internet-the-untold-story-of-log4shell/",
-      "date": "2025-10-20T16:00:16.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "opensource",
-        "log4j",
-        "opensource"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "ASP.NET Core Dependency Injection From Scopes & Lifetimes to .NET 9 Source Gener",
-      "description": "Dependency Injection in ASP.NET Core is simple... until you hit a subtle memory leak or a captive dependency bug. Are you positive you're not creating...",
-      "url": "https://dev.to/oguzhan-agir-02/aspnet-core-dependency-injection-from-scopes-lifetimes-to-net-9-source-generators-3f06",
-      "date": "2025-10-23T06:19:24.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "dotnet",
-        "aspnetcore",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Transforming AI Monetization: The Future of LLM-Powered Applications",
-      "description": "Hook: Welcome to the Future of Advertising: The Era of Conversation Commerce As developers, we’re witnessing a seismic shift in how users interact wit...",
-      "url": "https://dev.to/monetzly/transforming-ai-monetization-the-future-of-llm-powered-applications-ece",
-      "date": "2025-10-23T06:18:26.000Z",
+      "title": "Why your business needs a Bespoke Application",
+      "description": "Off-the-shelf software can only take you so far. When your business has unique workflows, complex systems, or specific goals, you need something tailo...",
+      "url": "https://dev.to/imobisoft_03b7912a7d93210/why-your-business-needs-a-bespoke-application-2nna",
+      "date": "2025-10-24T06:18:40.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
         "webdev",
-        "api"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Google SWE Intern Interview Experience — The Key to Nailing Both Rounds",
-      "description": "Just finished my Google Software Engineer Intern interview process — two rounds, both passed smoothly. Here’s a detailed breakdown of the real intervi...",
-      "url": "https://dev.to/net_programhelp_e160eef28/google-swe-intern-interview-experience-the-key-to-nailing-both-rounds-5465",
-      "date": "2025-10-23T06:17:49.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "My Meme App — Make, Share & Laugh Anytime!",
-      "description": "Hey everyone! 👋 I just built a fun little meme app that lets you create and share memes in seconds. Whether you want to make a quick joke, roast your...",
-      "url": "https://dev.to/elin_olsson_deac9f61751dc/my-meme-app-make-share-laugh-anytime-4k0d",
-      "date": "2025-10-23T06:16:54.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "javascript"
       ],
       "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Why Your Mac Software Installation is Broken (And How to Fix It in 10 Minutes)",
+      "description": "Why Your Mac Software Installation is Broken (And How to Fix It in 10 Minutes) Last Saturday, I watched my friend spend four hours setting up his new ...",
+      "url": "https://dev.to/leonwong282/why-your-mac-software-installation-is-broken-and-how-to-fix-it-in-10-minutes-331d",
+      "date": "2025-10-24T06:18:20.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "productivity",
+        "webdev",
+        "javascript"
+      ],
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "Oracle AI Database 26ai: RESETTABLE Clause",
+      "description": "In Oracle, PL/SQL packages can maintain a session-level state. This means that once a package is loaded into a user session, its global variables reta...",
+      "url": "https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-resettable-clause-4pho",
+      "date": "2025-10-24T06:11:43.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "devops",
+        "oracle",
+        "26ai"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Meet the AI Voice Agent That Actually Gets Your Customers",
+      "description": "We’ve all been there waiting on hold, repeating ourselves, getting frustrated. Now, imagine a world where your customers don’t have to go through that...",
+      "url": "https://dev.to/array_platforms/meet-the-ai-voice-agent-that-actually-gets-your-customers-p8l",
+      "date": "2025-10-24T06:10:11.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "agents",
+        "customerservice"
+      ],
+      "readTime": "3 min read",
       "priority": 2
     },
     {
