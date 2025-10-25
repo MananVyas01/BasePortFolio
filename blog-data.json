@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-24T06:29:14.710Z",
+  "lastUpdated": "2025-10-25T06:27:05.386Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How to find, install, and manage MCP servers with the GitHub MCP Registry",
+      "description": "Learn how to bring structure and security to your AI ecosystem with the GitHub MCP Registry, the single source of truth for managing and governing MCP...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/how-to-find-install-and-manage-mcp-servers-with-the-github-mcp-registry/",
+      "date": "2025-10-24T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "mcp"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "The road to better completions: Building a faster, smarter GitHub Copilot with a",
       "description": "Find out about the latest custom models powering the completions experience in GitHub Copilot. The post The road to better completions: Building a fas...",
@@ -59,78 +74,78 @@
       "priority": 1
     },
     {
-      "title": "How to update community health files with AI",
-      "description": "Have you ever thought about using AI to update community health files for your repositories? This blog shares actionable next steps for doing just tha...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-update-community-health-files-with-ai/",
-      "date": "2025-10-21T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "communityhealthfiles"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Why your business needs a Bespoke Application",
-      "description": "Off-the-shelf software can only take you so far. When your business has unique workflows, complex systems, or specific goals, you need something tailo...",
-      "url": "https://dev.to/imobisoft_03b7912a7d93210/why-your-business-needs-a-bespoke-application-2nna",
-      "date": "2025-10-24T06:18:40.000Z",
+      "title": "Building MCP Server - The Hidden Protocol Behind Smart AI Collaboration",
+      "description": "Back in the 1960s, when computers were rare and applications even rarer, the term API quietly entered the scene. It wasn't about the web or microservi...",
+      "url": "https://dev.to/hiruthicsha/building-mcp-server-the-hidden-protocol-behind-smart-ai-collaboration-3pdd",
+      "date": "2025-10-25T06:09:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "webdev",
-        "javascript"
+        "llm",
+        "mcp",
+        "ai"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "The History of HTTP",
+      "description": "HTTP (HyperText Transfer Protocol) is a protocol used for fetching resources such as HTML documents. Its primary function is to enable a conversation ...",
+      "url": "https://dev.to/iarchitsharma/the-history-of-http-32ga",
+      "date": "2025-10-25T06:06:47.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "http",
+        "networking",
+        "webdev"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365",
+      "description": "The Booth Vol.23 kicks off with Cody and Neil tossing out mea culpas (and collecting some from the audience) as they catch up on Neil’s suburban migra...",
+      "url": "https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-172",
+      "date": "2025-10-25T06:06:30.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "golf",
+        "offtopic",
+        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Why Your Mac Software Installation is Broken (And How to Fix It in 10 Minutes)",
-      "description": "Why Your Mac Software Installation is Broken (And How to Fix It in 10 Minutes) Last Saturday, I watched my friend spend four hours setting up his new ...",
-      "url": "https://dev.to/leonwong282/why-your-mac-software-installation-is-broken-and-how-to-fix-it-in-10-minutes-331d",
-      "date": "2025-10-24T06:18:20.000Z",
+      "title": "S3 aws guide",
+      "description": "What is Amazon S3? Amazon Simple Storage Service (S3) is a scalable object storage service provided by AWS. It allows users to store and retrieve any ...",
+      "url": "https://dev.to/sachin841/s3-aws-guide-45e1",
+      "date": "2025-10-25T06:06:12.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "productivity",
         "webdev",
-        "javascript"
-      ],
-      "readTime": "9 min read",
-      "priority": 2
-    },
-    {
-      "title": "Oracle AI Database 26ai: RESETTABLE Clause",
-      "description": "In Oracle, PL/SQL packages can maintain a session-level state. This means that once a package is loaded into a user session, its global variables reta...",
-      "url": "https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-resettable-clause-4pho",
-      "date": "2025-10-24T06:11:43.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "devops",
-        "oracle",
-        "26ai"
+        "javascript",
+        "css"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Meet the AI Voice Agent That Actually Gets Your Customers",
-      "description": "We’ve all been there waiting on hold, repeating ourselves, getting frustrated. Now, imagine a world where your customers don’t have to go through that...",
-      "url": "https://dev.to/array_platforms/meet-the-ai-voice-agent-that-actually-gets-your-customers-p8l",
-      "date": "2025-10-24T06:10:11.000Z",
+      "title": "CSS Animations That Leverage the Parent-Child Relationship",
+      "description": "When we change an element’s intrinsic sizing, its children are affected, too. This is something we can use to our advantage. CSS Animations That Lever...",
+      "url": "https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/",
+      "date": "2025-10-24T14:18:03.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "ai",
-        "agents",
-        "customerservice"
+        "articles",
+        "animation",
+        "webdev"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -234,21 +249,6 @@
         "articles",
         "animation",
         "cssfunctions"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Masonry: Watching a CSS Feature Evolve",
-      "description": "What can CSS Masonry discussions teach us about the development of new CSS features? What is the CSSWG’s role? What influence do browsers have? What c...",
-      "url": "https://css-tricks.com/masonry-watching-a-css-feature-evolve/",
-      "date": "2025-10-13T14:31:35.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "browser",
-        "csswg"
       ],
       "readTime": "1 min read",
       "priority": 2
