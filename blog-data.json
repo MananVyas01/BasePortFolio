@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-25T06:27:05.386Z",
+  "lastUpdated": "2025-10-26T06:27:54.966Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Building MCP Server - The Hidden Protocol Behind Smart AI Collaboration",
-      "description": "Back in the 1960s, when computers were rare and applications even rarer, the term API quietly entered the scene. It wasn't about the web or microservi...",
-      "url": "https://dev.to/hiruthicsha/building-mcp-server-the-hidden-protocol-behind-smart-ai-collaboration-3pdd",
-      "date": "2025-10-25T06:09:16.000Z",
+      "title": "Unlocking Developer Revenue: Dual Monetization Strategies for LLM Apps with Mone",
+      "description": "When Ads Become Helpful Suggestions Instead of Interruptions As developers, we’ve all felt the pressure to monetize our applications effectively while...",
+      "url": "https://dev.to/monetzly/unlocking-developer-revenue-dual-monetization-strategies-for-llm-apps-with-monetzly-4oep",
+      "date": "2025-10-26T06:16:42.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "llm",
-        "mcp",
-        "ai"
+        "ai",
+        "webdev",
+        "api"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Build Your First Movie Recommendation Engine in Python",
+      "description": "Ever wonder how Netflix or Spotify seems to know exactly what you want to watch or listen to next? It's not magic, it's the power of recommendation sy...",
+      "url": "https://dev.to/saint2706/build-your-first-movie-recommendation-engine-in-python-5585",
+      "date": "2025-10-26T06:15:52.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "programming",
+        "beginners",
+        "python"
       ],
       "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "The History of HTTP",
-      "description": "HTTP (HyperText Transfer Protocol) is a protocol used for fetching resources such as HTML documents. Its primary function is to enable a conversation ...",
-      "url": "https://dev.to/iarchitsharma/the-history-of-http-32ga",
-      "date": "2025-10-25T06:06:47.000Z",
+      "title": "Django REST Framework Views Decoded: Choosing Between FBVs, APIView, Generics, a",
+      "description": "Stop Copy-Pasting DRF Code: Here's How to Choose the Right View You're building a Django REST API. You search \"DRF list view\" and find five different ...",
+      "url": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/django-rest-framework-views-decoded-choosing-between-fbvs-apiview-generics-and-viewsets-32i9",
+      "date": "2025-10-26T06:12:53.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "http",
-        "networking",
-        "webdev"
+        "django",
+        "api",
+        "python"
       ],
-      "readTime": "6 min read",
+      "readTime": "10 min read",
       "priority": 2
     },
     {
-      "title": "No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365",
-      "description": "The Booth Vol.23 kicks off with Cody and Neil tossing out mea culpas (and collecting some from the audience) as they catch up on Neil’s suburban migra...",
-      "url": "https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-172",
-      "date": "2025-10-25T06:06:30.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "golf",
-        "offtopic",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "S3 aws guide",
-      "description": "What is Amazon S3? Amazon Simple Storage Service (S3) is a scalable object storage service provided by AWS. It allows users to store and retrieve any ...",
-      "url": "https://dev.to/sachin841/s3-aws-guide-45e1",
-      "date": "2025-10-25T06:06:12.000Z",
+      "title": "Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault",
+      "description": "GitHub Home Every programmer has had that moment. You join a new project, or you open up a project you wrote yourself six months ago, and then you fee...",
+      "url": "https://dev.to/member_ece4a271/your-projects-a-mess-its-not-you-its-your-frameworks-fault-432o",
+      "date": "2025-10-26T06:12:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "javascript",
-        "css"
+        "programming",
+        "rust"
       ],
-      "readTime": "3 min read",
+      "readTime": "8 min read",
       "priority": 2
     },
     {
