@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-26T06:27:54.966Z",
+  "lastUpdated": "2025-10-27T06:33:41.324Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Unlocking Developer Revenue: Dual Monetization Strategies for LLM Apps with Mone",
-      "description": "When Ads Become Helpful Suggestions Instead of Interruptions As developers, we’ve all felt the pressure to monetize our applications effectively while...",
-      "url": "https://dev.to/monetzly/unlocking-developer-revenue-dual-monetization-strategies-for-llm-apps-with-monetzly-4oep",
-      "date": "2025-10-26T06:16:42.000Z",
+      "title": "Task0 - AI task manager",
+      "description": "This is a submission for the Auth0 for AI Agents Challenge I built an AI task manager application. Task0 can handle google task seamlessly. Live App: ...",
+      "url": "https://dev.to/itsmefminsaf/task0-ai-task-manager-181a",
+      "date": "2025-10-27T06:23:54.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "webdev",
-        "api"
+        "devchallenge",
+        "auth0challenge",
+        "ai"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Build Your First Movie Recommendation Engine in Python",
-      "description": "Ever wonder how Netflix or Spotify seems to know exactly what you want to watch or listen to next? It's not magic, it's the power of recommendation sy...",
-      "url": "https://dev.to/saint2706/build-your-first-movie-recommendation-engine-in-python-5585",
-      "date": "2025-10-26T06:15:52.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "programming",
-        "beginners",
-        "python"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "Django REST Framework Views Decoded: Choosing Between FBVs, APIView, Generics, a",
-      "description": "Stop Copy-Pasting DRF Code: Here's How to Choose the Right View You're building a Django REST API. You search \"DRF list view\" and find five different ...",
-      "url": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/django-rest-framework-views-decoded-choosing-between-fbvs-apiview-generics-and-viewsets-32i9",
-      "date": "2025-10-26T06:12:53.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "django",
-        "api",
-        "python"
-      ],
-      "readTime": "10 min read",
-      "priority": 2
-    },
-    {
-      "title": "Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault",
-      "description": "GitHub Home Every programmer has had that moment. You join a new project, or you open up a project you wrote yourself six months ago, and then you fee...",
-      "url": "https://dev.to/member_ece4a271/your-projects-a-mess-its-not-you-its-your-frameworks-fault-432o",
-      "date": "2025-10-26T06:12:31.000Z",
+      "title": "Check out the guide on - The Power of Grouping in Tableau",
+      "description": "The Power of Grouping in Tableau Dipti Moryani ・ Oct 27...",
+      "url": "https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-the-power-of-grouping-in-tableau-k74",
+      "date": "2025-10-27T06:23:12.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "programming",
-        "rust"
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "The Power of Grouping in Tableau",
+      "description": "In the era of data-driven decision-making, speed and clarity are everything. Analysts and business leaders need quick, precise answers from vast datas...",
+      "url": "https://dev.to/dipti_moryani_185c244d578/the-power-of-grouping-in-tableau-2ejp",
+      "date": "2025-10-27T06:22:40.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "8 min read",
+      "priority": 2
+    },
+    {
+      "title": "Hashicorp Vault CLI Part 1: Initialization, Authentication & Plugin Management",
+      "description": "The Hashicorp Vault secrets management tool comes as an executable binary supporting all major operating systems. The binary itself is a multi-purpose...",
+      "url": "https://dev.to/admantium/hashicorp-vault-cli-part-1-initialization-authentication-plugin-management-2ndl",
+      "date": "2025-10-27T06:21:51.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "hashicorp",
+        "vault",
+        "webdev"
+      ],
+      "readTime": "13 min read",
       "priority": 2
     },
     {
