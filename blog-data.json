@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-29T06:32:18.025Z",
+  "lastUpdated": "2025-10-30T06:30:33.245Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,78 @@
       "priority": 1
     },
     {
-      "title": "Slicing Through Complexity: Modular Design vs Feature-Sliced Design in Vue 3",
-      "description": "Slicing Through Complexity: Modular Design vs Feature-Sliced Design in Vue 3 The Architecture Dilemma Every Vue Developer Faces You've been there: you...",
-      "url": "https://dev.to/igornosatov_15/slicing-through-complexity-modular-design-vs-feature-sliced-design-in-vue-3-13dh",
-      "date": "2025-10-29T06:21:25.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "architecture",
-        "javascript",
-        "vue"
-      ],
-      "readTime": "8 min read",
-      "priority": 2
-    },
-    {
-      "title": "Unlock Developer Revenue: The Future of AI Monetization with Monetzly",
-      "description": "The Future of Advertising in AI Conversations: Introducing Monetization with Monetzly Advertising is evolving. With the surge of AI applications, deve...",
-      "url": "https://dev.to/monetzly/unlock-developer-revenue-the-future-of-ai-monetization-with-monetzly-2c22",
-      "date": "2025-10-29T06:19:05.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "webdev",
-        "api"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "From Freelancers to Brands: How Everyone Can Benefit from Batch Background Remov",
-      "description": "In the world of digital marketing, visuals aren’t just part of the message — they are the message. Whether you’re a freelancer designing for clients o...",
-      "url": "https://dev.to/freepixel11/from-freelancers-to-brands-how-everyone-can-benefit-from-batch-background-removal-5dl0",
-      "date": "2025-10-29T06:16:14.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "digitalmarketing",
-        "design"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Resume Format That Finally Gets You Past the ATS Filter",
-      "description": "We've all been there, spending hours perfecting our resumes, only to get... silence. No calls, no interviews, just silence. The truth? It is often not...",
-      "url": "https://dev.to/whoozit_in_82812c2fd22a09/the-resume-format-that-finally-gets-you-past-the-ats-filter-4hco",
-      "date": "2025-10-29T06:14:26.000Z",
+      "title": "GitHub Co‑Creator: Tetrix for Codebase Mastery",
+      "description": "See how Tetrix uses your repository context to speed up navigation, generation, and review. With your code indexed in a knowledge graph, Tetrix can fi...",
+      "url": "https://dev.to/akkii2022/github-co-creator-tetrix-for-codebase-mastery-4bnp",
+      "date": "2025-10-30T06:16:54.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "javascript",
-        "css"
+        "programming",
+        "ai"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Danny Maude: The Ridiculous Reason Why 90% of Golfers Can't Strike Their Irons &",
+      "description": "Turns out most golfers can’t strike their irons or hybrids purely because their setup is off: your sternum and forearms need proper alignment, your po...",
+      "url": "https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-4hbb",
+      "date": "2025-10-30T06:05:51.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "golf",
+        "lessons",
+        "recommendations"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Jeff Su: The Productivity System I Taught to 6,642 Googlers",
+      "description": "The Productivity System I Taught to 6,642 Googlers Over nine years, Jeff Su distilled every bit of workplace info into a four-step CORE workflow—Captu...",
+      "url": "https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2308",
+      "date": "2025-10-30T06:05:40.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "productivity",
+        "education",
+        "webdev"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan",
+      "description": "Bill Simmons, Chris Ryan, and Van Lathan reunite to rewatch 1981’s Halloween II, debating whether Michael Myers truly earns GOAT status, sharing their...",
+      "url": "https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-2k9b",
+      "date": "2025-10-30T06:00:37.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "movies",
+        "reviews",
+        "streaming"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Getting Creative With Small Screens",
+      "description": "On mobile, people can lose their sense of context and can’t easily tell where a section begins or ends. Good small-screen design can help orient them ...",
+      "url": "https://css-tricks.com/getting-creative-with-small-screens/",
+      "date": "2025-10-29T16:22:28.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "rwd",
+        "uiixdesign"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -203,21 +218,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Building a Honeypot Field That Works",
-      "description": "Honeypots are fields that developers use to prevent spam submissions. They still work in 2025. But you got to set a couple of tricks in place so spamb...",
-      "url": "https://css-tricks.com/building-a-honeypot-field-that-works/",
-      "date": "2025-10-20T16:11:40.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "forms",
-        "security"
       ],
       "readTime": "1 min read",
       "priority": 2
