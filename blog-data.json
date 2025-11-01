@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-31T06:31:00.476Z",
+  "lastUpdated": "2025-11-01T06:27:38.692Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,8 +8,8 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
@@ -73,63 +73,78 @@
       "priority": 1
     },
     {
-      "title": "Building My Invoice App – Added File Attachments Today",
-      "description": "I’m still working on my invoice tool for freelancers and small businesses, and today I added a new feature: file attachments for each client or invoic...",
-      "url": "https://dev.to/sudarshan_s_hosalli/building-my-invoice-app-added-file-attachments-today-1313",
-      "date": "2025-10-31T06:19:57.000Z",
+      "title": "How I Reduced My Dashboard Bundle Size from 1.72 MB to 299 KB for Faster Loading",
+      "description": "As our product grew, the dashboard started feeling slower than expected, which impacted how quickly users could access key information and complete ta...",
+      "url": "https://dev.to/naufalyukafi/how-i-reduced-my-dashboard-bundle-size-from-172-mb-to-299-kb-for-faster-loading-3gg5",
+      "date": "2025-11-01T06:20:39.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "saas",
-        "buildinpublic"
+        "frontend",
+        "performance",
+        "react"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "AI Agents in 2025: A Practical Guide for Developers",
+      "description": "TL;DR AI agents in 2025 are production systems, not UI demos. A reliable agent stack has 7 layers: Generative Model Knowledge Base + RAG Orchestration...",
+      "url": "https://dev.to/navyashipsit/ai-agents-in-2025-a-practical-guide-for-developers-32ep",
+      "date": "2025-11-01T06:10:38.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "aiops",
+        "devops"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Tetrix vs Claude",
+      "description": "Learn how Tetrix connects code, infrastructure, and operations to your AI, enabling it to reason across your full software system. https://deskree.com...",
+      "url": "https://dev.to/akkii2022/tetrix-vs-claude-4923",
+      "date": "2025-11-01T06:07:44.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "cloud",
+        "devops"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "The 90-Minute Sprint Model: How Deep Work Cycles Transform Developer Output",
-      "description": "You are 45 minutes into debugging a complex microservices issue. Your mental model of the system is finally clear. Then Slack pings. Your flow state c...",
-      "url": "https://dev.to/teamcamp/the-90-minute-sprint-model-how-deep-work-cycles-transform-developer-output-43f1",
-      "date": "2025-10-31T06:09:52.000Z",
+      "title": "No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366",
+      "description": "Summary Neil and TC head to Upstate New York for their travel series and end up in a deep-dive conversation with Alex Holderness and John Bourne, the ...",
+      "url": "https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-i99",
+      "date": "2025-11-01T06:07:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "offtopic",
         "webdev",
-        "productivity",
-        "devops"
+        "javascript"
       ],
-      "readTime": "6 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Google Rolls Out Merchant Center for Agencies",
-      "description": "Google has officially launched Merchant Center for Agencies, a specialized platform designed exclusively for agencies managing multiple Google Merchan...",
-      "url": "https://dev.to/me_bhavesh/google-rolls-out-merchant-center-for-agencies-80h",
-      "date": "2025-10-31T06:07:56.000Z",
+      "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
+      "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the ...",
+      "url": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
+      "date": "2025-10-31T12:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
         "javascript",
         "css"
       ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "My ML Learning Journey: From Confusion to Building a Working Model",
-      "description": "I'm learning machine learning, and I want to share this journey with you. Not as an expert—I literally started Kaggle's \"Intro to Machine Learning\" co...",
-      "url": "https://dev.to/cessamaeeee/my-ml-learning-journey-from-confusion-to-building-a-working-model-235p",
-      "date": "2025-10-31T06:07:00.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "machinelearning",
-        "kaggle",
-        "python"
-      ],
-      "readTime": "7 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -227,21 +242,6 @@
       "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons l...",
       "url": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
       "date": "2025-10-17T08:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "How To Make Your UX Research Hard To Ignore",
-      "description": "Research isn’t everything. Facts alone don’t win arguments, but powerful stories do. Here’s how to turn your research into narratives that inspire tru...",
-      "url": "https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/",
-      "date": "2025-10-16T13:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
