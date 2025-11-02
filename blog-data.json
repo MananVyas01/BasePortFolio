@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-01T06:27:38.692Z",
+  "lastUpdated": "2025-11-02T06:28:55.057Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,20 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "GitHub Game Off 2025 theme announcement",
+      "description": "GitHub’s annual month-long game jam is back for its 13th year! This November, make a game inspired by the theme WAVES—literal, digital, or emotional. ...",
+      "url": "https://github.blog/company/github-game-off-2025-theme-announcement/",
+      "date": "2025-11-01T20:37:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "company",
+        "githubgameoff"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Measuring what matters: How offline evaluation of GitHub MCP Server works",
       "description": "Take a look inside our automated pipeline for rapid, rigorous evaluation for the GitHub MCP Server. The post Measuring what matters: How offline evalu...",
@@ -58,78 +72,63 @@
       "priority": 1
     },
     {
-      "title": "Announcing the 2025 GitHub Partner Award winners 🎉",
-      "description": "GitHub celebrates its 2025 Partner Award winners, honoring global, regional, and technology partners for driving innovation, collaboration, and impact...",
-      "url": "https://github.blog/news-insights/company-news/announcing-the-2025-github-partner-award-winners/",
-      "date": "2025-10-28T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "companynews",
-        "newsinsights",
-        "githubpartners"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "How I Reduced My Dashboard Bundle Size from 1.72 MB to 299 KB for Faster Loading",
-      "description": "As our product grew, the dashboard started feeling slower than expected, which impacted how quickly users could access key information and complete ta...",
-      "url": "https://dev.to/naufalyukafi/how-i-reduced-my-dashboard-bundle-size-from-172-mb-to-299-kb-for-faster-loading-3gg5",
-      "date": "2025-11-01T06:20:39.000Z",
+      "title": "Java String codePointCount() Explained: Taming Emojis & Complex Text",
+      "description": "Java String codePointCount() Explained: Taming Emojis & Complex Text Alright, let's talk about one of those Java topics that seems simple until it isn...",
+      "url": "https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-codepointcount-explained-taming-emojis-complex-text-2l3f",
+      "date": "2025-11-02T06:20:49.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "frontend",
-        "performance",
-        "react"
+        "java",
+        "string",
+        "webdev"
+      ],
+      "readTime": "8 min read",
+      "priority": 2
+    },
+    {
+      "title": "Exploring Next.js 16 File System Conventions",
+      "description": "📂 Exploring Next.js 16 File System Conventions I recently started playing with Next.js 16 experimental features, especially the new file-system conve...",
+      "url": "https://dev.to/ganesh_tidake/exploring-nextjs-16-file-system-conventions-2akk",
+      "date": "2025-11-02T06:09:07.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "nextjs",
+        "react",
+        "webdev"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 2 – Carlisle",
+      "description": "I took on the head pro at Carlisle GC in a £1,000 winner-takes-all match, with huge thanks to Titleist for backing the series, supporting club pros ac...",
+      "url": "https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-363a",
+      "date": "2025-11-02T06:06:20.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "golf",
+        "betting",
+        "recommendations"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "I'm Building an AI Agent That Automates Competitor Research",
+      "description": "As a cybersecurity analyst and a weekend dev, I'm obsessed with automation. I love finding tedious, manual tasks and building tools to make them disap...",
+      "url": "https://dev.to/theweekenddev/im-building-an-ai-agent-that-automates-competitor-research-1fie",
+      "date": "2025-11-02T06:03:32.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "showdev",
+        "ai",
+        "automation"
       ],
       "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "AI Agents in 2025: A Practical Guide for Developers",
-      "description": "TL;DR AI agents in 2025 are production systems, not UI demos. A reliable agent stack has 7 layers: Generative Model Knowledge Base + RAG Orchestration...",
-      "url": "https://dev.to/navyashipsit/ai-agents-in-2025-a-practical-guide-for-developers-32ep",
-      "date": "2025-11-01T06:10:38.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "aiops",
-        "devops"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "Tetrix vs Claude",
-      "description": "Learn how Tetrix connects code, infrastructure, and operations to your AI, enabling it to reason across your full software system. https://deskree.com...",
-      "url": "https://dev.to/akkii2022/tetrix-vs-claude-4923",
-      "date": "2025-11-01T06:07:44.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "cloud",
-        "devops"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366",
-      "description": "Summary Neil and TC head to Upstate New York for their travel series and end up in a deep-dive conversation with Alex Holderness and John Bourne, the ...",
-      "url": "https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-i99",
-      "date": "2025-11-01T06:07:16.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "offtopic",
-        "webdev",
-        "javascript"
-      ],
-      "readTime": "1 min read",
       "priority": 2
     },
     {
