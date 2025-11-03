@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-02T06:28:55.057Z",
+  "lastUpdated": "2025-11-03T06:32:38.511Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -72,63 +72,63 @@
       "priority": 1
     },
     {
-      "title": "Java String codePointCount() Explained: Taming Emojis & Complex Text",
-      "description": "Java String codePointCount() Explained: Taming Emojis & Complex Text Alright, let's talk about one of those Java topics that seems simple until it isn...",
-      "url": "https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-codepointcount-explained-taming-emojis-complex-text-2l3f",
-      "date": "2025-11-02T06:20:49.000Z",
+      "title": "https://farhakousar16.medium.com/my-mckinsey-ngwl25-journey-from-selection-to-se",
+      "description": "🌍 My McKinsey NGWL’25 Journey — From Selection to Self-Discovery Farha kousar ・ Nov 3 #leadership #learning #mckinsey 🌍 My McKinsey NGWL’25 Journey ...",
+      "url": "https://dev.to/farhakousar16/-51nc",
+      "date": "2025-11-03T06:29:52.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "java",
-        "string",
-        "webdev"
-      ],
-      "readTime": "8 min read",
-      "priority": 2
-    },
-    {
-      "title": "Exploring Next.js 16 File System Conventions",
-      "description": "📂 Exploring Next.js 16 File System Conventions I recently started playing with Next.js 16 experimental features, especially the new file-system conve...",
-      "url": "https://dev.to/ganesh_tidake/exploring-nextjs-16-file-system-conventions-2akk",
-      "date": "2025-11-02T06:09:07.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "nextjs",
-        "react",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 2 – Carlisle",
-      "description": "I took on the head pro at Carlisle GC in a £1,000 winner-takes-all match, with huge thanks to Titleist for backing the series, supporting club pros ac...",
-      "url": "https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-363a",
-      "date": "2025-11-02T06:06:20.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "golf",
-        "betting",
-        "recommendations"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "I'm Building an AI Agent That Automates Competitor Research",
-      "description": "As a cybersecurity analyst and a weekend dev, I'm obsessed with automation. I love finding tedious, manual tasks and building tools to make them disap...",
-      "url": "https://dev.to/theweekenddev/im-building-an-ai-agent-that-automates-competitor-research-1fie",
-      "date": "2025-11-02T06:03:32.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "showdev",
-        "ai",
-        "automation"
+        "leadership",
+        "learning",
+        "mckinsey"
       ],
       "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "🌍 My McKinsey NGWL’25 Journey — From Selection to Self-Discovery",
+      "description": "“Leadership is not about having the loudest voice — it’s about using your voice to uplift others.” In early 2025, I received one of the most exciting ...",
+      "url": "https://dev.to/farhakousar16/my-mckinsey-ngwl25-journey-from-selection-to-self-discovery-38fg",
+      "date": "2025-11-03T06:29:24.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "leadership",
+        "learning",
+        "mckinsey"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "🚀 Built a Customizable Gantt Chart Component for Vue 3 — Introducing Jordium Ga",
+      "description": "Hey everyone 👋 I’m excited to share something I’ve been building over the past few months — a modern and customizable Gantt Chart component for Vue 3...",
+      "url": "https://dev.to/nelson_li_c5265341756c7ab/built-a-customizable-gantt-chart-component-for-vue-3-introducing-jordium-ganttchart-v142-5e19",
+      "date": "2025-11-03T06:27:13.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "javascript",
+        "showdev",
+        "ui"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Functional Ruby Programming with Trailblazer",
+      "description": "You might be surprised to learn that you're already using many functional programming (FP) approaches in your Ruby code without realizing it. While la...",
+      "url": "https://dev.to/kinvoki/functional-ruby-programming-with-trailblazer-3h29",
+      "date": "2025-11-03T06:25:33.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ruby",
+        "trailblazer",
+        "functional"
+      ],
+      "readTime": "3 min read",
       "priority": 2
     },
     {
