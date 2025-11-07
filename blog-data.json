@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-06T06:31:46.291Z",
+  "lastUpdated": "2025-11-07T06:31:21.287Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,41 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "GitHub Copilot CLI 101: How to use GitHub Copilot from the command line",
+      "description": "Curious about using GitHub Copilot in your terminal? Here's our guide to GitHub Copilot CLI, including a starter kit with the best prompts for a wide ...",
+      "url": "https://github.blog/ai-and-ml/github-copilot-cli-101-how-to-use-github-copilot-from-the-command-line/",
+      "date": "2025-11-06T20:30:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "agenticworkflows"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "TypeScript’s rise in the AI era: Insights from Lead Architect, Anders Hejlsberg",
+      "description": "TypeScript just became the most-used language on GitHub. Here’s why, according to its creator. The post TypeScript’s rise in the AI era: Insights from...",
+      "url": "https://github.blog/developer-skills/programming-languages-and-frameworks/typescripts-rise-in-the-ai-era-insights-from-lead-architect-anders-hejlsberg/",
+      "date": "2025-11-06T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "developerskills",
+        "programminglanguagesframeworks",
+        "octoverse"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "GitHub Copilot tutorial: How to build, test, review, and ship code faster (with ",
       "description": "How GitHub Copilot works today—including mission control—and how to get the most out of it. Here’s what you need to know. The post GitHub Copilot tuto...",
@@ -42,97 +72,82 @@
       "priority": 1
     },
     {
-      "title": "Measuring what matters: How offline evaluation of GitHub MCP Server works",
-      "description": "Take a look inside our automated pipeline for rapid, rigorous evaluation for the GitHub MCP Server. The post Measuring what matters: How offline evalu...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/measuring-what-matters-how-offline-evaluation-of-github-mcp-server-works/",
-      "date": "2025-10-30T21:46:07.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "generativeai",
-        "githubcopilot"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Introducing Agent HQ: Any agent, any way you work",
-      "description": "At Universe 2025, GitHub's next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere...",
-      "url": "https://github.blog/news-insights/company-news/welcome-home-agents/",
-      "date": "2025-10-28T16:08:15.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "companynews",
-        "newsinsights",
-        "githubuniverse"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Why `rem` Should Be Your Default for Spacing in Modern CSS",
-      "description": "Why Use rem Instead of px for Padding? /* Before */ padding: 24px 74px; /* After */ padding: 1.5rem 4.625rem; But this is one of those small shifts th...",
-      "url": "https://dev.to/alok38/why-rem-should-be-your-default-for-spacing-in-modern-css-2l9m",
-      "date": "2025-11-06T06:19:05.000Z",
+      "title": "🚀 BUILD YOUR INCOME WHILE YOU SLEEP — WITHOUT CREATING ANY PRODUCT YOURSELF 🌙",
+      "description": "Let’s be real for a moment: Design the product. But the internet has changed. And the smartest players are changing with it. Today, the real wins are ...",
+      "url": "https://dev.to/we-the-developers/build-your-income-while-you-sleep-without-creating-any-product-yourself-273i",
+      "date": "2025-11-07T06:26:57.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "css",
-        "tutorial"
+        "javascript",
+        "css"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "vimconfig: Auto-Setup Vim dengan Backup Otomatis",
-      "description": "Halo semuanya. Aku dari Indonesia dan mau share tools konfigurasi Vim yang aku buat. Namanya VimConfig, ini bikin setup Vim jadi lebih gampang dan cep...",
-      "url": "https://dev.to/wadahkode/vimconfig-auto-setup-vim-dengan-backup-otomatis-2ejg",
-      "date": "2025-11-06T06:17:55.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "vim",
-        "terminal",
-        "linux"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Building a Password Checker with Vanilla JS (No Frameworks!)",
-      "description": "I got locked out of the GST portal for the third time because my password \"didn't meet requirements.\" No explanation. Just \"Invalid password.\" Speed. ...",
-      "url": "https://dev.to/cnivargi/building-a-password-checker-with-vanilla-js-no-frameworks-1ofo",
-      "date": "2025-11-06T06:14:03.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "security",
-        "webdev",
-        "javascript"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "Recommendations for Useful AI Search Tools",
-      "description": "The core value of AI search tools is that they are fundamentally changing how we interact with information. Traditional search engines provide an \"ind...",
-      "url": "https://dev.to/serenepine/recommendations-for-useful-ai-search-tools-1ceg",
-      "date": "2025-11-06T06:09:35.000Z",
+      "title": "Unlock Dual Revenue: Monetize Your LLM Apps with AI-Powered Ads on Monetzly",
+      "description": "Traditional Ads Don't Work in AI Conversations. Here's What Does. As developers, we’re witnessing a surge in AI applications. From chatbots to virtual...",
+      "url": "https://dev.to/monetzly/unlock-dual-revenue-monetize-your-llm-apps-with-ai-powered-ads-on-monetzly-4o73",
+      "date": "2025-11-07T06:19:37.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
         "webdev",
-        "javascript"
+        "api"
       ],
-      "readTime": "6 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "A Practical Guide To UX Strategy",
+      "title": "How to Prepare WordPress Sites for Black Friday 2025",
+      "description": "You’d probably know what is Black Friday 2025 and why it’s important. Chances are, that’s precisely why you’re here. You’re expecting a surge of eager...",
+      "url": "https://dev.to/medha_bhatt_21b7dc4cc53e7/how-to-prepare-wordpress-sites-for-black-friday-2025-58ld",
+      "date": "2025-11-07T06:18:35.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "blackfriday",
+        "wordpress",
+        "web"
+      ],
+      "readTime": "8 min read",
+      "priority": 2
+    },
+    {
+      "title": "The 10 Best Kubernetes Management Tools using AI for 2026",
+      "description": "Top 10 AI Tools for Kubernetes Optimization Kubernetes clusters at enterprise scale create a combinatorial management problem of cost, reliability, se...",
+      "url": "https://dev.to/dinesh_agrawal_fce8905c6b/the-10-best-kubernetes-management-tools-using-ai-for-2026-7pp",
+      "date": "2025-11-07T06:17:41.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "16 min read",
+      "priority": 2
+    },
+    {
+      "title": "Explaining the Accessible Benefits of Using Semantic HTML Elements",
+      "description": "Why should you use a semantic instead of a generic ? Accessibility, right? By how exactly does it help accessibility? Explaining the Accessible Benefi...",
+      "url": "https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/",
+      "date": "2025-11-06T15:57:49.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "accessibility",
+        "semantics"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Six Key Components of UX Strategy",
       "description": "Let’s dive into the building blocks of UX strategy and see how it speaks the language of product and business strategy to create user value while achi...",
       "url": "https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/",
       "date": "2025-11-05T13:00:00.000Z",
@@ -232,21 +247,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "CSS Animations That Leverage the Parent-Child Relationship",
-      "description": "When we change an element’s intrinsic sizing, its children are affected, too. This is something we can use to our advantage. CSS Animations That Lever...",
-      "url": "https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/",
-      "date": "2025-10-24T14:18:03.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "animation",
-        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
