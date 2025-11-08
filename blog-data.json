@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-07T06:31:21.287Z",
+  "lastUpdated": "2025-11-08T06:27:36.892Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "What 986 million code pushes say about the developer workflow in 2025",
+      "description": "Nearly a billion commits later, the way we ship code has changed for good. Here’s what the 2025 Octoverse data says about how devs really work now. Th...",
+      "url": "https://github.blog/news-insights/octoverse/what-986-million-code-pushes-say-about-the-developer-workflow-in-2025/",
+      "date": "2025-11-07T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "newsinsights",
+        "octoverse",
+        "agenticworkflows"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "GitHub Copilot CLI 101: How to use GitHub Copilot from the command line",
       "description": "Curious about using GitHub Copilot in your terminal? Here's our guide to GitHub Copilot CLI, including a starter kit with the best prompts for a wide ...",
@@ -58,77 +73,78 @@
       "priority": 1
     },
     {
-      "title": "GitHub Game Off 2025 theme announcement",
-      "description": "GitHub’s annual month-long game jam is back for its 13th year! This November, make a game inspired by the theme WAVES—literal, digital, or emotional. ...",
-      "url": "https://github.blog/company/github-game-off-2025-theme-announcement/",
-      "date": "2025-11-01T20:37:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "company",
-        "githubgameoff"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "🚀 BUILD YOUR INCOME WHILE YOU SLEEP — WITHOUT CREATING ANY PRODUCT YOURSELF 🌙",
-      "description": "Let’s be real for a moment: Design the product. But the internet has changed. And the smartest players are changing with it. Today, the real wins are ...",
-      "url": "https://dev.to/we-the-developers/build-your-income-while-you-sleep-without-creating-any-product-yourself-273i",
-      "date": "2025-11-07T06:26:57.000Z",
+      "title": "Writing Your First Compiler - Part 6: Extending the Language",
+      "description": "We have a parser that handles arithmetic expressions. Numbers, operators, parentheses. It works. But we're not trying to build a calculator - we're bu...",
+      "url": "https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-6-extending-the-language-4e25",
+      "date": "2025-11-08T06:23:42.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "opensource",
+        "computerscience",
+        "programming"
       ],
-      "readTime": "2 min read",
+      "readTime": "35 min read",
       "priority": 2
     },
     {
-      "title": "Unlock Dual Revenue: Monetize Your LLM Apps with AI-Powered Ads on Monetzly",
-      "description": "Traditional Ads Don't Work in AI Conversations. Here's What Does. As developers, we’re witnessing a surge in AI applications. From chatbots to virtual...",
-      "url": "https://dev.to/monetzly/unlock-dual-revenue-monetize-your-llm-apps-with-ai-powered-ads-on-monetzly-4o73",
-      "date": "2025-11-07T06:19:37.000Z",
+      "title": "Common Manual Testing Techniques",
+      "description": "Manual testing remains a crucial part of software quality assurance, even as automation and AI transform the industry. Human testers provide context, ...",
+      "url": "https://dev.to/pon_pandian_b9a552f746eff/common-manual-testing-techniques-2adp",
+      "date": "2025-11-08T06:11:04.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "webdev",
-        "api"
+        "testing",
+        "tutorial"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "How to Prepare WordPress Sites for Black Friday 2025",
-      "description": "You’d probably know what is Black Friday 2025 and why it’s important. Chances are, that’s precisely why you’re here. You’re expecting a surge of eager...",
-      "url": "https://dev.to/medha_bhatt_21b7dc4cc53e7/how-to-prepare-wordpress-sites-for-black-friday-2025-58ld",
-      "date": "2025-11-07T06:18:35.000Z",
+      "title": "Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half",
+      "description": "4 ChatGPT Hacks to Cut Your Workload in Half Jeff Su breaks down four game-changing tricks: reverse-engineer your best prompts for consistent results,...",
+      "url": "https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2b43",
+      "date": "2025-11-08T06:07:47.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "blackfriday",
-        "wordpress",
-        "web"
+        "ai",
+        "productivity",
+        "education"
       ],
-      "readTime": "8 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "The 10 Best Kubernetes Management Tools using AI for 2026",
-      "description": "Top 10 AI Tools for Kubernetes Optimization Kubernetes clusters at enterprise scale create a combinatorial management problem of cost, reliability, se...",
-      "url": "https://dev.to/dinesh_agrawal_fce8905c6b/the-10-best-kubernetes-management-tools-using-ai-for-2026-7pp",
-      "date": "2025-11-07T06:17:41.000Z",
+      "title": "🚀 Google & SpaceX Are Building AI Datacenters in Space — Nvidia Hits $5 Trillio",
+      "description": "The AI Infrastructure War Just Went Interplanetary 🌌 On November 4th, 2025, Google CEO Sundar Pichai dropped a historic announcement: Project Suncatc...",
+      "url": "https://dev.to/aivanguard/google-spacex-are-building-ai-datacenters-in-space-nvidia-hits-5-trillion-pnf",
+      "date": "2025-11-08T06:06:03.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
+      "tags": [
+        "ai",
+        "news",
+        "airevolution"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Smashing Animations Part 6: Magnificent SVGs With `` And CSS Custom Properties",
+      "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke e...",
+      "url": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
+      "date": "2025-11-07T15:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
         "javascript",
         "css"
       ],
-      "readTime": "16 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -232,21 +248,6 @@
         "articles",
         "grid",
         "htmlelements"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "JavaScript For Everyone: Iterators",
-      "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds ...",
-      "url": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
-      "date": "2025-10-27T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
