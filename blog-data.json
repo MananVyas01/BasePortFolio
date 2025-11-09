@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-08T06:27:36.892Z",
+  "lastUpdated": "2025-11-09T06:28:16.619Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,40 +73,55 @@
       "priority": 1
     },
     {
-      "title": "Writing Your First Compiler - Part 6: Extending the Language",
-      "description": "We have a parser that handles arithmetic expressions. Numbers, operators, parentheses. It works. But we're not trying to build a calculator - we're bu...",
-      "url": "https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-6-extending-the-language-4e25",
-      "date": "2025-11-08T06:23:42.000Z",
+      "title": "✅ Scenario #4 — Debugging with Ephemeral Debug Containers in Kubernetes",
+      "description": "Ephemeral containers let you attach a temporary debug container to a running Pod without restarting it. Create file nginx-ephemeral.yaml: apiVersion: ...",
+      "url": "https://dev.to/latchudevops/scenario-4-debugging-with-ephemeral-debug-containers-in-kubernetes-l76",
+      "date": "2025-11-09T06:09:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "opensource",
-        "computerscience",
-        "programming"
+        "kubernetes",
+        "devops",
+        "cicd"
       ],
-      "readTime": "35 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Common Manual Testing Techniques",
-      "description": "Manual testing remains a crucial part of software quality assurance, even as automation and AI transform the industry. Human testers provide context, ...",
-      "url": "https://dev.to/pon_pandian_b9a552f746eff/common-manual-testing-techniques-2adp",
-      "date": "2025-11-08T06:11:04.000Z",
+      "title": "The Silent Killer of Your SaaS Growth",
+      "description": "The Silent Killer of Your SaaS Growth It was 3:17 PM on a Tuesday when the first cancellation email hit. Then another. And another. By Friday, you'd l...",
+      "url": "https://dev.to/tracksimple/the-silent-killer-of-your-saas-growth-3pg8",
+      "date": "2025-11-09T06:08:02.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "testing",
-        "tutorial"
+        "guide",
+        "tracksimple",
+        "competitormonitoring"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "My new project: Coz.jp",
+      "description": "Hello, Dev Community! I'm excited to finally pull back the curtain on my latest side project: Coz.jp, a new link shortening service. While \"yet anothe...",
+      "url": "https://dev.to/danielpetrica/my-new-project-cozjp-45o",
+      "date": "2025-11-09T06:06:40.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "showdev",
+        "webdev",
+        "programming"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
       "title": "Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half",
-      "description": "4 ChatGPT Hacks to Cut Your Workload in Half Jeff Su breaks down four game-changing tricks: reverse-engineer your best prompts for consistent results,...",
-      "url": "https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2b43",
-      "date": "2025-11-08T06:07:47.000Z",
+      "description": "4 ChatGPT Hacks that Cut My Workload in Half This video walks you through four killer techniques—Prompt Reversal, the 5-Minute Amplifier, the Red Team...",
+      "url": "https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-52i2",
+      "date": "2025-11-09T06:05:46.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -115,21 +130,6 @@
         "education"
       ],
       "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "🚀 Google & SpaceX Are Building AI Datacenters in Space — Nvidia Hits $5 Trillio",
-      "description": "The AI Infrastructure War Just Went Interplanetary 🌌 On November 4th, 2025, Google CEO Sundar Pichai dropped a historic announcement: Project Suncatc...",
-      "url": "https://dev.to/aivanguard/google-spacex-are-building-ai-datacenters-in-space-nvidia-hits-5-trillion-pnf",
-      "date": "2025-11-08T06:06:03.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "news",
-        "airevolution"
-      ],
-      "readTime": "2 min read",
       "priority": 2
     },
     {
