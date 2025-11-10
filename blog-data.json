@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-09T06:28:16.619Z",
+  "lastUpdated": "2025-11-10T06:33:20.172Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,63 @@
       "priority": 1
     },
     {
-      "title": "✅ Scenario #4 — Debugging with Ephemeral Debug Containers in Kubernetes",
-      "description": "Ephemeral containers let you attach a temporary debug container to a running Pod without restarting it. Create file nginx-ephemeral.yaml: apiVersion: ...",
-      "url": "https://dev.to/latchudevops/scenario-4-debugging-with-ephemeral-debug-containers-in-kubernetes-l76",
-      "date": "2025-11-09T06:09:31.000Z",
+      "title": "The Security Logic Behind LLM Jailbreaking",
+      "description": "You might wonder why an AI chatbot, designed to be safe and reliable, sometimes suddenly “goes rogue” and says things it shouldn’t. This is most likel...",
+      "url": "https://dev.to/rs_xxx_de5a22d80a9b371aee/the-security-logic-behind-llm-jailbreaking-3hb5",
+      "date": "2025-11-10T06:21:15.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "kubernetes",
-        "devops",
-        "cicd"
+        "ai",
+        "llm",
+        "jailbreak"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "How I Approach Building Component Systems",
+      "description": "How I Approach Building Component Systems “A component library is not about buttons. It’s about language—a shared grammar between design and engineeri...",
+      "url": "https://dev.to/meetaryzhikov/how-i-approach-building-component-systems-g9m",
+      "date": "2025-11-10T06:11:48.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "systemdesign",
+        "design",
+        "frontend"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Writing Unit Tests for My Open Source Project",
+      "description": "Writing unit tests is an essential practice for ensuring code quality, reliability, and maintainability. This week, I wrote test cases for my open sou...",
+      "url": "https://dev.to/denisc96/writing-unit-tests-for-my-open-source-project-33j3",
+      "date": "2025-11-10T06:10:04.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "programming",
+        "python",
+        "beginners"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "The Silent Killer of Your SaaS Growth",
-      "description": "The Silent Killer of Your SaaS Growth It was 3:17 PM on a Tuesday when the first cancellation email hit. Then another. And another. By Friday, you'd l...",
-      "url": "https://dev.to/tracksimple/the-silent-killer-of-your-saas-growth-3pg8",
-      "date": "2025-11-09T06:08:02.000Z",
+      "title": "Vibe Coding ++",
+      "description": "Originally published on my blog. The arrival of any new technology always creates two camps: those who embrace it and those who reject it. While voice...",
+      "url": "https://dev.to/peteralexbizjak/vibe-coding--bp3",
+      "date": "2025-11-10T06:08:09.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "guide",
-        "tracksimple",
-        "competitormonitoring"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "My new project: Coz.jp",
-      "description": "Hello, Dev Community! I'm excited to finally pull back the curtain on my latest side project: Coz.jp, a new link shortening service. While \"yet anothe...",
-      "url": "https://dev.to/danielpetrica/my-new-project-cozjp-45o",
-      "date": "2025-11-09T06:06:40.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "showdev",
         "webdev",
-        "programming"
+        "javascript",
+        "css"
       ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half",
-      "description": "4 ChatGPT Hacks that Cut My Workload in Half This video walks you through four killer techniques—Prompt Reversal, the 5-Minute Amplifier, the Red Team...",
-      "url": "https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-52i2",
-      "date": "2025-11-09T06:05:46.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "productivity",
-        "education"
-      ],
-      "readTime": "1 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
