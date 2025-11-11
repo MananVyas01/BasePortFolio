@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-10T06:33:20.172Z",
+  "lastUpdated": "2025-11-11T06:32:04.740Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,8 +8,8 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
@@ -73,63 +73,78 @@
       "priority": 1
     },
     {
-      "title": "The Security Logic Behind LLM Jailbreaking",
-      "description": "You might wonder why an AI chatbot, designed to be safe and reliable, sometimes suddenly “goes rogue” and says things it shouldn’t. This is most likel...",
-      "url": "https://dev.to/rs_xxx_de5a22d80a9b371aee/the-security-logic-behind-llm-jailbreaking-3hb5",
-      "date": "2025-11-10T06:21:15.000Z",
+      "title": "Getting started with Robotics",
+      "description": "You've probably seen a robot doing something cool. Maybe it's one of those automatic vacuum cleaners that somehow knows when you've spilt coffee on th...",
+      "url": "https://dev.to/nicanor_korir/getting-started-with-robotics-3f0g",
+      "date": "2025-11-11T06:24:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "llm",
-        "jailbreak"
+        "robotics",
+        "programming"
+      ],
+      "readTime": "8 min read",
+      "priority": 2
+    },
+    {
+      "title": "Risk Management in the Age of AI Trading Tools",
+      "description": "Artificial Intelligence (AI) has become one of the most transformative forces in modern finance. From high-frequency trading to real-time risk analysi...",
+      "url": "https://dev.to/globridge-tech/risk-management-in-the-age-of-ai-trading-tools-3lgo",
+      "date": "2025-11-11T06:19:55.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "fintech",
+        "aitrading",
+        "investing"
       ],
       "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "How I Approach Building Component Systems",
-      "description": "How I Approach Building Component Systems “A component library is not about buttons. It’s about language—a shared grammar between design and engineeri...",
-      "url": "https://dev.to/meetaryzhikov/how-i-approach-building-component-systems-g9m",
-      "date": "2025-11-10T06:11:48.000Z",
+      "title": "Unlocking Developer Revenue: The Future of AI Monetization with Monetzly",
+      "description": "Advertising is Evolving: Welcome to the Future of Conversation Commerce with Monetzly As AI applications continue to proliferate, one thing is clear: ...",
+      "url": "https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-47g1",
+      "date": "2025-11-11T06:19:48.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "systemdesign",
-        "design",
-        "frontend"
+        "ai",
+        "webdev",
+        "api"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Writing Unit Tests for My Open Source Project",
-      "description": "Writing unit tests is an essential practice for ensuring code quality, reliability, and maintainability. This week, I wrote test cases for my open sou...",
-      "url": "https://dev.to/denisc96/writing-unit-tests-for-my-open-source-project-33j3",
-      "date": "2025-11-10T06:10:04.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "programming",
-        "python",
-        "beginners"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Vibe Coding ++",
-      "description": "Originally published on my blog. The arrival of any new technology always creates two camps: those who embrace it and those who reject it. While voice...",
-      "url": "https://dev.to/peteralexbizjak/vibe-coding--bp3",
-      "date": "2025-11-10T06:08:09.000Z",
+      "title": "Skip the Cloud Setup: Expose Your Express.js App Securely from Localhost",
+      "description": "When you’re developing with Express.js, building and testing web applications locally feels effortless. Everything runs smoothly on localhost:3000, re...",
+      "url": "https://dev.to/lightningdev123/skip-the-cloud-setup-expose-your-expressjs-app-securely-from-localhost-24p8",
+      "date": "2025-11-11T06:16:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
         "javascript",
-        "css"
+        "pinggy"
       ],
       "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Headings: Semantics, Fluidity, and Styling — Oh My!",
+      "description": "A few links about headings that I've had stored under my top hat. Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CSS-Tric...",
+      "url": "https://css-tricks.com/headings-semantics-fluidity-and-styling-oh-my/",
+      "date": "2025-11-10T14:44:13.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "semantics",
+        "typography"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -233,21 +248,6 @@
         "articles",
         "rwd",
         "uiixdesign"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Pure CSS Tabs With Details, Grid, and Subgrid",
-      "description": "Can we use the element as the foundation for a tabbed interface? Why yes, we can! Pure CSS Tabs With Details, Grid, and Subgrid originally published o...",
-      "url": "https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/",
-      "date": "2025-10-27T14:33:17.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "grid",
-        "htmlelements"
       ],
       "readTime": "1 min read",
       "priority": 2
