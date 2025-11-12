@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-11T06:32:04.740Z",
+  "lastUpdated": "2025-11-12T06:31:57.400Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,8 +8,8 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
@@ -73,40 +73,25 @@
       "priority": 1
     },
     {
-      "title": "Getting started with Robotics",
-      "description": "You've probably seen a robot doing something cool. Maybe it's one of those automatic vacuum cleaners that somehow knows when you've spilt coffee on th...",
-      "url": "https://dev.to/nicanor_korir/getting-started-with-robotics-3f0g",
-      "date": "2025-11-11T06:24:31.000Z",
+      "title": "Phase Matters in Noisy Environments",
+      "description": "🎧 The Hidden Hero of Speech Enhancement: Why Phase Matters in Noisy Environments When we think about cleaning up a noisy audio recording — maybe a ph...",
+      "url": "https://dev.to/namanigandhi/phase-matters-in-noisy-environments-1k25",
+      "date": "2025-11-12T06:25:08.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "robotics",
-        "programming"
+        "dsp",
+        "webdev",
+        "javascript"
       ],
-      "readTime": "8 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Risk Management in the Age of AI Trading Tools",
-      "description": "Artificial Intelligence (AI) has become one of the most transformative forces in modern finance. From high-frequency trading to real-time risk analysi...",
-      "url": "https://dev.to/globridge-tech/risk-management-in-the-age-of-ai-trading-tools-3lgo",
-      "date": "2025-11-11T06:19:55.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "fintech",
-        "aitrading",
-        "investing"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "Unlocking Developer Revenue: The Future of AI Monetization with Monetzly",
-      "description": "Advertising is Evolving: Welcome to the Future of Conversation Commerce with Monetzly As AI applications continue to proliferate, one thing is clear: ...",
-      "url": "https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-47g1",
-      "date": "2025-11-11T06:19:48.000Z",
+      "title": "Boost Developer Revenue with Monetzly’s AI Conversation API",
+      "description": "How We Built Ad Injection That Users Actually Appreciate: The Engineering Behind Monetization with Monetzly In a world where AI applications are proli...",
+      "url": "https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-api-3blc",
+      "date": "2025-11-12T06:19:43.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -118,18 +103,48 @@
       "priority": 2
     },
     {
-      "title": "Skip the Cloud Setup: Expose Your Express.js App Securely from Localhost",
-      "description": "When you’re developing with Express.js, building and testing web applications locally feels effortless. Everything runs smoothly on localhost:3000, re...",
-      "url": "https://dev.to/lightningdev123/skip-the-cloud-setup-expose-your-expressjs-app-securely-from-localhost-24p8",
-      "date": "2025-11-11T06:16:23.000Z",
+      "title": "Fire‑, Heat‑ and Stain‑Resistance of KKR Solid Surface: Performance Review",
+      "description": "Introduction KKR Solid Surface has become a popular choice for modern kitchens, bathrooms, and commercial spaces due to its durability and elegant app...",
+      "url": "https://dev.to/guest-post/fire-heat-and-stain-resistance-of-kkr-solid-surface-performance-review-4nlh",
+      "date": "2025-11-12T06:13:48.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
         "javascript",
-        "pinggy"
+        "css"
       ],
-      "readTime": "5 min read",
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "A Dreamy Developer Finding Where I Belong",
+      "description": "When I Didn’t Know Who I Was Lately, I’ve been revisiting my old writings. Some are from five years ago, lost among half-finished ideas. Some I never ...",
+      "url": "https://dev.to/huynhnhanquoc/a-dreamy-developer-finding-where-i-belong-5bkh",
+      "date": "2025-11-12T06:11:25.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "programming",
+        "opensource",
+        "indiedeveloper"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Effectively Monitoring Web Performance",
+      "description": "There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign=sm-10). But ev...",
+      "url": "https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/",
+      "date": "2025-11-11T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -218,21 +233,6 @@
         "articles",
         "cssfunctions",
         "math"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
-      "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the ...",
-      "url": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
-      "date": "2025-10-31T12:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
