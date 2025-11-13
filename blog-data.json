@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-12T06:31:57.400Z",
+  "lastUpdated": "2025-11-13T06:31:57.214Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,20 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How Copilot helps build the GitHub platform",
+      "description": "A breakdown of how Copilot coding agent has contributed to a better, more powerful GitHub. The post How Copilot helps build the GitHub platform appear...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-copilot-helps-build-the-github-platform/",
+      "date": "2025-11-12T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "What 986 million code pushes say about the developer workflow in 2025",
       "description": "Nearly a billion commits later, the way we ship code has changed for good. Here’s what the 2025 Octoverse data says about how devs really work now. Th...",
@@ -59,77 +73,63 @@
       "priority": 1
     },
     {
-      "title": "GitHub Copilot tutorial: How to build, test, review, and ship code faster (with ",
-      "description": "How GitHub Copilot works today—including mission control—and how to get the most out of it. Here’s what you need to know. The post GitHub Copilot tuto...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/a-developers-guide-to-writing-debugging-reviewing-and-shipping-code-faster-with-github-copilot/",
-      "date": "2025-11-05T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Phase Matters in Noisy Environments",
-      "description": "🎧 The Hidden Hero of Speech Enhancement: Why Phase Matters in Noisy Environments When we think about cleaning up a noisy audio recording — maybe a ph...",
-      "url": "https://dev.to/namanigandhi/phase-matters-in-noisy-environments-1k25",
-      "date": "2025-11-12T06:25:08.000Z",
+      "title": "Understanding AI Agents: Compilers of Human Intent",
+      "description": "The more I read about AI agents, the more a pattern starts to emerge. Different papers, frameworks, and prototypes all describe them in different ways...",
+      "url": "https://dev.to/sandeep_sharma_2c6860616f/understanding-ai-agents-compilers-of-human-intent-5834",
+      "date": "2025-11-13T06:25:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "dsp",
-        "webdev",
-        "javascript"
+        "agenticai",
+        "aiagents",
+        "llm"
       ],
-      "readTime": "3 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Boost Developer Revenue with Monetzly’s AI Conversation API",
-      "description": "How We Built Ad Injection That Users Actually Appreciate: The Engineering Behind Monetization with Monetzly In a world where AI applications are proli...",
-      "url": "https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-api-3blc",
-      "date": "2025-11-12T06:19:43.000Z",
+      "title": "Is AI Really Dangerous or Is It a Myth? Separating Facts from Fear",
+      "description": "When artificial intelligence hit the mainstream spotlight, it came with two competing narratives: one painted AI as humanity's greatest threat, while ...",
+      "url": "https://dev.to/sagar_sajwan_a91beb41c861/is-ai-really-dangerous-or-is-it-a-myth-separating-facts-from-fear-in-2025-f5e",
+      "date": "2025-11-13T06:20:43.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "webdev",
-        "api"
+        "cybersecurity",
+        "webdev"
       ],
-      "readTime": "3 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Fire‑, Heat‑ and Stain‑Resistance of KKR Solid Surface: Performance Review",
-      "description": "Introduction KKR Solid Surface has become a popular choice for modern kitchens, bathrooms, and commercial spaces due to its durability and elegant app...",
-      "url": "https://dev.to/guest-post/fire-heat-and-stain-resistance-of-kkr-solid-surface-performance-review-4nlh",
-      "date": "2025-11-12T06:13:48.000Z",
+      "title": "Cloud vs On-Premise Warranty Management Systems:- Which Is Better in 2025?",
+      "description": "Imagine a warranty claim stuck between spreadsheets, emails, and physical copies. The technician can’t trace its status, the manager has no insight, a...",
+      "url": "https://dev.to/digiwarr/cloud-vs-on-premise-warranty-management-systems-which-is-better-in-2025-l0k",
+      "date": "2025-11-13T06:19:17.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "software",
+        "learning",
+        "webdev"
       ],
-      "readTime": "3 min read",
+      "readTime": "8 min read",
       "priority": 2
     },
     {
-      "title": "A Dreamy Developer Finding Where I Belong",
-      "description": "When I Didn’t Know Who I Was Lately, I’ve been revisiting my old writings. Some are from five years ago, lost among half-finished ideas. Some I never ...",
-      "url": "https://dev.to/huynhnhanquoc/a-dreamy-developer-finding-where-i-belong-5bkh",
-      "date": "2025-11-12T06:11:25.000Z",
+      "title": "Efficient S3 File Uploads: Speed & Large File Handling in NestJS",
+      "description": "Uploading files efficiently to S3 isn't just about getting data from point A to point B—it's about doing it fast, reliably, and at scale. Whether you'...",
+      "url": "https://dev.to/adamthedeveloper/efficient-s3-file-uploads-speed-large-file-handling-in-nestjs-31a4",
+      "date": "2025-11-13T06:19:14.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "programming",
-        "opensource",
-        "indiedeveloper"
+        "aws",
+        "backend",
+        "typescript"
       ],
-      "readTime": "4 min read",
+      "readTime": "19 min read",
       "priority": 2
     },
     {
