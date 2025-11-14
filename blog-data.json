@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-13T06:31:57.214Z",
+  "lastUpdated": "2025-11-14T06:31:48.377Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,41 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "GitHub Availability Report: October 2025",
+      "description": "In October, we experienced four incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: October 2...",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2025/",
+      "date": "2025-11-13T17:28:48.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "companynews",
+        "newsinsights",
+        "githubavailabilityreport"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "TypeScript, Python, and the AI feedback loop changing software development",
+      "description": "An interview with the leader of GitHub Next, Idan Gazit, on TypeScript, Python, and what comes next. The post TypeScript, Python, and the AI feedback ...",
+      "url": "https://github.blog/news-insights/octoverse/typescript-python-and-the-ai-feedback-loop-changing-software-development/",
+      "date": "2025-11-13T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "newsinsights",
+        "octoverse",
+        "agents"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How Copilot helps build the GitHub platform",
       "description": "A breakdown of how Copilot coding agent has contributed to a better, more powerful GitHub. The post How Copilot helps build the GitHub platform appear...",
@@ -43,93 +73,93 @@
       "priority": 1
     },
     {
-      "title": "GitHub Copilot CLI 101: How to use GitHub Copilot from the command line",
-      "description": "Curious about using GitHub Copilot in your terminal? Here's our guide to GitHub Copilot CLI, including a starter kit with the best prompts for a wide ...",
-      "url": "https://github.blog/ai-and-ml/github-copilot-cli-101-how-to-use-github-copilot-from-the-command-line/",
-      "date": "2025-11-06T20:30:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "agenticworkflows"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "TypeScript’s rise in the AI era: Insights from Lead Architect, Anders Hejlsberg",
-      "description": "TypeScript just became the most-used language on GitHub. Here’s why, according to its creator. The post TypeScript’s rise in the AI era: Insights from...",
-      "url": "https://github.blog/developer-skills/programming-languages-and-frameworks/typescripts-rise-in-the-ai-era-insights-from-lead-architect-anders-hejlsberg/",
-      "date": "2025-11-06T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "developerskills",
-        "programminglanguagesframeworks",
-        "octoverse"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Understanding AI Agents: Compilers of Human Intent",
-      "description": "The more I read about AI agents, the more a pattern starts to emerge. Different papers, frameworks, and prototypes all describe them in different ways...",
-      "url": "https://dev.to/sandeep_sharma_2c6860616f/understanding-ai-agents-compilers-of-human-intent-5834",
-      "date": "2025-11-13T06:25:23.000Z",
+      "title": "Android::Bluetooth",
+      "description": "Bluetooth BLE BLE: Bluetooth Low Energy (=Bluetooth LE) RFCOMM: 블루투스 프로토콜 RFCOMM (TCP 사용), Radio Frequency Communications 하위에서 L2CAP을 사용, TCP/IP 서비스 L...",
+      "url": "https://dev.to/minwook/androidbluetooth-1b8m",
+      "date": "2025-11-14T06:19:41.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "agenticai",
-        "aiagents",
-        "llm"
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Rekichizu: A Modern Take on Japan's Historical Maps",
+      "description": "Rekichizu is a website where you can view historical maps with modern map design. Currently, maps from the late Edo period (around 1800-1840) are publ...",
+      "url": "https://dev.to/mierune/rekichizu-a-modern-take-on-japans-historical-maps-53gp",
+      "date": "2025-11-14T06:15:35.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "data",
+        "showdev",
+        "opensource"
+      ],
+      "readTime": "12 min read",
+      "priority": 2
+    },
+    {
+      "title": "📝 React Router Data APIs — The Complete Beginner-Friendly Guide (2025 Edition)",
+      "description": "A practical, real-world guide to loaders, actions, fetchers, nested routes, revalidation & more. Modern React applications need more than just routing...",
+      "url": "https://dev.to/vishwark/react-router-data-apis-the-complete-beginner-friendly-guide-2025-edition-46cn",
+      "date": "2025-11-14T06:10:42.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "react",
+        "reactnative"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "How to Choose Right Test Management Platform",
+      "description": "Selecting the right test management platform is a strategic move for any organization aiming to boost software quality and operational efficiency. The...",
+      "url": "https://dev.to/testsigma_3090ec39824cd9d/how-to-choose-right-test-management-platform-11nb",
+      "date": "2025-11-14T06:02:34.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "testmanagementplatform",
+        "testmanagement",
+        "testing"
       ],
       "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Is AI Really Dangerous or Is It a Myth? Separating Facts from Fear",
-      "description": "When artificial intelligence hit the mainstream spotlight, it came with two competing narratives: one painted AI as humanity's greatest threat, while ...",
-      "url": "https://dev.to/sagar_sajwan_a91beb41c861/is-ai-really-dangerous-or-is-it-a-myth-separating-facts-from-fear-in-2025-f5e",
-      "date": "2025-11-13T06:20:43.000Z",
+      "title": "The Range Syntax Has Come to Container Style Queries and if()",
+      "description": "Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric...",
+      "url": "https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/",
+      "date": "2025-11-13T15:00:20.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "ai",
-        "cybersecurity",
-        "webdev"
+        "articles",
+        "containerqueries",
+        "cssfunctions"
       ],
-      "readTime": "6 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Cloud vs On-Premise Warranty Management Systems:- Which Is Better in 2025?",
-      "description": "Imagine a warranty claim stuck between spreadsheets, emails, and physical copies. The technician can’t trace its status, the manager has no insight, a...",
-      "url": "https://dev.to/digiwarr/cloud-vs-on-premise-warranty-management-systems-which-is-better-in-2025-l0k",
-      "date": "2025-11-13T06:19:17.000Z",
+      "title": "Older Tech In The Browser Stack",
+      "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new...",
+      "url": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
+      "date": "2025-11-13T08:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
-        "software",
-        "learning",
-        "webdev"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "8 min read",
-      "priority": 2
-    },
-    {
-      "title": "Efficient S3 File Uploads: Speed & Large File Handling in NestJS",
-      "description": "Uploading files efficiently to S3 isn't just about getting data from point A to point B—it's about doing it fast, reliably, and at scale. Whether you'...",
-      "url": "https://dev.to/adamthedeveloper/efficient-s3-file-uploads-speed-large-file-handling-in-nestjs-31a4",
-      "date": "2025-11-13T06:19:14.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "aws",
-        "backend",
-        "typescript"
-      ],
-      "readTime": "19 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -208,21 +238,6 @@
       "priority": 2
     },
     {
-      "title": "How To Leverage Component Variants In Penpot",
-      "description": "With component variants, design systems become more flexible, letting you reuse the same component while adapting its look or state with ease. In this...",
-      "url": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
-      "date": "2025-11-04T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "The “Most Hated” CSS Feature: tan()",
       "description": "Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature. That ...",
       "url": "https://css-tricks.com/the-most-hated-css-feature-tan/",
@@ -233,21 +248,6 @@
         "articles",
         "cssfunctions",
         "math"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Getting Creative With Small Screens",
-      "description": "On mobile, people can lose their sense of context and can’t easily tell where a section begins or ends. Good small-screen design can help orient them ...",
-      "url": "https://css-tricks.com/getting-creative-with-small-screens/",
-      "date": "2025-10-29T16:22:28.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "rwd",
-        "uiixdesign"
       ],
       "readTime": "1 min read",
       "priority": 2
