@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-14T06:31:48.377Z",
+  "lastUpdated": "2025-11-15T06:28:38.532Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Unlocking the full power of Copilot code review: Master your instructions files",
+      "description": "Discover practical tips, examples, and best practices for writing effective instructions files. Whether you’re new or experienced, you’ll find somethi...",
+      "url": "https://github.blog/ai-and-ml/unlocking-the-full-power-of-copilot-code-review-master-your-instructions-files/",
+      "date": "2025-11-14T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "githubcopilotcodereview"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "GitHub Availability Report: October 2025",
       "description": "In October, we experienced four incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: October 2...",
@@ -58,25 +73,40 @@
       "priority": 1
     },
     {
-      "title": "What 986 million code pushes say about the developer workflow in 2025",
-      "description": "Nearly a billion commits later, the way we ship code has changed for good. Here’s what the 2025 Octoverse data says about how devs really work now. Th...",
-      "url": "https://github.blog/news-insights/octoverse/what-986-million-code-pushes-say-about-the-developer-workflow-in-2025/",
-      "date": "2025-11-07T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "How Monetzly Enables Profitable SDK Integration for AI Developers",
+      "description": "What If Your AI App Could Generate Revenue in Two Ways Simultaneously? Imagine a world where your AI application not only provides users with valuable...",
+      "url": "https://dev.to/monetzly/how-monetzly-enables-profitable-sdk-integration-for-ai-developers-1lkg",
+      "date": "2025-11-15T06:17:50.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "newsinsights",
-        "octoverse",
-        "agenticworkflows"
+        "ai",
+        "webdev",
+        "api"
       ],
-      "readTime": "1 min read",
-      "priority": 1
+      "readTime": "3 min read",
+      "priority": 2
     },
     {
-      "title": "Android::Bluetooth",
-      "description": "Bluetooth BLE BLE: Bluetooth Low Energy (=Bluetooth LE) RFCOMM: 블루투스 프로토콜 RFCOMM (TCP 사용), Radio Frequency Communications 하위에서 L2CAP을 사용, TCP/IP 서비스 L...",
-      "url": "https://dev.to/minwook/androidbluetooth-1b8m",
-      "date": "2025-11-14T06:19:41.000Z",
+      "title": "**Technical AI Governance Challenge:**",
+      "description": "Technical AI Governance Challenge: You are a senior data scientist at a leading online music streaming company, with over 200 million users worldwide....",
+      "url": "https://dev.to/drcarlosruizviquez/technical-ai-governance-challenge-cdm",
+      "date": "2025-11-15T06:17:47.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "compliance",
+        "pld"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "5 Essential Array Methods Every JavaScript Developer Must Know",
+      "description": "What is a method? A method is just a function inside an object, Now we are going to see some of the most frequently used built-in methods in JavaScrip...",
+      "url": "https://dev.to/manikandan_a8f99e0153ef77/5-essential-array-methods-every-javascript-developer-must-know-3h0p",
+      "date": "2025-11-15T06:12:58.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -84,52 +114,52 @@
         "javascript",
         "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Rekichizu: A Modern Take on Japan's Historical Maps",
-      "description": "Rekichizu is a website where you can view historical maps with modern map design. Currently, maps from the late Edo period (around 1800-1840) are publ...",
-      "url": "https://dev.to/mierune/rekichizu-a-modern-take-on-japans-historical-maps-53gp",
-      "date": "2025-11-14T06:15:35.000Z",
+      "title": "Rick Beato: Jahari Stampley... I've Never Heard Playing Like This!",
+      "description": "Jahari Stampley walks us through his unlikely journey from eager student to champion of the Herbie Hancock Institute of Jazz Piano Competition, blendi...",
+      "url": "https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4iog",
+      "date": "2025-11-15T06:07:21.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "data",
-        "showdev",
-        "opensource"
+        "indie",
+        "production",
+        "webdev"
       ],
-      "readTime": "12 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "📝 React Router Data APIs — The Complete Beginner-Friendly Guide (2025 Edition)",
-      "description": "A practical, real-world guide to loaders, actions, fetchers, nested routes, revalidation & more. Modern React applications need more than just routing...",
-      "url": "https://dev.to/vishwark/react-router-data-apis-the-complete-beginner-friendly-guide-2025-edition-46cn",
-      "date": "2025-11-14T06:10:42.000Z",
+      "title": "Quiet UI Came and Went, Quiet as a Mouse",
+      "description": "The extremely new framework that caught lots of attention will continue as a personal project. Quiet UI Came and Went, Quiet as a Mouse originally pub...",
+      "url": "https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/",
+      "date": "2025-11-14T15:32:50.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
+      "tags": [
+        "links",
+        "framework",
+        "webcomponents"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "CSS Gamepad API Visual Debugging With CSS Layers",
+      "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own p...",
+      "url": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
+      "date": "2025-11-14T13:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
-        "react",
-        "reactnative"
+        "javascript",
+        "css"
       ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "How to Choose Right Test Management Platform",
-      "description": "Selecting the right test management platform is a strategic move for any organization aiming to boost software quality and operational efficiency. The...",
-      "url": "https://dev.to/testsigma_3090ec39824cd9d/how-to-choose-right-test-management-platform-11nb",
-      "date": "2025-11-14T06:02:34.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "testmanagementplatform",
-        "testmanagement",
-        "testing"
-      ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -218,36 +248,6 @@
         "articles",
         "accessibility",
         "semantics"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Six Key Components of UX Strategy",
-      "description": "Let’s dive into the building blocks of UX strategy and see how it speaks the language of product and business strategy to create user value while achi...",
-      "url": "https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/",
-      "date": "2025-11-05T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "The “Most Hated” CSS Feature: tan()",
-      "description": "Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature. That ...",
-      "url": "https://css-tricks.com/the-most-hated-css-feature-tan/",
-      "date": "2025-11-03T16:03:08.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "cssfunctions",
-        "math"
       ],
       "readTime": "1 min read",
       "priority": 2
