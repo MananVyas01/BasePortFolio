@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-15T06:28:38.532Z",
+  "lastUpdated": "2025-11-16T06:29:27.153Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,61 +73,61 @@
       "priority": 1
     },
     {
-      "title": "How Monetzly Enables Profitable SDK Integration for AI Developers",
-      "description": "What If Your AI App Could Generate Revenue in Two Ways Simultaneously? Imagine a world where your AI application not only provides users with valuable...",
-      "url": "https://dev.to/monetzly/how-monetzly-enables-profitable-sdk-integration-for-ai-developers-1lkg",
-      "date": "2025-11-15T06:17:50.000Z",
+      "title": "What's the use of Intermediate models in Django (Many to Many Relationship)",
+      "description": "The Many-to-Many relationship is a cornerstone of database design, but what happens when you need to store extra data about that relationship? Standar...",
+      "url": "https://dev.to/guzmanojero/whats-the-use-of-intermediate-models-in-django-many-to-many-relationship-40li",
+      "date": "2025-11-16T06:23:34.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "python",
+        "django",
+        "database"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "How to Compare Chatbot Platforms for Your Business",
+      "description": "So, you're looking to get a chatbot for your business, huh? It’s a smart move, but with so many options out there, figuring out which one is the best ...",
+      "url": "https://dev.to/chatboqai/how-to-compare-chatbot-platforms-for-your-business-3n2n",
+      "date": "2025-11-16T06:03:32.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "webdev",
-        "api"
+        "chatbots",
+        "business"
       ],
-      "readTime": "3 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "**Technical AI Governance Challenge:**",
-      "description": "Technical AI Governance Challenge: You are a senior data scientist at a leading online music streaming company, with over 200 million users worldwide....",
-      "url": "https://dev.to/drcarlosruizviquez/technical-ai-governance-challenge-cdm",
-      "date": "2025-11-15T06:17:47.000Z",
+      "title": "Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | ",
+      "description": "‘Snake Eyes’ Rewatch with Bill, Sean & Van The Ringer’s Bill Simmons, Sean Fennessey and Van Lathan dive back into Brian De Palma’s neon-drenched thri...",
+      "url": "https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-59gf",
+      "date": "2025-11-16T06:00:35.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "compliance",
-        "pld"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "5 Essential Array Methods Every JavaScript Developer Must Know",
-      "description": "What is a method? A method is just a function inside an object, Now we are going to see some of the most frequently used built-in methods in JavaScrip...",
-      "url": "https://dev.to/manikandan_a8f99e0153ef77/5-essential-array-methods-every-javascript-developer-must-know-3h0p",
-      "date": "2025-11-15T06:12:58.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "movies",
+        "marketing",
+        "reviews"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Rick Beato: Jahari Stampley... I've Never Heard Playing Like This!",
-      "description": "Jahari Stampley walks us through his unlikely journey from eager student to champion of the Herbie Hancock Institute of Jazz Piano Competition, blendi...",
-      "url": "https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4iog",
-      "date": "2025-11-15T06:07:21.000Z",
+      "title": "CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less",
+      "description": "CinemaSins’ latest video, “Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less,” rips into every cheesy dino revival and plot hiccup wi...",
+      "url": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1ad9",
+      "date": "2025-11-16T06:00:11.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "indie",
-        "production",
-        "webdev"
+        "movies",
+        "reviews",
+        "streaming"
       ],
       "readTime": "1 min read",
       "priority": 2
