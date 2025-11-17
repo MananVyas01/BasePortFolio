@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-16T06:29:27.153Z",
+  "lastUpdated": "2025-11-17T06:32:29.273Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,63 @@
       "priority": 1
     },
     {
-      "title": "What's the use of Intermediate models in Django (Many to Many Relationship)",
-      "description": "The Many-to-Many relationship is a cornerstone of database design, but what happens when you need to store extra data about that relationship? Standar...",
-      "url": "https://dev.to/guzmanojero/whats-the-use-of-intermediate-models-in-django-many-to-many-relationship-40li",
-      "date": "2025-11-16T06:23:34.000Z",
+      "title": "When React’s Philosophy Isn’t Enough and Data Attributes Save the Day",
+      "description": "The Data-Attr Dilemma : Data attributes can be incredibly useful, but in React they often feel like they go against the framework’s core patterns and ...",
+      "url": "https://dev.to/mrezanahi_f133292cb4695d/when-reacts-philosophy-isnt-enough-and-data-attributes-save-the-day-5dpi",
+      "date": "2025-11-17T06:24:25.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "django",
-        "database"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "How to Compare Chatbot Platforms for Your Business",
-      "description": "So, you're looking to get a chatbot for your business, huh? It’s a smart move, but with so many options out there, figuring out which one is the best ...",
-      "url": "https://dev.to/chatboqai/how-to-compare-chatbot-platforms-for-your-business-3n2n",
-      "date": "2025-11-16T06:03:32.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "chatbots",
-        "business"
+        "react",
+        "html",
+        "javascript"
       ],
       "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | ",
-      "description": "‘Snake Eyes’ Rewatch with Bill, Sean & Van The Ringer’s Bill Simmons, Sean Fennessey and Van Lathan dive back into Brian De Palma’s neon-drenched thri...",
-      "url": "https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-59gf",
-      "date": "2025-11-16T06:00:35.000Z",
+      "title": "Building a Production-Ready AI ChatBot Platform with Real-Time Analytics",
+      "description": "🎯 Introduction In this article, I'll walk you through the architecture and implementation of a complete, production-ready AI chatbot platform that I'...",
+      "url": "https://dev.to/vivekyadav200988/building-a-production-ready-ai-chatbot-platform-with-real-time-analytics-4ioe",
+      "date": "2025-11-17T06:23:11.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "movies",
-        "marketing",
-        "reviews"
+        "openai",
+        "ai",
+        "oauth"
       ],
-      "readTime": "1 min read",
+      "readTime": "29 min read",
       "priority": 2
     },
     {
-      "title": "CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less",
-      "description": "CinemaSins’ latest video, “Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less,” rips into every cheesy dino revival and plot hiccup wi...",
-      "url": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1ad9",
-      "date": "2025-11-16T06:00:11.000Z",
+      "title": "From Specs to Spooky: Using Kiro to Build My AI Psychic Hotline",
+      "description": "For a Halloween-themed hackathon, I decided to build AI Psychic Hotline – a web app where you choose a “realm,” ask a question, the system draws tarot...",
+      "url": "https://dev.to/hulyamasharipov/from-specs-to-spooky-using-kiro-to-build-my-ai-psychic-hotline-3552",
+      "date": "2025-11-17T06:18:32.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "movies",
-        "reviews",
-        "streaming"
+        "kiro",
+        "kiroween",
+        "ai"
       ],
-      "readTime": "1 min read",
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "Pagination in flutter",
+      "description": "Pagination in Flutter Step by Step Pagination is the process of loading data in chunks, rather than fetching the full dataset at once. This is essenti...",
+      "url": "https://dev.to/niranjantk_8a74072f217dbe/pagination-in-flutter-34pk",
+      "date": "2025-11-17T06:15:14.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "flutter",
+        "performance",
+        "tutorial"
+      ],
+      "readTime": "5 min read",
       "priority": 2
     },
     {
