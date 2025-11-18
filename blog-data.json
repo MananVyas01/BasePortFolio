@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-17T06:32:29.273Z",
+  "lastUpdated": "2025-11-18T06:31:08.361Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,20 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Highlights from Git 2.52",
+      "description": "The open source Git project just released Git 2.52. Here is GitHub’s look at some of the most interesting features and changes introduced since last t...",
+      "url": "https://github.blog/open-source/git/highlights-from-git-2-52/",
+      "date": "2025-11-17T17:54:31.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "git",
+        "opensource"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Unlocking the full power of Copilot code review: Master your instructions files",
       "description": "Discover practical tips, examples, and best practices for writing effective instructions files. Whether you’re new or experienced, you’ll find somethi...",
@@ -59,77 +73,78 @@
       "priority": 1
     },
     {
-      "title": "How Copilot helps build the GitHub platform",
-      "description": "A breakdown of how Copilot coding agent has contributed to a better, more powerful GitHub. The post How Copilot helps build the GitHub platform appear...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-copilot-helps-build-the-github-platform/",
-      "date": "2025-11-12T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "When React’s Philosophy Isn’t Enough and Data Attributes Save the Day",
-      "description": "The Data-Attr Dilemma : Data attributes can be incredibly useful, but in React they often feel like they go against the framework’s core patterns and ...",
-      "url": "https://dev.to/mrezanahi_f133292cb4695d/when-reacts-philosophy-isnt-enough-and-data-attributes-save-the-day-5dpi",
-      "date": "2025-11-17T06:24:25.000Z",
+      "title": "I Learned React Wrong for 3 Months. Here's What I Wish I Knew on Day 1",
+      "description": "I spent 3 months learning React. Built 4 projects. Felt confident. Then got destroyed in my first code review. \"Why are you doing it like this?\" \"This...",
+      "url": "https://dev.to/sahil_sahu/i-learned-react-wrong-for-3-months-heres-what-i-wish-i-knew-on-day-1-hcp",
+      "date": "2025-11-18T06:23:24.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "react",
-        "html",
-        "javascript"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "Building a Production-Ready AI ChatBot Platform with Real-Time Analytics",
-      "description": "🎯 Introduction In this article, I'll walk you through the architecture and implementation of a complete, production-ready AI chatbot platform that I'...",
-      "url": "https://dev.to/vivekyadav200988/building-a-production-ready-ai-chatbot-platform-with-real-time-analytics-4ioe",
-      "date": "2025-11-17T06:23:11.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "openai",
+        "webdev",
         "ai",
-        "oauth"
-      ],
-      "readTime": "29 min read",
-      "priority": 2
-    },
-    {
-      "title": "From Specs to Spooky: Using Kiro to Build My AI Psychic Hotline",
-      "description": "For a Halloween-themed hackathon, I decided to build AI Psychic Hotline – a web app where you choose a “realm,” ask a question, the system draws tarot...",
-      "url": "https://dev.to/hulyamasharipov/from-specs-to-spooky-using-kiro-to-build-my-ai-psychic-hotline-3552",
-      "date": "2025-11-17T06:18:32.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "kiro",
-        "kiroween",
-        "ai"
-      ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "Pagination in flutter",
-      "description": "Pagination in Flutter Step by Step Pagination is the process of loading data in chunks, rather than fetching the full dataset at once. This is essenti...",
-      "url": "https://dev.to/niranjantk_8a74072f217dbe/pagination-in-flutter-34pk",
-      "date": "2025-11-17T06:15:14.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "flutter",
-        "performance",
-        "tutorial"
+        "programming"
       ],
       "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "# What Exactly Is a Computer Port, What Can Be Found There, and How to See All E",
+      "description": "A Computer Port Defined A computer port is a physical or virtual interface that enables data to flow between a computer and external devices, or betwe...",
+      "url": "https://dev.to/somadinag/-what-exactly-is-a-computer-port-what-can-be-found-there-and-how-to-see-all-existing-ports-of-a-2426",
+      "date": "2025-11-18T06:10:52.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "linux",
+        "webdev",
+        "javascript"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Rick Beato: Jahari Stampley... I've Never Heard Playing Like This!",
+      "description": "Jahari Stampley takes us behind the scenes of his rise to the cutting edge of improvisational jazz piano, from his big win at the Herbie Hancock Insti...",
+      "url": "https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4i7l",
+      "date": "2025-11-18T06:09:53.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "indie",
+        "production",
+        "diy"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "How to Reduce Errors in Voice Typing: Master the Art of Accurate Dictation",
+      "description": "Have you ever struggled with frustrating voice typing errors that turned your carefully planned message into gibberish? You're not alone. Voice-to-tex...",
+      "url": "https://dev.to/kirat_singh_6067798d492cf/how-to-reduce-errors-in-voice-typing-master-the-art-of-accurate-dictation-3ii4",
+      "date": "2025-11-18T06:09:13.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "voicetonotes"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
+      "description": "If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric fun...",
+      "url": "https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/",
+      "date": "2025-11-17T14:47:54.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "math",
+        "webdev"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -233,21 +248,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Explaining the Accessible Benefits of Using Semantic HTML Elements",
-      "description": "Why should you use a semantic instead of a generic ? Accessibility, right? By how exactly does it help accessibility? Explaining the Accessible Benefi...",
-      "url": "https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/",
-      "date": "2025-11-06T15:57:49.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "accessibility",
-        "semantics"
       ],
       "readTime": "1 min read",
       "priority": 2
