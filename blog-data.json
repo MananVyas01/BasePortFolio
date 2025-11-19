@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-18T06:31:08.361Z",
+  "lastUpdated": "2025-11-19T06:31:23.867Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Level up design-to-code collaboration with GitHub’s open source Annotation Toolk",
+      "description": "Prevent accessibility issues before they reach production. The Annotation Toolkit brings clarity, compliance, and collaboration directly into your Fig...",
+      "url": "https://github.blog/enterprise-software/collaboration/level-up-design-to-code-collaboration-with-githubs-open-source-annotation-toolkit/",
+      "date": "2025-11-18T18:05:17.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "collaboration",
+        "enterprisesoftware",
+        "annotationtoolkit"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Highlights from Git 2.52",
       "description": "The open source Git project just released Git 2.52. Here is GitHub’s look at some of the most interesting features and changes introduced since last t...",
@@ -58,78 +73,74 @@
       "priority": 1
     },
     {
-      "title": "TypeScript, Python, and the AI feedback loop changing software development",
-      "description": "An interview with the leader of GitHub Next, Idan Gazit, on TypeScript, Python, and what comes next. The post TypeScript, Python, and the AI feedback ...",
-      "url": "https://github.blog/news-insights/octoverse/typescript-python-and-the-ai-feedback-loop-changing-software-development/",
-      "date": "2025-11-13T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "newsinsights",
-        "octoverse",
-        "agents"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "I Learned React Wrong for 3 Months. Here's What I Wish I Knew on Day 1",
-      "description": "I spent 3 months learning React. Built 4 projects. Felt confident. Then got destroyed in my first code review. \"Why are you doing it like this?\" \"This...",
-      "url": "https://dev.to/sahil_sahu/i-learned-react-wrong-for-3-months-heres-what-i-wish-i-knew-on-day-1-hcp",
-      "date": "2025-11-18T06:23:24.000Z",
+      "title": "Leaders – Wake Up and Smell the Coffee",
+      "description": "Exposing the undervaluation crisis The bid and proposal profession is in crisis. Not because it lacks expertise, but because it remains widely misunde...",
+      "url": "https://dev.to/bid_solution/leaders-wake-up-and-smell-the-coffee-1laf",
+      "date": "2025-11-19T06:13:24.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "ai",
-        "programming"
+        "career",
+        "leadership",
+        "management"
       ],
-      "readTime": "5 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "# What Exactly Is a Computer Port, What Can Be Found There, and How to See All E",
-      "description": "A Computer Port Defined A computer port is a physical or virtual interface that enables data to flow between a computer and external devices, or betwe...",
-      "url": "https://dev.to/somadinag/-what-exactly-is-a-computer-port-what-can-be-found-there-and-how-to-see-all-existing-ports-of-a-2426",
-      "date": "2025-11-18T06:10:52.000Z",
+      "title": "When I Grow Up, I Want to Be a Bid Writer!",
+      "description": "The origins of procurement date to around 3,000 BC when Egyptians were scribing orders for the two million limestone and granite blocks needed to buil...",
+      "url": "https://dev.to/bid_solution/when-i-grow-up-i-want-to-be-a-bid-writer-59j7",
+      "date": "2025-11-19T06:08:12.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "linux",
-        "webdev",
-        "javascript"
+        "career",
+        "discuss",
+        "writing"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Rick Beato: Jahari Stampley... I've Never Heard Playing Like This!",
-      "description": "Jahari Stampley takes us behind the scenes of his rise to the cutting edge of improvisational jazz piano, from his big win at the Herbie Hancock Insti...",
-      "url": "https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4i7l",
-      "date": "2025-11-18T06:09:53.000Z",
+      "title": "コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選",
+      "description": "はじめに 開発ツールの月額料金、気づいたら結構な金額になっていませんか？Postman、GitHub、Notion...便利なツールほど、チーム規模が大きくなると課金額も膨らんでいきます。 実は今、そんな商用ツールに匹敵する、いやそれ以上の機能を持つオープンソース代替が続々と登場しています。しかも、...",
+      "url": "https://dev.to/nakamura_takuya/kosutoxue-jian-tozi-you-du-atupushang-yong-turukaraopunsosuhenocheng-rihuan-e15xuan-d11",
+      "date": "2025-11-19T06:03:28.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
-      "tags": [
-        "indie",
-        "production",
-        "diy"
-      ],
+      "tags": [],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "How to Reduce Errors in Voice Typing: Master the Art of Accurate Dictation",
-      "description": "Have you ever struggled with frustrating voice typing errors that turned your carefully planned message into gibberish? You're not alone. Voice-to-tex...",
-      "url": "https://dev.to/kirat_singh_6067798d492cf/how-to-reduce-errors-in-voice-typing-master-the-art-of-accurate-dictation-3ii4",
-      "date": "2025-11-18T06:09:13.000Z",
+      "title": "From localStorage to Database: Understanding the MongoDB Structure❗",
+      "description": "Intro Hey everyone!🤗 If you are a developer who is just starting to work with databases, or perhaps you already know the basics and are looking for a...",
+      "url": "https://dev.to/cristea_theodora_6200140b/from-localstorage-to-database-understanding-the-mongodb-structure-1a21",
+      "date": "2025-11-19T05:55:18.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "machinelearning",
-        "voicetonotes"
+        "mongodb",
+        "database",
+        "tutorial"
       ],
-      "readTime": "2 min read",
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "From Chaos To Clarity: Simplifying Server Management With AI And Automation",
+      "description": "Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work....",
+      "url": "https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/",
+      "date": "2025-11-18T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -233,21 +244,6 @@
         "articles",
         "semantics",
         "typography"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Smashing Animations Part 6: Magnificent SVGs With `` And CSS Custom Properties",
-      "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke e...",
-      "url": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
-      "date": "2025-11-07T15:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
