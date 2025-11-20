@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-19T06:31:23.867Z",
+  "lastUpdated": "2025-11-20T06:31:02.293Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,36 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How we’re making GitHub Copilot smarter with fewer tools",
+      "description": "We're using embedding-guided tool routing, adaptive clustering, and a streamlined 13-tool core to deliver faster experience in VS Code. The post How w...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/",
+      "date": "2025-11-19T20:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "agenticworkflows"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "How to write a great agents.md: Lessons from over 2,500 repositories",
+      "description": "Learn how to write effective agents.md files for GitHub Copilot with practical tips, real examples, and templates from analyzing 2,500+ repositories. ...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/",
+      "date": "2025-11-19T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "agenticai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Level up design-to-code collaboration with GitHub’s open source Annotation Toolk",
       "description": "Prevent accessibility issues before they reach production. The Annotation Toolkit brings clarity, compliance, and collaboration directly into your Fig...",
@@ -43,89 +73,63 @@
       "priority": 1
     },
     {
-      "title": "Unlocking the full power of Copilot code review: Master your instructions files",
-      "description": "Discover practical tips, examples, and best practices for writing effective instructions files. Whether you’re new or experienced, you’ll find somethi...",
-      "url": "https://github.blog/ai-and-ml/unlocking-the-full-power-of-copilot-code-review-master-your-instructions-files/",
-      "date": "2025-11-14T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "githubcopilotcodereview"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "GitHub Availability Report: October 2025",
-      "description": "In October, we experienced four incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: October 2...",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2025/",
-      "date": "2025-11-13T17:28:48.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "companynews",
-        "newsinsights",
-        "githubavailabilityreport"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Leaders – Wake Up and Smell the Coffee",
-      "description": "Exposing the undervaluation crisis The bid and proposal profession is in crisis. Not because it lacks expertise, but because it remains widely misunde...",
-      "url": "https://dev.to/bid_solution/leaders-wake-up-and-smell-the-coffee-1laf",
-      "date": "2025-11-19T06:13:24.000Z",
+      "title": "Hashicorp Vault: Secret Management Engines",
+      "description": "Hashicorp Vault is a secrets management tool. It enables encrypted storage of sensitive data like API credentials, database passwords, certificates an...",
+      "url": "https://dev.to/admantium/hashicorp-vault-secret-management-engines-48nb",
+      "date": "2025-11-20T06:25:17.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "career",
-        "leadership",
-        "management"
+        "hashicorp",
+        "vault",
+        "webdev"
       ],
-      "readTime": "2 min read",
+      "readTime": "18 min read",
       "priority": 2
     },
     {
-      "title": "When I Grow Up, I Want to Be a Bid Writer!",
-      "description": "The origins of procurement date to around 3,000 BC when Egyptians were scribing orders for the two million limestone and granite blocks needed to buil...",
-      "url": "https://dev.to/bid_solution/when-i-grow-up-i-want-to-be-a-bid-writer-59j7",
-      "date": "2025-11-19T06:08:12.000Z",
+      "title": "🚀 Type Alias in TypeScript: Why I Use Them Every Day (And How They Compare to I",
+      "description": "If you’ve already dipped your toes into TypeScript, you’ve probably met that one feature everyone talks about but no one fully explains at the start. ...",
+      "url": "https://dev.to/mashayeakh_islam_2666f2c3/type-alias-in-typescript-why-i-use-them-every-day-and-how-they-compare-to-interfaces-399n",
+      "date": "2025-11-20T06:20:06.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "career",
-        "discuss",
-        "writing"
+        "webdev",
+        "javascript",
+        "typescript"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選",
-      "description": "はじめに 開発ツールの月額料金、気づいたら結構な金額になっていませんか？Postman、GitHub、Notion...便利なツールほど、チーム規模が大きくなると課金額も膨らんでいきます。 実は今、そんな商用ツールに匹敵する、いやそれ以上の機能を持つオープンソース代替が続々と登場しています。しかも、...",
-      "url": "https://dev.to/nakamura_takuya/kosutoxue-jian-tozi-you-du-atupushang-yong-turukaraopunsosuhenocheng-rihuan-e15xuan-d11",
-      "date": "2025-11-19T06:03:28.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "From localStorage to Database: Understanding the MongoDB Structure❗",
-      "description": "Intro Hey everyone!🤗 If you are a developer who is just starting to work with databases, or perhaps you already know the basics and are looking for a...",
-      "url": "https://dev.to/cristea_theodora_6200140b/from-localstorage-to-database-understanding-the-mongodb-structure-1a21",
-      "date": "2025-11-19T05:55:18.000Z",
+      "title": "How I Played With Self-Correcting LLMs While Fixing My Blog",
+      "description": "Last week, I was staring at my latest blog draft, wondering why some sentences just sounded… off. Even though I’d let the AI generate most of it, a fe...",
+      "url": "https://dev.to/peggggykang/how-i-played-with-self-correcting-llms-while-fixing-my-blog-1m9k",
+      "date": "2025-11-20T06:17:08.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "mongodb",
-        "database",
-        "tutorial"
+        "ai",
+        "webdev",
+        "discuss"
       ],
-      "readTime": "9 min read",
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Why You Should Never Raise Money Before Finding Product Market Fit",
+      "description": "Money is a terrible substitute for product market fit. In 2020, Quibi raised $1.75 billion before launch. The company had A-list Hollywood talent, cut...",
+      "url": "https://dev.to/mapster/why-you-should-never-raise-money-before-finding-product-market-fit-884",
+      "date": "2025-11-20T06:16:22.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "product",
+        "webdev",
+        "javascript"
+      ],
+      "readTime": "4 min read",
       "priority": 2
     },
     {
