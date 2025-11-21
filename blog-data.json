@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-20T06:31:02.293Z",
+  "lastUpdated": "2025-11-21T06:32:21.959Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Evolving GitHub Copilot’s next edit suggestions through custom model training",
+      "description": "GitHub Copilot’s next edit suggestions just got faster, smarter, and more precise thanks to new data pipelines, reinforcement learning, and continuous...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/evolving-github-copilots-next-edit-suggestions-through-custom-model-training/",
+      "date": "2025-11-20T18:02:21.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "ai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How we’re making GitHub Copilot smarter with fewer tools",
       "description": "We're using embedding-guided tool routing, adaptive clustering, and a streamlined 13-tool core to deliver faster experience in VS Code. The post How w...",
@@ -59,77 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Highlights from Git 2.52",
-      "description": "The open source Git project just released Git 2.52. Here is GitHub’s look at some of the most interesting features and changes introduced since last t...",
-      "url": "https://github.blog/open-source/git/highlights-from-git-2-52/",
-      "date": "2025-11-17T17:54:31.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "git",
-        "opensource"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Hashicorp Vault: Secret Management Engines",
-      "description": "Hashicorp Vault is a secrets management tool. It enables encrypted storage of sensitive data like API credentials, database passwords, certificates an...",
-      "url": "https://dev.to/admantium/hashicorp-vault-secret-management-engines-48nb",
-      "date": "2025-11-20T06:25:17.000Z",
+      "title": "From \"Gacha\" to \"Productivity\": A Deep Dive into Nano Banana Pro",
+      "description": "In the AI image generation landscape of late 2025, Google DeepMind's Nano Banana Pro (also known as GemPix 2) has landed as a significant disruptor. M...",
+      "url": "https://dev.to/rainie_zhou_f/from-gacha-to-productivity-a-deep-dive-into-nano-banana-pro-3p21",
+      "date": "2025-11-21T06:12:58.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "hashicorp",
-        "vault",
+        "ai",
+        "nanobanana",
         "webdev"
       ],
-      "readTime": "18 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "🚀 Type Alias in TypeScript: Why I Use Them Every Day (And How They Compare to I",
-      "description": "If you’ve already dipped your toes into TypeScript, you’ve probably met that one feature everyone talks about but no one fully explains at the start. ...",
-      "url": "https://dev.to/mashayeakh_islam_2666f2c3/type-alias-in-typescript-why-i-use-them-every-day-and-how-they-compare-to-interfaces-399n",
-      "date": "2025-11-20T06:20:06.000Z",
+      "title": "SIMA 2: Gemini-Powered Agent That Nearly Doubles Task Success",
+      "description": "Everyone's talking about SIMA 2, DeepMind's Gemini-powered game agent, but the real opportunity is how it will change testing, training, and UX. Game ...",
+      "url": "https://dev.to/aiwithapex/sima-2-gemini-powered-agent-that-nearly-doubles-task-success-43lc",
+      "date": "2025-11-21T06:05:11.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
         "javascript",
-        "typescript"
+        "css"
       ],
-      "readTime": "3 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "How I Played With Self-Correcting LLMs While Fixing My Blog",
-      "description": "Last week, I was staring at my latest blog draft, wondering why some sentences just sounded… off. Even though I’d let the AI generate most of it, a fe...",
-      "url": "https://dev.to/peggggykang/how-i-played-with-self-correcting-llms-while-fixing-my-blog-1m9k",
-      "date": "2025-11-20T06:17:08.000Z",
+      "title": "Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies",
+      "description": "Weird Science gets the Rewatchables treatment as Bill Simmons and Kyle Brandt dive into John Hughes’s 1985 cult classic starring Anthony Michael Hall,...",
+      "url": "https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1khd",
+      "date": "2025-11-21T06:03:17.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "webdev",
+        "movies",
+        "reviews",
+        "recommendations"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Ringer Movies: The 25 Best Movies of the Century: No. 4 - 'Inglourious Basterds’",
+      "description": "Sean Fennessey and Amanda Dobbins slot Inglourious Basterds at No. 4 in their 21st-century movie countdown, arguing it’s Quentin Tarantino’s definitiv...",
+      "url": "https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55h4",
+      "date": "2025-11-21T06:03:01.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "movies",
+        "reviews",
         "discuss"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Why You Should Never Raise Money Before Finding Product Market Fit",
-      "description": "Money is a terrible substitute for product market fit. In 2020, Quibi raised $1.75 billion before launch. The company had A-list Hollywood talent, cut...",
-      "url": "https://dev.to/mapster/why-you-should-never-raise-money-before-finding-product-market-fit-884",
-      "date": "2025-11-20T06:16:22.000Z",
+      "title": "Should We Even Have :closed?",
+      "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a t...",
+      "url": "https://css-tricks.com/should-we-even-have-closed/",
+      "date": "2025-11-20T15:10:26.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "product",
-        "webdev",
-        "javascript"
+        "articles",
+        "csswg",
+        "selectors"
       ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -233,21 +249,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Headings: Semantics, Fluidity, and Styling — Oh My!",
-      "description": "A few links about headings that I've had stored under my top hat. Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CSS-Tric...",
-      "url": "https://css-tricks.com/headings-semantics-fluidity-and-styling-oh-my/",
-      "date": "2025-11-10T14:44:13.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "semantics",
-        "typography"
       ],
       "readTime": "1 min read",
       "priority": 2
