@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-21T06:32:21.959Z",
+  "lastUpdated": "2025-11-22T06:28:21.089Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,25 +74,10 @@
       "priority": 1
     },
     {
-      "title": "From \"Gacha\" to \"Productivity\": A Deep Dive into Nano Banana Pro",
-      "description": "In the AI image generation landscape of late 2025, Google DeepMind's Nano Banana Pro (also known as GemPix 2) has landed as a significant disruptor. M...",
-      "url": "https://dev.to/rainie_zhou_f/from-gacha-to-productivity-a-deep-dive-into-nano-banana-pro-3p21",
-      "date": "2025-11-21T06:12:58.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "nanobanana",
-        "webdev"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "SIMA 2: Gemini-Powered Agent That Nearly Doubles Task Success",
-      "description": "Everyone's talking about SIMA 2, DeepMind's Gemini-powered game agent, but the real opportunity is how it will change testing, training, and UX. Game ...",
-      "url": "https://dev.to/aiwithapex/sima-2-gemini-powered-agent-that-nearly-doubles-task-success-43lc",
-      "date": "2025-11-21T06:05:11.000Z",
+      "title": "Exploring the Benefits of n8n AWS Integration for Enhanced Workflow Automation",
+      "description": "In today’s digital landscape, businesses strive to stay ahead by embracing automation to increase efficiency and reduce human error. n8n, an open-sour...",
+      "url": "https://dev.to/nayeem79/exploring-the-benefits-of-n8n-aws-integration-for-enhanced-workflow-automation-ii2",
+      "date": "2025-11-22T06:15:18.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -100,35 +85,80 @@
         "javascript",
         "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies",
-      "description": "Weird Science gets the Rewatchables treatment as Bill Simmons and Kyle Brandt dive into John Hughes’s 1985 cult classic starring Anthony Michael Hall,...",
-      "url": "https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1khd",
-      "date": "2025-11-21T06:03:17.000Z",
+      "title": "The Role of Social Profiles in Strengthening Brand SEO",
+      "description": "Search engine optimization has significantly evolved over the past decade, but one element remains central to every brand’s visibility journey: trust....",
+      "url": "https://dev.to/dbhatasana/the-role-of-social-profiles-in-strengthening-brand-seo-35l8",
+      "date": "2025-11-22T06:11:24.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "12 min read",
+      "priority": 2
+    },
+    {
+      "title": "CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less",
+      "description": "Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less CinemaSins takes a hilarious, sin-counting stroll through this fun, action-packed hybri...",
+      "url": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5896",
+      "date": "2025-11-22T06:00:06.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "movies",
         "reviews",
-        "recommendations"
+        "streaming"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Ringer Movies: The 25 Best Movies of the Century: No. 4 - 'Inglourious Basterds’",
-      "description": "Sean Fennessey and Amanda Dobbins slot Inglourious Basterds at No. 4 in their 21st-century movie countdown, arguing it’s Quentin Tarantino’s definitiv...",
-      "url": "https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55h4",
-      "date": "2025-11-21T06:03:01.000Z",
+      "title": "Goodbye Green Screen: Why AI Background Removal Outperforms Traditional Editing",
+      "description": "For years, green screens were the standard way to remove backgrounds. They worked, but only if you had perfect lighting, studio space, and time for cl...",
+      "url": "https://dev.to/freepixel11/goodbye-green-screen-why-ai-background-removal-outperforms-traditional-editing-3ih0",
+      "date": "2025-11-22T05:53:18.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "movies",
-        "reviews",
-        "discuss"
+        "ai",
+        "imageprocessing",
+        "computervision"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Sketch: A guided tour of Copenhagen",
+      "description": "Sketch probably didn't \"have\" to redesign its UI to line up with macOS Tahoe, but a big part of its appeal is the fact that it feels like it totally b...",
+      "url": "https://css-tricks.com/sketch-a-guided-tour-of-copenhagen/",
+      "date": "2025-11-21T18:53:05.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "links",
+        "designtools",
+        "uiixdesign"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Keyframes Tokens: Standardizing Animation Across Projects",
+      "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frust...",
+      "url": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
+      "date": "2025-11-21T08:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -209,40 +239,10 @@
       "priority": 2
     },
     {
-      "title": "The Range Syntax Has Come to Container Style Queries and if()",
-      "description": "Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric...",
-      "url": "https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/",
-      "date": "2025-11-13T15:00:20.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "containerqueries",
-        "cssfunctions"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Older Tech In The Browser Stack",
       "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new...",
       "url": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
       "date": "2025-11-13T08:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Effectively Monitoring Web Performance",
-      "description": "There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign=sm-10). But ev...",
-      "url": "https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/",
-      "date": "2025-11-11T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
