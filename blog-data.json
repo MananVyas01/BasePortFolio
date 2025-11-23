@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-22T06:28:21.089Z",
+  "lastUpdated": "2025-11-23T06:29:39.188Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,10 +74,10 @@
       "priority": 1
     },
     {
-      "title": "Exploring the Benefits of n8n AWS Integration for Enhanced Workflow Automation",
-      "description": "In today’s digital landscape, businesses strive to stay ahead by embracing automation to increase efficiency and reduce human error. n8n, an open-sour...",
-      "url": "https://dev.to/nayeem79/exploring-the-benefits-of-n8n-aws-integration-for-enhanced-workflow-automation-ii2",
-      "date": "2025-11-22T06:15:18.000Z",
+      "title": "The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God",
+      "description": "The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God In a world saturated with ...",
+      "url": "https://dev.to/bobby_sanders_63117dbdf8a/the-ultimate-guide-to-wisdom-prompting-ai-vs-praying-to-god-10f9",
+      "date": "2025-11-23T06:20:52.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -85,52 +85,52 @@
         "javascript",
         "css"
       ],
-      "readTime": "6 min read",
+      "readTime": "8 min read",
       "priority": 2
     },
     {
-      "title": "The Role of Social Profiles in Strengthening Brand SEO",
-      "description": "Search engine optimization has significantly evolved over the past decade, but one element remains central to every brand’s visibility journey: trust....",
-      "url": "https://dev.to/dbhatasana/the-role-of-social-profiles-in-strengthening-brand-seo-35l8",
-      "date": "2025-11-22T06:11:24.000Z",
+      "title": "Singleton Pattern issue in playwright browser",
+      "description": "Explaining why the singleton pattern retains the previous value: // ONE instance created when module loads const playwrightManager = new PlaywrightBro...",
+      "url": "https://dev.to/taukirsheikh/singleton-pattern-issue-in-playwright-brwoser-g9b",
+      "date": "2025-11-23T06:20:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
         "javascript",
-        "css"
+        "testing",
+        "architecture"
       ],
-      "readTime": "12 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less",
-      "description": "Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less CinemaSins takes a hilarious, sin-counting stroll through this fun, action-packed hybri...",
-      "url": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5896",
-      "date": "2025-11-22T06:00:06.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "movies",
-        "reviews",
-        "streaming"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Goodbye Green Screen: Why AI Background Removal Outperforms Traditional Editing",
-      "description": "For years, green screens were the standard way to remove backgrounds. They worked, but only if you had perfect lighting, studio space, and time for cl...",
-      "url": "https://dev.to/freepixel11/goodbye-green-screen-why-ai-background-removal-outperforms-traditional-editing-3ih0",
-      "date": "2025-11-22T05:53:18.000Z",
+      "title": "Streamline SDK Integration for AI Monetization with Monetzly",
+      "description": "Monetization Without Paywalls: The Future of AI App Revenue The biggest challenge in AI today? Monetization without killing user experience. With the ...",
+      "url": "https://dev.to/monetzly/streamline-sdk-integration-for-ai-monetization-with-monetzly-2bf2",
+      "date": "2025-11-23T06:17:38.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "imageprocessing",
-        "computervision"
+        "webdev",
+        "api"
       ],
       "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "SteadyFetch: A tiny Android SDK that refuses to let your downloads die",
+      "description": "Most download bugs do not show up in crashlytics. They show up as angry users, half written files, and silent failures when Android decides that your ...",
+      "url": "https://dev.to/namn_dev/steadyfetch-a-tiny-android-sdk-that-refuses-to-let-your-downloads-die-448g",
+      "date": "2025-11-23T06:11:19.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "android",
+        "kotlin",
+        "opensource"
+      ],
+      "readTime": "4 min read",
       "priority": 2
     },
     {
