@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-23T06:29:39.188Z",
+  "lastUpdated": "2025-11-24T06:33:02.894Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,10 +74,40 @@
       "priority": 1
     },
     {
-      "title": "The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God",
-      "description": "The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God In a world saturated with ...",
-      "url": "https://dev.to/bobby_sanders_63117dbdf8a/the-ultimate-guide-to-wisdom-prompting-ai-vs-praying-to-god-10f9",
-      "date": "2025-11-23T06:20:52.000Z",
+      "title": "Affiliate Marketing for Developers: How to Make Money Promoting Tools You Love",
+      "description": "As a developer, you're constantly using tools and platforms to make your workflow more efficient, your code cleaner, and your projects more manageable...",
+      "url": "https://dev.to/softwaredeveloperhub01/affiliate-marketing-for-developers-how-to-make-money-promoting-tools-you-love-1g08",
+      "date": "2025-11-24T06:27:00.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "career",
+        "developer",
+        "marketing"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "Prompt Optimization for AI Builder: Lessons from TOON vs Text",
+      "description": "Intro: Setup: Version 1: Traditional natural language instruction, written in a descriptive, narrative style. You are a sustainability expert speciali...",
+      "url": "https://dev.to/balagmadhu/prompt-optimization-for-ai-builder-lessons-from-toon-vs-text-2eol",
+      "date": "2025-11-24T06:23:04.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "powerplatform",
+        "aibuilder",
+        "llm"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Python Django Developer: From Beginner to Expert in Web Apps & APIs",
+      "description": "In the ever-evolving world of technology, becoming a Python Django Developer is one of the most rewarding career paths. Django, a high-level Python fr...",
+      "url": "https://dev.to/miftah_jabeen_3deefdf3c7a/python-django-developer-from-beginner-to-expert-in-web-apps-apis-2io8",
+      "date": "2025-11-24T06:15:39.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -85,50 +115,20 @@
         "javascript",
         "css"
       ],
-      "readTime": "8 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Singleton Pattern issue in playwright browser",
-      "description": "Explaining why the singleton pattern retains the previous value: // ONE instance created when module loads const playwrightManager = new PlaywrightBro...",
-      "url": "https://dev.to/taukirsheikh/singleton-pattern-issue-in-playwright-brwoser-g9b",
-      "date": "2025-11-23T06:20:31.000Z",
+      "title": "Savvy HRMS: Best Attendance Management Software India",
+      "description": "Accurately tracking employee attendance is pivotal for any business striving to maintain productivity and compliance. Attendance management software o...",
+      "url": "https://dev.to/savvy_10d6d471cbd5155238a/savvy-hrms-best-attendance-management-software-india-5fi6",
+      "date": "2025-11-24T06:09:51.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "javascript",
-        "testing",
-        "architecture"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "Streamline SDK Integration for AI Monetization with Monetzly",
-      "description": "Monetization Without Paywalls: The Future of AI App Revenue The biggest challenge in AI today? Monetization without killing user experience. With the ...",
-      "url": "https://dev.to/monetzly/streamline-sdk-integration-for-ai-monetization-with-monetzly-2bf2",
-      "date": "2025-11-23T06:17:38.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "webdev",
-        "api"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "SteadyFetch: A tiny Android SDK that refuses to let your downloads die",
-      "description": "Most download bugs do not show up in crashlytics. They show up as angry users, half written files, and silent failures when Android decides that your ...",
-      "url": "https://dev.to/namn_dev/steadyfetch-a-tiny-android-sdk-that-refuses-to-let-your-downloads-die-448g",
-      "date": "2025-11-23T06:11:19.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "android",
-        "kotlin",
-        "opensource"
+        "employeeattendancesystem",
+        "onlineattendancesystem",
+        "attendancemanagementsoftware"
       ],
       "readTime": "4 min read",
       "priority": 2
