@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-24T06:33:02.894Z",
+  "lastUpdated": "2025-11-25T06:33:16.572Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,20 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Developers still need the right to challenge junk patents",
+      "description": "Calling on developers, startups, and open source organizations to advocate against patent rules that would make it harder to challenge bad patents by ...",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/developers-still-need-the-right-to-challenge-junk-patents/",
+      "date": "2025-11-24T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "newsinsights",
+        "policy"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Evolving GitHub Copilot’s next edit suggestions through custom model training",
       "description": "GitHub Copilot’s next edit suggestions just got faster, smarter, and more precise thanks to new data pipelines, reinforcement learning, and continuous...",
@@ -59,55 +73,55 @@
       "priority": 1
     },
     {
-      "title": "Level up design-to-code collaboration with GitHub’s open source Annotation Toolk",
-      "description": "Prevent accessibility issues before they reach production. The Annotation Toolkit brings clarity, compliance, and collaboration directly into your Fig...",
-      "url": "https://github.blog/enterprise-software/collaboration/level-up-design-to-code-collaboration-with-githubs-open-source-annotation-toolkit/",
-      "date": "2025-11-18T18:05:17.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "The Secret Life of Go: Variables & Types",
+      "description": "Chapter 2: Variables, Types, and the Art of Declaration The morning light streaming through the tall windows of the Whitmore Archive had a different q...",
+      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-variables-types-53co",
+      "date": "2025-11-25T06:25:22.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "collaboration",
-        "enterprisesoftware",
-        "annotationtoolkit"
+        "python",
+        "coding",
+        "programming"
+      ],
+      "readTime": "15 min read",
+      "priority": 2
+    },
+    {
+      "title": "Pourquoi changer sera difficile… (Réflexion personnelle)",
+      "description": "Il m’arrive souvent, entre deux lignes de code, deux features à shipper ou deux idées de startup; de repenser à l’environnement dans lequel j’ai grand...",
+      "url": "https://dev.to/elvisans/pourquoi-changer-sera-difficile-reflexion-personnelle-11ak",
+      "date": "2025-11-25T06:20:57.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "mentalhealth",
+        "webdev",
+        "javascript"
       ],
       "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Affiliate Marketing for Developers: How to Make Money Promoting Tools You Love",
-      "description": "As a developer, you're constantly using tools and platforms to make your workflow more efficient, your code cleaner, and your projects more manageable...",
-      "url": "https://dev.to/softwaredeveloperhub01/affiliate-marketing-for-developers-how-to-make-money-promoting-tools-you-love-1g08",
-      "date": "2025-11-24T06:27:00.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "career",
-        "developer",
-        "marketing"
-      ],
-      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "Prompt Optimization for AI Builder: Lessons from TOON vs Text",
-      "description": "Intro: Setup: Version 1: Traditional natural language instruction, written in a descriptive, narrative style. You are a sustainability expert speciali...",
-      "url": "https://dev.to/balagmadhu/prompt-optimization-for-ai-builder-lessons-from-toon-vs-text-2eol",
-      "date": "2025-11-24T06:23:04.000Z",
+      "title": "Boost Developer Revenue with Monetzly's AI Conversation API",
+      "description": "Unlocking Sustainable AI Innovation: Monetizing Conversations with Monetzly In a world where AI applications are proliferating, developers face a sign...",
+      "url": "https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-api-89e",
+      "date": "2025-11-25T06:19:56.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "powerplatform",
-        "aibuilder",
-        "llm"
+        "ai",
+        "webdev",
+        "api"
       ],
-      "readTime": "5 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Python Django Developer: From Beginner to Expert in Web Apps & APIs",
-      "description": "In the ever-evolving world of technology, becoming a Python Django Developer is one of the most rewarding career paths. Django, a high-level Python fr...",
-      "url": "https://dev.to/miftah_jabeen_3deefdf3c7a/python-django-developer-from-beginner-to-expert-in-web-apps-apis-2io8",
-      "date": "2025-11-24T06:15:39.000Z",
+      "title": "What Can QA Teams Learn from Recent FDA Inspections at Rubicon Research (India)?",
+      "description": "Recent FDA inspections at Rubicon Research’s India facilities (Satara and Thane) have highlighted persistent GMP risks that matter to every pharma QA ...",
+      "url": "https://dev.to/shalushrotiya/what-can-qa-teams-learn-from-recent-fda-inspections-at-rubicon-research-india-4aj5",
+      "date": "2025-11-25T06:18:44.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -115,22 +129,37 @@
         "javascript",
         "css"
       ],
-      "readTime": "3 min read",
+      "readTime": "10 min read",
       "priority": 2
     },
     {
-      "title": "Savvy HRMS: Best Attendance Management Software India",
-      "description": "Accurately tracking employee attendance is pivotal for any business striving to maintain productivity and compliance. Attendance management software o...",
-      "url": "https://dev.to/savvy_10d6d471cbd5155238a/savvy-hrms-best-attendance-management-software-india-5fi6",
-      "date": "2025-11-24T06:09:51.000Z",
+      "title": "On Inheriting and Sharing Property Values",
+      "description": "There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child? On Inheriting and Sharin...",
+      "url": "https://css-tricks.com/on-inheriting-and-sharing-property-values/",
+      "date": "2025-11-24T14:22:30.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "employeeattendancesystem",
-        "onlineattendancesystem",
-        "attendancemanagementsoftware"
+        "articles",
+        "cascade",
+        "webdev"
       ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Designing For Stress And Emergency",
+      "description": "Practical guidelines on designing time-critical products that prevent errors and improve accuracy. Part of the Measure UX & Design Impact (use the cod...",
+      "url": "https://smashingmagazine.com/2025/11/designing-for-stress-emergency/",
+      "date": "2025-11-24T13:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -209,40 +238,10 @@
       "priority": 2
     },
     {
-      "title": "Quiet UI Came and Went, Quiet as a Mouse",
-      "description": "The extremely new framework that caught lots of attention will continue as a personal project. Quiet UI Came and Went, Quiet as a Mouse originally pub...",
-      "url": "https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/",
-      "date": "2025-11-14T15:32:50.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "framework",
-        "webcomponents"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "CSS Gamepad API Visual Debugging With CSS Layers",
       "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own p...",
       "url": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
       "date": "2025-11-14T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Older Tech In The Browser Stack",
-      "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new...",
-      "url": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
-      "date": "2025-11-13T08:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
