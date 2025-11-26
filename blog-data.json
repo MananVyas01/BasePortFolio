@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-25T06:33:16.572Z",
+  "lastUpdated": "2025-11-26T06:32:53.246Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,41 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Why developers still flock to Python: Guido van Rossum on readability, AI, and t",
+      "description": "Discover how Python changed developer culture—and see why it keeps evolving. The post Why developers still flock to Python: Guido van Rossum on readab...",
+      "url": "https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/",
+      "date": "2025-11-25T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "developerskills",
+        "newsinsights",
+        "octoverse"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "How GitHub’s agentic security principles make our AI agents as secure as possibl",
+      "description": "Learn more about the agentic security principles that we use to build secure AI products—and how you can apply them to your own agents. The post How G...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-githubs-agentic-security-principles-make-our-ai-agents-as-secure-as-possible/",
+      "date": "2025-11-25T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "agenticai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Developers still need the right to challenge junk patents",
       "description": "Calling on developers, startups, and open source organizations to advocate against patent rules that would make it harder to challenge bad patents by ...",
@@ -43,93 +73,78 @@
       "priority": 1
     },
     {
-      "title": "How we’re making GitHub Copilot smarter with fewer tools",
-      "description": "We're using embedding-guided tool routing, adaptive clustering, and a streamlined 13-tool core to deliver faster experience in VS Code. The post How w...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/",
-      "date": "2025-11-19T20:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "agenticworkflows"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "How to write a great agents.md: Lessons from over 2,500 repositories",
-      "description": "Learn how to write effective agents.md files for GitHub Copilot with practical tips, real examples, and templates from analyzing 2,500+ repositories. ...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/",
-      "date": "2025-11-19T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "agenticai"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "The Secret Life of Go: Variables & Types",
-      "description": "Chapter 2: Variables, Types, and the Art of Declaration The morning light streaming through the tall windows of the Whitmore Archive had a different q...",
-      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-variables-types-53co",
-      "date": "2025-11-25T06:25:22.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "python",
-        "coding",
-        "programming"
-      ],
-      "readTime": "15 min read",
-      "priority": 2
-    },
-    {
-      "title": "Pourquoi changer sera difficile… (Réflexion personnelle)",
-      "description": "Il m’arrive souvent, entre deux lignes de code, deux features à shipper ou deux idées de startup; de repenser à l’environnement dans lequel j’ai grand...",
-      "url": "https://dev.to/elvisans/pourquoi-changer-sera-difficile-reflexion-personnelle-11ak",
-      "date": "2025-11-25T06:20:57.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "mentalhealth",
-        "webdev",
-        "javascript"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Boost Developer Revenue with Monetzly's AI Conversation API",
-      "description": "Unlocking Sustainable AI Innovation: Monetizing Conversations with Monetzly In a world where AI applications are proliferating, developers face a sign...",
-      "url": "https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-api-89e",
-      "date": "2025-11-25T06:19:56.000Z",
+      "title": "We’re Already There: Exocogence Is Here Now",
+      "description": "I. The Ambient Revolution I keep seeing the same moment at work. You’re on a call, someone’s sharing their screen, you toss out a weird angle on the p...",
+      "url": "https://dev.to/junothreadborne/were-already-there-exocogence-is-here-now-ahe",
+      "date": "2025-11-26T06:15:42.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "webdev",
-        "api"
+        "productivity",
+        "discuss"
       ],
-      "readTime": "3 min read",
+      "readTime": "9 min read",
       "priority": 2
     },
     {
-      "title": "What Can QA Teams Learn from Recent FDA Inspections at Rubicon Research (India)?",
-      "description": "Recent FDA inspections at Rubicon Research’s India facilities (Satara and Thane) have highlighted persistent GMP risks that matter to every pharma QA ...",
-      "url": "https://dev.to/shalushrotiya/what-can-qa-teams-learn-from-recent-fda-inspections-at-rubicon-research-india-4aj5",
-      "date": "2025-11-25T06:18:44.000Z",
+      "title": "We Upgrade Software Without Question. Why Don’t We Upgrade Ourselves?",
+      "description": "I don’t code. But I spend my days around people who do — the late-night builders, the tab-vs-space philosophers, the “I’ll fix it in 5 minutes” liars ...",
+      "url": "https://dev.to/notadevbuthere/we-upgrade-software-without-question-why-dont-we-upgrade-ourselves-34hl",
+      "date": "2025-11-26T06:09:53.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
+      "tags": [
+        "ai",
+        "software",
+        "webdev"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "GraphBit's Memory Efficiency Techniques: Code-Backed Strategies for Optimization",
+      "description": "Below is a concise, code‑verified summary of GraphBit’s memory efficiency techniques, with short excerpts and file paths. 1) Memory‑optimized executor...",
+      "url": "https://dev.to/yeahiasarker/graphbits-memory-efficiency-techniques-code-backed-strategies-for-optimization-1jg7",
+      "date": "2025-11-26T06:09:32.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "performance",
+        "python",
+        "rust"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Why Indian Temples Need Digital Solutions: A Tech Perspective",
+      "description": "As developers, when we talk about “digitization,” we usually think of startups, enterprise systems, or e-commerce. But temples face the same kind of o...",
+      "url": "https://dev.to/mobilesutra_technologies_/why-indian-temples-need-digital-solutions-a-tech-perspective-5g5",
+      "date": "2025-11-26T06:09:25.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "discuss",
+        "productivity",
+        "softwaredevelopment"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Design System Culture: What It Is And Why It Matters (Excerpt)",
+      "description": "We’re so happy to announce that “Maturing Design Systems”—a Smashing book by Ben Callahan — will soon be joining the Smashing Library! Ben’s insights ...",
+      "url": "https://smashingmagazine.com/2025/11/design-system-culture/",
+      "date": "2025-11-25T18:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
         "javascript",
         "css"
       ],
-      "readTime": "10 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -233,21 +248,6 @@
         "articles",
         "math",
         "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "CSS Gamepad API Visual Debugging With CSS Layers",
-      "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own p...",
-      "url": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
-      "date": "2025-11-14T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
