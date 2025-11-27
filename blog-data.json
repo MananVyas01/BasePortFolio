@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-26T06:32:53.246Z",
+  "lastUpdated": "2025-11-27T06:33:32.607Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,63 @@
       "priority": 1
     },
     {
-      "title": "We’re Already There: Exocogence Is Here Now",
-      "description": "I. The Ambient Revolution I keep seeing the same moment at work. You’re on a call, someone’s sharing their screen, you toss out a weird angle on the p...",
-      "url": "https://dev.to/junothreadborne/were-already-there-exocogence-is-here-now-ahe",
-      "date": "2025-11-26T06:15:42.000Z",
+      "title": "Definition of Services in Kubernetes",
+      "description": "A Service in Kubernetes is an object that provides a stable IP address, DNS name, and consistent network access to a group of Pods. Because Pods are t...",
+      "url": "https://dev.to/itsmecharan7/definition-of-services-in-kubernetes-36if",
+      "date": "2025-11-27T06:23:11.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "productivity",
-        "discuss"
-      ],
-      "readTime": "9 min read",
-      "priority": 2
-    },
-    {
-      "title": "We Upgrade Software Without Question. Why Don’t We Upgrade Ourselves?",
-      "description": "I don’t code. But I spend my days around people who do — the late-night builders, the tab-vs-space philosophers, the “I’ll fix it in 5 minutes” liars ...",
-      "url": "https://dev.to/notadevbuthere/we-upgrade-software-without-question-why-dont-we-upgrade-ourselves-34hl",
-      "date": "2025-11-26T06:09:53.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "software",
-        "webdev"
+        "devops",
+        "kubernetes",
+        "networking"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "GraphBit's Memory Efficiency Techniques: Code-Backed Strategies for Optimization",
-      "description": "Below is a concise, code‑verified summary of GraphBit’s memory efficiency techniques, with short excerpts and file paths. 1) Memory‑optimized executor...",
-      "url": "https://dev.to/yeahiasarker/graphbits-memory-efficiency-techniques-code-backed-strategies-for-optimization-1jg7",
-      "date": "2025-11-26T06:09:32.000Z",
+      "title": "Types of Chatbots: Rule-Based, NLP & AI Chatbots Explained (Insights from DGTL T",
+      "description": "Chatbots have become an essential part of modern business communication. Whether it's answering customer questions, guiding online shoppers, or genera...",
+      "url": "https://dev.to/dgtltechhub/types-of-chatbots-rule-based-nlp-ai-chatbots-explained-insights-from-dgtl-tech-hub-2ohb",
+      "date": "2025-11-27T06:19:54.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "performance",
-        "python",
-        "rust"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Why Indian Temples Need Digital Solutions: A Tech Perspective",
-      "description": "As developers, when we talk about “digitization,” we usually think of startups, enterprise systems, or e-commerce. But temples face the same kind of o...",
-      "url": "https://dev.to/mobilesutra_technologies_/why-indian-temples-need-digital-solutions-a-tech-perspective-5g5",
-      "date": "2025-11-26T06:09:25.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "discuss",
-        "productivity",
-        "softwaredevelopment"
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Forget Wall Street: Here’s How to Create the Best Stock Screener Yourself",
+      "description": "Stock Screeners for Math People: Build Your Own A stock screener is just a function. You don't need Wall Street, a fancy terminal, or YouTube. If you ...",
+      "url": "https://dev.to/djinn/forget-wall-street-heres-how-to-create-the-best-stock-screener-yourself-4k2i",
+      "date": "2025-11-27T06:19:03.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "stocks",
+        "cryptocurrency",
+        "python"
+      ],
+      "readTime": "17 min read",
+      "priority": 2
+    },
+    {
+      "title": "🚀 Terraform Azure Infrastructure (Modular Architecture + DevSecOps)",
+      "description": "Code Structure . ├── azure-pipelines.yml # Azure DevOps CI/CD pipeline ├── main │ ├── main.tf # Module orchestration │ ├── provider.tf # Azure provide...",
+      "url": "https://dev.to/techmademi/terraform-azure-infrastructure-modular-architecture-devsecops-291p",
+      "date": "2025-11-27T06:17:02.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "terraform",
+        "devops",
+        "architecture"
+      ],
+      "readTime": "3 min read",
       "priority": 2
     },
     {
