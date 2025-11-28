@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-27T06:33:32.607Z",
+  "lastUpdated": "2025-11-28T06:33:08.959Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,78 @@
       "priority": 1
     },
     {
-      "title": "Definition of Services in Kubernetes",
-      "description": "A Service in Kubernetes is an object that provides a stable IP address, DNS name, and consistent network access to a group of Pods. Because Pods are t...",
-      "url": "https://dev.to/itsmecharan7/definition-of-services-in-kubernetes-36if",
-      "date": "2025-11-27T06:23:11.000Z",
+      "title": "Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community",
+      "description": "1 year ago, most of my work lived in a very different world from Web3. I was building and managing communities, writing technical content, and helping...",
+      "url": "https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-1jb4",
+      "date": "2025-11-28T06:19:10.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devops",
-        "kubernetes",
-        "networking"
+        "web3",
+        "blockchain",
+        "devrel"
       ],
-      "readTime": "2 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Types of Chatbots: Rule-Based, NLP & AI Chatbots Explained (Insights from DGTL T",
-      "description": "Chatbots have become an essential part of modern business communication. Whether it's answering customer questions, guiding online shoppers, or genera...",
-      "url": "https://dev.to/dgtltechhub/types-of-chatbots-rule-based-nlp-ai-chatbots-explained-insights-from-dgtl-tech-hub-2ohb",
-      "date": "2025-11-27T06:19:54.000Z",
+      "title": "Azure Synapse vs Databricks: 10 Must-Know Differences (2025)",
+      "description": "Data is the foundation of modern enterprise innovation—but you need a solid platform to make the most of it. That means being able to handle massive a...",
+      "url": "https://dev.to/chaos-genius/azure-synapse-vs-databricks-10-must-know-differences-2025-73p",
+      "date": "2025-11-28T06:10:45.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
+      "tags": [
+        "azure",
+        "synapse",
+        "databricks"
+      ],
+      "readTime": "60 min read",
+      "priority": 2
+    },
+    {
+      "title": "NAS vs. Object Storage vs. JuiceFS: Storage Selection of Billion-Dollar Quantita",
+      "description": "In the quantitative investment field, the performance and scalability of the storage system support efficient research and computational tasks. JuiceF...",
+      "url": "https://dev.to/daswu/nas-vs-object-storage-vs-juicefs-storage-selection-of-billion-dollar-quantitative-firms-1k37",
+      "date": "2025-11-28T06:09:28.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "opensource",
+        "webdev",
+        "javascript"
+      ],
+      "readTime": "14 min read",
+      "priority": 2
+    },
+    {
+      "title": "Free Interactive SQL Practice Platform for Developers",
+      "description": "Looking for a practical way to improve your SQL skills? Check out https://www.sql-practice.online/ — a free platform with 60+ interactive SQL exercise...",
+      "url": "https://dev.to/satish_kandala_bf356c7994/free-interactive-sql-practice-platform-for-developers-gk",
+      "date": "2025-11-28T06:09:24.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "sql",
+        "database",
+        "learning"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
+      "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many...",
+      "url": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
+      "date": "2025-11-27T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
         "javascript",
         "css"
       ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "Forget Wall Street: Here’s How to Create the Best Stock Screener Yourself",
-      "description": "Stock Screeners for Math People: Build Your Own A stock screener is just a function. You don't need Wall Street, a fancy terminal, or YouTube. If you ...",
-      "url": "https://dev.to/djinn/forget-wall-street-heres-how-to-create-the-best-stock-screener-yourself-4k2i",
-      "date": "2025-11-27T06:19:03.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "stocks",
-        "cryptocurrency",
-        "python"
-      ],
-      "readTime": "17 min read",
-      "priority": 2
-    },
-    {
-      "title": "🚀 Terraform Azure Infrastructure (Modular Architecture + DevSecOps)",
-      "description": "Code Structure . ├── azure-pipelines.yml # Azure DevOps CI/CD pipeline ├── main │ ├── main.tf # Module orchestration │ ├── provider.tf # Azure provide...",
-      "url": "https://dev.to/techmademi/terraform-azure-infrastructure-modular-architecture-devsecops-291p",
-      "date": "2025-11-27T06:17:02.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "terraform",
-        "devops",
-        "architecture"
-      ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -218,21 +233,6 @@
         "articles",
         "csswg",
         "selectors"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "From Chaos To Clarity: Simplifying Server Management With AI And Automation",
-      "description": "Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work....",
-      "url": "https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/",
-      "date": "2025-11-18T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
