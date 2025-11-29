@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-28T06:33:08.959Z",
+  "lastUpdated": "2025-11-29T06:30:21.677Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "The ultimate gift guide for the developer in your life",
+      "description": "Finding the perfect gift for your favorite developer is easy with our top tips. The post The ultimate gift guide for the developer in your life appear...",
+      "url": "https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/",
+      "date": "2025-11-28T13:08:56.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "companynews",
+        "newsinsights",
+        "githubshop"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Why developers still flock to Python: Guido van Rossum on readability, AI, and t",
       "description": "Discover how Python changed developer culture—and see why it keeps evolving. The post Why developers still flock to Python: Guido van Rossum on readab...",
@@ -58,76 +73,61 @@
       "priority": 1
     },
     {
-      "title": "Evolving GitHub Copilot’s next edit suggestions through custom model training",
-      "description": "GitHub Copilot’s next edit suggestions just got faster, smarter, and more precise thanks to new data pipelines, reinforcement learning, and continuous...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/evolving-github-copilots-next-edit-suggestions-through-custom-model-training/",
-      "date": "2025-11-20T18:02:21.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "ai"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community",
-      "description": "1 year ago, most of my work lived in a very different world from Web3. I was building and managing communities, writing technical content, and helping...",
-      "url": "https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-1jb4",
-      "date": "2025-11-28T06:19:10.000Z",
+      "title": "A Secret-Scoped Semantic Value That Can Be “Pulled” Into a Public Block Without ",
+      "description": "Let me break down what happens in .me(and why it’s powerful ⸻ ✅ 1. You store a value inside a secret branch Example: me.wallet.secret(\"alpha\").private...",
+      "url": "https://dev.to/suign/a-secret-scoped-semantic-value-that-can-be-pulled-into-a-public-block-without-revealing-its-origin-5hi0",
+      "date": "2025-11-29T06:07:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "web3",
-        "blockchain",
-        "devrel"
+        "ai",
+        "programming",
+        "blockchain"
       ],
-      "readTime": "5 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Azure Synapse vs Databricks: 10 Must-Know Differences (2025)",
-      "description": "Data is the foundation of modern enterprise innovation—but you need a solid platform to make the most of it. That means being able to handle massive a...",
-      "url": "https://dev.to/chaos-genius/azure-synapse-vs-databricks-10-must-know-differences-2025-73p",
-      "date": "2025-11-28T06:10:45.000Z",
+      "title": "A Day With Perplexity’s Comet AI Browser: Time-Saver or Hype?",
+      "description": "Most people think AI browsers are hype; I tested Perplexity's Comet and learned this: it's a rocket on static pages and stalls on dynamic sites. It ch...",
+      "url": "https://dev.to/aiwithapex/a-day-with-perplexitys-comet-ai-browser-time-saver-or-hype-5h4p",
+      "date": "2025-11-29T06:05:01.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "azure",
-        "synapse",
-        "databricks"
-      ],
-      "readTime": "60 min read",
-      "priority": 2
-    },
-    {
-      "title": "NAS vs. Object Storage vs. JuiceFS: Storage Selection of Billion-Dollar Quantita",
-      "description": "In the quantitative investment field, the performance and scalability of the storage system support efficient research and computational tasks. JuiceF...",
-      "url": "https://dev.to/daswu/nas-vs-object-storage-vs-juicefs-storage-selection-of-billion-dollar-quantitative-firms-1k37",
-      "date": "2025-11-28T06:09:28.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "opensource",
         "webdev",
-        "javascript"
+        "javascript",
+        "css"
       ],
-      "readTime": "14 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Free Interactive SQL Practice Platform for Developers",
-      "description": "Looking for a practical way to improve your SQL skills? Check out https://www.sql-practice.online/ — a free platform with 60+ interactive SQL exercise...",
-      "url": "https://dev.to/satish_kandala_bf356c7994/free-interactive-sql-practice-platform-for-developers-gk",
-      "date": "2025-11-28T06:09:24.000Z",
+      "title": "The €15,000 Contract Mistake That Almost Sank My Client's Deal",
+      "description": "The €15,000 Contract Mistake That Almost Sank My Client's Deal Last Tuesday at 3:47 PM, Sarah's legal team sent the finalized contract to their bigges...",
+      "url": "https://dev.to/tracksimple/the-eu15000-contract-mistake-that-almost-sank-my-clients-deal-5dpe",
+      "date": "2025-11-29T06:02:06.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "sql",
-        "database",
-        "learning"
+        "tutorial",
+        "tracksimple",
+        "competitormonitoring"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes ",
+      "description": "Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less CinemaSins serves up its trademark snark in a 20-minute breakdown of The F...",
+      "url": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1oef",
+      "date": "2025-11-29T06:00:27.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "movies",
+        "reviews",
+        "marketing"
       ],
       "readTime": "1 min read",
       "priority": 2
