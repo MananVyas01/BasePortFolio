@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-29T06:30:21.677Z",
+  "lastUpdated": "2025-11-30T06:31:13.002Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,25 +73,25 @@
       "priority": 1
     },
     {
-      "title": "A Secret-Scoped Semantic Value That Can Be “Pulled” Into a Public Block Without ",
-      "description": "Let me break down what happens in .me(and why it’s powerful ⸻ ✅ 1. You store a value inside a secret branch Example: me.wallet.secret(\"alpha\").private...",
-      "url": "https://dev.to/suign/a-secret-scoped-semantic-value-that-can-be-pulled-into-a-public-block-without-revealing-its-origin-5hi0",
-      "date": "2025-11-29T06:07:31.000Z",
+      "title": "Elevate Your SDK Integration: Monetize AI Conversations Effectively",
+      "description": "Traditional Ads Don’t Work in AI Conversations. Here’s What Does. As developers, we know that the explosive growth of AI applications presents a uniqu...",
+      "url": "https://dev.to/monetzly/elevate-your-sdk-integration-monetize-ai-conversations-effectively-1lkl",
+      "date": "2025-11-30T06:18:44.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "programming",
-        "blockchain"
+        "webdev",
+        "api"
       ],
-      "readTime": "2 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "A Day With Perplexity’s Comet AI Browser: Time-Saver or Hype?",
-      "description": "Most people think AI browsers are hype; I tested Perplexity's Comet and learned this: it's a rocket on static pages and stalls on dynamic sites. It ch...",
-      "url": "https://dev.to/aiwithapex/a-day-with-perplexitys-comet-ai-browser-time-saver-or-hype-5h4p",
-      "date": "2025-11-29T06:05:01.000Z",
+      "title": "Financial Transaction Data Reconciler PayPal",
+      "description": "Speaker: Jayaseelan Shanmugam @ AWS FSI Meetup 2025 Q4 Introduction to PayPal: PayPal is a global payment service provider processing 1.7 trillion in ...",
+      "url": "https://dev.to/elianalamhost/financial-transaction-data-reconciler-paypal-240b",
+      "date": "2025-11-30T06:15:54.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -99,37 +99,37 @@
         "javascript",
         "css"
       ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "Stifel Modern Data Platform",
+      "description": "Speaker: Martin Nieuwoudt, Hossein Johari, Srinivas Kandi, Amit Maindola @ AWS FSI Meetup 2025 Q4 Stifel Overview: Around 10,000 associates across Nor...",
+      "url": "https://dev.to/elianalamhost/stifel-modern-data-platform-3i7i",
+      "date": "2025-11-30T06:14:40.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "LocalStorage vs SessionStorage vs Cookies — When to Use What?",
+      "description": "Modern web apps store a lot of data in the browser — user preferences, tokens, UI states, cart items, and even feature flags. But which storage should...",
+      "url": "https://dev.to/manukumar07/localstorage-vs-sessionstorage-vs-cookies-when-to-use-what-4l6i",
+      "date": "2025-11-30T06:14:03.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "frontend"
+      ],
       "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "The €15,000 Contract Mistake That Almost Sank My Client's Deal",
-      "description": "The €15,000 Contract Mistake That Almost Sank My Client's Deal Last Tuesday at 3:47 PM, Sarah's legal team sent the finalized contract to their bigges...",
-      "url": "https://dev.to/tracksimple/the-eu15000-contract-mistake-that-almost-sank-my-clients-deal-5dpe",
-      "date": "2025-11-29T06:02:06.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "tutorial",
-        "tracksimple",
-        "competitormonitoring"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes ",
-      "description": "Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less CinemaSins serves up its trademark snark in a 20-minute breakdown of The F...",
-      "url": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1oef",
-      "date": "2025-11-29T06:00:27.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "movies",
-        "reviews",
-        "marketing"
-      ],
-      "readTime": "1 min read",
       "priority": 2
     },
     {
