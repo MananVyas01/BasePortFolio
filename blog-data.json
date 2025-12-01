@@ -1,16 +1,17 @@
 {
-  "lastUpdated": "2025-11-30T06:31:13.002Z",
+  "lastUpdated": "2025-12-01T06:35:26.934Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
-    "Web Dev"
+    "Web Dev",
+    "JavaScript"
   ],
   "sources": [
     "GitHub Blog",
     "Dev.to",
     "Smashing Magazine",
-    "CSS-Tricks",
-    "A List Apart"
+    "A List Apart",
+    "JavaScript Weekly"
   ],
   "posts": [
     {
@@ -73,63 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Elevate Your SDK Integration: Monetize AI Conversations Effectively",
-      "description": "Traditional Ads Don’t Work in AI Conversations. Here’s What Does. As developers, we know that the explosive growth of AI applications presents a uniqu...",
-      "url": "https://dev.to/monetzly/elevate-your-sdk-integration-monetize-ai-conversations-effectively-1lkl",
-      "date": "2025-11-30T06:18:44.000Z",
+      "title": "Building Real-Time Voice Learning with VAPI: WebRTC + AI Tutors",
+      "description": "Text-based learning apps are passive. I wanted students to have real conversations with AI tutors—natural voice interactions where they could ask ques...",
+      "url": "https://dev.to/chayan-1906/building-real-time-voice-learning-with-vapi-webrtc-ai-tutors-1l9o",
+      "date": "2025-12-01T06:30:37.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "nextjs",
         "ai",
-        "webdev",
-        "api"
+        "webrtc"
       ],
-      "readTime": "3 min read",
+      "readTime": "9 min read",
       "priority": 2
     },
     {
-      "title": "Financial Transaction Data Reconciler PayPal",
-      "description": "Speaker: Jayaseelan Shanmugam @ AWS FSI Meetup 2025 Q4 Introduction to PayPal: PayPal is a global payment service provider processing 1.7 trillion in ...",
-      "url": "https://dev.to/elianalamhost/financial-transaction-data-reconciler-paypal-240b",
-      "date": "2025-11-30T06:15:54.000Z",
+      "title": "Meet MaterialM Open Source Django Admin Template That Will Transform Your Dashbo",
+      "description": "Battling outdated admin design or coding simple dashboards. Introducing MaterialM Django Admin Template is your shortcut to launching professional web...",
+      "url": "https://dev.to/wrap-pixel/meet-materialm-open-source-django-admin-template-that-will-transform-your-dashboards-1ljg",
+      "date": "2025-12-01T06:27:18.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "Stifel Modern Data Platform",
-      "description": "Speaker: Martin Nieuwoudt, Hossein Johari, Srinivas Kandi, Amit Maindola @ AWS FSI Meetup 2025 Q4 Stifel Overview: Around 10,000 associates across Nor...",
-      "url": "https://dev.to/elianalamhost/stifel-modern-data-platform-3i7i",
-      "date": "2025-11-30T06:14:40.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "django",
+        "python"
       ],
       "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "LocalStorage vs SessionStorage vs Cookies — When to Use What?",
-      "description": "Modern web apps store a lot of data in the browser — user preferences, tokens, UI states, cart items, and even feature flags. But which storage should...",
-      "url": "https://dev.to/manukumar07/localstorage-vs-sessionstorage-vs-cookies-when-to-use-what-4l6i",
-      "date": "2025-11-30T06:14:03.000Z",
+      "title": "Enhancing Markdown Image Handling in Astro",
+      "description": "Introduction After writing new content, committing the markdown, and pushing to GitHub, my Astro build pipeline runs. Since my site is built with Astr...",
+      "url": "https://dev.to/logarithmicspirals/enhancing-markdown-image-handling-in-astro-35pg",
+      "date": "2025-12-01T06:23:09.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "astro",
+        "markdown",
+        "webdev"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "Handling Lingering Conversations Gracefully in Microsoft Copilot Studio",
+      "description": "Intro: Sessions lingering indefinitely after the final message. These issues weren’t just technical annoyances — they impacted user experience, compli...",
+      "url": "https://dev.to/balagmadhu/handling-lingering-conversations-gracefully-in-microsoft-copilot-studio-3m",
+      "date": "2025-12-01T06:21:26.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "copilotstudio",
+        "systemdesign",
+        "powerfuldevs"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
+      "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re ...",
+      "url": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
+      "date": "2025-11-30T09:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
         "webdev",
         "javascript",
-        "frontend"
+        "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -163,21 +179,6 @@
       "priority": 2
     },
     {
-      "title": "On Inheriting and Sharing Property Values",
-      "description": "There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child? On Inheriting and Sharin...",
-      "url": "https://css-tricks.com/on-inheriting-and-sharing-property-values/",
-      "date": "2025-11-24T14:22:30.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "cascade",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Designing For Stress And Emergency",
       "description": "Practical guidelines on designing time-critical products that prevent errors and improve accuracy. Part of the Measure UX & Design Impact (use the cod...",
       "url": "https://smashingmagazine.com/2025/11/designing-for-stress-emergency/",
@@ -188,66 +189,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Sketch: A guided tour of Copenhagen",
-      "description": "Sketch probably didn't \"have\" to redesign its UI to line up with macOS Tahoe, but a big part of its appeal is the fact that it feels like it totally b...",
-      "url": "https://css-tricks.com/sketch-a-guided-tour-of-copenhagen/",
-      "date": "2025-11-21T18:53:05.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "designtools",
-        "uiixdesign"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Keyframes Tokens: Standardizing Animation Across Projects",
-      "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frust...",
-      "url": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
-      "date": "2025-11-21T08:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Should We Even Have :closed?",
-      "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a t...",
-      "url": "https://css-tricks.com/should-we-even-have-closed/",
-      "date": "2025-11-20T15:10:26.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "csswg",
-        "selectors"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
-      "description": "If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric fun...",
-      "url": "https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/",
-      "date": "2025-11-17T14:47:54.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "math",
-        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -281,6 +222,58 @@
       ],
       "readTime": "6 min read",
       "priority": 2
+    },
+    {
+      "title": "An Holistic Framework for Shared Design Leadership",
+      "description": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design pro...",
+      "url": "\n\t\t\t\t\thttps://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/\t\t\t\t",
+      "date": "2025-07-23T14:10:22.000Z",
+      "category": "Web Dev",
+      "source": "A List Apart",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "From Beta to Bedrock: Build Products that Stick.",
+      "description": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few we...",
+      "url": "\n\t\t\t\t\thttps://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/\t\t\t\t",
+      "date": "2025-04-23T18:04:31.000Z",
+      "category": "Web Dev",
+      "source": "A List Apart",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Algorithms visualized and demonstrated in JavaScript",
+      "description": "#​763 — November 28, 2025 Read on the Web JavaScript Weekly Over 150 Algorithms and Data Structures Demonstrated in JS — Examples of many common algor...",
+      "url": "https://javascriptweekly.com/issues/763",
+      "date": "2025-11-28T00:00:00.000Z",
+      "category": "JavaScript",
+      "source": "JavaScript Weekly",
+      "tags": [],
+      "readTime": "7 min read",
+      "priority": 3
+    },
+    {
+      "title": "A significant Angular release",
+      "description": "#​762 — November 21, 2025 Read on the Web JavaScript Weekly Google Announces Angular v21 — The Google team has gone all out with this significant rele...",
+      "url": "https://javascriptweekly.com/issues/762",
+      "date": "2025-11-21T00:00:00.000Z",
+      "category": "JavaScript",
+      "source": "JavaScript Weekly",
+      "tags": [],
+      "readTime": "6 min read",
+      "priority": 3
     }
   ]
 }
