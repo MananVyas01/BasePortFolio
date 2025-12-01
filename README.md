@@ -23,4 +23,4 @@
 
 ---
 
-📅 Auto-updated: 11/24/2025
+📅 Auto-updated: 12/1/2025
