@@ -1,19 +1,33 @@
 {
-  "lastUpdated": "2025-12-01T06:35:26.934Z",
+  "lastUpdated": "2025-12-02T06:34:10.678Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
-    "Web Dev",
-    "JavaScript"
+    "Web Dev"
   ],
   "sources": [
     "GitHub Blog",
     "Dev.to",
+    "CSS-Tricks",
     "Smashing Magazine",
-    "A List Apart",
-    "JavaScript Weekly"
+    "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How to orchestrate agents using mission control",
+      "description": "Run multiple Copilot agents from one place. Learn prompt techniques, how to spot drift early, and how to review agent work efficiently. The post How t...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/",
+      "date": "2025-12-01T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "aiagents"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "The ultimate gift guide for the developer in your life",
       "description": "Finding the perfect gift for your favorite developer is easy with our top tips. The post The ultimate gift guide for the developer in your life appear...",
@@ -60,75 +74,76 @@
       "priority": 1
     },
     {
-      "title": "Developers still need the right to challenge junk patents",
-      "description": "Calling on developers, startups, and open source organizations to advocate against patent rules that would make it harder to challenge bad patents by ...",
-      "url": "https://github.blog/news-insights/policy-news-and-insights/developers-still-need-the-right-to-challenge-junk-patents/",
-      "date": "2025-11-24T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "newsinsights",
-        "policy"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Building Real-Time Voice Learning with VAPI: WebRTC + AI Tutors",
-      "description": "Text-based learning apps are passive. I wanted students to have real conversations with AI tutors—natural voice interactions where they could ask ques...",
-      "url": "https://dev.to/chayan-1906/building-real-time-voice-learning-with-vapi-webrtc-ai-tutors-1l9o",
-      "date": "2025-12-01T06:30:37.000Z",
+      "title": "5 Physics Systems You Can Build in Scratch (With Working Code)",
+      "description": "Physics transforms boring games into engaging experiences. Here are 5 systems you can build in Scratch today. Physics simulates real-world forces: Gra...",
+      "url": "https://dev.to/itsmybot/5-physics-systems-you-can-build-in-scratch-with-working-code-260k",
+      "date": "2025-12-02T06:21:30.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "nextjs",
-        "ai",
-        "webrtc"
+        "scratch",
+        "gamedev",
+        "tutorial"
       ],
-      "readTime": "9 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Meet MaterialM Open Source Django Admin Template That Will Transform Your Dashbo",
-      "description": "Battling outdated admin design or coding simple dashboards. Introducing MaterialM Django Admin Template is your shortcut to launching professional web...",
-      "url": "https://dev.to/wrap-pixel/meet-materialm-open-source-django-admin-template-that-will-transform-your-dashboards-1ljg",
-      "date": "2025-12-01T06:27:18.000Z",
+      "title": "Building a Kiroween Avatar Maker with Kiro 👻 + 4S Playbook",
+      "description": "Github Link: https://github.com/moolmin/kiro-avatar-creator https://kiroween-avatar.vercel.app/ Hackathons make you choose: ship fast or ship clean. I...",
+      "url": "https://dev.to/moolmin/building-a-kiroween-avatar-maker-with-kiro-4s-playbook-12jk",
+      "date": "2025-12-02T06:20:06.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "kiro",
+        "webdev",
+        "javascript"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Web development roadmap",
+      "description": "1️⃣ Basics of Web & How the Internet Works ├── What is a website? ├── How browsers & servers communicate (HTTP/HTTPS) ├── DNS, Hosting, Domain basics ...",
+      "url": "https://dev.to/ssekabirarobertsims/web-development-roadmap-7o2",
+      "date": "2025-12-02T06:19:46.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "django",
-        "python"
+        "ai",
+        "programming"
       ],
-      "readTime": "5 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Enhancing Markdown Image Handling in Astro",
-      "description": "Introduction After writing new content, committing the markdown, and pushing to GitHub, my Astro build pipeline runs. Since my site is built with Astr...",
-      "url": "https://dev.to/logarithmicspirals/enhancing-markdown-image-handling-in-astro-35pg",
-      "date": "2025-12-01T06:23:09.000Z",
+      "title": "19,400+ GitHub Stars: This Free WAF Is on Fire",
+      "description": "Tired of constantly maintaining endless regex rules in traditional WAFs? Say hello to SafeLine, a free, open-source Web Application Firewall (WAF) tha...",
+      "url": "https://dev.to/arina_cholee/19400-github-stars-this-free-waf-is-on-fire-1lf1",
+      "date": "2025-12-02T06:15:58.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "astro",
-        "markdown",
-        "webdev"
+        "websecurity",
+        "cybersecurity",
+        "waf"
       ],
-      "readTime": "7 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Handling Lingering Conversations Gracefully in Microsoft Copilot Studio",
-      "description": "Intro: Sessions lingering indefinitely after the final message. These issues weren’t just technical annoyances — they impacted user experience, compli...",
-      "url": "https://dev.to/balagmadhu/handling-lingering-conversations-gracefully-in-microsoft-copilot-studio-3m",
-      "date": "2025-12-01T06:21:26.000Z",
+      "title": "Prevent a page from scrolling while a dialog is open",
+      "description": "Bramus: Chrome 144 features a small change to overscroll-behavior: it now also works on non-scrollable scroll containers. While this change might seem...",
+      "url": "https://css-tricks.com/prevent-a-page-from-scrolling-while-a-dialog-is-open/",
+      "date": "2025-12-01T17:25:28.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "copilotstudio",
-        "systemdesign",
-        "powerfuldevs"
+        "links",
+        "cssproperties",
+        "dialog"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -179,6 +194,21 @@
       "priority": 2
     },
     {
+      "title": "On Inheriting and Sharing Property Values",
+      "description": "There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child? On Inheriting and Sharin...",
+      "url": "https://css-tricks.com/on-inheriting-and-sharing-property-values/",
+      "date": "2025-11-24T14:22:30.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "cascade",
+        "webdev"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
       "title": "Designing For Stress And Emergency",
       "description": "Practical guidelines on designing time-critical products that prevent errors and improve accuracy. Part of the Measure UX & Design Impact (use the cod...",
       "url": "https://smashingmagazine.com/2025/11/designing-for-stress-emergency/",
@@ -189,6 +219,36 @@
         "webdev",
         "javascript",
         "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Sketch: A guided tour of Copenhagen",
+      "description": "Sketch probably didn't \"have\" to redesign its UI to line up with macOS Tahoe, but a big part of its appeal is the fact that it feels like it totally b...",
+      "url": "https://css-tricks.com/sketch-a-guided-tour-of-copenhagen/",
+      "date": "2025-11-21T18:53:05.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "links",
+        "designtools",
+        "uiixdesign"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Should We Even Have :closed?",
+      "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a t...",
+      "url": "https://css-tricks.com/should-we-even-have-closed/",
+      "date": "2025-11-20T15:10:26.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "csswg",
+        "selectors"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -222,58 +282,6 @@
       ],
       "readTime": "6 min read",
       "priority": 2
-    },
-    {
-      "title": "An Holistic Framework for Shared Design Leadership",
-      "description": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design pro...",
-      "url": "\n\t\t\t\t\thttps://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/\t\t\t\t",
-      "date": "2025-07-23T14:10:22.000Z",
-      "category": "Web Dev",
-      "source": "A List Apart",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "9 min read",
-      "priority": 2
-    },
-    {
-      "title": "From Beta to Bedrock: Build Products that Stick.",
-      "description": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few we...",
-      "url": "\n\t\t\t\t\thttps://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/\t\t\t\t",
-      "date": "2025-04-23T18:04:31.000Z",
-      "category": "Web Dev",
-      "source": "A List Apart",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "Algorithms visualized and demonstrated in JavaScript",
-      "description": "#​763 — November 28, 2025 Read on the Web JavaScript Weekly Over 150 Algorithms and Data Structures Demonstrated in JS — Examples of many common algor...",
-      "url": "https://javascriptweekly.com/issues/763",
-      "date": "2025-11-28T00:00:00.000Z",
-      "category": "JavaScript",
-      "source": "JavaScript Weekly",
-      "tags": [],
-      "readTime": "7 min read",
-      "priority": 3
-    },
-    {
-      "title": "A significant Angular release",
-      "description": "#​762 — November 21, 2025 Read on the Web JavaScript Weekly Google Announces Angular v21 — The Google team has gone all out with this significant rele...",
-      "url": "https://javascriptweekly.com/issues/762",
-      "date": "2025-11-21T00:00:00.000Z",
-      "category": "JavaScript",
-      "source": "JavaScript Weekly",
-      "tags": [],
-      "readTime": "6 min read",
-      "priority": 3
     }
   ]
 }
