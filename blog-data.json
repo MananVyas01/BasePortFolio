@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-02T06:34:10.678Z",
+  "lastUpdated": "2025-12-03T06:34:00.584Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "“The local-first rebellion”: How Home Assistant became the most important projec",
+      "description": "Learn how one of GitHub’s fastest-growing open source projects is redefining smart homes without the cloud. The post “The local-first rebellion”: How ...",
+      "url": "https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/",
+      "date": "2025-12-02T17:19:32.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "maintainers",
+        "octoverse",
+        "opensource"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How to orchestrate agents using mission control",
       "description": "Run multiple Copilot agents from one place. Learn prompt techniques, how to spot drift early, and how to review agent work efficiently. The post How t...",
@@ -59,78 +74,93 @@
       "priority": 1
     },
     {
-      "title": "How GitHub’s agentic security principles make our AI agents as secure as possibl",
-      "description": "Learn more about the agentic security principles that we use to build secure AI products—and how you can apply them to your own agents. The post How G...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-githubs-agentic-security-principles-make-our-ai-agents-as-secure-as-possible/",
-      "date": "2025-11-25T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "agenticai"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "5 Physics Systems You Can Build in Scratch (With Working Code)",
-      "description": "Physics transforms boring games into engaging experiences. Here are 5 systems you can build in Scratch today. Physics simulates real-world forces: Gra...",
-      "url": "https://dev.to/itsmybot/5-physics-systems-you-can-build-in-scratch-with-working-code-260k",
-      "date": "2025-12-02T06:21:30.000Z",
+      "title": "Next.js + Supabase Project Structure for Indie Development",
+      "description": "This is Day 3 of the Building a SaaS Solo - Design, Implementation, and Operations Advent Calendar 2025. Yesterday's article covered \"Tech Selection f...",
+      "url": "https://dev.to/pipipi-dev/nextjs-supabase-project-structure-for-indie-development-36od",
+      "date": "2025-12-03T06:26:48.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "scratch",
-        "gamedev",
-        "tutorial"
+        "indiedev",
+        "nextjs",
+        "supabase"
       ],
       "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Building a Kiroween Avatar Maker with Kiro 👻 + 4S Playbook",
-      "description": "Github Link: https://github.com/moolmin/kiro-avatar-creator https://kiroween-avatar.vercel.app/ Hackathons make you choose: ship fast or ship clean. I...",
-      "url": "https://dev.to/moolmin/building-a-kiroween-avatar-maker-with-kiro-4s-playbook-12jk",
-      "date": "2025-12-02T06:20:06.000Z",
+      "title": "The Future of Data Engineering: Automation, AI, and Code-Free Solutions",
+      "description": "Data engineering is evolving rapidly. Automation, artificial intelligence (AI), and low-code/no-code platforms are reshaping how organizations collect...",
+      "url": "https://dev.to/riparna_roychowdhury_0d2/the-future-of-data-engineering-automation-ai-and-code-free-solutions-jbd",
+      "date": "2025-12-03T06:25:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "kiro",
-        "webdev",
-        "javascript"
+        "aws",
+        "databricks",
+        "ai"
       ],
-      "readTime": "3 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Web development roadmap",
-      "description": "1️⃣ Basics of Web & How the Internet Works ├── What is a website? ├── How browsers & servers communicate (HTTP/HTTPS) ├── DNS, Hosting, Domain basics ...",
-      "url": "https://dev.to/ssekabirarobertsims/web-development-roadmap-7o2",
-      "date": "2025-12-02T06:19:46.000Z",
+      "title": "Introducing Uatu - An AI-Powered System Troubleshooting",
+      "description": "Uatu is an AI agent that troubleshoots your servers using Claude. It connects symptoms across CPU, memory, network, and disk to find root causes. $ ua...",
+      "url": "https://dev.to/mfund0/introducing-uatu-an-ai-powered-system-troubleshooting-5a84",
+      "date": "2025-12-03T06:21:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
+        "showdev",
         "ai",
-        "programming"
+        "sysadmin"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "19,400+ GitHub Stars: This Free WAF Is on Fire",
-      "description": "Tired of constantly maintaining endless regex rules in traditional WAFs? Say hello to SafeLine, a free, open-source Web Application Firewall (WAF) tha...",
-      "url": "https://dev.to/arina_cholee/19400-github-stars-this-free-waf-is-on-fire-1lf1",
-      "date": "2025-12-02T06:15:58.000Z",
+      "title": "We Open-Sourced Our Marketing Playbook—Feel Free to Steal It, Sell It, or Feed I",
+      "description": "Most “free” marketing resources come with invisible strings. UpMails started in 2024 as an internal wiki for our micro-agency VectorForge. Every time ...",
+      "url": "https://dev.to/alexandru_danieldimitres/we-open-sourced-our-marketing-playbook-feel-free-to-steal-it-sell-it-or-feed-it-to-your-ai-3ff1",
+      "date": "2025-12-03T06:16:03.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "websecurity",
-        "cybersecurity",
-        "waf"
+        "seo",
+        "marketing",
+        "webdev"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Scrollytelling on Steroids With Scroll-State Queries",
+      "description": "Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling. Scrollytelling ...",
+      "url": "https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/",
+      "date": "2025-12-02T16:47:14.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "scrolldrivenanimation",
+        "webdev"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Masonry: Things You Won’t Need A Library For Anymore",
+      "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use ...",
+      "url": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
+      "date": "2025-12-02T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -209,21 +239,6 @@
       "priority": 2
     },
     {
-      "title": "Designing For Stress And Emergency",
-      "description": "Practical guidelines on designing time-critical products that prevent errors and improve accuracy. Part of the Measure UX & Design Impact (use the cod...",
-      "url": "https://smashingmagazine.com/2025/11/designing-for-stress-emergency/",
-      "date": "2025-11-24T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Sketch: A guided tour of Copenhagen",
       "description": "Sketch probably didn't \"have\" to redesign its UI to line up with macOS Tahoe, but a big part of its appeal is the fact that it feels like it totally b...",
       "url": "https://css-tricks.com/sketch-a-guided-tour-of-copenhagen/",
@@ -234,21 +249,6 @@
         "links",
         "designtools",
         "uiixdesign"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Should We Even Have :closed?",
-      "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a t...",
-      "url": "https://css-tricks.com/should-we-even-have-closed/",
-      "date": "2025-11-20T15:10:26.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "csswg",
-        "selectors"
       ],
       "readTime": "1 min read",
       "priority": 2
