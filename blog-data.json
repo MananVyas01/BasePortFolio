@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-03T06:34:00.584Z",
+  "lastUpdated": "2025-12-04T06:34:03.096Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Your stack, your rules: Introducing custom agents in GitHub Copilot for observab",
+      "description": "Use partner-built Copilot agents to debug, secure, and automate engineering workflows across your terminal, editor, and github.com. The post Your stac...",
+      "url": "https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/",
+      "date": "2025-12-03T17:00:45.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "githubcopilot"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "“The local-first rebellion”: How Home Assistant became the most important projec",
       "description": "Learn how one of GitHub’s fastest-growing open source projects is redefining smart homes without the cloud. The post “The local-first rebellion”: How ...",
@@ -59,78 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Why developers still flock to Python: Guido van Rossum on readability, AI, and t",
-      "description": "Discover how Python changed developer culture—and see why it keeps evolving. The post Why developers still flock to Python: Guido van Rossum on readab...",
-      "url": "https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/",
-      "date": "2025-11-25T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "developerskills",
-        "newsinsights",
-        "octoverse"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Next.js + Supabase Project Structure for Indie Development",
-      "description": "This is Day 3 of the Building a SaaS Solo - Design, Implementation, and Operations Advent Calendar 2025. Yesterday's article covered \"Tech Selection f...",
-      "url": "https://dev.to/pipipi-dev/nextjs-supabase-project-structure-for-indie-development-36od",
-      "date": "2025-12-03T06:26:48.000Z",
+      "title": "A Single .NET Codebase, Three Platforms, One Stunning UI - Smart Café",
+      "description": "This is a submission for the AI Challenge for Cross-Platform Apps — WOW Factor. I built a cross-platform app called Smart Café, a coffee-shop themed a...",
+      "url": "https://dev.to/aditya_kumar_ai00/a-single-net-codebase-three-platforms-one-stunning-ui-smart-cafe-1dhi",
+      "date": "2025-12-04T06:25:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "indiedev",
-        "nextjs",
-        "supabase"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Future of Data Engineering: Automation, AI, and Code-Free Solutions",
-      "description": "Data engineering is evolving rapidly. Automation, artificial intelligence (AI), and low-code/no-code platforms are reshaping how organizations collect...",
-      "url": "https://dev.to/riparna_roychowdhury_0d2/the-future-of-data-engineering-automation-ai-and-code-free-solutions-jbd",
-      "date": "2025-12-03T06:25:23.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "aws",
-        "databricks",
-        "ai"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "Introducing Uatu - An AI-Powered System Troubleshooting",
-      "description": "Uatu is an AI agent that troubleshoots your servers using Claude. It connects symptoms across CPU, memory, network, and disk to find root causes. $ ua...",
-      "url": "https://dev.to/mfund0/introducing-uatu-an-ai-powered-system-troubleshooting-5a84",
-      "date": "2025-12-03T06:21:31.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "showdev",
-        "ai",
-        "sysadmin"
+        "devchallenge",
+        "unoplatformchallenge",
+        "dotnet"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "We Open-Sourced Our Marketing Playbook—Feel Free to Steal It, Sell It, or Feed I",
-      "description": "Most “free” marketing resources come with invisible strings. UpMails started in 2024 as an internal wiki for our micro-agency VectorForge. Every time ...",
-      "url": "https://dev.to/alexandru_danieldimitres/we-open-sourced-our-marketing-playbook-feel-free-to-steal-it-sell-it-or-feed-it-to-your-ai-3ff1",
-      "date": "2025-12-03T06:16:03.000Z",
+      "title": "Part 3: Accelerating Calculations using GPU",
+      "description": "The success of the logistic regression gave me a confidence boost, but the program's performance felt like a punch to the gut. The naive matrix multip...",
+      "url": "https://dev.to/palash90/building-a-ml-library-from-scratch-in-rust-part-3-accelerating-calculations-from-cpu-to-gpu-with-270d",
+      "date": "2025-12-04T06:23:46.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "seo",
-        "marketing",
-        "webdev"
+        "devjournal",
+        "rust",
+        "cuda"
       ],
-      "readTime": "1 min read",
+      "readTime": "14 min read",
+      "priority": 2
+    },
+    {
+      "title": "Quarkus 3 application on AWS Lambda- Part 9 Measuring Lambda cold and warm start",
+      "description": "Introduction In the part 8 of this article series, we learned how to develop a pure Quarkus REST application and deploy it on AWS Lambda. We also meas...",
+      "url": "https://dev.to/vkazulkin/quarkus-3-application-on-aws-lambda-part-9-measuring-lambda-cold-and-warm-starts-with-graalvm-8d3",
+      "date": "2025-12-04T06:21:22.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "aws",
+        "java",
+        "serverless"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "I Built NimPacket, a Raw Packet Crafting Library in Nim, and It Turned Into One ",
+      "description": "For my cybersecurity masters work, I wanted to go deeper than running tools and reading packet captures. I wanted to understand what was happening ins...",
+      "url": "https://dev.to/0x57origin/i-built-nimpacket-a-raw-packet-crafting-library-in-nim-and-it-turned-into-one-of-my-best-cyber-1n0g",
+      "date": "2025-12-04T06:17:12.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "python",
+        "ai",
+        "programming"
+      ],
+      "readTime": "2 min read",
       "priority": 2
     },
     {
