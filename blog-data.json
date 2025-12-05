@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-04T06:34:03.096Z",
+  "lastUpdated": "2025-12-05T06:34:15.400Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How to use GitHub Copilot Spaces to debug issues faster",
+      "description": "Follow this step-by-step guide to learn how to debug your issues using GitHub Copilot Spaces and Copilot coding agent. The post How to use GitHub Copi...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/",
+      "date": "2025-12-04T20:35:36.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "githubcheckout"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Your stack, your rules: Introducing custom agents in GitHub Copilot for observab",
       "description": "Use partner-built Copilot agents to debug, secure, and automate engineering workflows across your terminal, editor, and github.com. The post Your stac...",
@@ -59,78 +74,78 @@
       "priority": 1
     },
     {
-      "title": "The ultimate gift guide for the developer in your life",
-      "description": "Finding the perfect gift for your favorite developer is easy with our top tips. The post The ultimate gift guide for the developer in your life appear...",
-      "url": "https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/",
-      "date": "2025-11-28T13:08:56.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "companynews",
-        "newsinsights",
-        "githubshop"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "A Single .NET Codebase, Three Platforms, One Stunning UI - Smart Café",
-      "description": "This is a submission for the AI Challenge for Cross-Platform Apps — WOW Factor. I built a cross-platform app called Smart Café, a coffee-shop themed a...",
-      "url": "https://dev.to/aditya_kumar_ai00/a-single-net-codebase-three-platforms-one-stunning-ui-smart-cafe-1dhi",
-      "date": "2025-12-04T06:25:00.000Z",
+      "title": "AWS re:Invent 2025 - Building agentic workflows for augmented observability (COP",
+      "description": "🦄 Making great presentations more accessible. 📖 AWS re:Invent 2025 - Building agentic workflows for augmented observability (COP405) In this video, ...",
+      "url": "https://dev.to/kazuya_dev/aws-reinvent-2025-building-agentic-workflows-for-augmented-observability-cop405-d2j",
+      "date": "2025-12-05T06:18:41.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devchallenge",
-        "unoplatformchallenge",
-        "dotnet"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "43 min read",
       "priority": 2
     },
     {
-      "title": "Part 3: Accelerating Calculations using GPU",
-      "description": "The success of the logistic regression gave me a confidence boost, but the program's performance felt like a punch to the gut. The naive matrix multip...",
-      "url": "https://dev.to/palash90/building-a-ml-library-from-scratch-in-rust-part-3-accelerating-calculations-from-cpu-to-gpu-with-270d",
-      "date": "2025-12-04T06:23:46.000Z",
+      "title": "[2025 Guide] Best AI Video Generators for TikTok: Unlock Viral Scale",
+      "description": "The average TikTok trend lasts roughly 72 hours. If your creative production cycle takes five days, you aren't just late—you're invisible. In 2025, th...",
+      "url": "https://dev.to/getkoro_app/2025-guide-best-ai-video-generators-for-tiktok-unlock-viral-scale-4nl5",
+      "date": "2025-12-05T06:17:32.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devjournal",
-        "rust",
-        "cuda"
-      ],
-      "readTime": "14 min read",
-      "priority": 2
-    },
-    {
-      "title": "Quarkus 3 application on AWS Lambda- Part 9 Measuring Lambda cold and warm start",
-      "description": "Introduction In the part 8 of this article series, we learned how to develop a pure Quarkus REST application and deploy it on AWS Lambda. We also meas...",
-      "url": "https://dev.to/vkazulkin/quarkus-3-application-on-aws-lambda-part-9-measuring-lambda-cold-and-warm-starts-with-graalvm-8d3",
-      "date": "2025-12-04T06:21:22.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "aws",
-        "java",
-        "serverless"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "I Built NimPacket, a Raw Packet Crafting Library in Nim, and It Turned Into One ",
-      "description": "For my cybersecurity masters work, I wanted to go deeper than running tools and reading packet captures. I wanted to understand what was happening ins...",
-      "url": "https://dev.to/0x57origin/i-built-nimpacket-a-raw-packet-crafting-library-in-nim-and-it-turned-into-one-of-my-best-cyber-1n0g",
-      "date": "2025-12-04T06:17:12.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "python",
+        "syndquickadsunlock",
         "ai",
+        "marketing"
+      ],
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "Five Days, Endless Possibilities: here is the five day summary and a capstone pr",
+      "description": "This is a summary of what I learned in five day intensive course with google Property The notebook provides a hands-on introduction to building AI Age...",
+      "url": "https://dev.to/wanga_peterotienopa106/five-days-endless-possibilities-here-is-the-five-day-summary-and-a-capstone-project-52ia",
+      "date": "2025-12-05T06:17:11.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "googleaichallenge",
+        "ai",
+        "agents"
+      ],
+      "readTime": "8 min read",
+      "priority": 2
+    },
+    {
+      "title": "Increasing Technical Onboarding Velocity for Your Engineering Team",
+      "description": "TLDR Problem: Engineers change teams frequently, and slow onboarding wastes everyone's time. Goal: Minimise the time between git clone and first meani...",
+      "url": "https://dev.to/joojodontoh/increasing-technical-onboarding-velocity-for-your-engineering-team-1lmo",
+      "date": "2025-12-05T06:16:26.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "devops",
+        "productivity",
         "programming"
       ],
-      "readTime": "2 min read",
+      "readTime": "24 min read",
+      "priority": 2
+    },
+    {
+      "title": "Getting Creative With “The Measure”",
+      "description": "A good measure makes reading text comfortable, while a bad one makes it more difficult. So, rather than allowing layout to dictate the measure, doesn’...",
+      "url": "https://css-tricks.com/getting-creative-with-the-measure/",
+      "date": "2025-12-04T14:04:52.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "containerqueries",
+        "layout"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -234,21 +249,6 @@
         "articles",
         "cascade",
         "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Sketch: A guided tour of Copenhagen",
-      "description": "Sketch probably didn't \"have\" to redesign its UI to line up with macOS Tahoe, but a big part of its appeal is the fact that it feels like it totally b...",
-      "url": "https://css-tricks.com/sketch-a-guided-tour-of-copenhagen/",
-      "date": "2025-11-21T18:53:05.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "designtools",
-        "uiixdesign"
       ],
       "readTime": "1 min read",
       "priority": 2
