@@ -1,17 +1,16 @@
 {
-  "lastUpdated": "2025-12-07T06:29:53.916Z",
+  "lastUpdated": "2025-12-08T06:36:34.363Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
-    "Web Dev",
-    "JavaScript"
+    "Web Dev"
   ],
   "sources": [
     "GitHub Blog",
     "Dev.to",
+    "CSS-Tricks",
     "Smashing Magazine",
-    "A List Apart",
-    "JavaScript Weekly"
+    "A List Apart"
   ],
   "posts": [
     {
@@ -75,63 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Building SaaS for Nigerian Traders: Technical Decisions Beyond the Stack",
-      "description": "When building MyTreda (an inventory system for Nigerian small businesses), I realized Western SaaS tutorials don't cover my users' reality. My traders...",
-      "url": "https://dev.to/tochukwu_dev/building-saas-for-nigerian-traders-technical-decisions-beyond-the-stack-m22",
-      "date": "2025-12-07T06:03:25.000Z",
+      "title": "Perl 🐪 Weekly #750 - Perl Advent Calendar 2025",
+      "description": "Originally published at Perl Weekly 750 Hi there, One of the most enjoyable yearly customs in the community, the Perl Advent Calendar 2025, is being i...",
+      "url": "https://dev.to/szabgab/perl-weekly-750-perl-advent-calendar-2025-1aga",
+      "date": "2025-12-08T06:26:48.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "nestjs",
-        "mongodb",
-        "saas"
+        "perl",
+        "news",
+        "programming"
       ],
-      "readTime": "9 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "The €82,000 Blind Spot That Almost Sank a SaaS Company",
-      "description": "The €82,000 Blind Spot That Almost Sank a SaaS Company Last Tuesday, Alex, founder of a mid-sized project management SaaS, stared at his Q3 revenue re...",
-      "url": "https://dev.to/tracksimple/the-eu82000-blind-spot-that-almost-sank-a-saas-company-4na6",
-      "date": "2025-12-07T06:02:48.000Z",
+      "title": "Bounds vs. Frame and can frame be less than bounds?",
+      "description": "Hello everyone, this is a continuation of the longread series on interview questions for iOS developer positions. Today, we'll discuss one of the freq...",
+      "url": "https://dev.to/alekseibarinov/bounds-vs-frame-and-can-frame-be-less-than-bounds-5ga0",
+      "date": "2025-12-08T06:20:12.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "guide",
-        "tracksimple",
-        "competitormonitoring"
+        "swift",
+        "ios",
+        "mobile"
       ],
-      "readTime": "5 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Is Tailwind actually slow?",
-      "description": "Tailwind managed to conquer the hearts of many developers and at the same time become the most despised CSS framework for many others. People love and...",
-      "url": "https://dev.to/yoskutik/is-tailwind-actually-slow-533d",
-      "date": "2025-12-07T06:00:00.000Z",
+      "title": "Chatbot vs Agent : Understanding the Architecture, Tools and Memory Layer",
+      "description": "We’ve reached a point in AI where the word agent is being applied to almost anything. Every product claims to be an agent: support bots, prompt templa...",
+      "url": "https://dev.to/yeahiasarker/chatbot-vs-agent-understanding-the-architecture-tools-and-memory-layer-3gop",
+      "date": "2025-12-08T06:18:03.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
         "javascript",
-        "frontend"
+        "css"
       ],
-      "readTime": "13 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "GPUI Component: Because Desktop Apps Shouldn't Make You Cry",
-      "description": "GPUI Component is a Rust library that brings 60+ ready-to-use UI components to desktop development, combining the performance of native apps with Reac...",
-      "url": "https://dev.to/dev-tngsh/gpui-component-because-desktop-apps-shouldnt-make-you-cry-pkp",
-      "date": "2025-12-07T06:00:00.000Z",
+      "title": "Where Art Meets Identity A Local’s Guide to Getting a Tattoo in Croydon",
+      "description": "Choosing where to get a tattoo is more than just picking a studio—it's choosing who you trust with something permanent, personal, and often deeply mea...",
+      "url": "https://dev.to/nsdtattoo/where-art-meets-identity-a-locals-guide-to-getting-a-tattoo-in-croydon-oon",
+      "date": "2025-12-08T06:17:59.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "performance",
-        "rust",
-        "ui"
+        "tattoo",
+        "tattoostudio",
+        "webdev"
       ],
-      "readTime": "7 min read",
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "HTML Web Components Proposal From 1998",
+      "description": "It's easy to think of HTML Web Components as a recent feature, but it has roots that go all the way back to 1998. HTML Web Components Proposal From 19...",
+      "url": "https://css-tricks.com/html-web-components-proposal-from-1998/",
+      "date": "2025-12-05T18:16:48.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "links",
+        "webcomponents",
+        "webdev"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -150,6 +164,36 @@
       "priority": 2
     },
     {
+      "title": "Getting Creative With “The Measure”",
+      "description": "A good measure makes reading text comfortable, while a bad one makes it more difficult. So, rather than allowing layout to dictate the measure, doesn’...",
+      "url": "https://css-tricks.com/getting-creative-with-the-measure/",
+      "date": "2025-12-04T14:04:52.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "containerqueries",
+        "layout"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Scrollytelling on Steroids With Scroll-State Queries",
+      "description": "Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling. Scrollytelling ...",
+      "url": "https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/",
+      "date": "2025-12-02T16:47:14.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "scrolldrivenanimation",
+        "webdev"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
       "title": "Masonry: Things You Won’t Need A Library For Anymore",
       "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use ...",
       "url": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
@@ -160,6 +204,21 @@
         "webdev",
         "javascript",
         "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Prevent a page from scrolling while a dialog is open",
+      "description": "Bramus: Chrome 144 features a small change to overscroll-behavior: it now also works on non-scrollable scroll containers. While this change might seem...",
+      "url": "https://css-tricks.com/prevent-a-page-from-scrolling-while-a-dialog-is-open/",
+      "date": "2025-12-01T17:25:28.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "links",
+        "cssproperties",
+        "dialog"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -223,58 +282,6 @@
       ],
       "readTime": "6 min read",
       "priority": 2
-    },
-    {
-      "title": "An Holistic Framework for Shared Design Leadership",
-      "description": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design pro...",
-      "url": "\n\t\t\t\t\thttps://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/\t\t\t\t",
-      "date": "2025-07-23T14:10:22.000Z",
-      "category": "Web Dev",
-      "source": "A List Apart",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "9 min read",
-      "priority": 2
-    },
-    {
-      "title": "From Beta to Bedrock: Build Products that Stick.",
-      "description": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few we...",
-      "url": "\n\t\t\t\t\thttps://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/\t\t\t\t",
-      "date": "2025-04-23T18:04:31.000Z",
-      "category": "Web Dev",
-      "source": "A List Apart",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "What's the story? JavaScript's 30!",
-      "description": "#​764 — December 5, 2025 Read on the Web JavaScript Weekly 🎉 JavaScript Turns 30 Years Old 🎉 Back in May 1995, a 33 year old Brendan Eich built the ...",
-      "url": "https://javascriptweekly.com/issues/764",
-      "date": "2025-12-05T00:00:00.000Z",
-      "category": "JavaScript",
-      "source": "JavaScript Weekly",
-      "tags": [],
-      "readTime": "6 min read",
-      "priority": 3
-    },
-    {
-      "title": "Algorithms visualized and demonstrated in JavaScript",
-      "description": "#​763 — November 28, 2025 Read on the Web JavaScript Weekly Over 150 Algorithms and Data Structures Demonstrated in JS — Examples of many common algor...",
-      "url": "https://javascriptweekly.com/issues/763",
-      "date": "2025-11-28T00:00:00.000Z",
-      "category": "JavaScript",
-      "source": "JavaScript Weekly",
-      "tags": [],
-      "readTime": "7 min read",
-      "priority": 3
     }
   ]
 }
