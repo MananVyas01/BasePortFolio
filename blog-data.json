@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T06:36:34.363Z",
+  "lastUpdated": "2025-12-09T06:34:37.897Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "The new identity of a developer: What changes and what doesn’t in the AI era",
+      "description": "Discover how advanced AI users are redefining software development—shifting from code producers to strategic orchestrators—through delegation, verific...",
+      "url": "https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/",
+      "date": "2025-12-08T18:15:17.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "newsinsights",
+        "octoverse",
+        "ai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How to use GitHub Copilot Spaces to debug issues faster",
       "description": "Follow this step-by-step guide to learn how to debug your issues using GitHub Copilot Spaces and Copilot coding agent. The post How to use GitHub Copi...",
@@ -59,55 +74,25 @@
       "priority": 1
     },
     {
-      "title": "How to orchestrate agents using mission control",
-      "description": "Run multiple Copilot agents from one place. Learn prompt techniques, how to spot drift early, and how to review agent work efficiently. The post How t...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/",
-      "date": "2025-12-01T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "aiagents"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Perl 🐪 Weekly #750 - Perl Advent Calendar 2025",
-      "description": "Originally published at Perl Weekly 750 Hi there, One of the most enjoyable yearly customs in the community, the Perl Advent Calendar 2025, is being i...",
-      "url": "https://dev.to/szabgab/perl-weekly-750-perl-advent-calendar-2025-1aga",
-      "date": "2025-12-08T06:26:48.000Z",
+      "title": "🚨 Why Social Media Feels So Harsh: Observations from Facebook",
+      "description": "Facebook has become one of the most widely used platforms for sharing ideas and opinions. But over the years, I’ve noticed a worrying trend: conversat...",
+      "url": "https://dev.to/janithadhananjaya/why-social-media-feels-so-harsh-observations-from-facebook-60c",
+      "date": "2025-12-09T06:19:53.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "perl",
-        "news",
-        "programming"
+        "socialmedia",
+        "productivity",
+        "mentalhealth"
       ],
-      "readTime": "6 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Bounds vs. Frame and can frame be less than bounds?",
-      "description": "Hello everyone, this is a continuation of the longread series on interview questions for iOS developer positions. Today, we'll discuss one of the freq...",
-      "url": "https://dev.to/alekseibarinov/bounds-vs-frame-and-can-frame-be-less-than-bounds-5ga0",
-      "date": "2025-12-08T06:20:12.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "swift",
-        "ios",
-        "mobile"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Chatbot vs Agent : Understanding the Architecture, Tools and Memory Layer",
-      "description": "We’ve reached a point in AI where the word agent is being applied to almost anything. Every product claims to be an agent: support bots, prompt templa...",
-      "url": "https://dev.to/yeahiasarker/chatbot-vs-agent-understanding-the-architecture-tools-and-memory-layer-3gop",
-      "date": "2025-12-08T06:18:03.000Z",
+      "title": "Message Trace in Microsoft 365",
+      "description": "Microsoft 365 Message Trace in Microsoft 365 Message Trace in Microsoft 365 is a valuable tool for investigating email delivery issues, tracking messa...",
+      "url": "https://dev.to/itcs11/message-trace-in-microsoft-365-78o",
+      "date": "2025-12-09T06:19:29.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -115,22 +100,67 @@
         "javascript",
         "css"
       ],
-      "readTime": "4 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Where Art Meets Identity A Local’s Guide to Getting a Tattoo in Croydon",
-      "description": "Choosing where to get a tattoo is more than just picking a studio—it's choosing who you trust with something permanent, personal, and often deeply mea...",
-      "url": "https://dev.to/nsdtattoo/where-art-meets-identity-a-locals-guide-to-getting-a-tattoo-in-croydon-oon",
-      "date": "2025-12-08T06:17:59.000Z",
+      "title": "Can I Mix & Match Different Keycap Sets?",
+      "description": "When it involves personalizing mechanical keyboards, among one of the most exciting facets is the opportunity to mix and match various keycap sets. Ye...",
+      "url": "https://dev.to/mysticcoder/can-i-mix-match-different-keycap-sets-31od",
+      "date": "2025-12-09T06:19:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "tattoo",
-        "tattoostudio",
+        "keycap",
+        "webdev",
+        "javascript"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Jupyter Notebook Cheatsheet",
+      "description": "Jumpstart the Jupyter Notebook productivity with essential shortcuts, magic commands, and workflow tips that will transform your data science and deve...",
+      "url": "https://dev.to/rosgluk/jupyter-notebook-cheatsheet-h8k",
+      "date": "2025-12-09T06:11:26.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "python",
+        "cheatsheet",
+        "dev"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece",
+      "description": "I would like to tell you what I learned from a five-year old child about HTML and CSS. It’s funny how explaining something you do almost naturally tea...",
+      "url": "https://css-tricks.com/that-time-i-tried-explaining-html-and-css-to-my-5-year-old-niece/",
+      "date": "2025-12-08T14:45:43.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "learning",
         "webdev"
       ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "How UX Professionals Can Lead AI Strategy",
+      "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation....",
+      "url": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
+      "date": "2025-12-08T08:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -209,40 +239,10 @@
       "priority": 2
     },
     {
-      "title": "Prevent a page from scrolling while a dialog is open",
-      "description": "Bramus: Chrome 144 features a small change to overscroll-behavior: it now also works on non-scrollable scroll containers. While this change might seem...",
-      "url": "https://css-tricks.com/prevent-a-page-from-scrolling-while-a-dialog-is-open/",
-      "date": "2025-12-01T17:25:28.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "cssproperties",
-        "dialog"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
       "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re ...",
       "url": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
       "date": "2025-11-30T09:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
-      "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many...",
-      "url": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
-      "date": "2025-11-27T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
