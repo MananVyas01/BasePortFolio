@@ -1,18 +1,49 @@
 {
-  "lastUpdated": "2025-12-09T06:34:37.897Z",
+  "lastUpdated": "2025-12-10T06:35:52.024Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
-    "Web Dev"
+    "Web Dev",
+    "JavaScript"
   ],
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
-    "A List Apart"
+    "A List Apart",
+    "JavaScript Weekly"
   ],
   "posts": [
+    {
+      "title": "MCP joins the Linux Foundation: What this means for developers building the next",
+      "description": "MCP is moving to the Linux Foundation. Here's how that will affect developers. The post MCP joins the Linux Foundation: What this means for developers...",
+      "url": "https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/",
+      "date": "2025-12-09T21:00:13.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "maintainers",
+        "opensource",
+        "agenticai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Speed is nothing without control: How to keep quality high in the AI era",
+      "description": "AI can help you build faster than ever, but it can also produce bugs, issues, and problems. Use these strategies to keep your speed without losing con...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/",
+      "date": "2025-12-09T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "generativeai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "The new identity of a developer: What changes and what doesn’t in the AI era",
       "description": "Discover how advanced AI users are redefining software development—shifting from code producers to strategic orchestrators—through delegation, verific...",
@@ -44,55 +75,10 @@
       "priority": 1
     },
     {
-      "title": "Your stack, your rules: Introducing custom agents in GitHub Copilot for observab",
-      "description": "Use partner-built Copilot agents to debug, secure, and automate engineering workflows across your terminal, editor, and github.com. The post Your stac...",
-      "url": "https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/",
-      "date": "2025-12-03T17:00:45.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "generativeai",
-        "githubcopilot"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "“The local-first rebellion”: How Home Assistant became the most important projec",
-      "description": "Learn how one of GitHub’s fastest-growing open source projects is redefining smart homes without the cloud. The post “The local-first rebellion”: How ...",
-      "url": "https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/",
-      "date": "2025-12-02T17:19:32.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "maintainers",
-        "octoverse",
-        "opensource"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "🚨 Why Social Media Feels So Harsh: Observations from Facebook",
-      "description": "Facebook has become one of the most widely used platforms for sharing ideas and opinions. But over the years, I’ve noticed a worrying trend: conversat...",
-      "url": "https://dev.to/janithadhananjaya/why-social-media-feels-so-harsh-observations-from-facebook-60c",
-      "date": "2025-12-09T06:19:53.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "socialmedia",
-        "productivity",
-        "mentalhealth"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Message Trace in Microsoft 365",
-      "description": "Microsoft 365 Message Trace in Microsoft 365 Message Trace in Microsoft 365 is a valuable tool for investigating email delivery issues, tracking messa...",
-      "url": "https://dev.to/itcs11/message-trace-in-microsoft-365-78o",
-      "date": "2025-12-09T06:19:29.000Z",
+      "title": "Tired of Heavyweight Hadoop/Spark? Meet SPL: The Lightweight Contender.",
+      "description": "With the advent of the era of big data, the amount of data continues to grow. In this case, it is difficult and costly to expand the capacity of datab...",
+      "url": "https://dev.to/esproc_spl/tired-of-heavyweight-hadoopspark-meet-spl-the-lightweight-contender-l0h",
+      "date": "2025-12-10T06:33:30.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -100,50 +86,80 @@
         "javascript",
         "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "13 min read",
       "priority": 2
     },
     {
-      "title": "Can I Mix & Match Different Keycap Sets?",
-      "description": "When it involves personalizing mechanical keyboards, among one of the most exciting facets is the opportunity to mix and match various keycap sets. Ye...",
-      "url": "https://dev.to/mysticcoder/can-i-mix-match-different-keycap-sets-31od",
-      "date": "2025-12-09T06:19:00.000Z",
+      "title": "A Practical Guide to How Real-Time Chat & Video Platforms Work",
+      "description": "(Plus some lessons I learned while building my own WebRTC SDK at weblivehub.com) When developers first step into real-time communication — random chat...",
+      "url": "https://dev.to/businmeed/a-practical-guide-to-how-real-time-chat-video-platforms-work-iib",
+      "date": "2025-12-10T06:32:34.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "keycap",
+        "networking",
         "webdev",
-        "javascript"
+        "architecture"
       ],
-      "readTime": "5 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Jupyter Notebook Cheatsheet",
-      "description": "Jumpstart the Jupyter Notebook productivity with essential shortcuts, magic commands, and workflow tips that will transform your data science and deve...",
-      "url": "https://dev.to/rosgluk/jupyter-notebook-cheatsheet-h8k",
-      "date": "2025-12-09T06:11:26.000Z",
+      "title": "Wave-Encoded Data Systems: An Alternative Abstraction for Data Representation",
+      "description": "A Conceptual Framework Exploring Wave-Based Data Models Author: @hejhdiss (Muhamed Shafin P) License: Creative Commons Attribution–ShareAlike 4.0 (CC ...",
+      "url": "https://dev.to/hejhdiss/wave-encoded-data-systems-an-alternative-abstraction-for-data-representation-3jda",
+      "date": "2025-12-10T06:20:33.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "cheatsheet",
-        "dev"
+        "algorithms",
+        "architecture",
+        "computerscience"
       ],
       "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece",
-      "description": "I would like to tell you what I learned from a five-year old child about HTML and CSS. It’s funny how explaining something you do almost naturally tea...",
-      "url": "https://css-tricks.com/that-time-i-tried-explaining-html-and-css-to-my-5-year-old-niece/",
-      "date": "2025-12-08T14:45:43.000Z",
+      "title": "Smartphones 2025 : Le Comparatif Définitif",
+      "description": "Smartphones 2025 : L'Année de la Maturité Technologique Si les années précédentes ont été marquées par des évolutions incrémentales, 2025 restera dans...",
+      "url": "https://dev.to/metalya/smartphones-2025-le-comparatif-definitif-40h8",
+      "date": "2025-12-10T06:20:08.000Z",
       "category": "Web Dev",
-      "source": "CSS-Tricks",
+      "source": "Dev.to",
       "tags": [
-        "articles",
-        "learning",
-        "webdev"
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "10 min read",
+      "priority": 2
+    },
+    {
+      "title": "Accessible UX Research, eBook Now Available For Download",
+      "description": "eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which means soon the book will...",
+      "url": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
+      "date": "2025-12-09T16:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "State, Logic, And Native Power: CSS Wrapped 2025",
+      "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript....",
+      "url": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
+      "date": "2025-12-09T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -164,85 +180,10 @@
       "priority": 2
     },
     {
-      "title": "HTML Web Components Proposal From 1998",
-      "description": "It's easy to think of HTML Web Components as a recent feature, but it has roots that go all the way back to 1998. HTML Web Components Proposal From 19...",
-      "url": "https://css-tricks.com/html-web-components-proposal-from-1998/",
-      "date": "2025-12-05T18:16:48.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "webcomponents",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
       "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victo...",
       "url": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
       "date": "2025-12-05T15:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Getting Creative With “The Measure”",
-      "description": "A good measure makes reading text comfortable, while a bad one makes it more difficult. So, rather than allowing layout to dictate the measure, doesn’...",
-      "url": "https://css-tricks.com/getting-creative-with-the-measure/",
-      "date": "2025-12-04T14:04:52.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "containerqueries",
-        "layout"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Scrollytelling on Steroids With Scroll-State Queries",
-      "description": "Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling. Scrollytelling ...",
-      "url": "https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/",
-      "date": "2025-12-02T16:47:14.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "scrolldrivenanimation",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Masonry: Things You Won’t Need A Library For Anymore",
-      "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use ...",
-      "url": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
-      "date": "2025-12-02T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
-      "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re ...",
-      "url": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
-      "date": "2025-11-30T09:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
@@ -282,6 +223,58 @@
       ],
       "readTime": "6 min read",
       "priority": 2
+    },
+    {
+      "title": "An Holistic Framework for Shared Design Leadership",
+      "description": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design pro...",
+      "url": "\n\t\t\t\t\thttps://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/\t\t\t\t",
+      "date": "2025-07-23T14:10:22.000Z",
+      "category": "Web Dev",
+      "source": "A List Apart",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "From Beta to Bedrock: Build Products that Stick.",
+      "description": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few we...",
+      "url": "\n\t\t\t\t\thttps://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/\t\t\t\t",
+      "date": "2025-04-23T18:04:31.000Z",
+      "category": "Web Dev",
+      "source": "A List Apart",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "What's the story? JavaScript's 30!",
+      "description": "#​764 — December 5, 2025 Read on the Web JavaScript Weekly 🎉 JavaScript Turns 30 Years Old 🎉 Back in May 1995, a 33 year old Brendan Eich built the ...",
+      "url": "https://javascriptweekly.com/issues/764",
+      "date": "2025-12-05T00:00:00.000Z",
+      "category": "JavaScript",
+      "source": "JavaScript Weekly",
+      "tags": [],
+      "readTime": "6 min read",
+      "priority": 3
+    },
+    {
+      "title": "Algorithms visualized and demonstrated in JavaScript",
+      "description": "#​763 — November 28, 2025 Read on the Web JavaScript Weekly Over 150 Algorithms and Data Structures Demonstrated in JS — Examples of many common algor...",
+      "url": "https://javascriptweekly.com/issues/763",
+      "date": "2025-11-28T00:00:00.000Z",
+      "category": "JavaScript",
+      "source": "JavaScript Weekly",
+      "tags": [],
+      "readTime": "7 min read",
+      "priority": 3
     }
   ]
 }
