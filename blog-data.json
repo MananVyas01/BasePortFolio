@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-11T06:35:37.131Z",
+  "lastUpdated": "2025-12-12T06:35:10.102Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,36 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Let’s talk about GitHub Actions",
+      "description": "A look at how we rebuilt GitHub Actions’ core architecture and shipped long-requested upgrades to improve performance, workflow flexibility, reliabili...",
+      "url": "https://github.blog/news-insights/product-news/lets-talk-about-github-actions/",
+      "date": "2025-12-11T17:40:52.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "newsinsights",
+        "product",
+        "cicd"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "GitHub Availability Report: November 2025",
+      "description": "In November, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: Novembe...",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-november-2025/",
+      "date": "2025-12-11T16:03:53.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "companynews",
+        "newsinsights",
+        "githubavailabilityreport"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "MCP joins the Linux Foundation: What this means for developers building the next",
       "description": "MCP is moving to the Linux Foundation. Here's how that will affect developers. The post MCP joins the Linux Foundation: What this means for developers...",
@@ -44,93 +74,63 @@
       "priority": 1
     },
     {
-      "title": "The new identity of a developer: What changes and what doesn’t in the AI era",
-      "description": "Discover how advanced AI users are redefining software development—shifting from code producers to strategic orchestrators—through delegation, verific...",
-      "url": "https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/",
-      "date": "2025-12-08T18:15:17.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "newsinsights",
-        "octoverse",
-        "ai"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "How to use GitHub Copilot Spaces to debug issues faster",
-      "description": "Follow this step-by-step guide to learn how to debug your issues using GitHub Copilot Spaces and Copilot coding agent. The post How to use GitHub Copi...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/",
-      "date": "2025-12-04T20:35:36.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "githubcheckout"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "How git clone Really Works: A Deep Dive into Git’s Object Database",
-      "description": "Most developers use git clone daily, but very few understand what truly happens under the hood. Behind that single command lies a complex process of o...",
-      "url": "https://dev.to/zopdev/how-git-clone-really-works-a-deep-dive-into-gits-object-database-24j7",
-      "date": "2025-12-11T06:22:30.000Z",
+      "title": "The \"Distributed State Tax\" and Why We Don't Always Need Redis: Introducing C3",
+      "description": "One of the hardest lessons in software architecture is learning that every decoupling creates a new communication cost. We call this the \"Distributed ...",
+      "url": "https://dev.to/n-is/the-distributed-state-tax-and-why-we-dont-always-need-redis-introducing-c3-12a8",
+      "date": "2025-12-12T06:22:13.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devops",
-        "git",
-        "gitclone"
+        "distributedsystems",
+        "database",
+        "microservices"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "[AWS] 3. EC2 - Solutions Architect Associate Level",
+      "description": "Private IP vs Public IP (IPv4) Networking has two sorts of IPs. IPv4 and IPv6. IPv4: 1.160.10.240 IPv6: 3ffe: 1900:4545:3:200:f8ff:fe21:67cf In this c...",
+      "url": "https://dev.to/sangwoo_rhie/aws-3-ec2-solutions-architect-associate-level-3m7b",
+      "date": "2025-12-12T06:18:46.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "architecture",
+        "aws",
+        "networking"
       ],
       "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "Global Server Load Balancing (GSLB): Modern Application Delivery-এর Global Backb",
-      "description": "আজকের digital world-এ organizations চায় তাদের IT systems 24/7 available থাকুক। এখন applications আর এক জায়গায় host করা হয় না—private datacenter, public...",
-      "url": "https://dev.to/abusayem/global-server-load-balancing-gslb-modern-application-delivery-er-global-backbone-10l9",
-      "date": "2025-12-11T06:18:22.000Z",
+      "title": "Remote SSH Access to Windows from Debian: Complete Setup and Fixes",
+      "description": "Remote SSH Access to a Windows Machine from Debian: Full Setup, Fixes, and Lessons Learned I wanted to remotely access my Windows laptop (with GPU) fr...",
+      "url": "https://dev.to/siddharth_magesh_e12b8505/remote-ssh-access-to-windows-from-debian-complete-setup-and-fixes-3e5d",
+      "date": "2025-12-12T06:18:36.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "systemdesign",
-        "gslb",
-        "loadbalancing"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "How XML-XSL Transformation Powers Modern Data Rendering and Automation",
-      "description": "In a world driven by structured information, XML-XSL Transformation has become one of the most essential technologies for converting raw data into mea...",
-      "url": "https://dev.to/khushi_jitani_ca127abdedd/how-xml-xsl-transformation-powers-modern-data-rendering-and-automation-5ep9",
-      "date": "2025-12-11T06:18:20.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "xmlxsltransformation",
-        "xslt",
-        "xmldataformatting"
+        "ssh",
+        "windows",
+        "linux"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "AI Engineering: Advent of AI with goose Day 8",
-      "description": "Day 8: Vendor Directory Magic – From Unorganized Data to Emerald Glassmorphic Directory Web Application for Organization What if you could take a chao...",
-      "url": "https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-8-50me",
-      "date": "2025-12-11T06:16:35.000Z",
+      "title": "The Ultimate 2025 CSS Guide: Build Faster, Write Less JavaScript",
+      "description": "Introduction Modern CSS in 2025 lets you replace many \"glue\" scripts with clean, declarative styling, cutting bundle size and complexity while improvi...",
+      "url": "https://dev.to/manikandan/the-ultimate-2025-css-guide-build-faster-write-less-javascript-5412",
+      "date": "2025-12-12T06:18:30.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "goose",
-        "adventofai"
+        "css",
+        "webdev",
+        "javascript"
       ],
-      "readTime": "3 min read",
+      "readTime": "9 min read",
       "priority": 2
     },
     {
