@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-12T06:35:10.102Z",
+  "lastUpdated": "2025-12-13T06:31:32.435Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "The future of AI-powered software optimization (and how it can help your team)",
+      "description": "We envision the future of AI-enabled tooling to look like near-effortless engineering for sustainability. We call it Continuous Efficiency. The post T...",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/",
+      "date": "2025-12-12T20:43:37.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "newsinsights",
+        "policy",
+        "continuousefficiency"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Let’s talk about GitHub Actions",
       "description": "A look at how we rebuilt GitHub Actions’ core architecture and shipped long-requested upgrades to improve performance, workflow flexibility, reliabili...",
@@ -59,78 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Speed is nothing without control: How to keep quality high in the AI era",
-      "description": "AI can help you build faster than ever, but it can also produce bugs, issues, and problems. Use these strategies to keep your speed without losing con...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/",
-      "date": "2025-12-09T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "generativeai",
-        "generativeai"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "The \"Distributed State Tax\" and Why We Don't Always Need Redis: Introducing C3",
-      "description": "One of the hardest lessons in software architecture is learning that every decoupling creates a new communication cost. We call this the \"Distributed ...",
-      "url": "https://dev.to/n-is/the-distributed-state-tax-and-why-we-dont-always-need-redis-introducing-c3-12a8",
-      "date": "2025-12-12T06:22:13.000Z",
+      "title": "Stuck for Hours? The 'Productive Struggle' Rule for LeetCode",
+      "description": "Originally published on LeetCopilot Blog Staring at the screen for 2 hours isn't grit—it's wasted time. Here is the exact skill-based time limit for w...",
+      "url": "https://dev.to/alex_hunter_44f4c9ed6671e/stuck-for-hours-the-productive-struggle-rule-for-leetcode-2ab6",
+      "date": "2025-12-13T06:21:55.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "distributedsystems",
-        "database",
-        "microservices"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "[AWS] 3. EC2 - Solutions Architect Associate Level",
-      "description": "Private IP vs Public IP (IPv4) Networking has two sorts of IPs. IPv4 and IPv6. IPv4: 1.160.10.240 IPv6: 3ffe: 1900:4545:3:200:f8ff:fe21:67cf In this c...",
-      "url": "https://dev.to/sangwoo_rhie/aws-3-ec2-solutions-architect-associate-level-3m7b",
-      "date": "2025-12-12T06:18:46.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "architecture",
-        "aws",
-        "networking"
+        "timemanagement",
+        "studystrategy",
+        "decisionframework"
       ],
       "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "Remote SSH Access to Windows from Debian: Complete Setup and Fixes",
-      "description": "Remote SSH Access to a Windows Machine from Debian: Full Setup, Fixes, and Lessons Learned I wanted to remotely access my Windows laptop (with GPU) fr...",
-      "url": "https://dev.to/siddharth_magesh_e12b8505/remote-ssh-access-to-windows-from-debian-complete-setup-and-fixes-3e5d",
-      "date": "2025-12-12T06:18:36.000Z",
+      "title": "Mind Goes Blank on LeetCode? Here's Your Escape Plan",
+      "description": "Originally published on LeetCopilot Blog You understand the problem but have zero idea how to start. That paralysis is fixable. Here's a step-by-step ...",
+      "url": "https://dev.to/alex_hunter_44f4c9ed6671e/mind-goes-blank-on-leetcode-heres-your-escape-plan-472m",
+      "date": "2025-12-13T06:21:05.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ssh",
-        "windows",
-        "linux"
+        "problemsolving",
+        "mentalblock",
+        "interviewstrategy"
       ],
-      "readTime": "3 min read",
+      "readTime": "9 min read",
       "priority": 2
     },
     {
-      "title": "The Ultimate 2025 CSS Guide: Build Faster, Write Less JavaScript",
-      "description": "Introduction Modern CSS in 2025 lets you replace many \"glue\" scripts with clean, declarative styling, cutting bundle size and complexity while improvi...",
-      "url": "https://dev.to/manikandan/the-ultimate-2025-css-guide-build-faster-write-less-javascript-5412",
-      "date": "2025-12-12T06:18:30.000Z",
+      "title": "Cloud Architecture Mistakes I Made So You Don't Have To",
+      "description": "I've been building cloud infrastructure for 5+ years. Here are the expensive lessons I learned—so you can skip the pain. My first startup? I built a K...",
+      "url": "https://dev.to/aman_kulshrestha_815f0a2f/cloud-architecture-mistakes-i-made-so-you-dont-have-to-23hl",
+      "date": "2025-12-13T06:15:56.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "css",
-        "webdev",
-        "javascript"
+        "cloud",
+        "aws",
+        "devops"
       ],
-      "readTime": "9 min read",
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "TFT LCD Technology Explained: Principles, Panel Types, and Real-World Applicatio",
+      "description": "TFT LCD (Thin-Film Transistor Liquid Crystal Display) is one of the most widely adopted display technologies in modern electronic systems. It serves a...",
+      "url": "https://dev.to/danie_brooks_dc7a891322b3/tft-lcd-technology-explained-principles-panel-types-and-real-world-applications-56gl",
+      "date": "2025-12-13T06:15:20.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "tft",
+        "lcd",
+        "panel"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "What Else Could Container Queries… Query?",
+      "description": "How far can we really go with container queries? There are dozens of media queries now, so what if there were dozens of container queries as well? Wha...",
+      "url": "https://css-tricks.com/what-else-could-container-queries-query/",
+      "date": "2025-12-12T14:38:18.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "notes",
+        "containerqueries",
+        "webdev"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -204,21 +219,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece",
-      "description": "I would like to tell you what I learned from a five-year old child about HTML and CSS. It’s funny how explaining something you do almost naturally tea...",
-      "url": "https://css-tricks.com/that-time-i-tried-explaining-html-and-css-to-my-5-year-old-niece/",
-      "date": "2025-12-08T14:45:43.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "learning",
-        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
