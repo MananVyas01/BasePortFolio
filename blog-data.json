@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-14T06:31:14.914Z",
+  "lastUpdated": "2025-12-15T06:37:03.308Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,61 +74,61 @@
       "priority": 1
     },
     {
-      "title": "Boost Your LLM Apps with Monetzly's API Monetization Strategies",
-      "description": "Monetization Without Paywalls: The Key to Sustainable AI Innovation The biggest challenge in the AI landscape today isn't just building remarkable app...",
-      "url": "https://dev.to/monetzly/boost-your-llm-apps-with-monetzlys-api-monetization-strategies-8d6",
-      "date": "2025-12-14T06:19:00.000Z",
+      "title": "Slire: A Minimal Repository Layer for Node.js + MongoDB/Firestore",
+      "description": "Over the last few years building Node.js backend services on MongoDB and Firestore, I kept running into the same pattern: Every team rolls their own “...",
+      "url": "https://dev.to/dchowitz/slire-a-minimal-repository-layer-for-nodejs-mongodbfirestore-4ipn",
+      "date": "2025-12-15T06:32:59.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "node",
+        "typescript",
+        "mongodb"
+      ],
+      "readTime": "12 min read",
+      "priority": 2
+    },
+    {
+      "title": "The Rise of AI-Powered Marketing: What’s Next in 2026",
+      "description": "AI now acts as a strategist, creative partner, data analyst, and experience designer. From hyper-personalized content to real-time campaign optimizati...",
+      "url": "https://dev.to/digital_terrene_b369a1c21/the-rise-of-ai-powered-marketing-whats-next-in-2026-4b0g",
+      "date": "2025-12-15T06:29:44.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "digitalmarketing",
+        "generative"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Top Benefits of Real Time Analytics for Faster and Smarter Decisions",
+      "description": "Every decision in business has a time limit. Make it too late, and the chance is gone. Make it without the right information, and the risk grows. In t...",
+      "url": "https://dev.to/ravi_teja_4/top-benefits-of-real-time-analytics-for-faster-and-smarter-decisions-3i1i",
+      "date": "2025-12-15T06:24:30.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "analytics",
+        "ai",
+        "data"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Drive API Monetization: How Monetzly Enhances Your AI Conversations",
+      "description": "Monetizing AI Conversations Without Paywalls: Meet Monetzly The biggest challenge in the AI landscape today is clear: how do we monetize AI applicatio...",
+      "url": "https://dev.to/monetzly/drive-api-monetization-how-monetzly-enhances-your-ai-conversations-509h",
+      "date": "2025-12-15T06:22:49.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
         "webdev",
         "api"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Top 50 Python AI Interview Questions & Answers",
-      "description": "Why is Python preferred for AI development? What are Python data types commonly used in AI? What is Python’s Global Interpreter Lock (GIL)? What are P...",
-      "url": "https://dev.to/jennijuli3/top-50-python-ai-interview-questions-answers-2i7l",
-      "date": "2025-12-14T06:18:58.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "programming",
-        "ai",
-        "beginners"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "My Solution to Deno Watch Mode Signal Handling",
-      "description": "To fix the Deno watch mode issue, I researched both Deno and Node.js. I want to use Node.js's approach but implement it in Rust for Deno. Rust doesn't...",
-      "url": "https://dev.to/whyang9701/my-solution-of-deno-watch-mode-signal-handling-4ejp",
-      "date": "2025-12-14T06:13:01.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "deno",
-        "webdev",
-        "javascript"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Scaling Kubernetes Load with KEDA",
-      "description": "In multiple projects, I have found myself asking the same question: Why is the HPA not scaling my pods when it is clearly needed? The answer is actual...",
-      "url": "https://dev.to/victorpinzon1988eng/scaling-kubernetes-load-with-keda-j7f",
-      "date": "2025-12-14T06:12:16.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "automation",
-        "kubernetes",
-        "performance"
       ],
       "readTime": "3 min read",
       "priority": 2
