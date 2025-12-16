@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T06:37:03.308Z",
+  "lastUpdated": "2025-12-16T06:35:43.926Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,93 @@
       "priority": 1
     },
     {
-      "title": "Slire: A Minimal Repository Layer for Node.js + MongoDB/Firestore",
-      "description": "Over the last few years building Node.js backend services on MongoDB and Firestore, I kept running into the same pattern: Every team rolls their own “...",
-      "url": "https://dev.to/dchowitz/slire-a-minimal-repository-layer-for-nodejs-mongodbfirestore-4ipn",
-      "date": "2025-12-15T06:32:59.000Z",
+      "title": "Autodogfooding Autodock on AWS",
+      "description": "Yesterday, Autodock's environment provisioning time went down from ~30 seconds to 3 seconds 🎊 This was a messy feature, involving cron jobs, webhooks...",
+      "url": "https://dev.to/mikesol/autodogfooding-autodock-on-aws-1m6a",
+      "date": "2025-12-16T06:30:56.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "node",
-        "typescript",
-        "mongodb"
+        "devops",
+        "tooling",
+        "aws"
       ],
-      "readTime": "12 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "The Rise of AI-Powered Marketing: What’s Next in 2026",
-      "description": "AI now acts as a strategist, creative partner, data analyst, and experience designer. From hyper-personalized content to real-time campaign optimizati...",
-      "url": "https://dev.to/digital_terrene_b369a1c21/the-rise-of-ai-powered-marketing-whats-next-in-2026-4b0g",
-      "date": "2025-12-15T06:29:44.000Z",
+      "title": "Building a Production-Ready Authentication System in Next.js — Without Reinventi",
+      "description": "IdentityUser is a production-ready authentication starter kit for Next.js. It gives you full ownership of auth logic, strong security defaults, and re...",
+      "url": "https://dev.to/sadegh_shojayefard/building-a-production-ready-authentication-system-in-nextjs-without-reinventing-the-wheel-29p0",
+      "date": "2025-12-16T06:30:55.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "digitalmarketing",
-        "generative"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "Top Benefits of Real Time Analytics for Faster and Smarter Decisions",
-      "description": "Every decision in business has a time limit. Make it too late, and the chance is gone. Make it without the right information, and the risk grows. In t...",
-      "url": "https://dev.to/ravi_teja_4/top-benefits-of-real-time-analytics-for-faster-and-smarter-decisions-3i1i",
-      "date": "2025-12-15T06:24:30.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "analytics",
-        "ai",
-        "data"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "Drive API Monetization: How Monetzly Enhances Your AI Conversations",
-      "description": "Monetizing AI Conversations Without Paywalls: Meet Monetzly The biggest challenge in the AI landscape today is clear: how do we monetize AI applicatio...",
-      "url": "https://dev.to/monetzly/drive-api-monetization-how-monetzly-enhances-your-ai-conversations-509h",
-      "date": "2025-12-15T06:22:49.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "webdev",
-        "api"
+        "nextjs",
+        "authentication",
+        "security"
       ],
       "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Building Magic Link Authentication with Next.js Server-Side Rendering and Supaba",
+      "description": "Building authentication is one of those things that looks easy at first — until it isn’t. You want something secure, user-friendly, and boring in prod...",
+      "url": "https://dev.to/nolliebigspin/building-magic-link-authentication-with-nextjs-server-side-rendering-and-supabase-45gn",
+      "date": "2025-12-16T06:30:37.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "nextjs",
+        "supabase"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "How to Send Emails with React Using Nodemailer",
+      "description": "As a frontend developer, you'll often require the ability to send emails from your web app built using tools like React. Whether you're building a con...",
+      "url": "https://dev.to/davecodes/how-to-send-emails-with-react-using-nodemailer-1pi7",
+      "date": "2025-12-16T06:29:23.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "react",
+        "node"
+      ],
+      "readTime": "11 min read",
+      "priority": 2
+    },
+    {
+      "title": "Toon Title Text Generator",
+      "description": "Andy Clarke with a brand-new resource. It generates the sort of fun typography that Andy commonly uses in his own work that's geared towards cartoon h...",
+      "url": "https://css-tricks.com/toon-title-text-generator/",
+      "date": "2025-12-15T17:55:55.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "links",
+        "generator",
+        "svg"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Responsive List of Avatars Using Modern CSS (Part 1)",
+      "description": "A list of rounded images that slightly overlap each other is a classic web design pattern. The main idea is not complex, but the new thing is the resp...",
+      "url": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-1/",
+      "date": "2025-12-15T16:19:23.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "images",
+        "mask"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -174,36 +204,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "CSS Wrapped 2025",
-      "description": "The Chrome Dev Team recaps the new CSS features that shipped in Google Chrome this past year in one amazingly designed webpage. They cover new functio...",
-      "url": "https://css-tricks.com/css-wrapped-2025/",
-      "date": "2025-12-09T15:52:20.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "browser",
-        "chrome"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Fit width text in 1 line of CSS",
-      "description": "The Chrome team recently prototyped a working solution for fitting text to the width of a container in CSS using a text-grow property. Fit width text ...",
-      "url": "https://css-tricks.com/fit-width-text-in-1-line-of-css/",
-      "date": "2025-12-09T15:00:56.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "cssproperties",
-        "typography"
       ],
       "readTime": "1 min read",
       "priority": 2
