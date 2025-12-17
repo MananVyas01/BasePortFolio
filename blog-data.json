@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-16T06:35:43.926Z",
+  "lastUpdated": "2025-12-17T06:35:07.612Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Autodogfooding Autodock on AWS",
-      "description": "Yesterday, Autodock's environment provisioning time went down from ~30 seconds to 3 seconds 🎊 This was a messy feature, involving cron jobs, webhooks...",
-      "url": "https://dev.to/mikesol/autodogfooding-autodock-on-aws-1m6a",
-      "date": "2025-12-16T06:30:56.000Z",
+      "title": "The YouTube Social Paradox: A Manifesto",
+      "description": "Google is one of the most technologically powerful companies in human history. Which makes the current state of YouTube's social layer look less like ...",
+      "url": "https://dev.to/mike_art_0d853def820658a0/the-youtube-social-paradox-a-manifesto-2mfb",
+      "date": "2025-12-17T06:29:25.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devops",
-        "tooling",
-        "aws"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Building a Production-Ready Authentication System in Next.js — Without Reinventi",
-      "description": "IdentityUser is a production-ready authentication starter kit for Next.js. It gives you full ownership of auth logic, strong security defaults, and re...",
-      "url": "https://dev.to/sadegh_shojayefard/building-a-production-ready-authentication-system-in-nextjs-without-reinventing-the-wheel-29p0",
-      "date": "2025-12-16T06:30:55.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "nextjs",
-        "authentication",
-        "security"
+        "youtube",
+        "webdev",
+        "javascript"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Building Magic Link Authentication with Next.js Server-Side Rendering and Supaba",
-      "description": "Building authentication is one of those things that looks easy at first — until it isn’t. You want something secure, user-friendly, and boring in prod...",
-      "url": "https://dev.to/nolliebigspin/building-magic-link-authentication-with-nextjs-server-side-rendering-and-supabase-45gn",
-      "date": "2025-12-16T06:30:37.000Z",
+      "title": "Docker Compose How to Set Environment Variables",
+      "description": "Configuration is messy Working on a project with multiple environments and keeping track of all the configuration values is definitely not a simple ta...",
+      "url": "https://dev.to/web_dev-usman/docker-compose-how-to-set-environment-variables-1ca7",
+      "date": "2025-12-17T06:28:53.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "nextjs",
-        "supabase"
+        "docker",
+        "devops",
+        "microservices"
       ],
       "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "How to Send Emails with React Using Nodemailer",
-      "description": "As a frontend developer, you'll often require the ability to send emails from your web app built using tools like React. Whether you're building a con...",
-      "url": "https://dev.to/davecodes/how-to-send-emails-with-react-using-nodemailer-1pi7",
-      "date": "2025-12-16T06:29:23.000Z",
+      "title": "Export Your Brain: A Simple Way To Make Any AI “Know You” From Day One",
+      "description": "Every new AI tool treats you like a stranger. New chat. New model. New product. “I’m a dev, I use React/TS/Tailwind.” “Keep it short, show code first....",
+      "url": "https://dev.to/onlyoneaman/export-your-brain-a-simple-way-to-make-any-ai-know-you-from-day-one-2bnd",
+      "date": "2025-12-17T06:24:56.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "react",
-        "node"
+        "ai",
+        "llm",
+        "prompt"
       ],
-      "readTime": "11 min read",
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Display Rupiah Values Beautifully with formatCompact()",
+      "description": "Ever noticed how Instagram shows \"1.2M likes\" instead of \"1,200,000 likes\"? That's compact formatting - and your Indonesian apps need it too. Large nu...",
+      "url": "https://dev.to/choiruladamm/display-rupiah-values-beautifully-with-formatcompact-3pgc",
+      "date": "2025-12-17T06:21:53.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "typescript",
+        "indonesia",
+        "opensource"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and M",
+      "description": "The best CSS news from around the web from the last two weeks. In this edition: advent calendars, CSS Wrapped 2025, and the latest Web Platform Update...",
+      "url": "https://css-tricks.com/whats-important-1/",
+      "date": "2025-12-16T17:03:46.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "news",
+        "webdev"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -174,21 +189,6 @@
         "notes",
         "containerqueries",
         "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Creating Scroll-Based Animations in Full view()",
-      "description": "It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline inst...",
-      "url": "https://css-tricks.com/creating-scroll-based-animations-in-full-view/",
-      "date": "2025-12-10T15:04:08.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "cssfunctions",
-        "scrolldrivenanimation"
       ],
       "readTime": "1 min read",
       "priority": 2
