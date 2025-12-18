@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-17T06:35:07.612Z",
+  "lastUpdated": "2025-12-18T06:35:01.647Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,93 @@
       "priority": 1
     },
     {
-      "title": "The YouTube Social Paradox: A Manifesto",
-      "description": "Google is one of the most technologically powerful companies in human history. Which makes the current state of YouTube's social layer look less like ...",
-      "url": "https://dev.to/mike_art_0d853def820658a0/the-youtube-social-paradox-a-manifesto-2mfb",
-      "date": "2025-12-17T06:29:25.000Z",
+      "title": "Dockerfile Internals and the Image Build Pipeline",
+      "description": "When engineers say \"Docker builds an image,\" they usually mean a single command. docker build triggers a deterministic pipeline that transforms a text...",
+      "url": "https://dev.to/sreekanth_kuruba_91721e5d/dockerfile-internals-and-the-image-build-pipeline-37b1",
+      "date": "2025-12-18T06:32:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "youtube",
-        "webdev",
-        "javascript"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Docker Compose How to Set Environment Variables",
-      "description": "Configuration is messy Working on a project with multiple environments and keeping track of all the configuration values is definitely not a simple ta...",
-      "url": "https://dev.to/web_dev-usman/docker-compose-how-to-set-environment-variables-1ca7",
-      "date": "2025-12-17T06:28:53.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "docker",
         "devops",
-        "microservices"
+        "dockerfile",
+        "docker"
       ],
-      "readTime": "7 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Export Your Brain: A Simple Way To Make Any AI “Know You” From Day One",
-      "description": "Every new AI tool treats you like a stranger. New chat. New model. New product. “I’m a dev, I use React/TS/Tailwind.” “Keep it short, show code first....",
-      "url": "https://dev.to/onlyoneaman/export-your-brain-a-simple-way-to-make-any-ai-know-you-from-day-one-2bnd",
-      "date": "2025-12-17T06:24:56.000Z",
+      "title": "eDgeWrapper Technology Overview - 18/12/2025 11:57:18 am",
+      "description": "The Strategic Imperatives of Cloud Integration for Operational Efficiency and ROI The transition to scalable, reliable cloud infrastructure represents...",
+      "url": "https://dev.to/rimpa_basak_059b178a009c0/edgewrapper-technology-overview-18122025-115718-am-3ea3",
+      "date": "2025-12-18T06:27:59.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "tech",
         "ai",
-        "llm",
-        "prompt"
+        "software"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "Project Structure Checker",
+      "description": "Hey everyone! I made a small CLI tool called PSX that checks and fixes the basic structure of a project so you don't have to repeat the same boring se...",
+      "url": "https://dev.to/m__mdy__m/project-structure-checker-28a8",
+      "date": "2025-12-18T06:26:38.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "discuss",
+        "opensource",
+        "go"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Display Rupiah Values Beautifully with formatCompact()",
-      "description": "Ever noticed how Instagram shows \"1.2M likes\" instead of \"1,200,000 likes\"? That's compact formatting - and your Indonesian apps need it too. Large nu...",
-      "url": "https://dev.to/choiruladamm/display-rupiah-values-beautifully-with-formatcompact-3pgc",
-      "date": "2025-12-17T06:21:53.000Z",
+      "title": "Day 68: Python Unique Paths in Grid - O(m*n) DP Solution for Robot Paths (LeetCo",
+      "description": "Welcome to Day 68 of the #80DaysOfChallenges journey! This intermediate challenge solves the classic unique paths in a grid problem (LeetCode #62), co...",
+      "url": "https://dev.to/shahrouzlogs/day-68-python-unique-paths-in-grid-omn-dp-solution-for-robot-paths-leetcode-62-vibes-2bmh",
+      "date": "2025-12-18T06:21:09.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "typescript",
-        "indonesia",
-        "opensource"
+        "challenge",
+        "python",
+        "algorithms"
       ],
-      "readTime": "4 min read",
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Responsive List of Avatars Using Modern CSS (Part 2)",
+      "description": "In this article, we follow up the work we did to create responsive rows of circular images in a previous article by arranging the images around a circ...",
+      "url": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/",
+      "date": "2025-12-17T15:21:34.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "containerqueries",
+        "images"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
+      "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles]...",
+      "url": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
+      "date": "2025-12-17T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -179,21 +209,6 @@
       "priority": 2
     },
     {
-      "title": "What Else Could Container Queries… Query?",
-      "description": "How far can we really go with container queries? There are dozens of media queries now, so what if there were dozens of container queries as well? Wha...",
-      "url": "https://css-tricks.com/what-else-could-container-queries-query/",
-      "date": "2025-12-12T14:38:18.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "notes",
-        "containerqueries",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Accessible UX Research, eBook Now Available For Download",
       "description": "We’ve got exciting news! eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which...",
       "url": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
@@ -228,21 +243,6 @@
       "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation....",
       "url": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
       "date": "2025-12-08T08:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
-      "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victo...",
-      "url": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
-      "date": "2025-12-05T15:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
