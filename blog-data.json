@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-18T06:35:01.647Z",
+  "lastUpdated": "2025-12-19T06:33:43.341Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Dockerfile Internals and the Image Build Pipeline",
-      "description": "When engineers say \"Docker builds an image,\" they usually mean a single command. docker build triggers a deterministic pipeline that transforms a text...",
-      "url": "https://dev.to/sreekanth_kuruba_91721e5d/dockerfile-internals-and-the-image-build-pipeline-37b1",
-      "date": "2025-12-18T06:32:00.000Z",
+      "title": "Mastering Role-Based Access Control (RBAC) in Laravel with a Next.js Frontend",
+      "description": "Hook — why this matters now Building a modern app means splitting responsibilities: Laravel for API and Next.js for the UI. That split introduces a to...",
+      "url": "https://dev.to/prateekshaweb/mastering-role-based-access-control-rbac-in-laravel-with-a-nextjs-frontend-4i4g",
+      "date": "2025-12-19T06:19:33.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devops",
-        "dockerfile",
-        "docker"
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Top Cloud FinOps Tools for AWS, Azure, and Google Cloud",
+      "description": "Effectively managing cloud expenses is now essential, not merely optional. As companies quickly move their workloads to cloud services such as AWS, Az...",
+      "url": "https://dev.to/oli_john_087e42c8f84/top-cloud-finops-tools-for-aws-azure-and-google-cloud-35p8",
+      "date": "2025-12-19T06:19:10.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Use Angular HostDirective for all of your component facades",
+      "description": "I really like the component HostDirective pattern, which enables logic composition. I use it each time I want to reuse UI/UX logic in my dumb componen...",
+      "url": "https://dev.to/romain_geffrault_10d88369/use-angular-hostdirective-for-all-of-your-component-facades-1bo6",
+      "date": "2025-12-19T06:16:17.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "angular",
+        "typescript",
+        "webdev"
       ],
       "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "eDgeWrapper Technology Overview - 18/12/2025 11:57:18 am",
-      "description": "The Strategic Imperatives of Cloud Integration for Operational Efficiency and ROI The transition to scalable, reliable cloud infrastructure represents...",
-      "url": "https://dev.to/rimpa_basak_059b178a009c0/edgewrapper-technology-overview-18122025-115718-am-3ea3",
-      "date": "2025-12-18T06:27:59.000Z",
+      "title": "Docker",
+      "description": "Click to read more about this interesting tech topic...",
+      "url": "https://dev.to/syed_irfan_f0a0a796454b26/docker-bme",
+      "date": "2025-12-19T06:14:17.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "tech",
-        "ai",
-        "software"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "Project Structure Checker",
-      "description": "Hey everyone! I made a small CLI tool called PSX that checks and fixes the basic structure of a project so you don't have to repeat the same boring se...",
-      "url": "https://dev.to/m__mdy__m/project-structure-checker-28a8",
-      "date": "2025-12-18T06:26:38.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "discuss",
-        "opensource",
-        "go"
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Day 68: Python Unique Paths in Grid - O(m*n) DP Solution for Robot Paths (LeetCo",
-      "description": "Welcome to Day 68 of the #80DaysOfChallenges journey! This intermediate challenge solves the classic unique paths in a grid problem (LeetCode #62), co...",
-      "url": "https://dev.to/shahrouzlogs/day-68-python-unique-paths-in-grid-omn-dp-solution-for-robot-paths-leetcode-62-vibes-2bmh",
-      "date": "2025-12-18T06:21:09.000Z",
+      "title": "Search CSS-Tricks Raycast Extension",
+      "description": "Jelte Lagendijk built a Raycast extension for searching CSS-Tricks articles where you simply type and a get a solid set of real-time results. Search C...",
+      "url": "https://css-tricks.com/search-css-tricks-raycast-extension/",
+      "date": "2025-12-18T15:34:23.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "challenge",
-        "python",
-        "algorithms"
+        "links",
+        "resource",
+        "webdev"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -189,21 +204,6 @@
         "links",
         "generator",
         "svg"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Responsive List of Avatars Using Modern CSS (Part 1)",
-      "description": "A list of rounded images that slightly overlap each other is a classic web design pattern. The main idea is not complex, but the new thing is the resp...",
-      "url": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-1/",
-      "date": "2025-12-15T16:19:23.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "images",
-        "mask"
       ],
       "readTime": "1 min read",
       "priority": 2
