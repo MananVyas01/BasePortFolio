@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-19T06:33:43.341Z",
+  "lastUpdated": "2025-12-20T06:32:08.521Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,25 +74,40 @@
       "priority": 1
     },
     {
-      "title": "Mastering Role-Based Access Control (RBAC) in Laravel with a Next.js Frontend",
-      "description": "Hook — why this matters now Building a modern app means splitting responsibilities: Laravel for API and Next.js for the UI. That split introduces a to...",
-      "url": "https://dev.to/prateekshaweb/mastering-role-based-access-control-rbac-in-laravel-with-a-nextjs-frontend-4i4g",
-      "date": "2025-12-19T06:19:33.000Z",
+      "title": "As a Student, I Built a Startup to Answer One Simple Question: Where Can I Watch",
+      "description": "I Got Tired of Searching Every Anime Streaming Platform—So I Built This I’m a student, and Indie builder who enjoys coding and building things. Like m...",
+      "url": "https://dev.to/001_9d63ca6159a6ea2d617/as-a-student-i-built-a-startup-to-answer-one-simple-question-where-can-i-watch-this-anime-5cbl",
+      "date": "2025-12-20T06:20:57.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "javascript",
-        "css"
+        "startup",
+        "opensource"
       ],
-      "readTime": "4 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Top Cloud FinOps Tools for AWS, Azure, and Google Cloud",
-      "description": "Effectively managing cloud expenses is now essential, not merely optional. As companies quickly move their workloads to cloud services such as AWS, Az...",
-      "url": "https://dev.to/oli_john_087e42c8f84/top-cloud-finops-tools-for-aws-azure-and-google-cloud-35p8",
-      "date": "2025-12-19T06:19:10.000Z",
+      "title": "Boost Your LLM Apps: Monetization Strategies with Monetzly's API",
+      "description": "Creating Win-Win-Win Scenarios in the AI Economy with Monetzly As the AI landscape continues to expand at an unprecedented pace, developers are often ...",
+      "url": "https://dev.to/monetzly/boost-your-llm-apps-monetization-strategies-with-monetzlys-api-2lf9",
+      "date": "2025-12-20T06:19:57.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "webdev",
+        "api"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "I built a SaaS to solve my own problem — now I’m unsure whether to scale it or m",
+      "description": "Over the past few months, I built a small SaaS project as a solo developer. It didn’t start as a startup idea. It started as annoyance. Every time I w...",
+      "url": "https://dev.to/rushikesh_bodakhe_db28644/i-built-a-saas-to-solve-my-own-problem-now-im-unsure-whether-to-scale-it-or-move-on-391j",
+      "date": "2025-12-20T06:08:08.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -104,33 +119,48 @@
       "priority": 2
     },
     {
-      "title": "Use Angular HostDirective for all of your component facades",
-      "description": "I really like the component HostDirective pattern, which enables logic composition. I use it each time I want to reuse UI/UX logic in my dumb componen...",
-      "url": "https://dev.to/romain_geffrault_10d88369/use-angular-hostdirective-for-all-of-your-component-facades-1bo6",
-      "date": "2025-12-19T06:16:17.000Z",
+      "title": "How I Built an MCP App to Roast My GitHub Year in Review",
+      "description": "I love GitHub Unwrapped because it lets me see all the progress (or lack of progress) I've made over the past year. Sidenote: I will be posting my Git...",
+      "url": "https://dev.to/blackgirlbytes/how-i-built-an-mcp-app-to-roast-my-github-year-in-review-28gh",
+      "date": "2025-12-20T06:07:09.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "angular",
-        "typescript",
-        "webdev"
+        "mcp",
+        "ai",
+        "github"
       ],
-      "readTime": "5 min read",
+      "readTime": "18 min read",
       "priority": 2
     },
     {
-      "title": "Docker",
-      "description": "Click to read more about this interesting tech topic...",
-      "url": "https://dev.to/syed_irfan_f0a0a796454b26/docker-bme",
-      "date": "2025-12-19T06:14:17.000Z",
+      "title": "Masonry Layout is Now grid-lanes",
+      "description": "It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode. Masonry Layout is Now grid-lanes originally pub...",
+      "url": "https://css-tricks.com/masonry-layout-is-now-grid-lanes/",
+      "date": "2025-12-19T16:08:28.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "csswg",
+        "masonry"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "How To Measure The Impact Of Features",
+      "description": "Meet TARS — a simple, repeatable, and meaningful UX metric designed specifically to track the performance of product features. Upcoming part of the Me...",
+      "url": "https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/",
+      "date": "2025-12-19T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
         "javascript",
         "css"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -194,21 +224,6 @@
       "priority": 2
     },
     {
-      "title": "Toon Title Text Generator",
-      "description": "Andy Clarke with a brand-new resource. It generates the sort of fun typography that Andy commonly uses in his own work that's geared towards cartoon h...",
-      "url": "https://css-tricks.com/toon-title-text-generator/",
-      "date": "2025-12-15T17:55:55.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "generator",
-        "svg"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Accessible UX Research, eBook Now Available For Download",
       "description": "We’ve got exciting news! eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which...",
       "url": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
@@ -228,21 +243,6 @@
       "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript....",
       "url": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
       "date": "2025-12-09T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "How UX Professionals Can Lead AI Strategy",
-      "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation....",
-      "url": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
-      "date": "2025-12-08T08:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
