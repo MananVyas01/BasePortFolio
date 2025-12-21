@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-20T06:32:08.521Z",
+  "lastUpdated": "2025-12-21T06:32:15.950Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,40 +74,25 @@
       "priority": 1
     },
     {
-      "title": "As a Student, I Built a Startup to Answer One Simple Question: Where Can I Watch",
-      "description": "I Got Tired of Searching Every Anime Streaming Platform—So I Built This I’m a student, and Indie builder who enjoys coding and building things. Like m...",
-      "url": "https://dev.to/001_9d63ca6159a6ea2d617/as-a-student-i-built-a-startup-to-answer-one-simple-question-where-can-i-watch-this-anime-5cbl",
-      "date": "2025-12-20T06:20:57.000Z",
+      "title": "My Project-Based Learning Journey – Building Real Projects to Learn",
+      "description": "📘 What You’ll Find in My Blog Step-by-step projects starting from Python fundamentals Challenges I faced and how I solved them Key takeaways and refl...",
+      "url": "https://dev.to/lone_wolf_22/my-project-based-learning-journey-building-real-projects-to-learn-55hc",
+      "date": "2025-12-21T05:59:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "startup",
-        "opensource"
+        "python",
+        "portfolio",
+        "devjournal"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Boost Your LLM Apps: Monetization Strategies with Monetzly's API",
-      "description": "Creating Win-Win-Win Scenarios in the AI Economy with Monetzly As the AI landscape continues to expand at an unprecedented pace, developers are often ...",
-      "url": "https://dev.to/monetzly/boost-your-llm-apps-monetization-strategies-with-monetzlys-api-2lf9",
-      "date": "2025-12-20T06:19:57.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "webdev",
-        "api"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "I built a SaaS to solve my own problem — now I’m unsure whether to scale it or m",
-      "description": "Over the past few months, I built a small SaaS project as a solo developer. It didn’t start as a startup idea. It started as annoyance. Every time I w...",
-      "url": "https://dev.to/rushikesh_bodakhe_db28644/i-built-a-saas-to-solve-my-own-problem-now-im-unsure-whether-to-scale-it-or-move-on-391j",
-      "date": "2025-12-20T06:08:08.000Z",
+      "title": "Day 78 of 100 days dsa coding challenge",
+      "description": "Taking on a new challenge: solving GeeksforGeeks POTD daily and sharing my solutions! 💻🔥 Problem: https://www.geeksforgeeks.org/problems/count-x-in-...",
+      "url": "https://dev.to/manasi_patil_/day-78-of-100-days-dsa-coding-challenge-2pi6",
+      "date": "2025-12-21T05:51:28.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -115,22 +100,37 @@
         "javascript",
         "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "How I Built an MCP App to Roast My GitHub Year in Review",
-      "description": "I love GitHub Unwrapped because it lets me see all the progress (or lack of progress) I've made over the past year. Sidenote: I will be posting my Git...",
-      "url": "https://dev.to/blackgirlbytes/how-i-built-an-mcp-app-to-roast-my-github-year-in-review-28gh",
-      "date": "2025-12-20T06:07:09.000Z",
+      "title": "How Transformers Really Think: Inside the Brain of an AI Language Model",
+      "description": "Most people think AI models are mysterious black boxes. They're overthinking it. Here’s how they actually turn your words into predictions ↓ If you ca...",
+      "url": "https://dev.to/aiwithapex/how-transformers-really-think-inside-the-brain-of-an-ai-language-model-4e99",
+      "date": "2025-12-21T05:49:28.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "mcp",
-        "ai",
-        "github"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "18 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Echarts in Angular",
+      "description": "ECharts and Angular Integration Guide Hey👋- Hope you're having an awesome day! So, we are going to discuss how to use the echarts in angular and how ...",
+      "url": "https://dev.to/vspatil87/echarts-in-angular-427h",
+      "date": "2025-12-21T05:48:25.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "angular",
+        "webdev",
+        "typescript"
+      ],
+      "readTime": "2 min read",
       "priority": 2
     },
     {
