@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-21T06:32:15.950Z",
+  "lastUpdated": "2025-12-22T06:36:38.496Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "My Project-Based Learning Journey – Building Real Projects to Learn",
-      "description": "📘 What You’ll Find in My Blog Step-by-step projects starting from Python fundamentals Challenges I faced and how I solved them Key takeaways and refl...",
-      "url": "https://dev.to/lone_wolf_22/my-project-based-learning-journey-building-real-projects-to-learn-55hc",
-      "date": "2025-12-21T05:59:16.000Z",
+      "title": "Docker Environment Composer Local Package Development Tips",
+      "description": "When developing Laravel applications in a Docker environment, you often need to simultaneously develop custom Composer packages. This article shares a...",
+      "url": "https://dev.to/mesak/docker-environment-composer-local-package-development-tips-13a7",
+      "date": "2025-12-22T06:27:04.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "portfolio",
-        "devjournal"
+        "php",
+        "laravel",
+        "docker"
       ],
-      "readTime": "1 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Day 78 of 100 days dsa coding challenge",
-      "description": "Taking on a new challenge: solving GeeksforGeeks POTD daily and sharing my solutions! 💻🔥 Problem: https://www.geeksforgeeks.org/problems/count-x-in-...",
-      "url": "https://dev.to/manasi_patil_/day-78-of-100-days-dsa-coding-challenge-2pi6",
-      "date": "2025-12-21T05:51:28.000Z",
+      "title": "Building Multi-Tenant SaaS as a Solo Developer",
+      "description": "This article is part of the Solo SaaS Development Advent Calendar 2025. In the previous article, I covered GA4 and Microsoft Clarity setup. In this ar...",
+      "url": "https://dev.to/pipipi-dev/building-multi-tenant-saas-as-a-solo-developer-1pi9",
+      "date": "2025-12-22T06:21:05.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "nextjs",
+        "supabase",
+        "saas"
       ],
-      "readTime": "1 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "How Transformers Really Think: Inside the Brain of an AI Language Model",
-      "description": "Most people think AI models are mysterious black boxes. They're overthinking it. Here’s how they actually turn your words into predictions ↓ If you ca...",
-      "url": "https://dev.to/aiwithapex/how-transformers-really-think-inside-the-brain-of-an-ai-language-model-4e99",
-      "date": "2025-12-21T05:49:28.000Z",
+      "title": "Building a High-Performance Real-Time Camera Capture System in C++",
+      "description": "Deep dive into building a production-ready camera capture system with zero-copy V4L2, multithreading, and FFmpeg encoding. Ever wondered how professio...",
+      "url": "https://dev.to/techsorter/building-a-high-performance-real-time-camera-capture-system-in-c-3kad",
+      "date": "2025-12-22T06:11:18.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "cpp",
+        "programming",
+        "performance"
       ],
-      "readTime": "1 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Echarts in Angular",
-      "description": "ECharts and Angular Integration Guide Hey👋- Hope you're having an awesome day! So, we are going to discuss how to use the echarts in angular and how ...",
-      "url": "https://dev.to/vspatil87/echarts-in-angular-427h",
-      "date": "2025-12-21T05:48:25.000Z",
+      "title": "The Hidden Time Drain Killing Your Business Growth",
+      "description": "The Hidden Time Drain Killing Your Business Growth Last month, Mark, founder of a SaaS startup, discovered his biggest competitor had quietly launched...",
+      "url": "https://dev.to/tracksimple/the-hidden-time-drain-killing-your-business-growth-1pob",
+      "date": "2025-12-22T06:10:46.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "angular",
-        "webdev",
-        "typescript"
+        "news",
+        "tracksimple",
+        "competitormonitoring"
       ],
-      "readTime": "2 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
