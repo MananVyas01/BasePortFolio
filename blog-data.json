@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-23T06:35:46.872Z",
+  "lastUpdated": "2025-12-24T06:35:43.345Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Strengthening supply chain security: Preparing for the next malware campaign",
+      "description": "Security advice for users and maintainers to help reduce the impact of the next supply chain malware attack. The post Strengthening supply chain secur...",
+      "url": "https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/",
+      "date": "2025-12-23T23:52:08.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "security",
+        "supplychainsecurity",
+        "githubsecuritylab"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "5 podcast episodes to help you build with confidence in 2026",
       "description": "Looking ahead to the New Year? These GitHub Podcast episodes help you cut through the noise and build with more confidence across AI, open source, and...",
@@ -59,78 +74,93 @@
       "priority": 1
     },
     {
-      "title": "Let’s talk about GitHub Actions",
-      "description": "A look at how we rebuilt GitHub Actions’ core architecture and shipped long-requested upgrades to improve performance, workflow flexibility, reliabili...",
-      "url": "https://github.blog/news-insights/product-news/lets-talk-about-github-actions/",
-      "date": "2025-12-11T17:40:52.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "newsinsights",
-        "product",
-        "cicd"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Basta con il \"Funziona sulla mia Macchina\": La Guida Semplice a Docker",
-      "description": "In Breve (TL;DR) Docker risolve il classico problema del \"funziona sulla mia macchina\" creando ambienti di sviluppo, test e produzione perfettamente i...",
-      "url": "https://dev.to/scape/basta-con-il-funziona-sulla-mia-macchina-la-guida-semplice-a-docker-64f",
-      "date": "2025-12-23T06:30:00.000Z",
+      "title": "The Proxy Paradox: Why Spring @Transactional Vanishes",
+      "description": "We've all been there. You annotate @Transactional on a critical method in your Spring application, run mvn test, watch the green checkmarks fly by, an...",
+      "url": "https://dev.to/rajatarora/the-proxy-paradox-why-spring-transactional-vanishes-4758",
+      "date": "2025-12-24T06:30:02.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "docker",
-        "containers",
-        "kubernetes"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "Building the Future: A Native GUI SDK Prototype",
-      "description": "A working proof-of-concept for developers ready to make semantic interfaces a reality By @hejhdiss (Muhammed Shafin P) View the project on GitHub Note...",
-      "url": "https://dev.to/hejhdiss/building-the-future-a-native-gui-sdk-prototype-2b0i",
-      "date": "2025-12-23T06:07:12.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "sdk",
-        "hejhdiss",
-        "poc"
+        "java",
+        "spring",
+        "programming"
       ],
       "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "The Definitive Guide to Building a Cross-Browser Testing Matrix for 2026",
-      "description": "Crafting Your Blueprint for Universal Web Compatibility In the fragmented digital landscape of 2026, your beautifully crafted website might be a maste...",
-      "url": "https://dev.to/matt_calder_e620d84cf0c14/the-definitive-guide-to-building-a-cross-browser-testing-matrix-for-2026-246i",
-      "date": "2025-12-23T06:04:44.000Z",
+      "title": "Stop Pushing Work Code with Your Personal Email: The Ultimate Guide to Multiple ",
+      "description": "If you are like me, you probably have a personal GitHub account for your side projects and a separate professional account for your company. And if yo...",
+      "url": "https://dev.to/rahulkbharti/stop-pushing-work-code-with-your-personal-email-the-ultimate-guide-to-multiple-github-accounts-on-39bg",
+      "date": "2025-12-24T06:24:53.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "devops",
+        "git",
+        "productivity"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Dark vs Bright Website Design: The Real Difference (and How to Choose the Right ",
+      "description": "The dark background feels calm, your eyes relax, and every image seems to glow a little brighter. Now picture that same site in the middle of the day....",
+      "url": "https://dev.to/per-starke-642/dark-vs-bright-website-design-the-real-difference-and-how-to-choose-the-right-one-5b5j",
+      "date": "2025-12-24T06:24:29.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "testing",
-        "software"
+        "design",
+        "themes"
       ],
-      "readTime": "6 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "Shadow Signals: How Counterfactual Learning Recovers Missed Alpha",
-      "description": "Let’s clear the fog. Counterfactual Learning fixes that blind spot. It treats every rejected decision as first-class data, not disposable noise. What ...",
-      "url": "https://dev.to/ronny_nyabuto_bba33987098/shadow-signals-how-counterfactual-learning-recovers-missed-alpha-14gb",
-      "date": "2025-12-23T06:04:38.000Z",
+      "title": "User Connectivity: Two Years in Production — Lessons Learned and New Patterns",
+      "description": "Introduction This is a follow-up to my previous post on User Connectivity: A Real-time Web Solution for Online and Offline User Status. It has been al...",
+      "url": "https://dev.to/anoushnet/user-connectivity-two-years-in-production-lessons-learned-and-new-patterns-3fpf",
+      "date": "2025-12-24T06:23:54.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "alpha",
-        "cryptocurrency",
-        "solana"
+        "microsoft",
+        "eventdriven",
+        "softwareengineering"
       ],
       "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Thank You (2025 Edition)",
+      "description": "This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-fro...",
+      "url": "https://css-tricks.com/thank-you-2025-edition/",
+      "date": "2025-12-23T15:52:53.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "webdev",
+        "javascript"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Giving Users A Voice Through Virtual Personas",
+      "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question....",
+      "url": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
+      "date": "2025-12-23T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -194,21 +224,6 @@
       "priority": 2
     },
     {
-      "title": "Responsive List of Avatars Using Modern CSS (Part 2)",
-      "description": "In this article, we follow up the work we did to create responsive rows of circular images in a previous article by arranging the images around a circ...",
-      "url": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/",
-      "date": "2025-12-17T15:21:34.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "containerqueries",
-        "images"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
       "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles]...",
       "url": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
@@ -228,21 +243,6 @@
       "description": "We’ve got exciting news! eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which...",
       "url": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
       "date": "2025-12-09T16:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "State, Logic, And Native Power: CSS Wrapped 2025",
-      "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript....",
-      "url": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
-      "date": "2025-12-09T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
