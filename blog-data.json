@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-24T06:35:43.345Z",
+  "lastUpdated": "2025-12-25T06:35:08.929Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "The Proxy Paradox: Why Spring @Transactional Vanishes",
-      "description": "We've all been there. You annotate @Transactional on a critical method in your Spring application, run mvn test, watch the green checkmarks fly by, an...",
-      "url": "https://dev.to/rajatarora/the-proxy-paradox-why-spring-transactional-vanishes-4758",
-      "date": "2025-12-24T06:30:02.000Z",
+      "title": "Some people are becoming exceptional tool users. Others are becoming system buil",
+      "description": "System Builders Will Replace Tool Users: And That’s a Good Thing Jaideep Parashar ・ Dec 25 #webdev #ai #developers #programming...",
+      "url": "https://dev.to/jaideepparashar/some-people-are-becoming-exceptional-tool-users-others-are-becoming-system-builders-over-time-49cp",
+      "date": "2025-12-25T06:22:12.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "java",
-        "spring",
-        "programming"
+        "webdev",
+        "ai",
+        "developers"
       ],
-      "readTime": "5 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Stop Pushing Work Code with Your Personal Email: The Ultimate Guide to Multiple ",
-      "description": "If you are like me, you probably have a personal GitHub account for your side projects and a separate professional account for your company. And if yo...",
-      "url": "https://dev.to/rahulkbharti/stop-pushing-work-code-with-your-personal-email-the-ultimate-guide-to-multiple-github-accounts-on-39bg",
-      "date": "2025-12-24T06:24:53.000Z",
+      "title": "System Builders Will Replace Tool Users: And That’s a Good Thing",
+      "description": "There’s a quiet divide forming in tech teams right now. On the surface, everyone appears productive. But underneath, two very different mindsets are e...",
+      "url": "https://dev.to/jaideepparashar/system-builders-will-replace-tool-users-and-thats-a-good-thing-4dj6",
+      "date": "2025-12-25T06:20:54.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devops",
-        "git",
-        "productivity"
+        "webdev",
+        "ai",
+        "developers"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Dark vs Bright Website Design: The Real Difference (and How to Choose the Right ",
-      "description": "The dark background feels calm, your eyes relax, and every image seems to glow a little brighter. Now picture that same site in the middle of the day....",
-      "url": "https://dev.to/per-starke-642/dark-vs-bright-website-design-the-real-difference-and-how-to-choose-the-right-one-5b5j",
-      "date": "2025-12-24T06:24:29.000Z",
+      "title": "Stop Sending Boring Texts! Try This Secret \"Locked Message\" Generator",
+      "description": "Why send a plain text message when you can send a locked digital treasure chest? If you are planning a digital treasure hunt, an escape room, or just ...",
+      "url": "https://dev.to/techno_kraft_in/stop-sending-boring-texts-try-this-secret-locked-message-generator-pjl",
+      "date": "2025-12-25T06:04:02.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "showdev",
         "webdev",
-        "design",
-        "themes"
+        "programming"
       ],
-      "readTime": "7 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "User Connectivity: Two Years in Production — Lessons Learned and New Patterns",
-      "description": "Introduction This is a follow-up to my previous post on User Connectivity: A Real-time Web Solution for Online and Offline User Status. It has been al...",
-      "url": "https://dev.to/anoushnet/user-connectivity-two-years-in-production-lessons-learned-and-new-patterns-3fpf",
-      "date": "2025-12-24T06:23:54.000Z",
+      "title": "Leaflet Address Autocomplete with Geoapify (Companion to MapLibre Example)",
+      "description": "This is the Leaflet version of our Address Autocomplete example. If you've seen the MapLibre GL tutorial, this follows the same UX pattern: users can ...",
+      "url": "https://dev.to/geoapify-maps-api/leaflet-address-autocomplete-with-geoapify-companion-to-maplibre-example-35p2",
+      "date": "2025-12-25T05:58:47.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "microsoft",
-        "eventdriven",
-        "softwareengineering"
+        "leaflet",
+        "javascript",
+        "webdev"
       ],
-      "readTime": "2 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
