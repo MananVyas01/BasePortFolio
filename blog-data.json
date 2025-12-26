@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-25T06:35:08.929Z",
+  "lastUpdated": "2025-12-26T06:34:27.942Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,61 +74,61 @@
       "priority": 1
     },
     {
-      "title": "Some people are becoming exceptional tool users. Others are becoming system buil",
-      "description": "System Builders Will Replace Tool Users: And That’s a Good Thing Jaideep Parashar ・ Dec 25 #webdev #ai #developers #programming...",
-      "url": "https://dev.to/jaideepparashar/some-people-are-becoming-exceptional-tool-users-others-are-becoming-system-builders-over-time-49cp",
-      "date": "2025-12-25T06:22:12.000Z",
+      "title": "One Year of Model Context Protocol: From Experiment to Industry Standard",
+      "description": "The Birth of a Standard On November 25, 2024, Anthropic introduced something that would fundamentally reshape how AI systems connect with the world: t...",
+      "url": "https://dev.to/ajeetraina/one-year-of-model-context-protocol-from-experiment-to-industry-standard-5hj8",
+      "date": "2025-12-26T06:30:57.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
+        "mcp",
         "ai",
-        "developers"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "System Builders Will Replace Tool Users: And That’s a Good Thing",
-      "description": "There’s a quiet divide forming in tech teams right now. On the surface, everyone appears productive. But underneath, two very different mindsets are e...",
-      "url": "https://dev.to/jaideepparashar/system-builders-will-replace-tool-users-and-thats-a-good-thing-4dj6",
-      "date": "2025-12-25T06:20:54.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "ai",
-        "developers"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Stop Sending Boring Texts! Try This Secret \"Locked Message\" Generator",
-      "description": "Why send a plain text message when you can send a locked digital treasure chest? If you are planning a digital treasure hunt, an escape room, or just ...",
-      "url": "https://dev.to/techno_kraft_in/stop-sending-boring-texts-try-this-secret-locked-message-generator-pjl",
-      "date": "2025-12-25T06:04:02.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "showdev",
-        "webdev",
-        "programming"
+        "llm"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Leaflet Address Autocomplete with Geoapify (Companion to MapLibre Example)",
-      "description": "This is the Leaflet version of our Address Autocomplete example. If you've seen the MapLibre GL tutorial, this follows the same UX pattern: users can ...",
-      "url": "https://dev.to/geoapify-maps-api/leaflet-address-autocomplete-with-geoapify-companion-to-maplibre-example-35p2",
-      "date": "2025-12-25T05:58:47.000Z",
+      "title": "Rethinking Expense Splitting: A Graph-Based Approach with LLM Integration",
+      "description": "The Problem with Traditional Expense Splitters If you've ever used group expense splitting tools, you know the drill: great concept, but many implemen...",
+      "url": "https://dev.to/naveen_v_5562871ba6455b7e/rethinking-expense-splitting-a-graph-based-approach-with-llm-integration-mbo",
+      "date": "2025-12-26T06:28:39.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "leaflet",
-        "javascript",
-        "webdev"
+        "ai",
+        "mcp",
+        "llm"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "What Are the Key Challenges in Hardware Design Projects?",
+      "description": "Modern products are built around embedded systems. Hardware that works right from the start is needed for cameras, medical devices, industrial machine...",
+      "url": "https://dev.to/siliconsignals_ind/what-are-the-key-challenges-in-hardware-design-projects-5659",
+      "date": "2025-12-26T06:18:31.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "hardware",
+        "hardwareengineering",
+        "pcbdesign"
+      ],
+      "readTime": "10 min read",
+      "priority": 2
+    },
+    {
+      "title": "CSS Tooltips: A Developer's Guide to Better UX (2025 Guide)",
+      "description": "CSS Tooltips: Your Secret Weapon for a Sleek, User-Friendly Website (No JavaScript Needed!) Let's be real. We've all been there. You're hovering over ...",
+      "url": "https://dev.to/satyam_gupta_0d1ff2152dcc/css-tooltips-a-developers-guide-to-better-ux-2025-guide-5eoe",
+      "date": "2025-12-26T06:17:00.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "css",
+        "webdev",
+        "programming"
       ],
       "readTime": "5 min read",
       "priority": 2
