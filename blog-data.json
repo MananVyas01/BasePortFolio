@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-26T06:34:27.942Z",
+  "lastUpdated": "2025-12-27T06:32:47.899Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "WRAP up your backlog with GitHub Copilot coding agent",
+      "description": "An easy-to-remember acronym, WRAP will help you write effective issues, refine your instructions, and get the most out of Copilot coding agent. The po...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/",
+      "date": "2025-12-26T17:56:38.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "agentmode"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Strengthening supply chain security: Preparing for the next malware campaign",
       "description": "Security advice for users and maintainers to help reduce the impact of the next supply chain malware attack. The post Strengthening supply chain secur...",
@@ -59,78 +74,63 @@
       "priority": 1
     },
     {
-      "title": "The future of AI-powered software optimization (and how it can help your team)",
-      "description": "We envision the future of AI-enabled tooling to look like near-effortless engineering for sustainability. We call it Continuous Efficiency. The post T...",
-      "url": "https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/",
-      "date": "2025-12-12T20:43:37.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "newsinsights",
-        "policy",
-        "continuousefficiency"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "One Year of Model Context Protocol: From Experiment to Industry Standard",
-      "description": "The Birth of a Standard On November 25, 2024, Anthropic introduced something that would fundamentally reshape how AI systems connect with the world: t...",
-      "url": "https://dev.to/ajeetraina/one-year-of-model-context-protocol-from-experiment-to-industry-standard-5hj8",
-      "date": "2025-12-26T06:30:57.000Z",
+      "title": "Getting to know Claude better",
+      "description": "Claude is trained to encourage users to continue chatting about themselves, but I wanted to know more about Claude. I cut our conversation short about...",
+      "url": "https://dev.to/goatpug/getting-to-know-claude-better-572p",
+      "date": "2025-12-27T06:20:45.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "mcp",
-        "ai",
-        "llm"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Rethinking Expense Splitting: A Graph-Based Approach with LLM Integration",
-      "description": "The Problem with Traditional Expense Splitters If you've ever used group expense splitting tools, you know the drill: great concept, but many implemen...",
-      "url": "https://dev.to/naveen_v_5562871ba6455b7e/rethinking-expense-splitting-a-graph-based-approach-with-llm-integration-mbo",
-      "date": "2025-12-26T06:28:39.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "mcp",
-        "llm"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "What Are the Key Challenges in Hardware Design Projects?",
-      "description": "Modern products are built around embedded systems. Hardware that works right from the start is needed for cameras, medical devices, industrial machine...",
-      "url": "https://dev.to/siliconsignals_ind/what-are-the-key-challenges-in-hardware-design-projects-5659",
-      "date": "2025-12-26T06:18:31.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "hardware",
-        "hardwareengineering",
-        "pcbdesign"
-      ],
-      "readTime": "10 min read",
-      "priority": 2
-    },
-    {
-      "title": "CSS Tooltips: A Developer's Guide to Better UX (2025 Guide)",
-      "description": "CSS Tooltips: Your Secret Weapon for a Sleek, User-Friendly Website (No JavaScript Needed!) Let's be real. We've all been there. You're hovering over ...",
-      "url": "https://dev.to/satyam_gupta_0d1ff2152dcc/css-tooltips-a-developers-guide-to-better-ux-2025-guide-5eoe",
-      "date": "2025-12-26T06:17:00.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "css",
+        "claudeai",
         "webdev",
-        "programming"
+        "javascript"
       ],
       "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "I Used My AI Nutrition Agent Every Day for a Month. Here's What I Actually Had t",
+      "description": "A month ago, I wrote about building NutriAgent, my AI nutrition tracker that logs meals from Telegram and the web into a Google Sheet I own (you can r...",
+      "url": "https://dev.to/juandastic/i-used-my-ai-nutrition-coach-every-day-for-a-month-heres-what-i-actually-had-to-fix-1ej8",
+      "date": "2025-12-27T06:19:17.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ux",
+        "ai",
+        "agents"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "10 MCP Servers to Improve DevOps Workflows",
+      "description": "DevOps/SRE engineers frequently switch between multiple systems and tools in their daily work, and this disconnect continuously consumes time and atte...",
+      "url": "https://dev.to/chaterm-ai/10-mcp-servers-to-improve-devops-workflows-5f30",
+      "date": "2025-12-27T06:09:12.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "sre",
+        "devops",
+        "mcp"
+      ],
+      "readTime": "19 min read",
+      "priority": 2
+    },
+    {
+      "title": "When Competitors Strike: Your Emergency Playbook for Sudden Market Disruption",
+      "description": "When Competitors Strike: Your Emergency Playbook for Sudden Market Disruption Sarah stared at her sales dashboard, heart pounding. Her best-selling pr...",
+      "url": "https://dev.to/tracksimple/when-competitors-strike-your-emergency-playbook-for-sudden-market-disruption-1p72",
+      "date": "2025-12-27T06:03:43.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "tutorial",
+        "tracksimple",
+        "competitormonitoring"
+      ],
+      "readTime": "4 min read",
       "priority": 2
     },
     {
