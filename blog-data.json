@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T06:32:47.899Z",
+  "lastUpdated": "2025-12-28T06:33:18.554Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Getting to know Claude better",
-      "description": "Claude is trained to encourage users to continue chatting about themselves, but I wanted to know more about Claude. I cut our conversation short about...",
-      "url": "https://dev.to/goatpug/getting-to-know-claude-better-572p",
-      "date": "2025-12-27T06:20:45.000Z",
+      "title": "Scalable ML Training on AWS: SageMaker, Spot Instances and Experiment Tracking",
+      "description": "Reading time: ~20-25 minutes Level: Intermediate to Advanced Prerequisites: Docker installed locally, completed Parts 1 & 2 (especially the train/val ...",
+      "url": "https://dev.to/shoaibalimir/scalable-ml-training-on-aws-sagemaker-spot-instances-and-experiment-tracking-i9",
+      "date": "2025-12-28T06:27:52.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "claudeai",
-        "webdev",
-        "javascript"
+        "aws",
+        "ai",
+        "machinelearning"
+      ],
+      "readTime": "37 min read",
+      "priority": 2
+    },
+    {
+      "title": "Getting started in synthetic data generation with AWS Clean Rooms - Analytics",
+      "description": "What is hot off the press ✨ from AWS re:Invent 2025 for Analytics? I am still enthralled and excited about the data and AI innovation for data scienti...",
+      "url": "https://dev.to/aws-heroes/getting-started-in-synthetic-data-generation-with-aws-clean-rooms-analytics-35gd",
+      "date": "2025-12-28T06:19:10.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "aws",
+        "ai",
+        "machinelearning"
       ],
       "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "I Used My AI Nutrition Agent Every Day for a Month. Here's What I Actually Had t",
-      "description": "A month ago, I wrote about building NutriAgent, my AI nutrition tracker that logs meals from Telegram and the web into a Google Sheet I own (you can r...",
-      "url": "https://dev.to/juandastic/i-used-my-ai-nutrition-coach-every-day-for-a-month-heres-what-i-actually-had-to-fix-1ej8",
-      "date": "2025-12-27T06:19:17.000Z",
+      "title": "Why I Built a Desktop Email Automation Tool Instead of Another SaaS",
+      "description": "As developers, we default to SaaS. But not every problem benefits from being cloud-first. Email automation is deeply tied to: IP reputation provider l...",
+      "url": "https://dev.to/arezdev/why-i-built-a-desktop-email-automation-tool-instead-of-another-saas-3hod",
+      "date": "2025-12-28T05:57:02.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ux",
-        "ai",
-        "agents"
+        "devtools",
+        "productdevelopment",
+        "email"
       ],
-      "readTime": "7 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "10 MCP Servers to Improve DevOps Workflows",
-      "description": "DevOps/SRE engineers frequently switch between multiple systems and tools in their daily work, and this disconnect continuously consumes time and atte...",
-      "url": "https://dev.to/chaterm-ai/10-mcp-servers-to-improve-devops-workflows-5f30",
-      "date": "2025-12-27T06:09:12.000Z",
+      "title": "What I Learned Testing MCPs Across Claude, Cursor, and Replit",
+      "description": "Model Context Protocols (MCPs) are a powerful pattern for connecting AI assistants to real world data sources and tools. Over the past few months, I’v...",
+      "url": "https://dev.to/deepika_n_417a1b69443e2bd/what-i-learned-testing-mcps-across-claude-cursor-and-replit-10mf",
+      "date": "2025-12-28T05:45:34.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "sre",
-        "devops",
+        "ai",
+        "developers",
         "mcp"
       ],
-      "readTime": "19 min read",
-      "priority": 2
-    },
-    {
-      "title": "When Competitors Strike: Your Emergency Playbook for Sudden Market Disruption",
-      "description": "When Competitors Strike: Your Emergency Playbook for Sudden Market Disruption Sarah stared at her sales dashboard, heart pounding. Her best-selling pr...",
-      "url": "https://dev.to/tracksimple/when-competitors-strike-your-emergency-playbook-for-sudden-market-disruption-1p72",
-      "date": "2025-12-27T06:03:43.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "tutorial",
-        "tracksimple",
-        "competitormonitoring"
-      ],
-      "readTime": "4 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
