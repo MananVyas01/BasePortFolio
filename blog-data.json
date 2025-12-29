@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T06:33:18.554Z",
+  "lastUpdated": "2025-12-29T06:37:17.454Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Scalable ML Training on AWS: SageMaker, Spot Instances and Experiment Tracking",
-      "description": "Reading time: ~20-25 minutes Level: Intermediate to Advanced Prerequisites: Docker installed locally, completed Parts 1 & 2 (especially the train/val ...",
-      "url": "https://dev.to/shoaibalimir/scalable-ml-training-on-aws-sagemaker-spot-instances-and-experiment-tracking-i9",
-      "date": "2025-12-28T06:27:52.000Z",
+      "title": "Building a Mobile Tool After Facing Media Quality Issues as a Content Creator",
+      "description": "As a content creator, I regularly share moments, updates, and short-form videos through WhatsApp Status. These are usually personal recordings—capture...",
+      "url": "https://dev.to/abdul_wahab_fe886de9acd8a/building-a-mobile-tool-after-facing-media-quality-issues-as-a-content-creator-3bo3",
+      "date": "2025-12-29T06:25:03.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "aws",
+        "mobile",
         "ai",
-        "machinelearning"
+        "buildinpublic"
       ],
-      "readTime": "37 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Getting started in synthetic data generation with AWS Clean Rooms - Analytics",
-      "description": "What is hot off the press ✨ from AWS re:Invent 2025 for Analytics? I am still enthralled and excited about the data and AI innovation for data scienti...",
-      "url": "https://dev.to/aws-heroes/getting-started-in-synthetic-data-generation-with-aws-clean-rooms-analytics-35gd",
-      "date": "2025-12-28T06:19:10.000Z",
+      "title": "Why level up mag articles Are a Must-Read for Innovators and Creators",
+      "description": "If you’re passionate about entrepreneurship, digital branding, tech trends, and strategic growth, then level up mag articles are exactly the kind of c...",
+      "url": "https://dev.to/levelup_magzine_abd2554b8/why-level-up-mag-articles-are-a-must-read-for-innovators-and-creators-3p7",
+      "date": "2025-12-29T06:18:08.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "aws",
-        "ai",
-        "machinelearning"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "5 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Why I Built a Desktop Email Automation Tool Instead of Another SaaS",
-      "description": "As developers, we default to SaaS. But not every problem benefits from being cloud-first. Email automation is deeply tied to: IP reputation provider l...",
-      "url": "https://dev.to/arezdev/why-i-built-a-desktop-email-automation-tool-instead-of-another-saas-3hod",
-      "date": "2025-12-28T05:57:02.000Z",
+      "title": "My Substack Automation Journey",
+      "description": "This is a test post created by Python script....",
+      "url": "https://dev.to/dharmikk_baria_51b371d8c5/my-substack-automation-journey-fd0",
+      "date": "2025-12-29T06:17:40.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devtools",
-        "productdevelopment",
-        "email"
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "What I Learned Testing MCPs Across Claude, Cursor, and Replit",
-      "description": "Model Context Protocols (MCPs) are a powerful pattern for connecting AI assistants to real world data sources and tools. Over the past few months, I’v...",
-      "url": "https://dev.to/deepika_n_417a1b69443e2bd/what-i-learned-testing-mcps-across-claude-cursor-and-replit-10mf",
-      "date": "2025-12-28T05:45:34.000Z",
+      "title": "How to Use Regex for Data Validation in the BoldSign API",
+      "description": "Ensuring data is accurate and formatted correctly is essential in any application or context. BoldSign provides an easy way to validate data when you ...",
+      "url": "https://dev.to/boldsign/how-to-use-regex-for-data-validation-in-the-boldsign-api-2j35",
+      "date": "2025-12-29T06:16:21.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "developers",
-        "mcp"
+        "esignature",
+        "regex",
+        "boldsignapi"
       ],
-      "readTime": "2 min read",
+      "readTime": "16 min read",
       "priority": 2
     },
     {
