@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T06:37:17.454Z",
+  "lastUpdated": "2025-12-30T06:34:49.621Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Bugs that survive the heat of continuous fuzzing",
+      "description": "Learn why some long-enrolled OSS-Fuzz projects still contain vulnerabilities and how you can find them. The post Bugs that survive the heat of continu...",
+      "url": "https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/",
+      "date": "2025-12-29T22:01:14.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "security",
+        "vulnerabilityresearch",
+        "fuzzing"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "WRAP up your backlog with GitHub Copilot coding agent",
       "description": "An easy-to-remember acronym, WRAP will help you write effective issues, refine your instructions, and get the most out of Copilot coding agent. The po...",
@@ -59,40 +74,40 @@
       "priority": 1
     },
     {
-      "title": "This year’s most influential open source projects",
-      "description": "From Appwrite to Zulip, Universe 2025’s Open Source Zone was stacked with standout projects showing just how far open source can go. Meet the maintain...",
-      "url": "https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/",
-      "date": "2025-12-22T23:48:52.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "maintainers",
-        "opensource",
-        "githubuniverse"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Building a Mobile Tool After Facing Media Quality Issues as a Content Creator",
-      "description": "As a content creator, I regularly share moments, updates, and short-form videos through WhatsApp Status. These are usually personal recordings—capture...",
-      "url": "https://dev.to/abdul_wahab_fe886de9acd8a/building-a-mobile-tool-after-facing-media-quality-issues-as-a-content-creator-3bo3",
-      "date": "2025-12-29T06:25:03.000Z",
+      "title": "🛠️_Development_Efficiency_vs_Runtime_Performance[20251230061947]",
+      "description": "As an engineer who has experienced countless project developments, I deeply understand how important the balance between development efficiency and ru...",
+      "url": "https://dev.to/member_8659c28a/developmentefficiencyvsruntimeperformance20251230061947-lp3",
+      "date": "2025-12-30T06:19:48.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "mobile",
-        "ai",
-        "buildinpublic"
+        "webdev",
+        "programming",
+        "rust"
       ],
-      "readTime": "2 min read",
+      "readTime": "11 min read",
       "priority": 2
     },
     {
-      "title": "Why level up mag articles Are a Must-Read for Innovators and Creators",
-      "description": "If you’re passionate about entrepreneurship, digital branding, tech trends, and strategic growth, then level up mag articles are exactly the kind of c...",
-      "url": "https://dev.to/levelup_magzine_abd2554b8/why-level-up-mag-articles-are-a-must-read-for-innovators-and-creators-3p7",
-      "date": "2025-12-29T06:18:08.000Z",
+      "title": "Remote work only works when the environment is non negotiable. Ashkan Rajaee exp",
+      "description": "Control Your Space or You Lose Your Mind Working Remote Cole ・ Dec 29 #remotework #ashkanrajaee #businessproductivity #startupoperations...",
+      "url": "https://dev.to/kathrynlogist/remote-work-only-works-when-the-environment-is-non-negotiable-ashkan-rajaee-explains-why-2lac",
+      "date": "2025-12-30T06:19:12.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "remotework",
+        "ashkanrajaee",
+        "businessproductivity"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Same Fairway, Different Worlds- New Golfer vs. Scratch Golfer Explained with Hum",
+      "description": "Golf has a unique way of bringing together people who seem like they should never be playing the same sport. On one end of the spectrum is the new gol...",
+      "url": "https://dev.to/parteeof18/same-fairway-different-worlds-new-golfer-vs-scratch-golfer-explained-with-humor-2ja2",
+      "date": "2025-12-30T06:17:12.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -104,33 +119,18 @@
       "priority": 2
     },
     {
-      "title": "My Substack Automation Journey",
-      "description": "This is a test post created by Python script....",
-      "url": "https://dev.to/dharmikk_baria_51b371d8c5/my-substack-automation-journey-fd0",
-      "date": "2025-12-29T06:17:40.000Z",
+      "title": "Quick Stops That Matter: The Role of Convenience Stores in Rural and Semi-Urban ",
+      "description": "In rural and semi-urban communities, convenience stores are far more than quick shopping destinations. They act as lifelines connecting people to esse...",
+      "url": "https://dev.to/nencywilliams/quick-stops-that-matter-the-role-of-convenience-stores-in-rural-and-semi-urban-areas-31ic",
+      "date": "2025-12-30T06:13:38.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "food",
         "webdev",
-        "javascript",
-        "css"
+        "javascript"
       ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "How to Use Regex for Data Validation in the BoldSign API",
-      "description": "Ensuring data is accurate and formatted correctly is essential in any application or context. BoldSign provides an easy way to validate data when you ...",
-      "url": "https://dev.to/boldsign/how-to-use-regex-for-data-validation-in-the-boldsign-api-2j35",
-      "date": "2025-12-29T06:16:21.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "esignature",
-        "regex",
-        "boldsignapi"
-      ],
-      "readTime": "16 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
