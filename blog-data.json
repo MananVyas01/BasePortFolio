@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T06:34:49.621Z",
+  "lastUpdated": "2025-12-31T06:35:22.451Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Agentic AI, MCP, and spec-driven development: Top blog posts of 2025",
+      "description": "Explore the GitHub Blog’s top posts covering the biggest software development topics of the year. The post Agentic AI, MCP, and spec-driven developmen...",
+      "url": "https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/",
+      "date": "2025-12-30T17:20:10.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "developerskills",
+        "agenticai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Bugs that survive the heat of continuous fuzzing",
       "description": "Learn why some long-enrolled OSS-Fuzz projects still contain vulnerabilities and how you can find them. The post Bugs that survive the heat of continu...",
@@ -59,55 +74,40 @@
       "priority": 1
     },
     {
-      "title": "5 podcast episodes to help you build with confidence in 2026",
-      "description": "Looking ahead to the New Year? These GitHub Podcast episodes help you cut through the noise and build with more confidence across AI, open source, and...",
-      "url": "https://github.blog/open-source/maintainers/5-podcast-episodes-to-help-you-build-with-confidence-in-2026/",
-      "date": "2025-12-23T00:15:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "maintainers",
-        "opensource",
-        "githubpodcast"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "🛠️_Development_Efficiency_vs_Runtime_Performance[20251230061947]",
-      "description": "As an engineer who has experienced countless project developments, I deeply understand how important the balance between development efficiency and ru...",
-      "url": "https://dev.to/member_8659c28a/developmentefficiencyvsruntimeperformance20251230061947-lp3",
-      "date": "2025-12-30T06:19:48.000Z",
+      "title": "The 30-Minute Security Audit: Onboarding a New Codebase",
+      "description": "You just inherited a codebase. Maybe it's an acquisition. Maybe a departing senior engineer. Maybe you're the new CTO and nobody can explain why there...",
+      "url": "https://dev.to/ofri-peretz/the-30-minute-security-audit-onboarding-a-new-codebase-4f91",
+      "date": "2025-12-31T06:31:46.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "security",
+        "javascript",
+        "tutorial"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Why Conversational AI Is Not Just a Chatbot — It’s a Service Redesign",
+      "description": "Conversational AI is often misunderstood as a smarter chatbot. In reality, it represents a fundamental redesign of how service operations work. As exp...",
+      "url": "https://dev.to/kokni_manus_4ba34ad6eddbc/why-conversational-ai-is-not-just-a-chatbot-its-a-service-redesign-40ck",
+      "date": "2025-12-31T06:29:22.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "powerplatform",
         "webdev",
-        "programming",
-        "rust"
+        "javascript"
       ],
-      "readTime": "11 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Remote work only works when the environment is non negotiable. Ashkan Rajaee exp",
-      "description": "Control Your Space or You Lose Your Mind Working Remote Cole ・ Dec 29 #remotework #ashkanrajaee #businessproductivity #startupoperations...",
-      "url": "https://dev.to/kathrynlogist/remote-work-only-works-when-the-environment-is-non-negotiable-ashkan-rajaee-explains-why-2lac",
-      "date": "2025-12-30T06:19:12.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "remotework",
-        "ashkanrajaee",
-        "businessproductivity"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Same Fairway, Different Worlds- New Golfer vs. Scratch Golfer Explained with Hum",
-      "description": "Golf has a unique way of bringing together people who seem like they should never be playing the same sport. On one end of the spectrum is the new gol...",
-      "url": "https://dev.to/parteeof18/same-fairway-different-worlds-new-golfer-vs-scratch-golfer-explained-with-humor-2ja2",
-      "date": "2025-12-30T06:17:12.000Z",
+      "title": "AI Layer Split: Extract 5+ Game-Ready Assets Fast",
+      "description": "Parallax backgrounds UI hover/pressed/disabled states Quick reskins and seasonal variants Enhancing Visual Depth: Parallax, Reskins, and UI States Thi...",
+      "url": "https://dev.to/aivideotool/ai-layer-split-extract-5-game-ready-assets-fast-h4l",
+      "date": "2025-12-31T06:29:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -115,22 +115,37 @@
         "javascript",
         "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "8 min read",
       "priority": 2
     },
     {
-      "title": "Quick Stops That Matter: The Role of Convenience Stores in Rural and Semi-Urban ",
-      "description": "In rural and semi-urban communities, convenience stores are far more than quick shopping destinations. They act as lifelines connecting people to esse...",
-      "url": "https://dev.to/nencywilliams/quick-stops-that-matter-the-role-of-convenience-stores-in-rural-and-semi-urban-areas-31ic",
-      "date": "2025-12-30T06:13:38.000Z",
+      "title": "Beyond `apt upgrade`: Automating Linux Hardening for Public Sector Workloads",
+      "description": "The Myth of the \"Secure Default\" There is a prevalent misconception in public sector IT that deploying an LTS release of Ubuntu or Debian implies a ba...",
+      "url": "https://dev.to/patrickbloemit/beyond-apt-upgrade-automating-linux-hardening-for-public-sector-workloads-4m69",
+      "date": "2025-12-31T06:28:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "food",
-        "webdev",
-        "javascript"
+        "linux",
+        "security",
+        "automation"
       ],
-      "readTime": "2 min read",
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "How To Design For (And With) Deaf People",
+      "description": "Practical UX guidelines to keep in mind for 466 million people who experience hearing loss. More design patterns in Smart Interface Design Patterns, a...",
+      "url": "https://smashingmagazine.com/2025/12/how-design-for-with-deaf-people/",
+      "date": "2025-12-30T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -228,21 +243,6 @@
       "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles]...",
       "url": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
       "date": "2025-12-17T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Accessible UX Research, eBook Now Available For Download",
-      "description": "We’ve got exciting news! eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which...",
-      "url": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
-      "date": "2025-12-09T16:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
