@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T06:35:22.451Z",
+  "lastUpdated": "2026-01-01T06:35:12.871Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,8 +8,8 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
@@ -74,40 +74,25 @@
       "priority": 1
     },
     {
-      "title": "The 30-Minute Security Audit: Onboarding a New Codebase",
-      "description": "You just inherited a codebase. Maybe it's an acquisition. Maybe a departing senior engineer. Maybe you're the new CTO and nobody can explain why there...",
-      "url": "https://dev.to/ofri-peretz/the-30-minute-security-audit-onboarding-a-new-codebase-4f91",
-      "date": "2025-12-31T06:31:46.000Z",
+      "title": "Google Cloud: la Gerarchia delle Risorse",
+      "description": "TL;DR Se hai poco tempo, ecco ciò che devi ricordare sulla struttura di Google Cloud: Esiste una gerarchia a 4 livelli: tutto in Google Cloud è organi...",
+      "url": "https://dev.to/scape/google-cloud-la-gerarchia-delle-risorse-3l77",
+      "date": "2026-01-01T06:30:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "security",
-        "javascript",
-        "tutorial"
+        "architecture",
+        "beginners",
+        "googlecloud"
       ],
-      "readTime": "2 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Why Conversational AI Is Not Just a Chatbot — It’s a Service Redesign",
-      "description": "Conversational AI is often misunderstood as a smarter chatbot. In reality, it represents a fundamental redesign of how service operations work. As exp...",
-      "url": "https://dev.to/kokni_manus_4ba34ad6eddbc/why-conversational-ai-is-not-just-a-chatbot-its-a-service-redesign-40ck",
-      "date": "2025-12-31T06:29:22.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "powerplatform",
-        "webdev",
-        "javascript"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "AI Layer Split: Extract 5+ Game-Ready Assets Fast",
-      "description": "Parallax backgrounds UI hover/pressed/disabled states Quick reskins and seasonal variants Enhancing Visual Depth: Parallax, Reskins, and UI States Thi...",
-      "url": "https://dev.to/aivideotool/ai-layer-split-extract-5-game-ready-assets-fast-h4l",
-      "date": "2025-12-31T06:29:00.000Z",
+      "title": "Computer Vision Services: Building Intelligent Visual Systems with Oodles",
+      "description": "Images and videos contain massive amounts of data—but extracting meaningful insights from them requires advanced AI systems. Computer Vision Services ...",
+      "url": "https://dev.to/oodlesplatform/computer-vision-services-building-intelligent-visual-systems-with-oodles-3pi0",
+      "date": "2026-01-01T06:26:39.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -115,22 +100,52 @@
         "javascript",
         "css"
       ],
-      "readTime": "8 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Beyond `apt upgrade`: Automating Linux Hardening for Public Sector Workloads",
-      "description": "The Myth of the \"Secure Default\" There is a prevalent misconception in public sector IT that deploying an LTS release of Ubuntu or Debian implies a ba...",
-      "url": "https://dev.to/patrickbloemit/beyond-apt-upgrade-automating-linux-hardening-for-public-sector-workloads-4m69",
-      "date": "2025-12-31T06:28:31.000Z",
+      "title": "Practical Next.js Caching: Routes, Data, Revalidation, and Tags",
+      "description": "A concise, practical guide to Next.js caching: how route and data caches differ, when to revalidate, and how tag-based invalidation reduces rebuild co...",
+      "url": "https://dev.to/sumeet_shrofffreelancer_/practical-nextjs-caching-routes-data-revalidation-and-tags-24d1",
+      "date": "2026-01-01T06:26:33.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "linux",
-        "security",
-        "automation"
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Shopify Scripts Functions: A Practical Migration Playbook",
+      "description": "A concise, developer-focused playbook to move Script Editor logic into Shopify Functions: audit, prototype, test, and stage rollouts with QA, monitori...",
+      "url": "https://dev.to/sumeet_shrofffreelancer_/shopify-scripts-functions-a-practical-migration-playbook-2pih",
+      "date": "2026-01-01T06:20:47.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "backend",
+        "devops",
+        "tutorial"
       ],
       "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Be",
+      "description": "2026 is almost upon us. I know we’re all itching to see the clock strike midnight (cue The Final Countdown by Europe), but not without recapping the b...",
+      "url": "https://css-tricks.com/whats-important-2/",
+      "date": "2025-12-31T16:18:23.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "news",
+        "webdev"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -219,21 +234,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Search CSS-Tricks Raycast Extension",
-      "description": "Jelte Lagendijk built a Raycast extension for searching CSS-Tricks articles where you simply type and a get a solid set of real-time results. Search C...",
-      "url": "https://css-tricks.com/search-css-tricks-raycast-extension/",
-      "date": "2025-12-18T15:34:23.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "resource",
-        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
