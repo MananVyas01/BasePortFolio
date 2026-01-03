@@ -1,17 +1,16 @@
 {
-  "lastUpdated": "2026-01-02T06:35:29.521Z",
+  "lastUpdated": "2026-01-03T06:33:10.149Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
-    "Web Dev",
-    "JavaScript"
+    "Web Dev"
   ],
   "sources": [
     "GitHub Blog",
     "Dev.to",
+    "CSS-Tricks",
     "Smashing Magazine",
-    "A List Apart",
-    "JavaScript Weekly"
+    "A List Apart"
   ],
   "posts": [
     {
@@ -75,10 +74,10 @@
       "priority": 1
     },
     {
-      "title": "What Is DataOps and Why It Matters for Modern Enterprises",
-      "description": "Data is everywhere. Insights are not. That gap is exactly why DataOps is gaining momentum across enterprises. As organizations scale analytics, they a...",
-      "url": "https://dev.to/sangram_6c566d62b3944d2b9/what-is-dataops-and-why-it-matters-for-modern-enterprises-117n",
-      "date": "2026-01-02T06:29:21.000Z",
+      "title": "Quick business lesson:",
+      "description": "Revenue ≠ Profit If your business generates ₦1m and incurs $800k in expenses, your net profit is $200k. Many business owners are busy but still strugg...",
+      "url": "https://dev.to/codedarmab101/quick-business-lesson-4bo4",
+      "date": "2026-01-03T06:22:41.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -86,52 +85,67 @@
         "javascript",
         "css"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "How to Design a Cross Balls Puzzle using 3D CAD Software",
-      "description": "How to Design a Cross Balls Puzzle using 3D CAD Software https://www.selfcad.com/tutorials/5531f282i2y5k5t271m6b3q2z411a2py16z3 Once you launch the ed...",
-      "url": "https://dev.to/julia970/how-to-design-a-cross-balls-puzzle-using-3d-cad-software-in9",
-      "date": "2026-01-02T06:27:36.000Z",
+      "title": "Part 6 — Observability and Evaluation in GenAI Systems",
+      "description": "You can’t debug what you can’t observe. In GenAI systems, observability is harder and more important. Latency and error rates still matter. But they d...",
+      "url": "https://dev.to/muzammiltalha/part-6-observability-and-evaluation-in-genai-systems-76g",
+      "date": "2026-01-03T06:15:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "3dmodeling",
-        "webdev",
-        "javascript"
+        "genai",
+        "ai",
+        "systems"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Flexbox 101: The No-Stress Guide to CSS Layout in 2026 | CoderCrafter",
-      "description": "Flexbox 101: Your No-Stress Guide to Finally Nailing CSS Layouts Let’s be real for a second. How many hours have you spent wrestling with CSS to get t...",
-      "url": "https://dev.to/satyam_gupta_0d1ff2152dcc/flexbox-101-the-no-stress-guide-to-css-layout-in-2026-codercrafter-26lh",
-      "date": "2026-01-02T06:26:24.000Z",
+      "title": "The Shocking Audit That Changed Everything",
+      "description": "The Shocking Audit That Changed Everything Sarah stared at the spreadsheet in disbelief. As Marketing Operations Manager at a mid-sized SaaS company, ...",
+      "url": "https://dev.to/tracksimple/the-shocking-audit-that-changed-everything-3hpo",
+      "date": "2026-01-03T06:05:27.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "css",
-        "webdev",
-        "programming"
+        "tutorial",
+        "tracksimple",
+        "competitormonitoring"
       ],
-      "readTime": "6 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "CSS Media Queries: The Ultimate Guide to Responsive Web Design",
-      "description": "** ** That’s where the magic of CSS Media Queries comes in. Think of them as the smart, behind-the-scenes logic that tells your website, “Hey, if you’...",
-      "url": "https://dev.to/satyam_gupta_0d1ff2152dcc/css-media-queries-the-ultimate-guide-to-responsive-web-design-3npf",
-      "date": "2026-01-02T06:21:37.000Z",
+      "title": "Why Figma SVGs Break Your React App (and How to Fix It Locally)",
+      "description": "We've all been there. You export a beautiful icon from Figma, paste it into your React project, and suddenly you have: Massive file sizes. Hard-to-deb...",
+      "url": "https://dev.to/hypertools/why-figma-svgs-break-your-react-app-and-how-to-fix-it-locally-3c63",
+      "date": "2026-01-03T06:03:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "css",
-        "webdev",
-        "programming"
+        "react",
+        "svg",
+        "webdev"
       ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Be",
+      "description": "2026 is almost upon us. I know we’re all itching to see the clock strike midnight (cue The Final Countdown by Europe), but not without recapping the b...",
+      "url": "https://css-tricks.com/whats-important-2/",
+      "date": "2025-12-31T16:18:23.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "news",
+        "webdev"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -150,6 +164,21 @@
       "priority": 2
     },
     {
+      "title": "Thank You (2025 Edition)",
+      "description": "This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-fro...",
+      "url": "https://css-tricks.com/thank-you-2025-edition/",
+      "date": "2025-12-23T15:52:53.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "webdev",
+        "javascript"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
       "title": "Giving Users A Voice Through Virtual Personas",
       "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question....",
       "url": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
@@ -160,6 +189,36 @@
         "webdev",
         "javascript",
         "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "text-decoration-inset is Like Padding for Text Decorations",
+      "description": "The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines e...",
+      "url": "https://css-tricks.com/text-decoration-inset-is-like-padding-for-text-decorations/",
+      "date": "2025-12-22T14:39:52.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "typography",
+        "webdev"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Masonry Layout is Now grid-lanes",
+      "description": "It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode. Masonry Layout is Now grid-lanes originally pub...",
+      "url": "https://css-tricks.com/masonry-layout-is-now-grid-lanes/",
+      "date": "2025-12-19T16:08:28.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "csswg",
+        "masonry"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -223,58 +282,6 @@
       ],
       "readTime": "6 min read",
       "priority": 2
-    },
-    {
-      "title": "An Holistic Framework for Shared Design Leadership",
-      "description": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design pro...",
-      "url": "\n\t\t\t\t\thttps://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/\t\t\t\t",
-      "date": "2025-07-23T14:10:22.000Z",
-      "category": "Web Dev",
-      "source": "A List Apart",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "9 min read",
-      "priority": 2
-    },
-    {
-      "title": "From Beta to Bedrock: Build Products that Stick.",
-      "description": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few we...",
-      "url": "\n\t\t\t\t\thttps://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/\t\t\t\t",
-      "date": "2025-04-23T18:04:31.000Z",
-      "category": "Web Dev",
-      "source": "A List Apart",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "The JavaScript Bundler Grand Prix",
-      "description": "#​766 — December 19, 2025 Read on the Web 🗓️ As it's the last issue of 2025, a reminder that JavaScript Weekly moves to Tuesdays in January. See you ...",
-      "url": "https://javascriptweekly.com/issues/766",
-      "date": "2025-12-19T00:00:00.000Z",
-      "category": "JavaScript",
-      "source": "JavaScript Weekly",
-      "tags": [],
-      "readTime": "7 min read",
-      "priority": 3
-    },
-    {
-      "title": "Building JavaScript tools in a single HTML file",
-      "description": "#​765 — December 12, 2025 Read on the Web JavaScript Weekly Useful Patterns for Building HTML Tools — In many situations, you don’t need a full-on fra...",
-      "url": "https://javascriptweekly.com/issues/765",
-      "date": "2025-12-12T00:00:00.000Z",
-      "category": "JavaScript",
-      "source": "JavaScript Weekly",
-      "tags": [],
-      "readTime": "6 min read",
-      "priority": 3
     }
   ]
 }
