@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T06:33:10.149Z",
+  "lastUpdated": "2026-01-04T06:33:28.810Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,61 +74,61 @@
       "priority": 1
     },
     {
-      "title": "Quick business lesson:",
-      "description": "Revenue ≠ Profit If your business generates ₦1m and incurs $800k in expenses, your net profit is $200k. Many business owners are busy but still strugg...",
-      "url": "https://dev.to/codedarmab101/quick-business-lesson-4bo4",
-      "date": "2026-01-03T06:22:41.000Z",
+      "title": "collections Module Added to Standard Library Learning Path",
+      "description": "I've just uploaded the collections module materials to my standardlib-datastruct repository. This one's a bit different from my previous workbooks. Th...",
+      "url": "https://dev.to/hejhdiss/collections-module-added-to-standard-library-learning-path-3g8n",
+      "date": "2026-01-04T06:20:47.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Part 6 — Observability and Evaluation in GenAI Systems",
-      "description": "You can’t debug what you can’t observe. In GenAI systems, observability is harder and more important. Latency and error rates still matter. But they d...",
-      "url": "https://dev.to/muzammiltalha/part-6-observability-and-evaluation-in-genai-systems-76g",
-      "date": "2026-01-03T06:15:00.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "genai",
-        "ai",
-        "systems"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Shocking Audit That Changed Everything",
-      "description": "The Shocking Audit That Changed Everything Sarah stared at the spreadsheet in disbelief. As Marketing Operations Manager at a mid-sized SaaS company, ...",
-      "url": "https://dev.to/tracksimple/the-shocking-audit-that-changed-everything-3hpo",
-      "date": "2026-01-03T06:05:27.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "tutorial",
-        "tracksimple",
-        "competitormonitoring"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "Why Figma SVGs Break Your React App (and How to Fix It Locally)",
-      "description": "We've all been there. You export a beautiful icon from Figma, paste it into your React project, and suddenly you have: Massive file sizes. Hard-to-deb...",
-      "url": "https://dev.to/hypertools/why-figma-svgs-break-your-react-app-and-how-to-fix-it-locally-3c63",
-      "date": "2026-01-03T06:03:16.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "react",
-        "svg",
+        "python3",
+        "hejhdiss",
         "webdev"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Integrate SDKs Easily: Monetize Your AI Conversations with Monetzly",
+      "description": "Traditional Ads Don’t Work in AI Conversations. Here’s What Does: Meet Monetzly. As developers, we’re witnessing an explosion of AI applications, each...",
+      "url": "https://dev.to/monetzly/integrate-sdks-easily-monetize-your-ai-conversations-with-monetzly-4hin",
+      "date": "2026-01-04T06:19:56.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "webdev",
+        "api"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "ReliefLine",
+      "description": "What I Built ReliefLine is a disaster relief planning platform that replaces guesswork with data-driven precision. It bridges the gap between global a...",
+      "url": "https://dev.to/ctrlvee/reliefline-4fch",
+      "date": "2026-01-04T06:09:20.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "devchallenge",
+        "muxchallenge",
+        "showandtell"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Is the World Ready for Another Programming Language in 2026, Now That AI Writes ",
+      "description": "I am coming up a new Language called Come ;) No raw pointers in user code Predictability over magic Intro Example...",
+      "url": "https://dev.to/james_d_befc420a49e6a2b5e/is-the-world-ready-for-another-programming-language-in-2026-now-that-ai-writes-code-2el8",
+      "date": "2026-01-04T06:07:36.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "programming",
+        "c",
+        "go"
       ],
       "readTime": "1 min read",
       "priority": 2
