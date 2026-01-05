@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T06:33:28.810Z",
+  "lastUpdated": "2026-01-05T06:40:42.464Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "collections Module Added to Standard Library Learning Path",
-      "description": "I've just uploaded the collections module materials to my standardlib-datastruct repository. This one's a bit different from my previous workbooks. Th...",
-      "url": "https://dev.to/hejhdiss/collections-module-added-to-standard-library-learning-path-3g8n",
-      "date": "2026-01-04T06:20:47.000Z",
+      "title": "Building a Production-Ready AWS ALB + Auto Scaling Architecture Using Terraform",
+      "description": "As part of my hands-on learning in AWS an Instead of exposing EC2 instances directly to the internet, this project uses an Application Load Balancer (...",
+      "url": "https://dev.to/manoop_madhu/building-a-production-ready-aws-alb-auto-scaling-architecture-using-terraform-3nji",
+      "date": "2026-01-05T06:34:04.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python3",
-        "hejhdiss",
-        "webdev"
+        "architecture",
+        "aws",
+        "devops"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Integrate SDKs Easily: Monetize Your AI Conversations with Monetzly",
-      "description": "Traditional Ads Don’t Work in AI Conversations. Here’s What Does: Meet Monetzly. As developers, we’re witnessing an explosion of AI applications, each...",
-      "url": "https://dev.to/monetzly/integrate-sdks-easily-monetize-your-ai-conversations-with-monetzly-4hin",
-      "date": "2026-01-04T06:19:56.000Z",
+      "title": "Converting HTML to Images in Java with Spire.Doc",
+      "description": "In today's digital landscape, the ability to effectively render and share web content is crucial. Java developers frequently encounter scenarios where...",
+      "url": "https://dev.to/lu_liu_e3fc806354d9a952b7/converting-html-to-images-in-java-with-spiredoc-3l23",
+      "date": "2026-01-05T06:29:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
         "webdev",
-        "api"
+        "javascript",
+        "css"
       ],
-      "readTime": "3 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "ReliefLine",
-      "description": "What I Built ReliefLine is a disaster relief planning platform that replaces guesswork with data-driven precision. It bridges the gap between global a...",
-      "url": "https://dev.to/ctrlvee/reliefline-4fch",
-      "date": "2026-01-04T06:09:20.000Z",
+      "title": "🐍 Python Tiny Tools: Practical Automation, Learning & 200+ Project Ideas",
+      "description": "If you’re learning Python—or already using it daily—you’ve probably asked yourself: “How can I build things that actually save time?” That question is...",
+      "url": "https://dev.to/matetechnologie/python-tiny-tools-practical-automation-learning-200-project-ideas-38f",
+      "date": "2026-01-05T06:28:46.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devchallenge",
-        "muxchallenge",
-        "showandtell"
+        "python",
+        "automation",
+        "productivity"
       ],
-      "readTime": "3 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Is the World Ready for Another Programming Language in 2026, Now That AI Writes ",
-      "description": "I am coming up a new Language called Come ;) No raw pointers in user code Predictability over magic Intro Example...",
-      "url": "https://dev.to/james_d_befc420a49e6a2b5e/is-the-world-ready-for-another-programming-language-in-2026-now-that-ai-writes-code-2el8",
-      "date": "2026-01-04T06:07:36.000Z",
+      "title": "Implementing Per-Seat Team Billing with Stripe",
+      "description": "Adding team plans to a SaaS is tricky. You need per-seat pricing, plan upgrades/downgrades, webhook handling, and graceful degradation when payments f...",
+      "url": "https://dev.to/anand_rathnas_d5b608cc3de/implementing-per-seat-team-billing-with-stripe-5fp5",
+      "date": "2026-01-05T06:28:27.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "programming",
-        "c",
-        "go"
+        "stripe",
+        "saas",
+        "billing"
       ],
-      "readTime": "1 min read",
+      "readTime": "8 min read",
       "priority": 2
     },
     {
