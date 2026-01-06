@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T06:40:42.464Z",
+  "lastUpdated": "2026-01-06T06:36:27.831Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Building a Production-Ready AWS ALB + Auto Scaling Architecture Using Terraform",
-      "description": "As part of my hands-on learning in AWS an Instead of exposing EC2 instances directly to the internet, this project uses an Application Load Balancer (...",
-      "url": "https://dev.to/manoop_madhu/building-a-production-ready-aws-alb-auto-scaling-architecture-using-terraform-3nji",
-      "date": "2026-01-05T06:34:04.000Z",
+      "title": "The Best Alternative Data Providers in 2026: A Deep Dive into Data Provenance",
+      "description": "TLDR: The Alternative Data market is rapidly evolving toward strict compliance, AI-driven analytics, and hyper-granularity. In 2026, the most effectiv...",
+      "url": "https://dev.to/luisgustvo/the-best-alternative-data-providers-in-2026-a-deep-dive-into-data-provenance-jl7",
+      "date": "2026-01-06T06:09:35.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "architecture",
-        "aws",
-        "devops"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Converting HTML to Images in Java with Spire.Doc",
-      "description": "In today's digital landscape, the ability to effectively render and share web content is crucial. Java developers frequently encounter scenarios where...",
-      "url": "https://dev.to/lu_liu_e3fc806354d9a952b7/converting-html-to-images-in-java-with-spiredoc-3l23",
-      "date": "2026-01-05T06:29:16.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
+        "dataengineering",
         "webdev",
-        "javascript",
-        "css"
+        "webdev"
       ],
-      "readTime": "7 min read",
+      "readTime": "9 min read",
       "priority": 2
     },
     {
-      "title": "🐍 Python Tiny Tools: Practical Automation, Learning & 200+ Project Ideas",
-      "description": "If you’re learning Python—or already using it daily—you’ve probably asked yourself: “How can I build things that actually save time?” That question is...",
-      "url": "https://dev.to/matetechnologie/python-tiny-tools-practical-automation-learning-200-project-ideas-38f",
-      "date": "2026-01-05T06:28:46.000Z",
+      "title": "Unveiling Symfony 7.4: A New Era for Media Validation and DX",
+      "description": "The release of Symfony 7.4 in November 2025 marks another significant milestone in the evolution of the PHP ecosystem. Continuing its bi-annual releas...",
+      "url": "https://dev.to/mattleads/unveiling-symfony-74-a-new-era-for-media-validation-and-dx-4459",
+      "date": "2026-01-06T06:08:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "automation",
+        "symfony",
+        "php",
         "productivity"
+      ],
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "Why Traditional DevOps Stops Scaling",
+      "description": "Traditional DevOps works well… until the organization grows. At small scale, a central DevOps team deploying, fixing, and firefighting everything feel...",
+      "url": "https://dev.to/sreekanth_kuruba_91721e5d/why-traditional-devops-stops-scaling-1im",
+      "date": "2026-01-06T06:06:56.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "devops",
+        "engineeringmanagement",
+        "platformengineering"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Implementing Per-Seat Team Billing with Stripe",
-      "description": "Adding team plans to a SaaS is tricky. You need per-seat pricing, plan upgrades/downgrades, webhook handling, and graceful degradation when payments f...",
-      "url": "https://dev.to/anand_rathnas_d5b608cc3de/implementing-per-seat-team-billing-with-stripe-5fp5",
-      "date": "2026-01-05T06:28:27.000Z",
+      "title": "ClovaLink — Enterprise File Storage without the price tag",
+      "description": "Most storage platforms feel great until the bill shows up. Seats, bandwidth charges, and “enterprise tiers” eat your wallet. ClovaLink is an open-sour...",
+      "url": "https://dev.to/dotdon/clovalink-enterprise-file-storage-without-the-price-tag-40gk",
+      "date": "2026-01-06T06:06:52.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "stripe",
-        "saas",
-        "billing"
+        "opensource",
+        "rust",
+        "enterprise"
       ],
-      "readTime": "8 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -144,6 +144,21 @@
         "articles",
         "news",
         "webdev"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Countdown To New Adventures (January 2026 Wallpapers Edition)",
+      "description": "Whether 2026 has already begun as you’re reading this or you’re still waiting for the big countdown to start, how about some new wallpapers to get you...",
+      "url": "https://smashingmagazine.com/2025/12/desktop-wallpaper-calendars-january-2026/",
+      "date": "2025-12-31T09:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -228,21 +243,6 @@
       "description": "Meet TARS — a simple, repeatable, and meaningful UX metric designed specifically to track the performance of product features. Upcoming part of the Me...",
       "url": "https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/",
       "date": "2025-12-19T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
-      "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles]...",
-      "url": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
-      "date": "2025-12-17T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
