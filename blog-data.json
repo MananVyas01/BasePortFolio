@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T06:36:27.831Z",
+  "lastUpdated": "2026-01-07T06:36:04.860Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "The Best Alternative Data Providers in 2026: A Deep Dive into Data Provenance",
-      "description": "TLDR: The Alternative Data market is rapidly evolving toward strict compliance, AI-driven analytics, and hyper-granularity. In 2026, the most effectiv...",
-      "url": "https://dev.to/luisgustvo/the-best-alternative-data-providers-in-2026-a-deep-dive-into-data-provenance-jl7",
-      "date": "2026-01-06T06:09:35.000Z",
+      "title": "Introduction to Agentic Adventures of MoonBit",
+      "description": "Motivation Inspired by Anil Madhavapeddy's Agentic Adventures, this project explores what it's like to build practical libraries in MoonBit with AI as...",
+      "url": "https://dev.to/milky2018/introduction-to-agentic-adventures-of-moonbit-1pgi",
+      "date": "2026-01-07T06:30:49.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "dataengineering",
-        "webdev",
+        "vibecoding",
+        "moonbit",
         "webdev"
       ],
-      "readTime": "9 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Unveiling Symfony 7.4: A New Era for Media Validation and DX",
-      "description": "The release of Symfony 7.4 in November 2025 marks another significant milestone in the evolution of the PHP ecosystem. Continuing its bi-annual releas...",
-      "url": "https://dev.to/mattleads/unveiling-symfony-74-a-new-era-for-media-validation-and-dx-4459",
-      "date": "2026-01-06T06:08:23.000Z",
+      "title": "AI Cost Management: Turning the Financial Ghost into a Wish-Granting Genie",
+      "description": "AI Cost Management: Is Your AI a Ghost or a Genie? It always begins with good intent. A Founder or CIO decides to test the waters of innovation. “Let’...",
+      "url": "https://dev.to/yaseen_tech/ai-cost-management-turning-the-financial-ghost-into-a-wish-granting-genie-gng",
+      "date": "2026-01-07T06:27:37.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "symfony",
-        "php",
-        "productivity"
+        "ai",
+        "finops",
+        "management"
       ],
-      "readTime": "9 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Why Traditional DevOps Stops Scaling",
-      "description": "Traditional DevOps works well… until the organization grows. At small scale, a central DevOps team deploying, fixing, and firefighting everything feel...",
-      "url": "https://dev.to/sreekanth_kuruba_91721e5d/why-traditional-devops-stops-scaling-1im",
-      "date": "2026-01-06T06:06:56.000Z",
+      "title": "C# win Tiobe Programming Language of the Year 2025🚀",
+      "description": "C# saw the largest increase in ranking in the index year over year, while Java held steady, C and C++ swapped positions, R and Perl rose, and Go and R...",
+      "url": "https://dev.to/arashzandi/c-win-tiobe-programming-language-of-the-year-2025-3ppo",
+      "date": "2026-01-07T06:23:59.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devops",
-        "engineeringmanagement",
-        "platformengineering"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "ClovaLink — Enterprise File Storage without the price tag",
-      "description": "Most storage platforms feel great until the bill shows up. Seats, bandwidth charges, and “enterprise tiers” eat your wallet. ClovaLink is an open-sour...",
-      "url": "https://dev.to/dotdon/clovalink-enterprise-file-storage-without-the-price-tag-40gk",
-      "date": "2026-01-06T06:06:52.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "opensource",
-        "rust",
-        "enterprise"
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "How to Tell If a Video Is AI Generated: A Technical and Practical Guide",
+      "description": "As AI-generated video becomes more realistic, developers, engineers, and technical teams are increasingly asked a difficult question: How can you tell...",
+      "url": "https://dev.to/herman99630/how-to-tell-if-a-video-is-ai-generated-a-technical-and-practical-guide-34mj",
+      "date": "2026-01-07T06:23:49.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "tutorial",
+        "developers"
+      ],
+      "readTime": "2 min read",
       "priority": 2
     },
     {
