@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T06:36:04.860Z",
+  "lastUpdated": "2026-01-08T06:36:19.990Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,93 @@
       "priority": 1
     },
     {
-      "title": "Introduction to Agentic Adventures of MoonBit",
-      "description": "Motivation Inspired by Anil Madhavapeddy's Agentic Adventures, this project explores what it's like to build practical libraries in MoonBit with AI as...",
-      "url": "https://dev.to/milky2018/introduction-to-agentic-adventures-of-moonbit-1pgi",
-      "date": "2026-01-07T06:30:49.000Z",
+      "title": "How to Crack Any Software Developer Interview in 2026 (Updated for AI & Modern H",
+      "description": "The software developer interview preparation in 2026 is in a constant state of evolution. What worked just a few years ago (or even in 2025) might not...",
+      "url": "https://dev.to/finalroundai/how-to-crack-any-software-developer-interview-in-2026-updated-for-ai-modern-hiring-4ih8",
+      "date": "2026-01-08T06:30:32.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "vibecoding",
-        "moonbit",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "AI Cost Management: Turning the Financial Ghost into a Wish-Granting Genie",
-      "description": "AI Cost Management: Is Your AI a Ghost or a Genie? It always begins with good intent. A Founder or CIO decides to test the waters of innovation. “Let’...",
-      "url": "https://dev.to/yaseen_tech/ai-cost-management-turning-the-financial-ghost-into-a-wish-granting-genie-gng",
-      "date": "2026-01-07T06:27:37.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "finops",
-        "management"
+        "softwareengineering",
+        "programming",
+        "career"
       ],
       "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "C# win Tiobe Programming Language of the Year 2025🚀",
-      "description": "C# saw the largest increase in ranking in the index year over year, while Java held steady, C and C++ swapped positions, R and Perl rose, and Go and R...",
-      "url": "https://dev.to/arashzandi/c-win-tiobe-programming-language-of-the-year-2025-3ppo",
-      "date": "2026-01-07T06:23:59.000Z",
+      "title": "Creando mi 'Navaja Suiza' Digital: Un Conversor de Unidades a Medida con la IA",
+      "description": "En cualquier disciplina técnica o de ingeniería, nuestro día a día está lleno de pequeñas pero constantes tareas de conversión de unidades de medida. ...",
+      "url": "https://dev.to/datalaria/creando-mi-navaja-suiza-digital-un-conversor-de-unidades-a-medida-con-la-ia-1mb1",
+      "date": "2026-01-08T06:20:57.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
+      "tags": [
+        "ai",
+        "showdev",
+        "spanish"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "Top APM Tools in 2026: What Every Developer and Engineering Team Should Know",
+      "description": "Application performance issues directly impact user experience, retention, and revenue. In 2026, modern systems are distributed, cloud-native, and hea...",
+      "url": "https://dev.to/olivia_madison_b0ad7090ad/top-apm-tools-in-2026-what-every-developer-and-engineering-team-should-know-1dg0",
+      "date": "2026-01-08T06:19:56.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "developer",
+        "devops",
+        "sre"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Solved: Hot take: The outage isn’t the problem everyone going down at once is",
+      "description": "🚀 Executive Summary TL;DR: The article highlights that widespread, correlated outages are more catastrophic than individual component failures in dis...",
+      "url": "https://dev.to/techresolve/solved-hot-take-the-outage-isnt-the-problem-everyone-going-down-at-once-is-2hkp",
+      "date": "2026-01-08T06:10:14.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "devops",
+        "programming",
+        "tutorial"
+      ],
+      "readTime": "10 min read",
+      "priority": 2
+    },
+    {
+      "title": "Future CSS: :drag (and Maybe ::dragged-image?)",
+      "description": "Have you ever struggled to style an element while it's being dragged? Sunkanmi explains some ways it could become easier in the future. Future CSS: :d...",
+      "url": "https://css-tricks.com/future-css-drag-and-maybe-dragged-image/",
+      "date": "2026-01-07T15:16:47.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "csswg",
+        "pseudoclasses"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Pivoting Your Career Without Starting From Scratch",
+      "description": "Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you b...",
+      "url": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
+      "date": "2026-01-07T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
         "javascript",
         "css"
       ],
       "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "How to Tell If a Video Is AI Generated: A Technical and Practical Guide",
-      "description": "As AI-generated video becomes more realistic, developers, engineers, and technical teams are increasingly asked a difficult question: How can you tell...",
-      "url": "https://dev.to/herman99630/how-to-tell-if-a-video-is-ai-generated-a-technical-and-practical-guide-34mj",
-      "date": "2026-01-07T06:23:49.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "tutorial",
-        "developers"
-      ],
-      "readTime": "2 min read",
       "priority": 2
     },
     {
@@ -219,36 +249,6 @@
         "articles",
         "typography",
         "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Masonry Layout is Now grid-lanes",
-      "description": "It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode. Masonry Layout is Now grid-lanes originally pub...",
-      "url": "https://css-tricks.com/masonry-layout-is-now-grid-lanes/",
-      "date": "2025-12-19T16:08:28.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "csswg",
-        "masonry"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "How To Measure The Impact Of Features",
-      "description": "Meet TARS — a simple, repeatable, and meaningful UX metric designed specifically to track the performance of product features. Upcoming part of the Me...",
-      "url": "https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/",
-      "date": "2025-12-19T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
