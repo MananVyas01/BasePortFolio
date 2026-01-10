@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-09T06:35:59.878Z",
+  "lastUpdated": "2026-01-10T06:32:12.140Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "E-commerce: How to Build a Card Payment System with Blnk Finance",
-      "description": "A step-by-step guide for developers to implement card payments with authorization and settlement flows Have you ever wondered how card payments actual...",
-      "url": "https://dev.to/ubcodes/e-commerce-how-to-build-a-card-payment-system-with-blnk-finance-3b1k",
-      "date": "2026-01-09T06:28:05.000Z",
+      "title": "How I Went From 'I'm Not a Hardware Person' to Reverse Engineering Devices",
+      "description": "Listen up. Sit down and grab a coffee, or whatever it is you kids drink to stay awake these days. I want to talk to you about something I hear way too...",
+      "url": "https://dev.to/numbpill3d/how-i-went-from-im-not-a-hardware-person-to-reverse-engineering-devices-894",
+      "date": "2026-01-10T06:13:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "technical",
-        "devrel",
-        "blnkfinance"
+        "programming",
+        "discuss",
+        "learning"
       ],
-      "readTime": "14 min read",
+      "readTime": "13 min read",
       "priority": 2
     },
     {
-      "title": "Docker Kanvas Challenges Helm and Kustomize for Kubernetes Dominance",
-      "description": "🚀 What Is Docker Kanvas and Why Does It Matter for Kubernetes? Docker recently introduced Docker Kanvas, a new platform aimed at simplifying one of t...",
-      "url": "https://dev.to/latchudevops/docker-kanvas-challenges-helm-and-kustomize-for-kubernetes-dominance-2df0",
-      "date": "2026-01-09T06:25:56.000Z",
+      "title": "Linux Kernel Architecture: From Ring 0 to Network Stack & eBPF",
+      "description": "Introduction In the world of cloud-native technologies and high-performance computing, understanding what happens under the hood of the Linux operatin...",
+      "url": "https://dev.to/kanywst/linux-kernel-architecture-from-ring-0-to-network-stack-ebpf-6o0",
+      "date": "2026-01-10T06:13:01.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devops",
-        "docker",
-        "kubernetes"
+        "linux",
+        "kernel",
+        "ebpf"
+      ],
+      "readTime": "10 min read",
+      "priority": 2
+    },
+    {
+      "title": "How Does @Async Work Internally in Spring Boot?",
+      "description": "Introduction 🚀 Have you ever called a REST API and thought: “Why is this request blocking until everything finishes?” Now imagine sending an email, g...",
+      "url": "https://dev.to/realnamehidden1_61/how-does-async-work-internally-in-spring-boot-35h5",
+      "date": "2026-01-10T06:10:02.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "java",
+        "interview",
+        "spring"
       ],
       "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "What is cyber security and why is it important in today’s digital world?",
-      "description": "Cyber security is the practice of protecting computers, networks, systems, and data from digital attacks such as hacking, malware, phishing, and data ...",
-      "url": "https://dev.to/ridhima_b7f6c7cbeef40f3b8/what-is-cyber-security-and-why-is-it-important-in-todays-digital-world-3jp3",
-      "date": "2026-01-09T06:18:08.000Z",
+      "title": "PushEnv: A New, Encrypted Way to Manage .env Files (No SaaS, No Servers) 🔐",
+      "description": "Environment variables run everything. But the way we manage them?Still messy. Still risky. Still outdated. So I built PushEnv — a new way to handle se...",
+      "url": "https://dev.to/shahnoor_mujawar/pushenv-a-new-encrypted-way-to-manage-env-files-no-saas-no-servers-3d1p",
+      "date": "2026-01-10T06:06:43.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "cybersecurity",
         "webdev",
-        "ai"
+        "javascript",
+        "css"
       ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "From 7 sec to 3 sec: Reducing Load Time in a Rails-Powered Restaurant App",
-      "description": "I joined this project at a point where the cracks were starting to show. The mobile app functioned, but not at the level a high-volume restaurant bran...",
-      "url": "https://dev.to/railsfactory_sedin/from-7-sec-to-3-sec-reducing-load-time-in-a-rails-powered-restaurant-app-3e6f",
-      "date": "2026-01-09T06:08:03.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "railsappcasestudy",
-        "casestudy",
-        "appmodernisation"
-      ],
-      "readTime": "4 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
