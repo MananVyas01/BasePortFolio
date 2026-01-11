@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T06:32:12.140Z",
+  "lastUpdated": "2026-01-11T06:34:14.735Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Light waves, rising tides, and drifting ships: Game Off 2025 winners",
+      "description": "Out of more than 700 games submitted to Game Off 2025, these ten winners stand out for creativity, craft, and bold interpretations of the WAVES theme....",
+      "url": "https://github.blog/open-source/gaming/light-waves-rising-tides-and-drifting-ships-game-off-2025-winners/",
+      "date": "2026-01-10T21:36:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "gaming",
+        "opensource",
+        "githubgameoff"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Why AI is pushing developers toward typed languages",
       "description": "AI is settling the “typed vs. untyped” debate by turning type systems into the safety net for code you didn’t write yourself. The post Why AI is pushi...",
@@ -59,76 +74,61 @@
       "priority": 1
     },
     {
-      "title": "WRAP up your backlog with GitHub Copilot coding agent",
-      "description": "An easy-to-remember acronym, WRAP will help you write effective issues, refine your instructions, and get the most out of Copilot coding agent. The po...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/",
-      "date": "2025-12-26T17:56:38.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "agentmode"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "How I Went From 'I'm Not a Hardware Person' to Reverse Engineering Devices",
-      "description": "Listen up. Sit down and grab a coffee, or whatever it is you kids drink to stay awake these days. I want to talk to you about something I hear way too...",
-      "url": "https://dev.to/numbpill3d/how-i-went-from-im-not-a-hardware-person-to-reverse-engineering-devices-894",
-      "date": "2026-01-10T06:13:16.000Z",
+      "title": "Who Owns This? Why Project Ownership Matters More Than Ever",
+      "description": "TL;DR For years, software teams have relied on familiar titles like Project Manager, Product Manager, and Tech Lead. But recently, a different term ha...",
+      "url": "https://dev.to/sela_network/who-owns-this-why-project-ownership-matters-more-than-ever-cpk",
+      "date": "2026-01-11T06:24:27.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "programming",
-        "discuss",
-        "learning"
+        "ai",
+        "productivity",
+        "softwaredevelopment"
       ],
-      "readTime": "13 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Linux Kernel Architecture: From Ring 0 to Network Stack & eBPF",
-      "description": "Introduction In the world of cloud-native technologies and high-performance computing, understanding what happens under the hood of the Linux operatin...",
-      "url": "https://dev.to/kanywst/linux-kernel-architecture-from-ring-0-to-network-stack-ebpf-6o0",
-      "date": "2026-01-10T06:13:01.000Z",
+      "title": "MCP Token Limits: The Hidden Cost of Tool Overload",
+      "description": "You add a few MCP servers. GitHub for code, Notion for docs, maybe Slack for notifications. Suddenly Claude feels... slower. Less helpful. It misses c...",
+      "url": "https://dev.to/piotr_hajdas/mcp-token-limits-the-hidden-cost-of-tool-overload-2d5",
+      "date": "2026-01-11T06:19:27.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "linux",
-        "kernel",
-        "ebpf"
+        "mcp",
+        "devops",
+        "ai"
       ],
-      "readTime": "10 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "How Does @Async Work Internally in Spring Boot?",
-      "description": "Introduction 🚀 Have you ever called a REST API and thought: “Why is this request blocking until everything finishes?” Now imagine sending an email, g...",
-      "url": "https://dev.to/realnamehidden1_61/how-does-async-work-internally-in-spring-boot-35h5",
-      "date": "2026-01-10T06:10:02.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "java",
-        "interview",
-        "spring"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "PushEnv: A New, Encrypted Way to Manage .env Files (No SaaS, No Servers) 🔐",
-      "description": "Environment variables run everything. But the way we manage them?Still messy. Still risky. Still outdated. So I built PushEnv — a new way to handle se...",
-      "url": "https://dev.to/shahnoor_mujawar/pushenv-a-new-encrypted-way-to-manage-env-files-no-saas-no-servers-3d1p",
-      "date": "2026-01-10T06:06:43.000Z",
+      "title": "SQL INJECTION",
+      "description": "🚨 SQL Injection (Injeção de SQL): o básico que todo dev precisa saber 🔴 O que é? ❌ Exemplo inseguro: SELECT * FROM users WHERE email = '$email' AND ...",
+      "url": "https://dev.to/rodrino_adolfokupessala_/sql-injection-hga",
+      "date": "2026-01-11T06:05:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
         "javascript",
         "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "I can finally use MCPs without fear",
+      "description": "MCP promised to make agentic coding fast and powerful, instead it overwhelmed the senses of the LLMs that we trusted to write code for us. Even Anthro...",
+      "url": "https://dev.to/andylbrummer/i-can-finally-use-mcps-without-fear-3pfl",
+      "date": "2026-01-11T06:03:02.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "mcp",
+        "agents"
       ],
       "readTime": "2 min read",
       "priority": 2
