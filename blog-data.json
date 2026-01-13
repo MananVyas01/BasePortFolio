@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T06:38:50.522Z",
+  "lastUpdated": "2026-01-13T06:36:13.841Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Want better AI outputs? Try context engineering.",
+      "description": "Learn how custom instructions, reusable prompts, and custom agents help GitHub Copilot deliver more accurate results. The post Want better AI outputs?...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/",
+      "date": "2026-01-12T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "githubcopilot"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Light waves, rising tides, and drifting ships: Game Off 2025 winners",
       "description": "Out of more than 700 games submitted to Game Off 2025, these ten winners stand out for creativity, craft, and bold interpretations of the WAVES theme....",
@@ -59,78 +74,93 @@
       "priority": 1
     },
     {
-      "title": "Bugs that survive the heat of continuous fuzzing",
-      "description": "Learn why some long-enrolled OSS-Fuzz projects still contain vulnerabilities and how you can find them. The post Bugs that survive the heat of continu...",
-      "url": "https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/",
-      "date": "2025-12-29T22:01:14.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "security",
-        "vulnerabilityresearch",
-        "fuzzing"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "AI for operations: remove friction, not people",
-      "description": "As the Founder of ReThynk AI, I want to correct a dangerous misunderstanding: AI in operations is not about removing people. Because most operational ...",
-      "url": "https://dev.to/jaideepparashar/ai-for-operations-remove-friction-not-people-1jj9",
-      "date": "2026-01-12T06:32:45.000Z",
+      "title": "In-Memory Databases Are Overrated — Here’s What Actually Matters for Speed\"",
+      "description": "It is easy to think about using an in-memory database to solve the performance problem of reporting, BI analysis, batch processing, and other data ana...",
+      "url": "https://dev.to/esproc_spl/in-memory-databases-are-overrated-heres-what-actually-matters-for-speed-3ho1",
+      "date": "2026-01-13T06:24:32.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "ai",
-        "beginners"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Smart Contract Security 101 — Reentrancy & Common AI‑Generated Mistakes",
-      "description": "The Transfer That Never Stopped By Day 30 of this Web3 journey, “security” stopped being a scary audit word and started feeling very real. The user cl...",
-      "url": "https://dev.to/ribhavmodi/smart-contract-security-101-reentrancy-common-ai-generated-mistakes-1pfb",
-      "date": "2026-01-12T06:32:39.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "security",
-        "crypto",
-        "blockchain"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "Hashicorp Vault: Transit Secrets Engine",
-      "description": "In Hashicorp Vault, secrets engines provide a uniform way to store and manage credentials, encryption keys, certificates and other sensitive informati...",
-      "url": "https://dev.to/admantium/hashicorp-vault-transit-secrets-engine-2kam",
-      "date": "2026-01-12T06:22:00.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "hashicorp",
-        "hashicorpvault",
-        "vault"
+        "javascript",
+        "css"
       ],
       "readTime": "13 min read",
       "priority": 2
     },
     {
-      "title": "Why Version Control Exists: The Pen Drive Problem",
-      "description": "Imagine five friends working on a school project. You all need to edit the same document at the same time. How do you avoid deleting someone else's wo...",
-      "url": "https://dev.to/anoop-rajoriya/why-version-control-exists-the-pen-drive-problem-327c",
-      "date": "2026-01-12T06:18:58.000Z",
+      "title": "Ask Our AI Experts: An AMA With Our Tech Leads",
+      "description": "Q1: What Are the Most Common Mistakes Companies Make When Starting an AI Project? While the promise of artificial intelligence is immense, its success...",
+      "url": "https://dev.to/capestart/ask-our-ai-experts-an-ama-with-our-tech-leads-2cn6",
+      "date": "2026-01-13T06:24:09.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "git",
-        "beginners",
-        "webdev"
+        "genai",
+        "mlops",
+        "llm"
       ],
       "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "WJb Solution Alive Samples – Minimal & Powerful Job Scheduling in .NET",
+      "description": "🚀 WJb Solution Alive Samples – Minimal & Powerful Job Scheduling in .NET If you’re exploring job scheduling, queues, and background processing in .NE...",
+      "url": "https://dev.to/ukrguru/wjb-solution-alive-samples-minimal-powerful-job-scheduling-in-net-1cpc",
+      "date": "2026-01-13T06:21:47.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "dotnet",
+        "ai"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "How I Built a Zero-Dependency Technical Research Blog with Just HTML, CSS, and M",
+      "description": "Ever find yourself drowning in bookmarks, scattered notes, and half-finished documentation about technologies you're researching? I did too—until I bu...",
+      "url": "https://dev.to/quochuydev/how-i-built-a-zero-dependency-technical-research-blog-with-just-html-css-and-markdown-kc2",
+      "date": "2026-01-13T06:00:35.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "news",
+        "research",
+        "technical"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Postcard From Web Directions Dev Summit, 2025",
+      "description": "Lee Meyer recently spoke at Web Directions Summit 2025. This is his experience, not only speaking at the event, but experiencing the event through the...",
+      "url": "https://css-tricks.com/postcard-from-web-directions-dev-summit-2025/",
+      "date": "2026-01-12T14:54:32.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "event",
+        "publicspeaking"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "UX And Product Designer’s Career Paths In 2026",
+      "description": "How to shape your career path for 2026, with decision trees for designers and a UX skills self-assessment matrix. The only limits for tomorrow are the...",
+      "url": "https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/",
+      "date": "2026-01-12T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -209,21 +239,6 @@
       "priority": 2
     },
     {
-      "title": "How To Design For (And With) Deaf People",
-      "description": "Practical UX guidelines to keep in mind for 466 million people who experience hearing loss. More design patterns in Smart Interface Design Patterns, a...",
-      "url": "https://smashingmagazine.com/2025/12/how-design-for-with-deaf-people/",
-      "date": "2025-12-30T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Thank You (2025 Edition)",
       "description": "This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-fro...",
       "url": "https://css-tricks.com/thank-you-2025-edition/",
@@ -234,21 +249,6 @@
         "articles",
         "webdev",
         "javascript"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "text-decoration-inset is Like Padding for Text Decorations",
-      "description": "The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines e...",
-      "url": "https://css-tricks.com/text-decoration-inset-is-like-padding-for-text-decorations/",
-      "date": "2025-12-22T14:39:52.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "typography",
-        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
