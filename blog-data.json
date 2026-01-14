@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T06:36:13.841Z",
+  "lastUpdated": "2026-01-14T06:36:12.564Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "What AI is actually good for, according to developers",
+      "description": "AI is designed to help you do what you love most, not replace your expertise. Discover how developer feedback and real-world experience are shaping AI...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/what-ai-is-actually-good-for-according-to-developers/",
+      "date": "2026-01-13T18:39:24.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "aicodingtools"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Want better AI outputs? Try context engineering.",
       "description": "Learn how custom instructions, reusable prompts, and custom agents help GitHub Copilot deliver more accurate results. The post Want better AI outputs?...",
@@ -59,78 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Agentic AI, MCP, and spec-driven development: Top blog posts of 2025",
-      "description": "Explore the GitHub Blog’s top posts covering the biggest software development topics of the year. The post Agentic AI, MCP, and spec-driven developmen...",
-      "url": "https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/",
-      "date": "2025-12-30T17:20:10.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "developerskills",
-        "agenticai"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "In-Memory Databases Are Overrated — Here’s What Actually Matters for Speed\"",
-      "description": "It is easy to think about using an in-memory database to solve the performance problem of reporting, BI analysis, batch processing, and other data ana...",
-      "url": "https://dev.to/esproc_spl/in-memory-databases-are-overrated-heres-what-actually-matters-for-speed-3ho1",
-      "date": "2026-01-13T06:24:32.000Z",
+      "title": "Claude Code Plugin CLI: The Missing Manual",
+      "description": "Claude Code for me is like a best friend at work, I use it in my daily coding work, and non coding tasks, like sorting supplier invoices, summarizing ...",
+      "url": "https://dev.to/garyj/claude-code-plugin-cli-the-missing-manual-40nf",
+      "date": "2026-01-14T06:25:51.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "claudecode",
+        "cli",
+        "productivity"
       ],
-      "readTime": "13 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Ask Our AI Experts: An AMA With Our Tech Leads",
-      "description": "Q1: What Are the Most Common Mistakes Companies Make When Starting an AI Project? While the promise of artificial intelligence is immense, its success...",
-      "url": "https://dev.to/capestart/ask-our-ai-experts-an-ama-with-our-tech-leads-2cn6",
-      "date": "2026-01-13T06:24:09.000Z",
+      "title": "Understanding the RAM Model of Computation",
+      "description": "Ever wondered how computer scientists analyze algorithms without worrying about whether you're running on an M1 Mac, an Intel server, or a Raspberry P...",
+      "url": "https://dev.to/ali_algmass/understanding-the-ram-model-of-computation-224p",
+      "date": "2026-01-14T06:21:25.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "genai",
-        "mlops",
-        "llm"
+        "algorithms",
+        "computerscience",
+        "performance"
       ],
-      "readTime": "3 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "WJb Solution Alive Samples – Minimal & Powerful Job Scheduling in .NET",
-      "description": "🚀 WJb Solution Alive Samples – Minimal & Powerful Job Scheduling in .NET If you’re exploring job scheduling, queues, and background processing in .NE...",
-      "url": "https://dev.to/ukrguru/wjb-solution-alive-samples-minimal-powerful-job-scheduling-in-net-1cpc",
-      "date": "2026-01-13T06:21:47.000Z",
+      "title": "CES 2026: My top 5 picks!",
+      "description": "CES 2026 just wrapped up ... and I can't stop thinking about how the timeline between \"impossible\" →← \"shipping next quarter\" is just collapsing! Here...",
+      "url": "https://dev.to/jigyasagrover/ces-2026-my-top-5-picks-lf4",
+      "date": "2026-01-14T06:13:02.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "dotnet",
-        "ai"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "How I Built a Zero-Dependency Technical Research Blog with Just HTML, CSS, and M",
-      "description": "Ever find yourself drowning in bookmarks, scattered notes, and half-finished documentation about technologies you're researching? I did too—until I bu...",
-      "url": "https://dev.to/quochuydev/how-i-built-a-zero-dependency-technical-research-blog-with-just-html-css-and-markdown-kc2",
-      "date": "2026-01-13T06:00:35.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "news",
-        "research",
-        "technical"
+        "ai",
+        "discuss",
+        "news"
       ],
       "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "The Ultimate Guide to Shopify Cart Debugging: How to Save Hours with Shopify The",
+      "description": "TL;DR: Stop console.logging your cart state. Shopify Theme Devtools gives you a visual cart inspector, history tracking, test automation, and scenario...",
+      "url": "https://dev.to/yakohere/the-ultimate-guide-to-shopify-cart-debugging-how-to-save-hours-with-shopify-theme-devtools-cart-1f70",
+      "date": "2026-01-14T06:12:54.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "shopify",
+        "shopifydev",
+        "shopifyliquid"
+      ],
+      "readTime": "8 min read",
       "priority": 2
     },
     {
