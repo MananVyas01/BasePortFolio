@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T06:36:03.037Z",
+  "lastUpdated": "2026-01-16T06:36:02.656Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,36 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Building an agentic memory system for GitHub Copilot",
+      "description": "Copilot’s cross-agent memory system lets agents learn and improve across your development workflow, starting with coding agent, CLI, and code review. ...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/",
+      "date": "2026-01-15T21:31:10.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "agenticmemory"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "When protections outlive their purpose: A lesson on managing defense systems at ",
+      "description": "User feedback led us to clean up outdated mitigations. See why observability and lifecycle management are critical for defense systems. The post When ...",
+      "url": "https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/",
+      "date": "2026-01-15T20:54:32.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "engineering",
+        "infrastructure",
+        "developerexperience"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "GitHub Availability Report: December 2025",
       "description": "In December, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: December...",
@@ -44,93 +74,78 @@
       "priority": 1
     },
     {
-      "title": "What AI is actually good for, according to developers",
-      "description": "AI is designed to help you do what you love most, not replace your expertise. Discover how developer feedback and real-world experience are shaping AI...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/what-ai-is-actually-good-for-according-to-developers/",
-      "date": "2026-01-13T18:39:24.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "generativeai",
-        "aicodingtools"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Want better AI outputs? Try context engineering.",
-      "description": "Learn how custom instructions, reusable prompts, and custom agents help GitHub Copilot deliver more accurate results. The post Want better AI outputs?...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/",
-      "date": "2026-01-12T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "generativeai",
-        "githubcopilot"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "เพิ่มประสิทธิภาพการทำงาน ด้วย Agile process",
-      "description": "1. Agile คือ 2. ความแตกต่างระหว่าง Waterfall และ Agile Waterfall ลักษณะการทำงาน Analysis > Design > Implementation > Testing > Deployment (Develop) > ...",
-      "url": "https://dev.to/__00/ephimprasiththiphaaphkaarthamngaan-dwy-agile-process-307o",
-      "date": "2026-01-15T06:28:07.000Z",
+      "title": "Let's stop calling it vibe-coding.",
+      "description": "Anyone can vibe-code. And, personally, I think that's what makes this era of development so exciting. From an accessibility standpoint, we've shifted ...",
+      "url": "https://dev.to/camb/lets-stop-calling-it-vibe-coding-27i",
+      "date": "2026-01-16T06:34:02.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "management",
-        "productivity",
-        "softwaredevelopment"
+        "vibecoding",
+        "webdev",
+        "javascript"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "👗 StyleMatch - Your AI Personal Fashion Stylist",
-      "description": "What I Built StyleMatch is an AI-powered personal fashion stylist that transforms how people shop online. Instead of overwhelming users with thousands...",
-      "url": "https://dev.to/simranshaikh20_50/stylematch-your-ai-personal-fashion-stylist-247m",
-      "date": "2026-01-15T06:21:32.000Z",
+      "title": "Building an AI-ready culture without big budgets",
+      "description": "As the Founder of ReThynk AI, I’ve learned something practical: An AI-ready culture is not built by buying tools. It’s built by changing habits. Budge...",
+      "url": "https://dev.to/jaideepparashar/building-an-ai-ready-culture-without-big-budgets-49gc",
+      "date": "2026-01-16T06:32:13.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devchallenge",
-        "algoliachallenge",
-        "ai"
+        "webdev",
+        "ai",
+        "productivity"
       ],
-      "readTime": "6 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month",
-      "description": "We have normalized paying $100/month for infrastructure before acquiring a single customer. It is time to return to the $5 VPS. Here is the architectu...",
-      "url": "https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi",
-      "date": "2026-01-15T06:20:54.000Z",
+      "title": "Stop paying for ngrok! 🛑 Meet NPort: The Free Open Source Alternative",
+      "description": "The Problem 😫 We've all been there. You are demoing a Next.js app to a client, or testing a Stripe webhook locally. You fire up ngrok, send the link,...",
+      "url": "https://dev.to/tuanngocptn/stop-paying-for-ngrok-meet-nport-the-free-open-source-alternative-2iok",
+      "date": "2026-01-16T06:31:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "architecture",
-        "cloud",
-        "devops"
+        "opensource",
+        "javascript",
+        "webdev"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Your Cloud Database is a Security Theater",
-      "description": "Multi-tenant SaaS storage is broken. Not \"needs improvement\" broken—fundamentally compromised at the architectural level. The industry sold you row-le...",
-      "url": "https://dev.to/ryo_suwito/your-cloud-database-is-a-security-theater-28a5",
-      "date": "2026-01-15T06:03:36.000Z",
+      "title": "V-Order optimization",
+      "description": "V-Order optimize parquet file through sorting, row group distribution, encoding and compression. Disadvantage of V-order optimization is that it incre...",
+      "url": "https://dev.to/sankalp_fabric_data_architect/v-order-optimization-388g",
+      "date": "2026-01-16T06:17:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "programming",
-        "ai"
+        "azure",
+        "database",
+        "dataengineering"
       ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, ",
+      "description": "The developer community hasn’t wasted any time kicking off 2026 with some really great articles, demos, and insights. Firefox 147 and Chrome 144 also ...",
+      "url": "https://css-tricks.com/whats-important-3/",
+      "date": "2026-01-15T15:08:58.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "news",
+        "webdev"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -234,21 +249,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Be",
-      "description": "2026 is almost upon us. I know we’re all itching to see the clock strike midnight (cue The Final Countdown by Europe), but not without recapping the b...",
-      "url": "https://css-tricks.com/whats-important-2/",
-      "date": "2025-12-31T16:18:23.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "news",
-        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
