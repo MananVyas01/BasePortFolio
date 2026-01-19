@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T06:33:20.722Z",
+  "lastUpdated": "2026-01-19T06:40:31.450Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "RCt2 – A Pragmatic Evolution of BDD for Software Test Cases",
-      "description": "Abstract Behavior-Driven Development (BDD) has established itself as a popular approach for defining requirements and validating software, mainly due ...",
-      "url": "https://dev.to/rafael_cardoso_c438f2c879/rct2-a-pragmatic-evolution-of-bdd-for-software-test-cases-37go",
-      "date": "2026-01-18T06:23:38.000Z",
+      "title": "A Practical Guide to Replacing NetSuite SOAP Web Services with REST",
+      "description": "For more than a decade, Oracle NetSuite customers have depended on SOAP Web Services to support complex integrations across finance, supply chain, e-c...",
+      "url": "https://dev.to/neos/a-practical-guide-to-replacing-netsuite-soap-web-services-with-rest-136o",
+      "date": "2026-01-19T06:35:01.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "agile",
-        "softwaredevelopment",
-        "softwareengineering"
+        "netsuite",
+        "soap",
+        "rest"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "🌸 Bloom Update — New Features, Fixes, and a More Polished Experience",
+      "description": "Bloom continues to grow. This update brings major improvements across core modules, data management, accessibility, and the overall user experience — ...",
+      "url": "https://dev.to/codebunny20/bloom-update-new-features-fixes-and-a-more-polished-experience-1jii",
+      "date": "2026-01-19T06:20:51.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "trans",
+        "wecoded",
+        "webdev"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Playwright Reporting Breaks Down as Your Suite Grows (and How a Test Dashboard F",
+      "description": "When your Playwright suite is small, the default workflow feels complete. You run tests locally, a failure points directly to the assertion, you open ...",
+      "url": "https://dev.to/testdino01/playwright-reporting-breaks-down-as-your-suite-grows-and-how-a-test-dashboard-fixes-it-k20",
+      "date": "2026-01-19T06:19:16.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "automation",
+        "cicd",
+        "testing"
       ],
       "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "I Got Tired of \"It Works on My Machine\" So I Built a Time-Travel Debugger",
-      "description": "Last year, I spent three hours debugging a checkout bug that only happened in production. The external payment API was returning a slightly different ...",
-      "url": "https://dev.to/ujwal240/i-got-tired-of-it-works-on-my-machine-so-i-built-a-time-travel-debugger-235h",
-      "date": "2026-01-18T06:17:35.000Z",
+      "title": "Understanding ArkTS ArcList: The Go-To Component for Watch UIs",
+      "description": "Read the original article：Understanding ArkTS ArcList: The Go-To Component for Watch UIs ArcList first Look 📘 Introduction Smartwatch apps are rapidl...",
+      "url": "https://dev.to/harmonyos/understanding-arkts-arclist-the-go-to-component-for-watch-uis-1hc9",
+      "date": "2026-01-19T06:13:52.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "fastapi",
-        "flask"
+        "harmonyos",
+        "arkts",
+        "smartwatchdevelopment"
       ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "Introduction to Git and Github",
-      "description": "Have you ever asked yourself how developers used to keep track of changes they made to files before Git? Thanks to Git and GitHub, with just a few com...",
-      "url": "https://dev.to/kuria_dd8316139db3dea9c85/introduction-to-git-and-github-230e",
-      "date": "2026-01-18T06:08:48.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Understanding Git and GitHub: A Biginners Guide",
-      "description": "What is Git? Git is version control system that helps you keep track of changes in made to your code. Instead of saving many copies of the same projec...",
-      "url": "https://dev.to/josepho_okwemba_a02e2378a/understanding-git-and-github-a-biginners-guide-4gho",
-      "date": "2026-01-18T06:06:06.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "beginners",
-        "git",
-        "github"
-      ],
-      "readTime": "2 min read",
+      "readTime": "9 min read",
       "priority": 2
     },
     {
