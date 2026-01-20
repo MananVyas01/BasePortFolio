@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T06:40:31.450Z",
+  "lastUpdated": "2026-01-20T06:38:28.889Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "A Practical Guide to Replacing NetSuite SOAP Web Services with REST",
-      "description": "For more than a decade, Oracle NetSuite customers have depended on SOAP Web Services to support complex integrations across finance, supply chain, e-c...",
-      "url": "https://dev.to/neos/a-practical-guide-to-replacing-netsuite-soap-web-services-with-rest-136o",
-      "date": "2026-01-19T06:35:01.000Z",
+      "title": "Developing in Web3: Deploying Privacy-First dApps with Sapphire + ROFL",
+      "description": "TL;DR Sapphire provides confidential EVM smart contracts. OPL lets existing dApps add privacy without migrating chains. ROFL enables verifiable, priva...",
+      "url": "https://dev.to/dc600/developing-in-web3-deploying-privacy-first-dapps-with-sapphire-rofl-aof",
+      "date": "2026-01-20T06:28:08.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "netsuite",
-        "soap",
-        "rest"
+        "webdev",
+        "web3",
+        "verifiablecomputation"
       ],
-      "readTime": "4 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "🌸 Bloom Update — New Features, Fixes, and a More Polished Experience",
-      "description": "Bloom continues to grow. This update brings major improvements across core modules, data management, accessibility, and the overall user experience — ...",
-      "url": "https://dev.to/codebunny20/bloom-update-new-features-fixes-and-a-more-polished-experience-1jii",
-      "date": "2026-01-19T06:20:51.000Z",
+      "title": "Understanding Network Devices",
+      "description": "Imagine this, chaicode.com, and press Enter. some networking devices worked together like a team. Think of the internet as a very big city full of inf...",
+      "url": "https://dev.to/abhimanyu_kumar_b94e042e9/understanding-network-devices-15l4",
+      "date": "2026-01-20T06:27:50.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "trans",
-        "wecoded",
-        "webdev"
+        "webdev",
+        "networking",
+        "network"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Playwright Reporting Breaks Down as Your Suite Grows (and How a Test Dashboard F",
-      "description": "When your Playwright suite is small, the default workflow feels complete. You run tests locally, a failure points directly to the assertion, you open ...",
-      "url": "https://dev.to/testdino01/playwright-reporting-breaks-down-as-your-suite-grows-and-how-a-test-dashboard-fixes-it-k20",
-      "date": "2026-01-19T06:19:16.000Z",
+      "title": "What Happens When a User Deletes Their Account? A Guide to Rails ActiveRecord de",
+      "description": "Hello friends! I'd like to show you Ruby on Rails concepts I refreshed this week to Avoid Social Media Doom Scrolling. We’ve all been there. You’re at...",
+      "url": "https://dev.to/nemwelboniface/what-happens-when-a-user-deletes-their-account-a-guide-to-rails-activerecord-dependent-strategies-1279",
+      "date": "2026-01-20T06:25:43.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "automation",
-        "cicd",
-        "testing"
+        "database",
+        "rails",
+        "ruby"
       ],
-      "readTime": "6 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Understanding ArkTS ArcList: The Go-To Component for Watch UIs",
-      "description": "Read the original article：Understanding ArkTS ArcList: The Go-To Component for Watch UIs ArcList first Look 📘 Introduction Smartwatch apps are rapidl...",
-      "url": "https://dev.to/harmonyos/understanding-arkts-arclist-the-go-to-component-for-watch-uis-1hc9",
-      "date": "2026-01-19T06:13:52.000Z",
+      "title": "The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than ",
+      "description": "For a long time, I thought Git was just something I had to survive. Type a command. I memorized commands without understanding them. And somehow… I ke...",
+      "url": "https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51",
+      "date": "2026-01-20T06:06:19.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "harmonyos",
-        "arkts",
-        "smartwatchdevelopment"
+        "programming",
+        "git",
+        "productivity"
       ],
-      "readTime": "9 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
