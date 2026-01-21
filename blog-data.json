@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-20T06:38:28.889Z",
+  "lastUpdated": "2026-01-21T06:38:41.788Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,41 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent",
+      "description": "Learn how we are using the newly released GitHub Security Lab Taskflow Agent to triage categories of vulnerabilities in GitHub Actions and JavaScript ...",
+      "url": "https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/",
+      "date": "2026-01-20T19:52:50.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "opensource",
+        "security"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Context windows, Plan agent, and TDD: What I learned building a countdown app wi",
+      "description": "Learn how I managed context to keep Copilot focused, used the Plan agent to sharpen vague requirements, and required Test Driven Development practices...",
+      "url": "https://github.blog/developer-skills/application-development/context-windows-plan-agent-and-tdd-what-i-learned-building-a-countdown-app-with-github-copilot/",
+      "date": "2026-01-20T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "applicationdevelopment",
+        "developerskills",
+        "githubcopilot"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Building an agentic memory system for GitHub Copilot",
       "description": "Copilot’s cross-agent memory system lets agents learn and improve across your development workflow, starting with coding agent, CLI, and code review. ...",
@@ -44,93 +74,78 @@
       "priority": 1
     },
     {
-      "title": "GitHub Availability Report: December 2025",
-      "description": "In December, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: December...",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-december-2025/",
-      "date": "2026-01-14T22:06:49.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "companynews",
-        "newsinsights",
-        "githubavailabilityreport"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Community-powered security with AI: an open source framework for security resear",
-      "description": "Announcing GitHub Security Lab Taskflow Agent, an open source and collaborative framework for security research with AI. The post Community-powered se...",
-      "url": "https://github.blog/security/community-powered-security-with-ai-an-open-source-framework-for-security-research/",
-      "date": "2026-01-14T18:45:09.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "opensource",
-        "security"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Developing in Web3: Deploying Privacy-First dApps with Sapphire + ROFL",
-      "description": "TL;DR Sapphire provides confidential EVM smart contracts. OPL lets existing dApps add privacy without migrating chains. ROFL enables verifiable, priva...",
-      "url": "https://dev.to/dc600/developing-in-web3-deploying-privacy-first-dapps-with-sapphire-rofl-aof",
-      "date": "2026-01-20T06:28:08.000Z",
+      "title": "How We Used eBPF + Rust to Observe AI Systems Without Instrumenting a Single Lin",
+      "description": "Production observability for AI systems is broken. Modern AI systems don’t behave like classical web services. They are: Highly asynchronous GPU-bound...",
+      "url": "https://dev.to/art_light/how-we-used-ebpf-rust-to-observe-ai-systems-without-instrumenting-a-single-line-of-code-51nc",
+      "date": "2026-01-21T06:25:57.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "web3",
-        "verifiablecomputation"
+        "devops",
+        "rust",
+        "observa"
       ],
-      "readTime": "5 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Understanding Network Devices",
-      "description": "Imagine this, chaicode.com, and press Enter. some networking devices worked together like a team. Think of the internet as a very big city full of inf...",
-      "url": "https://dev.to/abhimanyu_kumar_b94e042e9/understanding-network-devices-15l4",
-      "date": "2026-01-20T06:27:50.000Z",
+      "title": "Test",
+      "description": "Ps - this is still in progress 🧱 OFFLINE ELK 9.2 ARCHITECTURE (RPM BASED) Server Role RPMs needed es01 Elasticsearch elasticsearch-9.2.x-x86_64.rpm \ud83d...",
+      "url": "https://dev.to/kaustubhyerkade/test-29na",
+      "date": "2026-01-21T06:23:49.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "networking",
-        "network"
+        "architecture",
+        "devops",
+        "linux"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "What Happens When a User Deletes Their Account? A Guide to Rails ActiveRecord de",
-      "description": "Hello friends! I'd like to show you Ruby on Rails concepts I refreshed this week to Avoid Social Media Doom Scrolling. We’ve all been there. You’re at...",
-      "url": "https://dev.to/nemwelboniface/what-happens-when-a-user-deletes-their-account-a-guide-to-rails-activerecord-dependent-strategies-1279",
-      "date": "2026-01-20T06:25:43.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "database",
-        "rails",
-        "ruby"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than ",
-      "description": "For a long time, I thought Git was just something I had to survive. Type a command. I memorized commands without understanding them. And somehow… I ke...",
-      "url": "https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51",
-      "date": "2026-01-20T06:06:19.000Z",
+      "title": "Como estudar programação do jeito certo e não virar um copia e cola de código de",
+      "description": "Muita gente começa a estudar programação cheia de vontade. Assiste vídeos, segue cursos, copia códigos e, mesmo assim, sente que não evolui. Isso é ma...",
+      "url": "https://dev.to/kaikcestari/como-estudar-programacao-do-jeito-certo-e-nao-virar-um-copia-e-cola-de-codigo-de-tutoriais-do-752",
+      "date": "2026-01-21T06:23:36.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "programming",
-        "git",
-        "productivity"
+        "webdev",
+        "estudar"
       ],
-      "readTime": "4 min read",
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Week 15 React Learning Recap: Understanding Old React and Finally Respecting use",
+      "description": "This week was not about learning something flashy. It was about understanding how things actually work under the hood. I spent most of this week worki...",
+      "url": "https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb",
+      "date": "2026-01-21T06:21:16.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "react",
+        "javascript",
+        "programming"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Rethinking “Pixel Perfect” Web Design",
+      "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks lik...",
+      "url": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
+      "date": "2026-01-20T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -228,21 +243,6 @@
       "description": "[Penpot](https://penpot.app/?utm_source=SmashingMagazine&utm_medium=Article&utm_campaign=MCPserver) is experimenting with MCP (Model Context Protocol)...",
       "url": "https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/",
       "date": "2026-01-08T08:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Pivoting Your Career Without Starting From Scratch",
-      "description": "Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you b...",
-      "url": "https://smashingmagazine.com/2026/01/pivoting-career-without-starting-from-scratch/",
-      "date": "2026-01-07T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
