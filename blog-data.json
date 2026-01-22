@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T06:38:41.788Z",
+  "lastUpdated": "2026-01-22T06:37:08.602Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "A cheat sheet to slash commands in GitHub Copilot CLI",
+      "description": "Run tests, fix code, and get support—right in your workflow. Stay focused and let Copilot handle the busywork. The post A cheat sheet to slash command...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/a-cheat-sheet-to-slash-commands-in-github-copilot-cli/",
+      "date": "2026-01-21T17:09:10.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "githubcli"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent",
       "description": "Learn how we are using the newly released GitHub Security Lab Taskflow Agent to triage categories of vulnerabilities in GitHub Actions and JavaScript ...",
@@ -59,78 +74,78 @@
       "priority": 1
     },
     {
-      "title": "When protections outlive their purpose: A lesson on managing defense systems at ",
-      "description": "User feedback led us to clean up outdated mitigations. See why observability and lifecycle management are critical for defense systems. The post When ...",
-      "url": "https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/",
-      "date": "2026-01-15T20:54:32.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "engineering",
-        "infrastructure",
-        "developerexperience"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "How We Used eBPF + Rust to Observe AI Systems Without Instrumenting a Single Lin",
-      "description": "Production observability for AI systems is broken. Modern AI systems don’t behave like classical web services. They are: Highly asynchronous GPU-bound...",
-      "url": "https://dev.to/art_light/how-we-used-ebpf-rust-to-observe-ai-systems-without-instrumenting-a-single-line-of-code-51nc",
-      "date": "2026-01-21T06:25:57.000Z",
+      "title": "My attempt on Cloud Resume Challenge in 2026 (Part 2)",
+      "description": "This blog continues from My attempt on Cloud Resume Challenge in 2026. Smoke Tests with Cypress Multiple Environments AWS Cross-Account Access Lambda ...",
+      "url": "https://dev.to/urmajesty516/my-attempt-on-cloud-resume-challenge-in-2026-part-2-5ek9",
+      "date": "2026-01-22T06:31:38.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devops",
-        "rust",
-        "observa"
+        "webdev",
+        "cloudresumechallenge",
+        "aws"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Describe Methods To Evaluate Foundation Model Performance",
+      "description": "🤖 Exam Guide: AI Practitioner Domain 3: Applications of Foundation Models Task Statement 3.4 This task is about evaluating whether an FM (and an FM-p...",
+      "url": "https://dev.to/aws-builders/describe-methods-to-evaluate-foundation-model-performance-1chb",
+      "date": "2026-01-22T06:29:56.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "aws",
+        "aipractitioner"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "AI Is No Longer a Tool, It’s an Architectural Layer!",
+      "description": "For most Java and web developers, the systems we work on tend to follow a familiar pattern. A request comes in. Code runs. A response goes out. Even i...",
+      "url": "https://dev.to/joshinii/ai-is-no-longer-a-tool-its-an-architectural-layer-7g2",
+      "date": "2026-01-22T06:28:26.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "java",
+        "ai",
+        "backend"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Test",
-      "description": "Ps - this is still in progress 🧱 OFFLINE ELK 9.2 ARCHITECTURE (RPM BASED) Server Role RPMs needed es01 Elasticsearch elasticsearch-9.2.x-x86_64.rpm \ud83d...",
-      "url": "https://dev.to/kaustubhyerkade/test-29na",
-      "date": "2026-01-21T06:23:49.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "architecture",
-        "devops",
-        "linux"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Como estudar programação do jeito certo e não virar um copia e cola de código de",
-      "description": "Muita gente começa a estudar programação cheia de vontade. Assiste vídeos, segue cursos, copia códigos e, mesmo assim, sente que não evolui. Isso é ma...",
-      "url": "https://dev.to/kaikcestari/como-estudar-programacao-do-jeito-certo-e-nao-virar-um-copia-e-cola-de-codigo-de-tutoriais-do-752",
-      "date": "2026-01-21T06:23:36.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "programming",
-        "webdev",
-        "estudar"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Week 15 React Learning Recap: Understanding Old React and Finally Respecting use",
-      "description": "This week was not about learning something flashy. It was about understanding how things actually work under the hood. I spent most of this week worki...",
-      "url": "https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb",
-      "date": "2026-01-21T06:21:16.000Z",
+      "title": "Understanding JSX & How a React App Starts (Beginner-Friendly Guide)",
+      "description": "If you’re just starting with React, you might be wondering: In this article, I’ll break it down step by step, using a simple Vite-based React app—exac...",
+      "url": "https://dev.to/jamir_khan_81139708882eb8/understanding-jsx-how-a-react-app-starts-beginner-friendly-guide-107p",
+      "date": "2026-01-22T06:22:15.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "react",
         "javascript",
-        "programming"
+        "jsx"
       ],
       "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "I Learned The First Rule of ARIA the Hard Way",
+      "description": "Semantic HTML does a lot more accessibility work than we usually give it credit for already — and ARIA is simple to abuse when we use it both as a sho...",
+      "url": "https://css-tricks.com/i-learned-the-first-rule-of-aria-the-hard-way/",
+      "date": "2026-01-21T17:51:30.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "accessibility",
+        "aria"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -189,21 +204,6 @@
         "articles",
         "news",
         "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Playing With CodePen slideVars",
-      "description": "Super cool new CodePen feature alert! You've probably seen a bunch of \"interactive\" demos that let you changed values on the fly from a UI panel embed...",
-      "url": "https://css-tricks.com/playing-with-codepen-slidevars/",
-      "date": "2026-01-14T14:59:07.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "webdev",
-        "javascript"
       ],
       "readTime": "1 min read",
       "priority": 2
