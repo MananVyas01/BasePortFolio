@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-22T06:37:08.602Z",
+  "lastUpdated": "2026-01-23T06:36:55.969Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Build an agent into any app with the GitHub Copilot SDK",
+      "description": "Now in technical preview, the GitHub Copilot SDK can plan, invoke tools, edit files, and run commands as a programmable layer you can use in any appli...",
+      "url": "https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/",
+      "date": "2026-01-22T15:01:44.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "companynews",
+        "githubcopilot"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "A cheat sheet to slash commands in GitHub Copilot CLI",
       "description": "Run tests, fix code, and get support—right in your workflow. Stay focused and let Copilot handle the busywork. The post A cheat sheet to slash command...",
@@ -59,78 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Building an agentic memory system for GitHub Copilot",
-      "description": "Copilot’s cross-agent memory system lets agents learn and improve across your development workflow, starting with coding agent, CLI, and code review. ...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/",
-      "date": "2026-01-15T21:31:10.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "Implement Garmin Connect OAuth2 Authentication in React Native with Expo",
+      "description": "Implement Garmin Connect OAuth2 Authentication in React Native with Expo Introduction When building fitness or health-related mobile applications, int...",
+      "url": "https://dev.to/alexanderhodes/implement-garmin-connect-oauth2-authentication-in-react-native-with-expo-1j55",
+      "date": "2026-01-23T06:28:48.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "aiml",
-        "githubcopilot",
-        "agenticmemory"
+        "reactnative",
+        "oauth",
+        "fitness"
       ],
-      "readTime": "1 min read",
-      "priority": 1
+      "readTime": "27 min read",
+      "priority": 2
     },
     {
-      "title": "My attempt on Cloud Resume Challenge in 2026 (Part 2)",
-      "description": "This blog continues from My attempt on Cloud Resume Challenge in 2026. Smoke Tests with Cypress Multiple Environments AWS Cross-Account Access Lambda ...",
-      "url": "https://dev.to/urmajesty516/my-attempt-on-cloud-resume-challenge-in-2026-part-2-5ek9",
-      "date": "2026-01-22T06:31:38.000Z",
+      "title": "How to Develop Fintech App with Laravel: A Step-by-Step Guide",
+      "description": "The fintech industry is booming right now, and more businesses are entering the market to offer fast, secure, and easy-to-use financial services throu...",
+      "url": "https://dev.to/dhruvil_joshi14/how-to-develop-fintech-app-with-laravel-a-step-by-step-guide-45ke",
+      "date": "2026-01-23T06:27:13.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "laravelfintech",
+        "fintechappwithlaravel",
+        "laraveldevelopment"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "What is DOM and virtual DOM with example?",
+      "description": "The DOM (Document Object Model) is like a tree structure of your HTML — every element like , , or becomes a node. The browser uses it to render your w...",
+      "url": "https://dev.to/dash_suvankarr_/what-is-dom-and-virtual-dom-with-example-4ddi",
+      "date": "2026-01-23T06:24:57.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "cloudresumechallenge",
-        "aws"
+        "programming",
+        "javascript"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Describe Methods To Evaluate Foundation Model Performance",
-      "description": "🤖 Exam Guide: AI Practitioner Domain 3: Applications of Foundation Models Task Statement 3.4 This task is about evaluating whether an FM (and an FM-p...",
-      "url": "https://dev.to/aws-builders/describe-methods-to-evaluate-foundation-model-performance-1chb",
-      "date": "2026-01-22T06:29:56.000Z",
+      "title": "The HIDDEN Gem in the Google AI Challenge💎",
+      "description": "First of all, if you haven’t participated in the google AI challenge, please do so right now. Not for the prize pool, but for something way better. I ...",
+      "url": "https://dev.to/maame-codes/the-hidden-gem-in-the-google-ai-challenge-20jh",
+      "date": "2026-01-23T06:24:15.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "aws",
-        "aipractitioner"
+        "googlecloud",
+        "career",
+        "productivity"
       ],
       "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "AI Is No Longer a Tool, It’s an Architectural Layer!",
-      "description": "For most Java and web developers, the systems we work on tend to follow a familiar pattern. A request comes in. Code runs. A response goes out. Even i...",
-      "url": "https://dev.to/joshinii/ai-is-no-longer-a-tool-its-an-architectural-layer-7g2",
-      "date": "2026-01-22T06:28:26.000Z",
+      "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
+      "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing ...",
+      "url": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
+      "date": "2026-01-22T13:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
-        "java",
-        "ai",
-        "backend"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Understanding JSX & How a React App Starts (Beginner-Friendly Guide)",
-      "description": "If you’re just starting with React, you might be wondering: In this article, I’ll break it down step by step, using a simple Vite-based React app—exac...",
-      "url": "https://dev.to/jamir_khan_81139708882eb8/understanding-jsx-how-a-react-app-starts-beginner-friendly-guide-107p",
-      "date": "2026-01-22T06:22:15.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "react",
+        "webdev",
         "javascript",
-        "jsx"
+        "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -228,21 +243,6 @@
       "description": "How to shape your career path for 2026, with decision trees for designers and a UX skills self-assessment matrix. The only limits for tomorrow are the...",
       "url": "https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/",
       "date": "2026-01-12T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Penpot Is Experimenting With MCP Servers For AI-Powered Design Workflows",
-      "description": "[Penpot](https://penpot.app/?utm_source=SmashingMagazine&utm_medium=Article&utm_campaign=MCPserver) is experimenting with MCP (Model Context Protocol)...",
-      "url": "https://smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/",
-      "date": "2026-01-08T08:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
