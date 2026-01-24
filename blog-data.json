@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T06:36:55.969Z",
+  "lastUpdated": "2026-01-24T06:33:39.517Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,8 +8,8 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
@@ -74,40 +74,10 @@
       "priority": 1
     },
     {
-      "title": "Implement Garmin Connect OAuth2 Authentication in React Native with Expo",
-      "description": "Implement Garmin Connect OAuth2 Authentication in React Native with Expo Introduction When building fitness or health-related mobile applications, int...",
-      "url": "https://dev.to/alexanderhodes/implement-garmin-connect-oauth2-authentication-in-react-native-with-expo-1j55",
-      "date": "2026-01-23T06:28:48.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "reactnative",
-        "oauth",
-        "fitness"
-      ],
-      "readTime": "27 min read",
-      "priority": 2
-    },
-    {
-      "title": "How to Develop Fintech App with Laravel: A Step-by-Step Guide",
-      "description": "The fintech industry is booming right now, and more businesses are entering the market to offer fast, secure, and easy-to-use financial services throu...",
-      "url": "https://dev.to/dhruvil_joshi14/how-to-develop-fintech-app-with-laravel-a-step-by-step-guide-45ke",
-      "date": "2026-01-23T06:27:13.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "laravelfintech",
-        "fintechappwithlaravel",
-        "laraveldevelopment"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "What is DOM and virtual DOM with example?",
-      "description": "The DOM (Document Object Model) is like a tree structure of your HTML — every element like , , or becomes a node. The browser uses it to render your w...",
-      "url": "https://dev.to/dash_suvankarr_/what-is-dom-and-virtual-dom-with-example-4ddi",
-      "date": "2026-01-23T06:24:57.000Z",
+      "title": "This portfolio isn’t perfect, but it’s 100% mine",
+      "description": "Hey devs 👋 its me Taqui Just wanted to share the story behind my last portfolio. I already had a portfolio before this. It looked cool, it worked fin...",
+      "url": "https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5",
+      "date": "2026-01-24T06:26:18.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -115,22 +85,82 @@
         "programming",
         "javascript"
       ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "🌱 Bloom Roadmap — What’s Coming Next",
+      "description": "Bloom has been growing fast This roadmap lays out what I’m building next — from stronger safety features to deeper tools, better accessibility, and so...",
+      "url": "https://dev.to/codebunny20/bloom-roadmap-whats-coming-next-335a",
+      "date": "2026-01-24T06:25:49.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "devpride",
+        "lgbtq",
+        "wecoded"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Where Blockchain Data Actually Lives (IPFS, Arweave & The 2026 Storage War)",
+      "description": "Quick note: Took a couple more days to recharge and handle some work commitments, but I'm back with Day 33. actual data go?\" I was building a simple N...",
+      "url": "https://dev.to/ribhavmodi/where-blockchain-data-actually-lives-ipfs-arweave-the-2026-storage-war-2bka",
+      "date": "2026-01-24T06:09:56.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "blockchain",
+        "crypto",
+        "community"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "The Tao of Architecture: Clearing the Fog of \"Names\" to Return to the Essence of",
+      "description": "Introduction: The Ultimate Challenge of Architecture Lies Beyond Code The most complex aspect of system architecture is never writing code—it is clear...",
+      "url": "https://dev.to/xmaicode/the-tao-of-architecture-clearing-the-fog-of-names-to-return-to-the-essence-of-non-being-4e3l",
+      "date": "2026-01-24T06:08:00.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Responsive Hexagon Grid Using Modern CSS",
+      "description": "A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And...",
+      "url": "https://css-tricks.com/responsive-hexagon-grid-using-modern-css/",
+      "date": "2026-01-23T14:39:56.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "cssfunctions",
+        "math"
+      ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "The HIDDEN Gem in the Google AI Challenge💎",
-      "description": "First of all, if you haven’t participated in the google AI challenge, please do so right now. Not for the prize pool, but for something way better. I ...",
-      "url": "https://dev.to/maame-codes/the-hidden-gem-in-the-google-ai-challenge-20jh",
-      "date": "2026-01-23T06:24:15.000Z",
+      "title": "Open Props @custom-media Recipes",
+      "description": "The @custom-media at-rule has landed in Firefox Nightly! I couldn’t find it in the release notes but Adam Argyle’s on the beat noting that it’s behind...",
+      "url": "https://css-tricks.com/open-props-custom-media-recipes/",
+      "date": "2026-01-23T13:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "googlecloud",
-        "career",
-        "productivity"
+        "links",
+        "atrules",
+        "mediaqueries"
       ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -188,36 +218,6 @@
       "tags": [
         "links",
         "research",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "“I Heart CSS” DailyDev Squad",
-      "description": "If you’re reading this, chances are you already have some sort of way that you’re following when we publish new content, whether that’s RSS, Bluesky, ...",
-      "url": "https://css-tricks.com/i-heart-css-dailydev-squad/",
-      "date": "2026-01-16T14:46:24.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "news",
-        "resource"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, ",
-      "description": "The developer community hasn’t wasted any time kicking off 2026 with some really great articles, demos, and insights. Firefox 147 and Chrome 144 also ...",
-      "url": "https://css-tricks.com/whats-important-3/",
-      "date": "2026-01-15T15:08:58.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "news",
         "webdev"
       ],
       "readTime": "1 min read",
