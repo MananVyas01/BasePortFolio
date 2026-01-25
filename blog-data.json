@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T06:33:39.517Z",
+  "lastUpdated": "2026-01-25T06:34:22.076Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,61 +74,61 @@
       "priority": 1
     },
     {
-      "title": "This portfolio isn’t perfect, but it’s 100% mine",
-      "description": "Hey devs 👋 its me Taqui Just wanted to share the story behind my last portfolio. I already had a portfolio before this. It looked cool, it worked fin...",
-      "url": "https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5",
-      "date": "2026-01-24T06:26:18.000Z",
+      "title": "Top 10 VS Code Extensions for PHP Developers in 2026",
+      "description": "PHP remains a core language for backend development, powering applications from small websites to large enterprise systems. Visual Studio Code has bec...",
+      "url": "https://dev.to/arafatweb/top-10-vs-code-extensions-for-php-developers-in-2026-199m",
+      "date": "2026-01-25T06:28:22.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
         "programming",
+        "vscode",
+        "php"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "A Voter application programme",
+      "description": "Check out this Pen I made!...",
+      "url": "https://dev.to/preetha_vaishnavi_2b82358/a-voter-application-programme-4b8g",
+      "date": "2026-01-25T06:20:30.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "codepen",
+        "webdev",
         "javascript"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "🌱 Bloom Roadmap — What’s Coming Next",
-      "description": "Bloom has been growing fast This roadmap lays out what I’m building next — from stronger safety features to deeper tools, better accessibility, and so...",
-      "url": "https://dev.to/codebunny20/bloom-roadmap-whats-coming-next-335a",
-      "date": "2026-01-24T06:25:49.000Z",
+      "title": "Spring Boot 4 + Spring Security 6 入門教學",
+      "description": "從零開始建構安全的 Web 應用程式 第一章：前言與開發環境準備 在當今的軟體開發領域，安全不再是可選的附加功能，而是每個應用程式的核心需求。當你開發任何 Web 應用程式時，你必須考慮四個關鍵問題：首先是身份驗證，確認使用者是他們聲稱的那個人；其次是授權，決定已驗證的使用者可以做什麼；第三是資料保...",
+      "url": "https://dev.to/cyrustse/spring-boot-4-spring-security-6-ru-men-jiao-xue-5ekh",
+      "date": "2026-01-25T06:19:56.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devpride",
-        "lgbtq",
-        "wecoded"
+        "java",
+        "security",
+        "springboot"
       ],
-      "readTime": "2 min read",
+      "readTime": "8 min read",
       "priority": 2
     },
     {
-      "title": "Where Blockchain Data Actually Lives (IPFS, Arweave & The 2026 Storage War)",
-      "description": "Quick note: Took a couple more days to recharge and handle some work commitments, but I'm back with Day 33. actual data go?\" I was building a simple N...",
-      "url": "https://dev.to/ribhavmodi/where-blockchain-data-actually-lives-ipfs-arweave-the-2026-storage-war-2bka",
-      "date": "2026-01-24T06:09:56.000Z",
+      "title": "How I Explained LLMs, SLMs & VLMs at Microsoft",
+      "description": "Why This Talk Mattered I recently had the opportunity to present my thoughts on LLMs, SLMs, and VLMs at the Microsoft office during a community event....",
+      "url": "https://dev.to/jaskirat_singh/how-i-explained-llms-slms-vlms-at-microsoft-3d5h",
+      "date": "2026-01-25T06:17:47.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "blockchain",
-        "crypto",
-        "community"
-      ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Tao of Architecture: Clearing the Fog of \"Names\" to Return to the Essence of",
-      "description": "Introduction: The Ultimate Challenge of Architecture Lies Beyond Code The most complex aspect of system architecture is never writing code—it is clear...",
-      "url": "https://dev.to/xmaicode/the-tao-of-architecture-clearing-the-fog-of-names-to-return-to-the-essence-of-non-being-4e3l",
-      "date": "2026-01-24T06:08:00.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "ai",
+        "microsoft",
+        "nlp"
       ],
       "readTime": "4 min read",
       "priority": 2
