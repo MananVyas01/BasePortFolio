@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T06:34:22.076Z",
+  "lastUpdated": "2026-01-26T06:39:07.677Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Top 10 VS Code Extensions for PHP Developers in 2026",
-      "description": "PHP remains a core language for backend development, powering applications from small websites to large enterprise systems. Visual Studio Code has bec...",
-      "url": "https://dev.to/arafatweb/top-10-vs-code-extensions-for-php-developers-in-2026-199m",
-      "date": "2026-01-25T06:28:22.000Z",
+      "title": "Why You Don't Have to Restart Your PC Anymore: A Kernel Perspective",
+      "description": "Remember the ritual? You’d spend 15 minutes downloading a simple PDF reader or a peripheral driver, click \"Finish,\" and then—the final boss appears: \"...",
+      "url": "https://dev.to/benes/why-you-dont-have-to-restart-your-pc-anymore-a-kernel-perspective-59bd",
+      "date": "2026-01-26T06:35:47.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "programming",
-        "vscode",
-        "php"
+        "systems",
+        "architecture",
+        "kernel"
       ],
-      "readTime": "4 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "A Voter application programme",
-      "description": "Check out this Pen I made!...",
-      "url": "https://dev.to/preetha_vaishnavi_2b82358/a-voter-application-programme-4b8g",
-      "date": "2026-01-25T06:20:30.000Z",
+      "title": "Autopilot - La Pesadilla de las APIs: Cómo vencí a la burocracia de LinkedIn par",
+      "description": "Hasta ahora, todo era divertido. Teníamos agentes de IA con personalidades cínicas (Post 3) y un cerebro capaz de analizar texto (Post 2). Pero todo v...",
+      "url": "https://dev.to/datalaria/autopilot-la-pesadilla-de-las-apis-como-venci-a-la-burocracia-de-linkedin-para-automatizar-mi-1dfj",
+      "date": "2026-01-26T06:32:32.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "codepen",
         "webdev",
-        "javascript"
+        "javascript",
+        "css"
       ],
-      "readTime": "1 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Spring Boot 4 + Spring Security 6 入門教學",
-      "description": "從零開始建構安全的 Web 應用程式 第一章：前言與開發環境準備 在當今的軟體開發領域，安全不再是可選的附加功能，而是每個應用程式的核心需求。當你開發任何 Web 應用程式時，你必須考慮四個關鍵問題：首先是身份驗證，確認使用者是他們聲稱的那個人；其次是授權，決定已驗證的使用者可以做什麼；第三是資料保...",
-      "url": "https://dev.to/cyrustse/spring-boot-4-spring-security-6-ru-men-jiao-xue-5ekh",
-      "date": "2026-01-25T06:19:56.000Z",
+      "title": "# 🪦 RIP CocoaPods (2011-2026): What Every iOS Developer Must Do NOW",
+      "description": "After 15 years of faithful service, CocoaPods is officially dying. On December 2, 2026, the CocoaPods trunk will become permanently read-only. No new ...",
+      "url": "https://dev.to/diskcleankit/-rip-cocoapods-2011-2026-what-every-ios-developer-must-do-now-5eed",
+      "date": "2026-01-26T06:32:24.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "java",
-        "security",
-        "springboot"
+        "ios",
+        "cocoapod",
+        "sunset"
       ],
-      "readTime": "8 min read",
+      "readTime": "11 min read",
       "priority": 2
     },
     {
-      "title": "How I Explained LLMs, SLMs & VLMs at Microsoft",
-      "description": "Why This Talk Mattered I recently had the opportunity to present my thoughts on LLMs, SLMs, and VLMs at the Microsoft office during a community event....",
-      "url": "https://dev.to/jaskirat_singh/how-i-explained-llms-slms-vlms-at-microsoft-3d5h",
-      "date": "2026-01-25T06:17:47.000Z",
+      "title": "You Don't Need a Mac Mini to Run Clawdbot - Here's How to Run It Anywhere",
+      "description": "Clawdbot is taking the tech world by storm. If you've been on Twitter, Reddit, or tech blogs lately, you've probably seen the flood of posts showing o...",
+      "url": "https://dev.to/sivarampg/you-dont-need-a-mac-mini-to-run-clawdbot-heres-how-to-run-it-anywhere-217l",
+      "date": "2026-01-26T06:29:48.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "microsoft",
-        "nlp"
+        "productivity",
+        "clawd",
+        "ai"
       ],
-      "readTime": "4 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
