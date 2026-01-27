@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T06:39:07.677Z",
+  "lastUpdated": "2026-01-27T06:37:34.302Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Power agentic workflows in your terminal with GitHub Copilot CLI",
+      "description": "Explore the GitHub Copilot CLI and try interacting with Copilot directly from your terminal. The post Power agentic workflows in your terminal with Gi...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/",
+      "date": "2026-01-26T18:54:49.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "githubcli"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Build an agent into any app with the GitHub Copilot SDK",
       "description": "Now in technical preview, the GitHub Copilot SDK can plan, invoke tools, edit files, and run commands as a programmable layer you can use in any appli...",
@@ -59,78 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Context windows, Plan agent, and TDD: What I learned building a countdown app wi",
-      "description": "Learn how I managed context to keep Copilot focused, used the Plan agent to sharpen vague requirements, and required Test Driven Development practices...",
-      "url": "https://github.blog/developer-skills/application-development/context-windows-plan-agent-and-tdd-what-i-learned-building-a-countdown-app-with-github-copilot/",
-      "date": "2026-01-20T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "applicationdevelopment",
-        "developerskills",
-        "githubcopilot"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Why You Don't Have to Restart Your PC Anymore: A Kernel Perspective",
-      "description": "Remember the ritual? You’d spend 15 minutes downloading a simple PDF reader or a peripheral driver, click \"Finish,\" and then—the final boss appears: \"...",
-      "url": "https://dev.to/benes/why-you-dont-have-to-restart-your-pc-anymore-a-kernel-perspective-59bd",
-      "date": "2026-01-26T06:35:47.000Z",
+      "title": "How to Use Claude.ai's Research Toggle Inside Claude Code",
+      "description": "The Missing Feature That Changes Everything If you've been using Claude Code for development, you've probably noticed something frustrating: you can s...",
+      "url": "https://dev.to/bhaidar/how-to-use-claudeais-research-toggle-inside-claude-code-469d",
+      "date": "2026-01-27T06:31:06.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "systems",
-        "architecture",
-        "kernel"
+        "ai",
+        "cli",
+        "tooling"
       ],
-      "readTime": "3 min read",
+      "readTime": "12 min read",
       "priority": 2
     },
     {
-      "title": "Autopilot - La Pesadilla de las APIs: Cómo vencí a la burocracia de LinkedIn par",
-      "description": "Hasta ahora, todo era divertido. Teníamos agentes de IA con personalidades cínicas (Post 3) y un cerebro capaz de analizar texto (Post 2). Pero todo v...",
-      "url": "https://dev.to/datalaria/autopilot-la-pesadilla-de-las-apis-como-venci-a-la-burocracia-de-linkedin-para-automatizar-mi-1dfj",
-      "date": "2026-01-26T06:32:32.000Z",
+      "title": "Building a Product Hunt Like Threaded Comments with Real-Time Collaboration 🔥",
+      "description": "Product Hunt has revolutionized how we discover new products, creating an active community of builders and enthusiasts. The platform thrives on real-t...",
+      "url": "https://dev.to/astrodevil/building-a-product-hunt-like-threaded-comments-with-real-time-collaboration-5gd6",
+      "date": "2026-01-27T06:30:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "javascript",
-        "css"
+        "programming",
+        "javascript"
+      ],
+      "readTime": "24 min read",
+      "priority": 2
+    },
+    {
+      "title": "Top Free AI Tools for Data Analysis",
+      "description": "AI for data analysis - how it works When people think about “AI tools for data analysis” or “AI data analytics,” most immediately picture AI chat for ...",
+      "url": "https://dev.to/michael_kosorukov_f5743b9/top-free-ai-tools-for-data-analysis-4con",
+      "date": "2026-01-27T06:20:52.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "analytics",
+        "webdev"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "# 🪦 RIP CocoaPods (2011-2026): What Every iOS Developer Must Do NOW",
-      "description": "After 15 years of faithful service, CocoaPods is officially dying. On December 2, 2026, the CocoaPods trunk will become permanently read-only. No new ...",
-      "url": "https://dev.to/diskcleankit/-rip-cocoapods-2011-2026-what-every-ios-developer-must-do-now-5eed",
-      "date": "2026-01-26T06:32:24.000Z",
+      "title": "How to read data when an HTTP request returns a JSON file and dataL2 access is s",
+      "description": "Read the original article：How to read data when an HTTP request returns a JSON file and dataL2 access is successful? Through an HTTP GET request, data...",
+      "url": "https://dev.to/harmonyos/how-to-read-data-when-an-http-request-returns-a-json-file-and-datal2-access-is-successful-2ohl",
+      "date": "2026-01-27T06:20:19.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ios",
-        "cocoapod",
-        "sunset"
+        "harmonyos",
+        "httprequests",
+        "jsonparsing"
       ],
-      "readTime": "11 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "You Don't Need a Mac Mini to Run Clawdbot - Here's How to Run It Anywhere",
-      "description": "Clawdbot is taking the tech world by storm. If you've been on Twitter, Reddit, or tech blogs lately, you've probably seen the flood of posts showing o...",
-      "url": "https://dev.to/sivarampg/you-dont-need-a-mac-mini-to-run-clawdbot-heres-how-to-run-it-anywhere-217l",
-      "date": "2026-01-26T06:29:48.000Z",
+      "title": "There is No Need to Trap Focus on a Dialog Element",
+      "description": "Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to t...",
+      "url": "https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/",
+      "date": "2026-01-26T15:02:27.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "productivity",
-        "clawd",
-        "ai"
+        "articles",
+        "accessibility",
+        "dialog"
       ],
-      "readTime": "6 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -204,21 +219,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "HTTP Archive 2025 Web Almanac",
-      "description": "I love me some good web research reports. I’m a sucker for them. HTTP Archive’s Web Almanac is one report I look forward to every year, and I know I’m...",
-      "url": "https://css-tricks.com/http-archive-2025-web-almanac/",
-      "date": "2026-01-16T17:30:43.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "research",
-        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
