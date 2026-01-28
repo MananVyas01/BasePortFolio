@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T06:37:34.302Z",
+  "lastUpdated": "2026-01-28T06:38:07.660Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,41 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript",
+      "description": "Anders Hejlsberg shares lessons from C# and TypeScript on fast feedback loops, scaling software, open source visibility, and building tools that last....",
+      "url": "https://github.blog/developer-skills/programming-languages-and-frameworks/7-learnings-from-anders-hejlsberg-the-architect-behind-c-and-typescript/",
+      "date": "2026-01-27T17:17:28.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "developerskills",
+        "octoverse",
+        "programminglanguagesframeworks"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Help shape the future of open source in Europe",
+      "description": "Read GitHub’s position on the European Open Digital Ecosystem Strategy and learn how to participate. The post Help shape the future of open source in ...",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/help-shape-the-future-of-open-source-in-europe/",
+      "date": "2026-01-27T14:16:04.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "newsinsights",
+        "policy",
+        "githubpolicy"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Power agentic workflows in your terminal with GitHub Copilot CLI",
       "description": "Explore the GitHub Copilot CLI and try interacting with Copilot directly from your terminal. The post Power agentic workflows in your terminal with Gi...",
@@ -44,93 +74,78 @@
       "priority": 1
     },
     {
-      "title": "A cheat sheet to slash commands in GitHub Copilot CLI",
-      "description": "Run tests, fix code, and get support—right in your workflow. Stay focused and let Copilot handle the busywork. The post A cheat sheet to slash command...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/a-cheat-sheet-to-slash-commands-in-github-copilot-cli/",
-      "date": "2026-01-21T17:09:10.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "githubcli"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent",
-      "description": "Learn how we are using the newly released GitHub Security Lab Taskflow Agent to triage categories of vulnerabilities in GitHub Actions and JavaScript ...",
-      "url": "https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/",
-      "date": "2026-01-20T19:52:50.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "opensource",
-        "security"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "How to Use Claude.ai's Research Toggle Inside Claude Code",
-      "description": "The Missing Feature That Changes Everything If you've been using Claude Code for development, you've probably noticed something frustrating: you can s...",
-      "url": "https://dev.to/bhaidar/how-to-use-claudeais-research-toggle-inside-claude-code-469d",
-      "date": "2026-01-27T06:31:06.000Z",
+      "title": "I genuinely meant it when I said I was done. I even had that rare, fragile sense",
+      "description": "My Portfolio Doesn’t Live on the Page 🚫📃 Ashley Childress ・ Jan 24 #devchallenge #googleaichallenge #portfolio #gemini...",
+      "url": "https://dev.to/anchildress1/i-genuinely-meant-it-when-i-said-i-was-done-i-even-had-that-rare-fragile-sense-of-closure-then-i-1cna",
+      "date": "2026-01-28T06:15:35.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "cli",
-        "tooling"
+        "devchallenge",
+        "googleaichallenge",
+        "portfolio"
       ],
-      "readTime": "12 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Building a Product Hunt Like Threaded Comments with Real-Time Collaboration 🔥",
-      "description": "Product Hunt has revolutionized how we discover new products, creating an active community of builders and enthusiasts. The platform thrives on real-t...",
-      "url": "https://dev.to/astrodevil/building-a-product-hunt-like-threaded-comments-with-real-time-collaboration-5gd6",
-      "date": "2026-01-27T06:30:00.000Z",
+      "title": "AlphaArena AI Model Battle: A Hands-On Guide to Replicating DeepSeek's Leading A",
+      "description": "1. Introduction: Insights from the AI Trading Arena Recently, American AI lab nof1ai launched a compelling experiment—giving six top AI models (Claude...",
+      "url": "https://dev.to/quant001/alphaarena-ai-model-battle-a-hands-on-guide-to-replicating-deepseeks-leading-ai-quantitative-2dpe",
+      "date": "2026-01-28T06:11:46.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
+      "tags": [
+        "code",
+        "quantitative",
+        "deepseek"
+      ],
+      "readTime": "39 min read",
+      "priority": 2
+    },
+    {
+      "title": "Building a Self-Hosted AI Agent with Real System Access",
+      "description": "We talk a lot about \"AI agents\" in 2026, but most of them are just chatbots with API wrappers. They can't actually do anything on your system—they're ...",
+      "url": "https://dev.to/aivideotool/building-a-self-hosted-ai-agent-with-real-system-access-586f",
+      "date": "2026-01-28T06:04:52.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "agents",
+        "ai",
+        "architecture"
+      ],
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "Peter Finch Golf: I Was Wrong About Giant Golf Grips...",
+      "description": "Alright, big confession time! I totally got it wrong with those giant golf grips. I tried them out, but after a couple of years, I realized my mistake...",
+      "url": "https://dev.to/youtube_golf/peter-finch-golf-i-was-wrong-about-giant-golf-grips-4k97",
+      "date": "2026-01-28T06:04:03.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "golf",
+        "recommendations",
+        "lessons"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Unstacking CSS Stacking Contexts",
+      "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perc...",
+      "url": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
+      "date": "2026-01-27T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
-        "programming",
-        "javascript"
+        "javascript",
+        "css"
       ],
-      "readTime": "24 min read",
-      "priority": 2
-    },
-    {
-      "title": "Top Free AI Tools for Data Analysis",
-      "description": "AI for data analysis - how it works When people think about “AI tools for data analysis” or “AI data analytics,” most immediately picture AI chat for ...",
-      "url": "https://dev.to/michael_kosorukov_f5743b9/top-free-ai-tools-for-data-analysis-4con",
-      "date": "2026-01-27T06:20:52.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "analytics",
-        "webdev"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "How to read data when an HTTP request returns a JSON file and dataL2 access is s",
-      "description": "Read the original article：How to read data when an HTTP request returns a JSON file and dataL2 access is successful? Through an HTTP GET request, data...",
-      "url": "https://dev.to/harmonyos/how-to-read-data-when-an-http-request-returns-a-json-file-and-datal2-access-is-successful-2ohl",
-      "date": "2026-01-27T06:20:19.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "harmonyos",
-        "httprequests",
-        "jsonparsing"
-      ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -228,21 +243,6 @@
       "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/...",
       "url": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
       "date": "2026-01-14T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "UX And Product Designer’s Career Paths In 2026",
-      "description": "How to shape your career path for 2026, with decision trees for designers and a UX skills self-assessment matrix. The only limits for tomorrow are the...",
-      "url": "https://smashingmagazine.com/2026/01/ux-product-designer-career-paths/",
-      "date": "2026-01-12T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
