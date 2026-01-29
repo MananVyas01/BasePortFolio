@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T06:38:07.660Z",
+  "lastUpdated": "2026-01-29T06:50:43.342Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,41 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ",
+      "description": "Learn how GitHub built an accessible, multi-terminal-safe ASCII animation for the Copilot CLI using custom tooling, ANSI color roles, and advanced ter...",
+      "url": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
+      "date": "2026-01-28T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "engineering",
+        "githubcopilot",
+        "githubcli"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Year recap and future goals for the GitHub Innovation Graph",
+      "description": "Discover the latest trends and insights on public software development activity on GitHub with data from the Innovation Graph through Q3 2025. The pos...",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/year-recap-and-future-goals-for-the-github-innovation-graph/",
+      "date": "2026-01-28T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "newsinsights",
+        "policy",
+        "innovationgraph"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript",
       "description": "Anders Hejlsberg shares lessons from C# and TypeScript on fast feedback loops, scaling software, open source visibility, and building tools that last....",
@@ -44,91 +74,91 @@
       "priority": 1
     },
     {
-      "title": "Power agentic workflows in your terminal with GitHub Copilot CLI",
-      "description": "Explore the GitHub Copilot CLI and try interacting with Copilot directly from your terminal. The post Power agentic workflows in your terminal with Gi...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/",
-      "date": "2026-01-26T18:54:49.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "githubcli"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Build an agent into any app with the GitHub Copilot SDK",
-      "description": "Now in technical preview, the GitHub Copilot SDK can plan, invoke tools, edit files, and run commands as a programmable layer you can use in any appli...",
-      "url": "https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/",
-      "date": "2026-01-22T15:01:44.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "companynews",
-        "githubcopilot"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "I genuinely meant it when I said I was done. I even had that rare, fragile sense",
-      "description": "My Portfolio Doesn’t Live on the Page 🚫📃 Ashley Childress ・ Jan 24 #devchallenge #googleaichallenge #portfolio #gemini...",
-      "url": "https://dev.to/anchildress1/i-genuinely-meant-it-when-i-said-i-was-done-i-even-had-that-rare-fragile-sense-of-closure-then-i-1cna",
-      "date": "2026-01-28T06:15:35.000Z",
+      "title": "Vector Embeddings: Meet the Librarian Living Inside Every AI",
+      "description": "You know what makes a great librarian amazing? You walk up and say, “I need a book to help my kid learn math better,” and they hand you workbooks, edu...",
+      "url": "https://dev.to/sreeni5018/vector-embeddings-meet-the-librarian-living-inside-every-ai-5bln",
+      "date": "2026-01-29T06:44:18.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devchallenge",
-        "googleaichallenge",
-        "portfolio"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "1 min read",
+      "readTime": "8 min read",
       "priority": 2
     },
     {
-      "title": "AlphaArena AI Model Battle: A Hands-On Guide to Replicating DeepSeek's Leading A",
-      "description": "1. Introduction: Insights from the AI Trading Arena Recently, American AI lab nof1ai launched a compelling experiment—giving six top AI models (Claude...",
-      "url": "https://dev.to/quant001/alphaarena-ai-model-battle-a-hands-on-guide-to-replicating-deepseeks-leading-ai-quantitative-2dpe",
-      "date": "2026-01-28T06:11:46.000Z",
+      "title": "Top 5 Local LLM Tools and Models in 2026",
+      "description": "A few years ago, running large language models on your own machine felt like a weekend experiment. In 2026, it feels normal. Local LLMs have quietly m...",
+      "url": "https://dev.to/lightningdev123/top-5-local-llm-tools-and-models-in-2026-1ch5",
+      "date": "2026-01-29T06:43:37.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "code",
-        "quantitative",
-        "deepseek"
-      ],
-      "readTime": "39 min read",
-      "priority": 2
-    },
-    {
-      "title": "Building a Self-Hosted AI Agent with Real System Access",
-      "description": "We talk a lot about \"AI agents\" in 2026, but most of them are just chatbots with API wrappers. They can't actually do anything on your system—they're ...",
-      "url": "https://dev.to/aivideotool/building-a-self-hosted-ai-agent-with-real-system-access-586f",
-      "date": "2026-01-28T06:04:52.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "agents",
+        "webdev",
         "ai",
-        "architecture"
+        "productivity"
       ],
-      "readTime": "9 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "Peter Finch Golf: I Was Wrong About Giant Golf Grips...",
-      "description": "Alright, big confession time! I totally got it wrong with those giant golf grips. I tried them out, but after a couple of years, I realized my mistake...",
-      "url": "https://dev.to/youtube_golf/peter-finch-golf-i-was-wrong-about-giant-golf-grips-4k97",
-      "date": "2026-01-28T06:04:03.000Z",
+      "title": "Solved: Monitor Linux Disk Space usage and trigger Cleanup Scripts",
+      "description": "🚀 Executive Summary TL;DR: To prevent critical service outages caused by full disks, this guide outlines an automated system for Linux servers. It co...",
+      "url": "https://dev.to/techresolve/solved-monitor-linux-disk-space-usage-and-trigger-cleanup-scripts-440",
+      "date": "2026-01-29T06:36:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "golf",
-        "recommendations",
-        "lessons"
+        "devops",
+        "programming",
+        "tutorial"
+      ],
+      "readTime": "10 min read",
+      "priority": 2
+    },
+    {
+      "title": "Weird JS",
+      "description": "null vs undefined in JavaScript 1. undefined: Variable declared but not assigned. 2. null: Variable intentionally set to no value. let a; console.log(...",
+      "url": "https://dev.to/rahul1994jh/weird-js-3lo9",
+      "date": "2026-01-29T06:28:30.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "javascript",
+        "programming",
+        "interview"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "How to Style the New ::search-text and Other Highlight-y Pseudo-Elements",
+      "description": "Chrome 144 recently shipped ::search-text, which is now one of several highlight-related pseudo-elements. This one selects find-in-page text, which is...",
+      "url": "https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/",
+      "date": "2026-01-28T15:08:04.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "pseudoelements",
+        "webdev"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "ReliCSS",
+      "description": "Stu Robson's ReliCSS (clever name!) tool can excavate outdated CSS in your codebase that have modern CSS solutions. ReliCSS originally published on CS...",
+      "url": "https://css-tricks.com/relicss/",
+      "date": "2026-01-28T13:25:00.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "links",
+        "audit",
+        "cssanalysis"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -179,21 +209,6 @@
       "priority": 2
     },
     {
-      "title": "Open Props @custom-media Recipes",
-      "description": "The @custom-media at-rule has landed in Firefox Nightly! I couldn’t find it in the release notes but Adam Argyle’s on the beat noting that it’s behind...",
-      "url": "https://css-tricks.com/open-props-custom-media-recipes/",
-      "date": "2026-01-23T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "atrules",
-        "mediaqueries"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
       "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing ...",
       "url": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
@@ -204,21 +219,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "I Learned The First Rule of ARIA the Hard Way",
-      "description": "Semantic HTML does a lot more accessibility work than we usually give it credit for already — and ARIA is simple to abuse when we use it both as a sho...",
-      "url": "https://css-tricks.com/i-learned-the-first-rule-of-aria-the-hard-way/",
-      "date": "2026-01-21T17:51:30.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "accessibility",
-        "aria"
       ],
       "readTime": "1 min read",
       "priority": 2
