@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T06:50:43.342Z",
+  "lastUpdated": "2026-01-30T06:52:29.499Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,68 +74,68 @@
       "priority": 1
     },
     {
-      "title": "Vector Embeddings: Meet the Librarian Living Inside Every AI",
-      "description": "You know what makes a great librarian amazing? You walk up and say, “I need a book to help my kid learn math better,” and they hand you workbooks, edu...",
-      "url": "https://dev.to/sreeni5018/vector-embeddings-meet-the-librarian-living-inside-every-ai-5bln",
-      "date": "2026-01-29T06:44:18.000Z",
+      "title": "How to Write a Developer-Level Prompt: A Practical Guide",
+      "description": "Large Language Models (LLMs) do not work well with vague instructions. If you want consistent, controllable, and production-grade behavior, you must m...",
+      "url": "https://dev.to/yaruyng/how-to-write-a-developer-level-prompt-a-practical-guide-4240",
+      "date": "2026-01-30T06:46:38.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "8 min read",
-      "priority": 2
-    },
-    {
-      "title": "Top 5 Local LLM Tools and Models in 2026",
-      "description": "A few years ago, running large language models on your own machine felt like a weekend experiment. In 2026, it feels normal. Local LLMs have quietly m...",
-      "url": "https://dev.to/lightningdev123/top-5-local-llm-tools-and-models-in-2026-1ch5",
-      "date": "2026-01-29T06:43:37.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
         "ai",
-        "productivity"
+        "promptengineering",
+        "webdev"
       ],
-      "readTime": "7 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Solved: Monitor Linux Disk Space usage and trigger Cleanup Scripts",
-      "description": "🚀 Executive Summary TL;DR: To prevent critical service outages caused by full disks, this guide outlines an automated system for Linux servers. It co...",
-      "url": "https://dev.to/techresolve/solved-monitor-linux-disk-space-usage-and-trigger-cleanup-scripts-440",
-      "date": "2026-01-29T06:36:00.000Z",
+      "title": "Commonly used Linux commands by DevOps engineers - Version 2",
+      "description": "Host Your Static Website and Node.js API on EC2 Using Nginx Learn how to deploy a static website and a Node.js backend API on an AWS EC2 instance usin...",
+      "url": "https://dev.to/alok38/commonly-used-linux-commands-by-devops-engineers-version-2-55o",
+      "date": "2026-01-30T06:37:10.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "devops",
-        "programming",
-        "tutorial"
+        "linux",
+        "bash"
       ],
-      "readTime": "10 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Weird JS",
-      "description": "null vs undefined in JavaScript 1. undefined: Variable declared but not assigned. 2. null: Variable intentionally set to no value. let a; console.log(...",
-      "url": "https://dev.to/rahul1994jh/weird-js-3lo9",
-      "date": "2026-01-29T06:28:30.000Z",
+      "title": "Singleton vs Non-Singleton in JavaScript: When and Why to Use Each",
+      "description": "In JavaScript applications, object creation strategy directly affects maintainability, scalability, and testability. One common design decision is whe...",
+      "url": "https://dev.to/dash_suvankarr_/singleton-vs-non-singleton-in-javascript-when-and-why-to-use-each-3f6b",
+      "date": "2026-01-30T06:37:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "webdev",
         "javascript",
-        "programming",
-        "interview"
+        "career"
       ],
-      "readTime": "1 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "How to Style the New ::search-text and Other Highlight-y Pseudo-Elements",
-      "description": "Chrome 144 recently shipped ::search-text, which is now one of several highlight-related pseudo-elements. This one selects find-in-page text, which is...",
+      "title": "Next.js 15 + Supabase: I Accidentally Blew Past My Quota by 1000% (and How “Loca",
+      "description": "TL;DR: My “perfectly reasonable” real-time architecture for an online party game turned into a billing horror story — first with Supabase Realtime bro...",
+      "url": "https://dev.to/yitao/nextjs-15-supabase-i-accidentally-blew-past-my-quota-by-1000-and-how-local-first-saved-it-1leh",
+      "date": "2026-01-30T06:25:47.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "nextjs",
+        "webdev",
+        "react"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Styling ::search-text and Other Highlight-y Pseudo-Elements",
+      "description": "The new ::search-text pseudo (Chrome 144) matches are yellow while the current target (::search-text:current) is orange, but ::search-text enables us ...",
       "url": "https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/",
       "date": "2026-01-28T15:08:04.000Z",
       "category": "Web Dev",
