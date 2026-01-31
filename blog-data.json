@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-30T06:52:29.499Z",
+  "lastUpdated": "2026-01-31T06:41:20.494Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,93 @@
       "priority": 1
     },
     {
-      "title": "How to Write a Developer-Level Prompt: A Practical Guide",
-      "description": "Large Language Models (LLMs) do not work well with vague instructions. If you want consistent, controllable, and production-grade behavior, you must m...",
-      "url": "https://dev.to/yaruyng/how-to-write-a-developer-level-prompt-a-practical-guide-4240",
-      "date": "2026-01-30T06:46:38.000Z",
+      "title": "Streamlining Legacy Databases with React: A Lead QA Engineer's Approach to Clutt",
+      "description": "Introduction Managing cluttered production databases in legacy systems is a persistent challenge that hampers performance, complicates maintenance, an...",
+      "url": "https://dev.to/mohammad_waseem_c31f3a26f/streamlining-legacy-databases-with-react-a-lead-qa-engineers-approach-to-clutter-control-1jp9",
+      "date": "2026-01-31T06:34:13.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "promptengineering",
+        "react",
+        "legacy",
+        "database"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "30.Delete EC2 Instance Using Terraform",
+      "description": "Lab Information During the migration process, several resources were created under the AWS account. Some of these test resources are no longer needed ...",
+      "url": "https://dev.to/thukhakyawe_cloud/30delete-ec2-instance-using-terraform-1358",
+      "date": "2026-01-31T06:30:00.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "aws",
+        "terraformlevel1",
         "webdev"
       ],
-      "readTime": "2 min read",
+      "readTime": "11 min read",
       "priority": 2
     },
     {
-      "title": "Commonly used Linux commands by DevOps engineers - Version 2",
-      "description": "Host Your Static Website and Node.js API on EC2 Using Nginx Learn how to deploy a static website and a Node.js backend API on an AWS EC2 instance usin...",
-      "url": "https://dev.to/alok38/commonly-used-linux-commands-by-devops-engineers-version-2-55o",
-      "date": "2026-01-30T06:37:10.000Z",
+      "title": "Automating Authentication Flows in Go: Lessons from a Security Researcher’s No-D",
+      "description": "In the realm of security research, efficiency and precision are paramount, especially when experimenting with complex authentication flows. Recently, ...",
+      "url": "https://dev.to/mohammad_waseem_c31f3a26f/automating-authentication-flows-in-go-lessons-from-a-security-researchers-no-docs-approach-2ogo",
+      "date": "2026-01-31T06:29:43.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devops",
-        "linux",
-        "bash"
+        "security",
+        "go",
+        "automation"
       ],
-      "readTime": "2 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Singleton vs Non-Singleton in JavaScript: When and Why to Use Each",
-      "description": "In JavaScript applications, object creation strategy directly affects maintainability, scalability, and testability. One common design decision is whe...",
-      "url": "https://dev.to/dash_suvankarr_/singleton-vs-non-singleton-in-javascript-when-and-why-to-use-each-3f6b",
-      "date": "2026-01-30T06:37:00.000Z",
+      "title": "BNSS Filing Guide: Verify CrPC Sections Using a Converter",
+      "description": "The enforcement of the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) has changed one simple but critical expectation in criminal courts: fresh filin...",
+      "url": "https://dev.to/mrashu_singhrajput_8e3c/bnss-filing-guide-verify-crpc-sections-using-a-converter-553m",
+      "date": "2026-01-31T06:29:02.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
         "javascript",
-        "career"
+        "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Next.js 15 + Supabase: I Accidentally Blew Past My Quota by 1000% (and How “Loca",
-      "description": "TL;DR: My “perfectly reasonable” real-time architecture for an online party game turned into a billing horror story — first with Supabase Realtime bro...",
-      "url": "https://dev.to/yitao/nextjs-15-supabase-i-accidentally-blew-past-my-quota-by-1000-and-how-local-first-saved-it-1leh",
-      "date": "2026-01-30T06:25:47.000Z",
+      "title": "What’s !important #4: Videos & View Transitions, Named Media Queries, How Browse",
+      "description": "Neither Chrome, Safari, nor Firefox have shipped new features in the last couple of weeks, but fear not because leading this issue of What’s !importan...",
+      "url": "https://css-tricks.com/whats-important-4/",
+      "date": "2026-01-30T15:00:26.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "nextjs",
-        "webdev",
-        "react"
+        "articles",
+        "news",
+        "webdev"
       ],
-      "readTime": "5 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
+      "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large l...",
+      "url": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
+      "date": "2026-01-30T13:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -194,21 +224,6 @@
       "priority": 2
     },
     {
-      "title": "Responsive Hexagon Grid Using Modern CSS",
-      "description": "A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And...",
-      "url": "https://css-tricks.com/responsive-hexagon-grid-using-modern-css/",
-      "date": "2026-01-23T14:39:56.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "cssfunctions",
-        "math"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
       "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing ...",
       "url": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
@@ -228,21 +243,6 @@
       "description": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks lik...",
       "url": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
       "date": "2026-01-20T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Smashing Animations Part 8: Theming Animations Using CSS Relative Colour",
-      "description": "CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/...",
-      "url": "https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/",
-      "date": "2026-01-14T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
