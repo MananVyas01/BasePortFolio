@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T06:51:31.284Z",
+  "lastUpdated": "2026-02-02T07:03:52.705Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,10 +74,55 @@
       "priority": 1
     },
     {
-      "title": "Meet the AI Assistant That Guards My Portfolio",
-      "description": "This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI Hi everyone! I'm a Software Engineer based in Bangladesh wit...",
-      "url": "https://dev.to/dstushar7/meet-the-ai-assistant-that-guards-my-portfolio-57im",
-      "date": "2026-02-01T06:37:28.000Z",
+      "title": "Officially Google Cloud Certified: Associate Cloud Engineer Path",
+      "description": "The cloud is no longer just a trend; it is the industry standard. To keep pace with the tech landscape, I decided to earn the Google Cloud Certified -...",
+      "url": "https://dev.to/urielalonso/officially-google-cloud-certified-associate-cloud-engineer-path-5dh6",
+      "date": "2026-02-02T06:50:41.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "googlecloud",
+        "gcp",
+        "cloud"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "I created small mcp server for Jupyter Notebook.",
+      "description": "Introduction When working with AI agents like Claude or Antigravity, one common hurdle is dealing with Jupyter Notebook (.ipynb) files. While agents a...",
+      "url": "https://dev.to/cshara/i-created-small-mcp-server-for-jupyter-notebook-14l6",
+      "date": "2026-02-02T06:48:45.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "agents",
+        "mcp",
+        "python"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Scaling Vue 3 Forms: A Pattern for Handling Heavy Data Reactivity",
+      "description": "Scaling Vue 3 Forms: A Pattern for Handling Heavy Data Reactivity The Scenario Imagine you are building a complex \"Inventory Dashboard\" for an e-comme...",
+      "url": "https://dev.to/avsecdongol/scaling-vue-3-forms-a-pattern-for-handling-heavy-data-reactivity-nnk",
+      "date": "2026-02-02T06:46:06.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "vue",
+        "programming"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "A Portfolio That Grows From Nothing — AI Generates Everything in Real-Time",
+      "description": "What if your portfolio didn't exist until someone asked? No static pages. No pre-written bios. Just a terminal-style interface waiting for a question ...",
+      "url": "https://dev.to/pecoglhf/a-portfolio-that-grows-from-nothing-ai-generates-everything-in-real-time-2kc1",
+      "date": "2026-02-02T06:43:36.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -85,52 +130,7 @@
         "googleaichallenge",
         "portfolio"
       ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Loss Functions for Beginners",
-      "description": "Loss functions are the quiet engine behind every machine learning model. They serve as the critical feedback loop, translating the abstract concept of...",
-      "url": "https://dev.to/olabamipetaiwo/loss-functions-for-beginners-5gfl",
-      "date": "2026-02-01T06:25:57.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "beginners",
-        "deeplearning",
-        "machinelearning"
-      ],
-      "readTime": "11 min read",
-      "priority": 2
-    },
-    {
-      "title": "[Opinion]Today's frontend is easy to be messed up and we need to organize it",
-      "description": "Disclaimer: This post is a mixture of ranting about the complexity of the contemporary frontend, and my thought on how to solve it. I have been away f...",
-      "url": "https://dev.to/uponthesky/opiniontodays-frontend-is-easy-to-be-messed-up-and-we-need-to-organize-it-17hl",
-      "date": "2026-02-01T06:25:49.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "react",
-        "frontend"
-      ],
-      "readTime": "15 min read",
-      "priority": 2
-    },
-    {
-      "title": "Building a Privacy-First URL Shortener on Blockchain",
-      "description": "Why Traditional URL Shorteners Are a Privacy Nightmare When you click a bit.ly link, here's what happens: Bit.ly logs your IP, timestamp, user agent T...",
-      "url": "https://dev.to/wes_parsons_57932a30dc1f3/building-a-privacy-first-url-shortener-on-blockchain-17n4",
-      "date": "2026-02-01T06:23:08.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "privacy",
-        "blockchain",
-        "webdev"
-      ],
-      "readTime": "1 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
