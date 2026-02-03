@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T07:03:52.705Z",
+  "lastUpdated": "2026-02-03T06:53:57.361Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How to maximize GitHub Copilot’s agentic capabilities",
+      "description": "A senior engineer's guide to architecting and extending Copilot's real-world applications. The post How to maximize GitHub Copilot’s agentic capabilit...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/",
+      "date": "2026-02-02T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "githubskills"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ",
       "description": "Learn how GitHub built an accessible, multi-terminal-safe ASCII animation for the Copilot CLI using custom tooling, ANSI color roles, and advanced ter...",
@@ -59,78 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Help shape the future of open source in Europe",
-      "description": "Read GitHub’s position on the European Open Digital Ecosystem Strategy and learn how to participate. The post Help shape the future of open source in ...",
-      "url": "https://github.blog/news-insights/policy-news-and-insights/help-shape-the-future-of-open-source-in-europe/",
-      "date": "2026-01-27T14:16:04.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "AI-Powered Content Management: Using MCP with AEM as a Cloud Service",
+      "description": "Whether you’re a developer orchestrating content workflows or a content author managing sites and assets, Adobe has integrated the Model Context Proto...",
+      "url": "https://dev.to/raghavajoijode/ai-powered-content-management-using-mcp-with-aem-as-a-cloud-service-5aje",
+      "date": "2026-02-03T06:46:05.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "newsinsights",
-        "policy",
-        "githubpolicy"
+        "aem",
+        "ai",
+        "mcp"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "Kubernetes Gateway API on EKS Exposed via ALB",
+      "description": "Following the interest from readers of my previous blog post Kubernetes Gateway API on AKS Exposed via Azure Application Gateway, I've put together th...",
+      "url": "https://dev.to/shanaka_jayasundera/kubernetes-gateway-api-on-eks-exposed-via-alb-1fka",
+      "date": "2026-02-03T06:45:22.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "aws",
+        "kubernetes",
+        "networking"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "4 Best AI Agent Authentication platforms to consider in 2026 🔐",
+      "description": "AI agents in 2026 do a lot more than answer questions. They read emails, update CRMs, trigger workflows, deploy code, and quietly make changes across ...",
+      "url": "https://dev.to/composiodev/4-best-ai-agent-authentication-platforms-to-consider-in-2026-32o8",
+      "date": "2026-02-03T06:45:13.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "programming",
+        "agents"
+      ],
+      "readTime": "11 min read",
+      "priority": 2
+    },
+    {
+      "title": "Streamlining Data Hygiene During High Traffic Events with Python in DevOps",
+      "description": "Streamlining Data Hygiene During High Traffic Events with Python in DevOps Handling large-scale data influxes during high traffic events presents uniq...",
+      "url": "https://dev.to/mohammad_waseem_c31f3a26f/streamlining-data-hygiene-during-high-traffic-events-with-python-in-devops-1h1b",
+      "date": "2026-02-03T06:30:54.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "python",
+        "devops",
+        "data"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "No-Hassle Visual Studio Code Theming: Building an Extension",
+      "description": "I've always thought that creating a VS Code theme was a lot of work. But lo and behold, it took less than six hours to get it working, then a day or t...",
+      "url": "https://css-tricks.com/no-hassle-visual-studio-code-theming-building-an-extension/",
+      "date": "2026-02-02T14:51:01.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "ide",
+        "vscode"
       ],
       "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Officially Google Cloud Certified: Associate Cloud Engineer Path",
-      "description": "The cloud is no longer just a trend; it is the industry standard. To keep pace with the tech landscape, I decided to earn the Google Cloud Certified -...",
-      "url": "https://dev.to/urielalonso/officially-google-cloud-certified-associate-cloud-engineer-path-5dh6",
-      "date": "2026-02-02T06:50:41.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "googlecloud",
-        "gcp",
-        "cloud"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "I created small mcp server for Jupyter Notebook.",
-      "description": "Introduction When working with AI agents like Claude or Antigravity, one common hurdle is dealing with Jupyter Notebook (.ipynb) files. While agents a...",
-      "url": "https://dev.to/cshara/i-created-small-mcp-server-for-jupyter-notebook-14l6",
-      "date": "2026-02-02T06:48:45.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "agents",
-        "mcp",
-        "python"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Scaling Vue 3 Forms: A Pattern for Handling Heavy Data Reactivity",
-      "description": "Scaling Vue 3 Forms: A Pattern for Handling Heavy Data Reactivity The Scenario Imagine you are building a complex \"Inventory Dashboard\" for an e-comme...",
-      "url": "https://dev.to/avsecdongol/scaling-vue-3-forms-a-pattern-for-handling-heavy-data-reactivity-nnk",
-      "date": "2026-02-02T06:46:06.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "vue",
-        "programming"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "A Portfolio That Grows From Nothing — AI Generates Everything in Real-Time",
-      "description": "What if your portfolio didn't exist until someone asked? No static pages. No pre-written bios. Just a terminal-style interface waiting for a question ...",
-      "url": "https://dev.to/pecoglhf/a-portfolio-that-grows-from-nothing-ai-generates-everything-in-real-time-2kc1",
-      "date": "2026-02-02T06:43:36.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "devchallenge",
-        "googleaichallenge",
-        "portfolio"
-      ],
-      "readTime": "4 min read",
       "priority": 2
     },
     {
@@ -219,21 +234,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "There is No Need to Trap Focus on a Dialog Element",
-      "description": "Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to t...",
-      "url": "https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/",
-      "date": "2026-01-26T15:02:27.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "accessibility",
-        "dialog"
       ],
       "readTime": "1 min read",
       "priority": 2
