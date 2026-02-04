@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-03T06:53:57.361Z",
+  "lastUpdated": "2026-02-04T06:54:41.641Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,20 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "What the fastest-growing tools reveal about how software is being built",
+      "description": "What languages are growing fastest, and why? What about the projects that people are interested in the most? Where are new developers cutting their te...",
+      "url": "https://github.blog/news-insights/octoverse/what-the-fastest-growing-tools-reveal-about-how-software-is-being-built/",
+      "date": "2026-02-03T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "newsinsights",
+        "octoverse"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How to maximize GitHub Copilot’s agentic capabilities",
       "description": "A senior engineer's guide to architecting and extending Copilot's real-world applications. The post How to maximize GitHub Copilot’s agentic capabilit...",
@@ -59,78 +73,93 @@
       "priority": 1
     },
     {
-      "title": "7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript",
-      "description": "Anders Hejlsberg shares lessons from C# and TypeScript on fast feedback loops, scaling software, open source visibility, and building tools that last....",
-      "url": "https://github.blog/developer-skills/programming-languages-and-frameworks/7-learnings-from-anders-hejlsberg-the-architect-behind-c-and-typescript/",
-      "date": "2026-01-27T17:17:28.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "developerskills",
-        "octoverse",
-        "programminglanguagesframeworks"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "AI-Powered Content Management: Using MCP with AEM as a Cloud Service",
-      "description": "Whether you’re a developer orchestrating content workflows or a content author managing sites and assets, Adobe has integrated the Model Context Proto...",
-      "url": "https://dev.to/raghavajoijode/ai-powered-content-management-using-mcp-with-aem-as-a-cloud-service-5aje",
-      "date": "2026-02-03T06:46:05.000Z",
+      "title": "Turn Your App Mascot Into an Interactive Product System with Rive",
+      "description": "In many mobile apps, mascots exist purely as decoration. They wave, blink, or loop endlessly without reacting to what the app is actually doing. While...",
+      "url": "https://dev.to/uianimation/turn-your-app-mascot-into-an-interactive-product-system-with-rive-1ekd",
+      "date": "2026-02-04T06:49:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "aem",
-        "ai",
-        "mcp"
+        "appanimation",
+        "animated",
+        "mascot"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Top 10 Cloudflare Tunnel Alternatives in 2026: A Practical Guide for Developers",
+      "description": "If you’ve ever tried to share a local web app, test a webhook, or run a demo from your laptop, you already know the biggest problem: localhost isn’t r...",
+      "url": "https://dev.to/lightningdev123/top-10-cloudflare-tunnel-alternatives-in-2026-a-practical-guide-for-developers-2akg",
+      "date": "2026-02-04T06:47:35.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "pinggy",
+        "devops"
       ],
       "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Kubernetes Gateway API on EKS Exposed via ALB",
-      "description": "Following the interest from readers of my previous blog post Kubernetes Gateway API on AKS Exposed via Azure Application Gateway, I've put together th...",
-      "url": "https://dev.to/shanaka_jayasundera/kubernetes-gateway-api-on-eks-exposed-via-alb-1fka",
-      "date": "2026-02-03T06:45:22.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "aws",
-        "kubernetes",
-        "networking"
-      ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "4 Best AI Agent Authentication platforms to consider in 2026 🔐",
-      "description": "AI agents in 2026 do a lot more than answer questions. They read emails, update CRMs, trigger workflows, deploy code, and quietly make changes across ...",
-      "url": "https://dev.to/composiodev/4-best-ai-agent-authentication-platforms-to-consider-in-2026-32o8",
-      "date": "2026-02-03T06:45:13.000Z",
+      "title": "Why AI Makes Bad Engineers Worse and Good Engineers Unstoppable",
+      "description": "I’ve been building software professionally for over a decade. I’ve lived through framework hype cycles, cloud migrations, DevOps revolutions, and more...",
+      "url": "https://dev.to/jasrandhawa/why-ai-makes-bad-engineers-worse-and-good-engineers-unstoppable-16j8",
+      "date": "2026-02-04T06:46:38.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "programming",
-        "agents"
+        "promptengineering",
+        "softwareengineering"
       ],
-      "readTime": "11 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Streamlining Data Hygiene During High Traffic Events with Python in DevOps",
-      "description": "Streamlining Data Hygiene During High Traffic Events with Python in DevOps Handling large-scale data influxes during high traffic events presents uniq...",
-      "url": "https://dev.to/mohammad_waseem_c31f3a26f/streamlining-data-hygiene-during-high-traffic-events-with-python-in-devops-1h1b",
-      "date": "2026-02-03T06:30:54.000Z",
+      "title": "How I Design Rive Animations So Product Teams Can Scale Them Without Me",
+      "description": "Interactive animation in production apps should not create long-term dependency on a single designer. In fact, the more a product grows, the more dang...",
+      "url": "https://dev.to/uianimation/how-i-design-rive-animations-so-product-teams-can-scale-them-without-me-17hp",
+      "date": "2026-02-04T06:45:06.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "devops",
-        "data"
+        "rive",
+        "riveanimation",
+        "animation"
       ],
-      "readTime": "3 min read",
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "No Hassle Visual Code Theming: Publishing an Extension",
+      "description": "You’d think that publishing a VS Code extension is an easy process, but it’s not. You have to publish your theme in at least two places. No Hassle Vis...",
+      "url": "https://css-tricks.com/no-hassle-visual-code-theming-publishing-an-extension/",
+      "date": "2026-02-03T15:54:59.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "ide",
+        "vscode"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Combobox vs. Multiselect vs. Listbox: How To Choose The Right One",
+      "description": "Combobox vs. Multi-Select vs. Listbox vs. Dual Listbox? How they are different, what purpose they serve, and how to choose the right one. Brought to y...",
+      "url": "https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/",
+      "date": "2026-02-03T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -209,40 +238,10 @@
       "priority": 2
     },
     {
-      "title": "ReliCSS",
-      "description": "Stu Robson's ReliCSS (clever name!) tool can excavate outdated CSS in your codebase that have modern CSS solutions. ReliCSS originally published on CS...",
-      "url": "https://css-tricks.com/relicss/",
-      "date": "2026-01-28T13:25:00.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "links",
-        "audit",
-        "cssanalysis"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Unstacking CSS Stacking Contexts",
       "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perc...",
       "url": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
       "date": "2026-01-27T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Beyond Generative: The Rise Of Agentic AI And User-Centric Design",
-      "description": "Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing ...",
-      "url": "https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/",
-      "date": "2026-01-22T13:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
