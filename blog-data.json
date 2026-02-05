@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-04T06:54:41.641Z",
+  "lastUpdated": "2026-02-05T07:01:02.272Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Pick your agent: Use Claude and Codex on Agent HQ",
+      "description": "Claude by Anthropic and OpenAI Codex are now available in public preview on GitHub and VS Code with a Copilot Pro+ or Copilot Enterprise subscription....",
+      "url": "https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/",
+      "date": "2026-02-04T17:00:19.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "companynews",
+        "newsinsights",
+        "agenthq"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "What the fastest-growing tools reveal about how software is being built",
       "description": "What languages are growing fastest, and why? What about the projects that people are interested in the most? Where are new developers cutting their te...",
@@ -58,78 +73,63 @@
       "priority": 1
     },
     {
-      "title": "Year recap and future goals for the GitHub Innovation Graph",
-      "description": "Discover the latest trends and insights on public software development activity on GitHub with data from the Innovation Graph through Q3 2025. The pos...",
-      "url": "https://github.blog/news-insights/policy-news-and-insights/year-recap-and-future-goals-for-the-github-innovation-graph/",
-      "date": "2026-01-28T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "newsinsights",
-        "policy",
-        "innovationgraph"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Turn Your App Mascot Into an Interactive Product System with Rive",
-      "description": "In many mobile apps, mascots exist purely as decoration. They wave, blink, or loop endlessly without reacting to what the app is actually doing. While...",
-      "url": "https://dev.to/uianimation/turn-your-app-mascot-into-an-interactive-product-system-with-rive-1ekd",
-      "date": "2026-02-04T06:49:23.000Z",
+      "title": "Deploy Like Vercel on Your Own VPS: A Complete ServerCompass Guide",
+      "description": "Are you tired of watching your Vercel, Railway, or Render bill climb every month? What if I told you that you could get the same polished deployment e...",
+      "url": "https://dev.to/harry_nguyen_79369d8e9cdb/deploy-like-vercel-on-your-own-vps-a-complete-servercompass-guide-i18",
+      "date": "2026-02-05T06:51:32.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "appanimation",
-        "animated",
-        "mascot"
+        "devops",
+        "deployment",
+        "vps"
       ],
-      "readTime": "5 min read",
+      "readTime": "10 min read",
       "priority": 2
     },
     {
-      "title": "Top 10 Cloudflare Tunnel Alternatives in 2026: A Practical Guide for Developers",
-      "description": "If you’ve ever tried to share a local web app, test a webhook, or run a demo from your laptop, you already know the biggest problem: localhost isn’t r...",
-      "url": "https://dev.to/lightningdev123/top-10-cloudflare-tunnel-alternatives-in-2026-a-practical-guide-for-developers-2akg",
-      "date": "2026-02-04T06:47:35.000Z",
+      "title": "const with Object or Array in Javascript",
+      "description": "Intro When you use const to declare objects or arrays in JavaScript, you’re making the variable binding (the reference) immutable — not the contents t...",
+      "url": "https://dev.to/rahul1994jh/const-with-object-or-array-in-javascript-c3m",
+      "date": "2026-02-05T06:47:19.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "beginners",
+        "javascript",
+        "programming"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Rate my palindrome checker algorithm",
+      "description": "Hi guys, it's been a long time since I visited this site in 2023. So, currently, I am a full-stack developer with 2 years of experience. Two days ago,...",
+      "url": "https://dev.to/kevincp17/rate-my-palindrome-checker-algorithm-43gk",
+      "date": "2026-02-05T06:46:51.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "csharp",
+        "algorithms",
+        "interview"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "From Concept to Market Leader: A Guide to Sustainable Scaling of MVP",
+      "description": "The transition from a Minimum Viable Product (MVP) to a full-scale market contender is often romanticized in the tech world. We hear stories of \"expon...",
+      "url": "https://dev.to/steve_davis_359cf13c7813b/from-concept-to-market-leader-a-guide-to-sustainable-scaling-of-mvp-138j",
+      "date": "2026-02-05T06:45:52.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "pinggy",
-        "devops"
+        "javascript",
+        "css"
       ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "Why AI Makes Bad Engineers Worse and Good Engineers Unstoppable",
-      "description": "I’ve been building software professionally for over a decade. I’ve lived through framework hype cycles, cloud migrations, DevOps revolutions, and more...",
-      "url": "https://dev.to/jasrandhawa/why-ai-makes-bad-engineers-worse-and-good-engineers-unstoppable-16j8",
-      "date": "2026-02-04T06:46:38.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "promptengineering",
-        "softwareengineering"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "How I Design Rive Animations So Product Teams Can Scale Them Without Me",
-      "description": "Interactive animation in production apps should not create long-term dependency on a single designer. In fact, the more a product grows, the more dang...",
-      "url": "https://dev.to/uianimation/how-i-design-rive-animations-so-product-teams-can-scale-them-without-me-17hp",
-      "date": "2026-02-04T06:45:06.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "rive",
-        "riveanimation",
-        "animation"
-      ],
-      "readTime": "6 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
