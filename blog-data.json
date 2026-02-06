@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-05T07:01:02.272Z",
+  "lastUpdated": "2026-02-06T06:56:52.867Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Continuous AI in practice: What developers can automate today with agentic CI",
+      "description": "Think of Continuous AI as background agents that operate in your repository for tasks that require reasoning. The post Continuous AI in practice: What...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/",
+      "date": "2026-02-05T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "continuousai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Pick your agent: Use Claude and Codex on Agent HQ",
       "description": "Claude by Anthropic and OpenAI Codex are now available in public preview on GitHub and VS Code with a Copilot Pro+ or Copilot Enterprise subscription....",
@@ -58,78 +73,93 @@
       "priority": 1
     },
     {
-      "title": "From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ",
-      "description": "Learn how GitHub built an accessible, multi-terminal-safe ASCII animation for the Copilot CLI using custom tooling, ANSI color roles, and advanced ter...",
-      "url": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
-      "date": "2026-01-28T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "engineering",
-        "githubcopilot",
-        "githubcli"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Deploy Like Vercel on Your Own VPS: A Complete ServerCompass Guide",
-      "description": "Are you tired of watching your Vercel, Railway, or Render bill climb every month? What if I told you that you could get the same polished deployment e...",
-      "url": "https://dev.to/harry_nguyen_79369d8e9cdb/deploy-like-vercel-on-your-own-vps-a-complete-servercompass-guide-i18",
-      "date": "2026-02-05T06:51:32.000Z",
+      "title": "eslint-plugin-security Is Unmaintained. Here's What Nobody Tells You.",
+      "description": "Skip to: What It Misses | The Alternative | Migration Guide | OWASP Coverage npm uninstall eslint-plugin-security npm install -D eslint-plugin-secure-...",
+      "url": "https://dev.to/ofri-peretz/eslint-plugin-security-is-unmaintained-heres-what-nobody-tells-you-96h",
+      "date": "2026-02-06T06:40:05.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devops",
-        "deployment",
-        "vps"
+        "security",
+        "eslint",
+        "javascript"
       ],
-      "readTime": "10 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "const with Object or Array in Javascript",
-      "description": "Intro When you use const to declare objects or arrays in JavaScript, you’re making the variable binding (the reference) immutable — not the contents t...",
-      "url": "https://dev.to/rahul1994jh/const-with-object-or-array-in-javascript-c3m",
-      "date": "2026-02-05T06:47:19.000Z",
+      "title": "Call me stupid, by definition AGI is already in your phone",
+      "description": "Remember when AI couldn't even tell a cat from a dog? 2012: We threw a parade because a neural network could classify images with 85% accuracy. We cal...",
+      "url": "https://dev.to/ryo_suwito/call-me-stupid-by-definition-agi-is-already-in-your-phone-38j8",
+      "date": "2026-02-06T06:34:40.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "beginners",
-        "javascript",
+        "webdev",
+        "programming",
+        "ai"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "🚀 ErrGuard: A DevOps CLI That Explains Terminal Errors Using GitHub Copilot CLI",
+      "description": "This is a submission for the GitHub Copilot CLI Challenge As a DevOps learner, I spend most of my time inside the terminal. And like every beginner (a...",
+      "url": "https://dev.to/yash_sonawane25/errguard-a-devops-cli-that-explains-terminal-errors-using-github-copilot-cli-416h",
+      "date": "2026-02-06T06:33:59.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "cli"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "The Secret Life of Python: The Phantom Copy",
+      "description": "Why = doesn't actually copy your data in Python. Timothy stared at his screen, his face pale. \"Margaret? I think I just accidentally deleted half the ...",
+      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-phantom-copy-29en",
+      "date": "2026-02-06T06:28:00.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "python",
+        "coding",
         "programming"
       ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "CSS Bar Charts Using Modern Functions",
+      "description": "CSS-only bar charts are one of those things we've tackled a bunch of times in different ways. But how can modern CSS features finally make it not only...",
+      "url": "https://css-tricks.com/css-bar-charts-using-modern-functions/",
+      "date": "2026-02-05T15:13:14.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "charts",
+        "datavisualization"
+      ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Rate my palindrome checker algorithm",
-      "description": "Hi guys, it's been a long time since I visited this site in 2023. So, currently, I am a full-stack developer with 2 years of experience. Two days ago,...",
-      "url": "https://dev.to/kevincp17/rate-my-palindrome-checker-algorithm-43gk",
-      "date": "2026-02-05T06:46:51.000Z",
+      "title": "CSS @scope: An Alternative To Naming Conventions And Heavy Abstractions",
+      "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` ...",
+      "url": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
+      "date": "2026-02-05T08:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "csharp",
-        "algorithms",
-        "interview"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "From Concept to Market Leader: A Guide to Sustainable Scaling of MVP",
-      "description": "The transition from a Minimum Viable Product (MVP) to a full-scale market contender is often romanticized in the tech world. We hear stories of \"expon...",
-      "url": "https://dev.to/steve_davis_359cf13c7813b/from-concept-to-market-leader-a-guide-to-sustainable-scaling-of-mvp-138j",
-      "date": "2026-02-05T06:45:52.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
         "javascript",
         "css"
       ],
-      "readTime": "5 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -212,36 +242,6 @@
       "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large l...",
       "url": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
       "date": "2026-01-30T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Styling ::search-text and Other Highlight-y Pseudo-Elements",
-      "description": "The new ::search-text pseudo (Chrome 144) matches are yellow while the current target (::search-text:current) is orange, but ::search-text enables us ...",
-      "url": "https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/",
-      "date": "2026-01-28T15:08:04.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "pseudoelements",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Unstacking CSS Stacking Contexts",
-      "description": "In CSS, we can create “stacking contexts” where elements are visually placed one on top of the next in a three-dimensional sense that creates the perc...",
-      "url": "https://smashingmagazine.com/2026/01/unstacking-css-stacking-contexts/",
-      "date": "2026-01-27T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
