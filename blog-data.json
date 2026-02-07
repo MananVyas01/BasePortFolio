@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-06T06:56:52.867Z",
+  "lastUpdated": "2026-02-07T06:43:25.515Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,63 @@
       "priority": 1
     },
     {
-      "title": "eslint-plugin-security Is Unmaintained. Here's What Nobody Tells You.",
-      "description": "Skip to: What It Misses | The Alternative | Migration Guide | OWASP Coverage npm uninstall eslint-plugin-security npm install -D eslint-plugin-secure-...",
-      "url": "https://dev.to/ofri-peretz/eslint-plugin-security-is-unmaintained-heres-what-nobody-tells-you-96h",
-      "date": "2026-02-06T06:40:05.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "security",
-        "eslint",
-        "javascript"
-      ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "Call me stupid, by definition AGI is already in your phone",
-      "description": "Remember when AI couldn't even tell a cat from a dog? 2012: We threw a parade because a neural network could classify images with 85% accuracy. We cal...",
-      "url": "https://dev.to/ryo_suwito/call-me-stupid-by-definition-agi-is-already-in-your-phone-38j8",
-      "date": "2026-02-06T06:34:40.000Z",
+      "title": "🧠 JavaScript Type Coercion — A Question That Teaches",
+      "description": "Let’s talk about a JavaScript expression that looks wrong but is 100% valid 👀 [] == ![] At first glance, most people expect this to be false. 👉 But ...",
+      "url": "https://dev.to/manasa_bolisetti_8f262624/javascript-type-coercion-a-question-that-teaches-5edj",
+      "date": "2026-02-07T06:33:58.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "programming",
-        "ai"
+        "javascript",
+        "devchallenge"
       ],
-      "readTime": "6 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "🚀 ErrGuard: A DevOps CLI That Explains Terminal Errors Using GitHub Copilot CLI",
-      "description": "This is a submission for the GitHub Copilot CLI Challenge As a DevOps learner, I spend most of my time inside the terminal. And like every beginner (a...",
-      "url": "https://dev.to/yash_sonawane25/errguard-a-devops-cli-that-explains-terminal-errors-using-github-copilot-cli-416h",
-      "date": "2026-02-06T06:33:59.000Z",
+      "title": "Design HLD - Notification Sytem",
+      "description": "Requirements Functional Requirements Support sending notifications to users. Support delivery across multiple channels (Email, SMS, Push, In-app). Sup...",
+      "url": "https://dev.to/learnwithvikzzy/design-hld-notification-sytem-eo7",
+      "date": "2026-02-07T06:30:45.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "cli"
+        "systemdesign",
+        "hld",
+        "interview"
+      ],
+      "readTime": "19 min read",
+      "priority": 2
+    },
+    {
+      "title": "Common Manual Testing Techniques and The Future Of Manual Testing in the age of ",
+      "description": "Introduction Software testing plays a critical role in ensuring that applications function correctly, meet user expectations, and maintain high qualit...",
+      "url": "https://dev.to/madhupriyamahalingan/common-manual-testing-techniques-and-the-future-of-manual-testing-in-the-age-of-ai-485o",
+      "date": "2026-02-07T06:28:34.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "beginners",
+        "softwaredevelopment"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "The Secret Life of Python: The Phantom Copy",
-      "description": "Why = doesn't actually copy your data in Python. Timothy stared at his screen, his face pale. \"Margaret? I think I just accidentally deleted half the ...",
-      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-phantom-copy-29en",
-      "date": "2026-02-06T06:28:00.000Z",
+      "title": "🚀 How I’d Learn Go (Golang) Fast in 2026 — If I Were Starting Today",
+      "description": "Go (Golang) isn’t hype anymore. In 2026, Go is the language behind: Cloud-native systems ☁️ DevOps & platform tooling 🛠️ High-performance backends ⚡ ...",
+      "url": "https://dev.to/yash_sonawane25/how-id-learn-go-golang-fast-in-2026-if-i-were-starting-today-1pk0",
+      "date": "2026-02-07T06:16:25.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "coding",
+        "go",
+        "google",
         "programming"
       ],
-      "readTime": "4 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
