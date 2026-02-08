@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T06:43:25.515Z",
+  "lastUpdated": "2026-02-08T06:52:32.374Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,61 +73,61 @@
       "priority": 1
     },
     {
-      "title": "🧠 JavaScript Type Coercion — A Question That Teaches",
-      "description": "Let’s talk about a JavaScript expression that looks wrong but is 100% valid 👀 [] == ![] At first glance, most people expect this to be false. 👉 But ...",
-      "url": "https://dev.to/manasa_bolisetti_8f262624/javascript-type-coercion-a-question-that-teaches-5edj",
-      "date": "2026-02-07T06:33:58.000Z",
+      "title": "CReact: JSX meta-execution engine v0.3.0",
+      "description": "A meta-runtime for building domain-specific, reactive execution engines. Just released version 0.3.0, with a cool new demo! Demo: https://github.com/c...",
+      "url": "https://dev.to/dcoutinho96/creact-jsx-meta-execution-engine-v030-3g6j",
+      "date": "2026-02-08T06:39:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "devchallenge"
+        "ai",
+        "automation",
+        "programming"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Claude Sync: Sync Your Claude Code Sessions Across All Your Devices Simplified",
+      "description": "If you use Claude Code (Anthropic's official CLI), you've probably experienced this frustration: You're deep into a coding session on your work laptop...",
+      "url": "https://dev.to/tawanorg/claude-sync-sync-your-claude-code-sessions-across-all-your-devices-simplified-49bl",
+      "date": "2026-02-08T06:28:32.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "productivity",
+        "cli"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Design HLD - Notification Sytem",
-      "description": "Requirements Functional Requirements Support sending notifications to users. Support delivery across multiple channels (Email, SMS, Push, In-app). Sup...",
-      "url": "https://dev.to/learnwithvikzzy/design-hld-notification-sytem-eo7",
-      "date": "2026-02-07T06:30:45.000Z",
+      "title": "Python vs. a Modern BASIC Interpreter: When the “Toy Language” Actually Wins",
+      "description": "I like Python. A lot, actually. It is hard to argue against it: Python dominates data science, AI, and a large part of backend development. But I am a...",
+      "url": "https://dev.to/atomijd/python-vs-a-modern-basic-interpreter-when-the-toy-language-actually-wins-2h3j",
+      "date": "2026-02-08T06:24:51.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "systemdesign",
-        "hld",
-        "interview"
+        "programming",
+        "python",
+        "showdev"
       ],
-      "readTime": "19 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Common Manual Testing Techniques and The Future Of Manual Testing in the age of ",
-      "description": "Introduction Software testing plays a critical role in ensuring that applications function correctly, meet user expectations, and maintain high qualit...",
-      "url": "https://dev.to/madhupriyamahalingan/common-manual-testing-techniques-and-the-future-of-manual-testing-in-the-age-of-ai-485o",
-      "date": "2026-02-07T06:28:34.000Z",
+      "title": "I Built a YouTube Dislike Viewer with Next.js 16 — Here's How",
+      "description": "I Built a YouTube Dislike Viewer with Next.js 16 Ever since YouTube removed the public dislike count, it's been harder to judge video quality at a gla...",
+      "url": "https://dev.to/yege/i-built-a-youtube-dislike-viewer-with-nextjs-16-heres-how-a0b",
+      "date": "2026-02-08T06:17:47.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "beginners",
-        "softwaredevelopment"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "🚀 How I’d Learn Go (Golang) Fast in 2026 — If I Were Starting Today",
-      "description": "Go (Golang) isn’t hype anymore. In 2026, Go is the language behind: Cloud-native systems ☁️ DevOps & platform tooling 🛠️ High-performance backends ⚡ ...",
-      "url": "https://dev.to/yash_sonawane25/how-id-learn-go-golang-fast-in-2026-if-i-were-starting-today-1pk0",
-      "date": "2026-02-07T06:16:25.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "go",
-        "google",
-        "programming"
+        "webdev",
+        "nextjs",
+        "webdev"
       ],
       "readTime": "2 min read",
       "priority": 2
