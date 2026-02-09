@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T06:52:32.374Z",
+  "lastUpdated": "2026-02-09T07:05:39.048Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,61 +73,61 @@
       "priority": 1
     },
     {
-      "title": "CReact: JSX meta-execution engine v0.3.0",
-      "description": "A meta-runtime for building domain-specific, reactive execution engines. Just released version 0.3.0, with a cool new demo! Demo: https://github.com/c...",
-      "url": "https://dev.to/dcoutinho96/creact-jsx-meta-execution-engine-v030-3g6j",
-      "date": "2026-02-08T06:39:16.000Z",
+      "title": "I Built a Python CLI Tool for RAG Over Any Document Folder",
+      "description": "A zero-config command-line tool for retrieval-augmented generation — index a folder, ask questions, get cited answers. Works locally with Ollama or wi...",
+      "url": "https://dev.to/lukaszgrochal/i-built-a-python-cli-tool-for-rag-over-any-document-folder-55ic",
+      "date": "2026-02-09T07:01:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "automation",
-        "programming"
+        "rag",
+        "cli",
+        "python"
       ],
-      "readTime": "1 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Claude Sync: Sync Your Claude Code Sessions Across All Your Devices Simplified",
-      "description": "If you use Claude Code (Anthropic's official CLI), you've probably experienced this frustration: You're deep into a coding session on your work laptop...",
-      "url": "https://dev.to/tawanorg/claude-sync-sync-your-claude-code-sessions-across-all-your-devices-simplified-49bl",
-      "date": "2026-02-08T06:28:32.000Z",
+      "title": "📚 StudyStream: Your AI Learning Companion That Actually Gets You!",
+      "description": "This is a submission for the Algolia Agent Studio Challenge: Consumer-Facing Non-Conversational Experiences Let me tell you a story. Last month, I was...",
+      "url": "https://dev.to/ha3k/studystream-your-ai-learning-companion-that-actually-gets-you-4la6",
+      "date": "2026-02-09T06:52:26.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "productivity",
-        "cli"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Python vs. a Modern BASIC Interpreter: When the “Toy Language” Actually Wins",
-      "description": "I like Python. A lot, actually. It is hard to argue against it: Python dominates data science, AI, and a large part of backend development. But I am a...",
-      "url": "https://dev.to/atomijd/python-vs-a-modern-basic-interpreter-when-the-toy-language-actually-wins-2h3j",
-      "date": "2026-02-08T06:24:51.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "programming",
-        "python",
-        "showdev"
+        "devchallenge",
+        "algoliachallenge",
+        "ai"
       ],
       "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "I Built a YouTube Dislike Viewer with Next.js 16 — Here's How",
-      "description": "I Built a YouTube Dislike Viewer with Next.js 16 Ever since YouTube removed the public dislike count, it's been harder to judge video quality at a gla...",
-      "url": "https://dev.to/yege/i-built-a-youtube-dislike-viewer-with-nextjs-16-heres-how-a0b",
-      "date": "2026-02-08T06:17:47.000Z",
+      "title": "SocialFi: How Farcaster and Lens Are Redesigning Social on Web3",
+      "description": "From rented timelines to user‑owned social graphs and programmable feeds. This is Day 41 of my 60‑Day Web3 journey. Over the past few weeks we have go...",
+      "url": "https://dev.to/ribhavmodi/socialfi-how-farcaster-and-lens-are-redesigning-social-on-web3-mhd",
+      "date": "2026-02-09T06:52:01.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "nextjs",
-        "webdev"
+        "social",
+        "crypto",
+        "blockchain"
+      ],
+      "readTime": "10 min read",
+      "priority": 2
+    },
+    {
+      "title": "Sofia Core - Open Source AI Infrastructure with DNA Computing",
+      "description": "What My Project Does Sofia Core is open-source AI infrastructure that brings biological computing paradigms to production systems. It implements: DNA ...",
+      "url": "https://dev.to/emeraldorbit/sofia-core-open-source-ai-infrastructure-with-dna-computing-35nj",
+      "date": "2026-02-09T06:50:54.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "python",
+        "opensource",
+        "ai"
       ],
       "readTime": "2 min read",
       "priority": 2
