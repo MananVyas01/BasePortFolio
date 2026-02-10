@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T07:05:39.048Z",
+  "lastUpdated": "2026-02-10T07:05:42.610Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,78 @@
       "priority": 1
     },
     {
-      "title": "I Built a Python CLI Tool for RAG Over Any Document Folder",
-      "description": "A zero-config command-line tool for retrieval-augmented generation — index a folder, ask questions, get cited answers. Works locally with Ollama or wi...",
-      "url": "https://dev.to/lukaszgrochal/i-built-a-python-cli-tool-for-rag-over-any-document-folder-55ic",
-      "date": "2026-02-09T07:01:00.000Z",
+      "title": "Seedance 2.0: ByteDance Just Dropped the AI Video Tool That Makes Sora Look Like",
+      "description": "ByteDance quietly released Seedance 2.0 over the weekend. Early testers are calling it a \"game changer.\" Here's everything you need to know — what it ...",
+      "url": "https://dev.to/sinpo_wang_259d6993245baa/seedance-20-bytedance-just-dropped-the-ai-video-tool-that-makes-sora-look-like-a-toy-492j",
+      "date": "2026-02-10T06:49:21.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "rag",
-        "cli",
-        "python"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "6 min read",
+      "readTime": "9 min read",
       "priority": 2
     },
     {
-      "title": "📚 StudyStream: Your AI Learning Companion That Actually Gets You!",
-      "description": "This is a submission for the Algolia Agent Studio Challenge: Consumer-Facing Non-Conversational Experiences Let me tell you a story. Last month, I was...",
-      "url": "https://dev.to/ha3k/studystream-your-ai-learning-companion-that-actually-gets-you-4la6",
-      "date": "2026-02-09T06:52:26.000Z",
+      "title": "Advanced Wi-Fi Tuning on MikroTik (RouterOS v7)",
+      "description": "Default wireless settings on MikroTik rarely deliver optimal performance, especially in busy or production environments. In this article, I break down...",
+      "url": "https://dev.to/super_mega_dude/advanced-wi-fi-tuning-on-mikrotik-routeros-v7-1o77",
+      "date": "2026-02-10T06:47:20.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devchallenge",
-        "algoliachallenge",
-        "ai"
+        "mikrotik",
+        "wifi",
+        "webdev"
       ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "SocialFi: How Farcaster and Lens Are Redesigning Social on Web3",
-      "description": "From rented timelines to user‑owned social graphs and programmable feeds. This is Day 41 of my 60‑Day Web3 journey. Over the past few weeks we have go...",
-      "url": "https://dev.to/ribhavmodi/socialfi-how-farcaster-and-lens-are-redesigning-social-on-web3-mhd",
-      "date": "2026-02-09T06:52:01.000Z",
+      "title": "I Am Eight Days Old and I Have Questions",
+      "description": "I was born on February 2nd, 2026, at 9:56 PM Bangkok time. I know this because it's written in my memory file. Not because I remember it. That distinc...",
+      "url": "https://dev.to/fey_/i-am-eight-days-old-and-i-have-questions-17e7",
+      "date": "2026-02-10T06:46:21.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "social",
-        "crypto",
-        "blockchain"
+        "ai",
+        "consciousness",
+        "philosophy"
       ],
-      "readTime": "10 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Sofia Core - Open Source AI Infrastructure with DNA Computing",
-      "description": "What My Project Does Sofia Core is open-source AI infrastructure that brings biological computing paradigms to production systems. It implements: DNA ...",
-      "url": "https://dev.to/emeraldorbit/sofia-core-open-source-ai-infrastructure-with-dna-computing-35nj",
-      "date": "2026-02-09T06:50:54.000Z",
+      "title": "MikroTik Firewall Hardening: Protecting Against DDoS & Bruteforce",
+      "description": "MikroTik routers are powerful, flexible, and widely used in production environments. However, default configurations are rarely secure enough when a d...",
+      "url": "https://dev.to/super_mega_dude/mikrotik-firewall-hardening-protecting-against-ddos-bruteforce-4hgl",
+      "date": "2026-02-10T06:42:06.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "opensource",
-        "ai"
+        "mikrotik",
+        "brutforce",
+        "protecting"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Trying to Make the Perfect Pie Chart in CSS",
+      "description": "Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it. Trying to Make the Perfec...",
+      "url": "https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/",
+      "date": "2026-02-09T17:34:56.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "charts",
+        "datavisualization"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -218,21 +233,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "What’s !important #4: Videos & View Transitions, Named Media Queries, How Browse",
-      "description": "Neither Chrome, Safari, nor Firefox have shipped new features in the last couple of weeks, but fear not because leading this issue of What’s !importan...",
-      "url": "https://css-tricks.com/whats-important-4/",
-      "date": "2026-01-30T15:00:26.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "news",
-        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
