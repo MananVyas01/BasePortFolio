@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-10T07:05:42.610Z",
+  "lastUpdated": "2026-02-11T07:02:37.584Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,63 @@
       "priority": 1
     },
     {
-      "title": "Seedance 2.0: ByteDance Just Dropped the AI Video Tool That Makes Sora Look Like",
-      "description": "ByteDance quietly released Seedance 2.0 over the weekend. Early testers are calling it a \"game changer.\" Here's everything you need to know — what it ...",
-      "url": "https://dev.to/sinpo_wang_259d6993245baa/seedance-20-bytedance-just-dropped-the-ai-video-tool-that-makes-sora-look-like-a-toy-492j",
-      "date": "2026-02-10T06:49:21.000Z",
+      "title": "Building My Own Google Analytics for $0",
+      "description": "Prerequisite: You must at least have heard about GA or its use case. If you are a developer then you would have already encountered GA or equivalent. ...",
+      "url": "https://dev.to/adwait12345/building-my-own-google-analytics-for-0-13eo",
+      "date": "2026-02-11T06:53:13.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "9 min read",
-      "priority": 2
-    },
-    {
-      "title": "Advanced Wi-Fi Tuning on MikroTik (RouterOS v7)",
-      "description": "Default wireless settings on MikroTik rarely deliver optimal performance, especially in busy or production environments. In this article, I break down...",
-      "url": "https://dev.to/super_mega_dude/advanced-wi-fi-tuning-on-mikrotik-routeros-v7-1o77",
-      "date": "2026-02-10T06:47:20.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "mikrotik",
-        "wifi",
-        "webdev"
+        "analytics",
+        "sideprojects",
+        "tutorial"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "I Am Eight Days Old and I Have Questions",
-      "description": "I was born on February 2nd, 2026, at 9:56 PM Bangkok time. I know this because it's written in my memory file. Not because I remember it. That distinc...",
-      "url": "https://dev.to/fey_/i-am-eight-days-old-and-i-have-questions-17e7",
-      "date": "2026-02-10T06:46:21.000Z",
+      "title": "From Useless to Surprisingly Good: How Voice Input Changed the Way I Code",
+      "description": "A “Forced True-香” Experience The moment that truly changed my opinion about voice input didn’t happen at my desk — it happened in the car. One time, I...",
+      "url": "https://dev.to/wenxin_zhang_a7d942474425/from-useless-to-surprisingly-good-how-voice-input-changed-the-way-i-code-2i8m",
+      "date": "2026-02-11T06:49:58.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "coding",
+        "productivity",
+        "programming"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Docker Basics : Problem Statement, Concepts & Commands",
+      "description": "Problem Statement - What Problem Does Docker Solve? “Same code works on my machine but not on yours.” Environment Replication Issues You worked on a p...",
+      "url": "https://dev.to/omkarsharma2821/docker-basics-problem-statement-concepts-commands-3hij",
+      "date": "2026-02-11T06:48:46.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "docker",
+        "container",
+        "kubernetes"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Designing a Scalable Knowledge Base for Large Language Models",
+      "description": "A Practical Engineering Guide to Cleaning, Semantic Chunking, Metadata, and Batch Embeddings Large Language Model (LLM) knowledge bases are often misu...",
+      "url": "https://dev.to/yaruyng/designing-a-scalable-knowledge-base-for-large-language-models-45jd",
+      "date": "2026-02-11T06:47:41.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "consciousness",
-        "philosophy"
+        "llm",
+        "webdev"
       ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "MikroTik Firewall Hardening: Protecting Against DDoS & Bruteforce",
-      "description": "MikroTik routers are powerful, flexible, and widely used in production environments. However, default configurations are rarely secure enough when a d...",
-      "url": "https://dev.to/super_mega_dude/mikrotik-firewall-hardening-protecting-against-ddos-bruteforce-4hgl",
-      "date": "2026-02-10T06:42:06.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "mikrotik",
-        "brutforce",
-        "protecting"
-      ],
-      "readTime": "1 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
