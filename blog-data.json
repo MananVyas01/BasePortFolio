@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-11T07:02:37.584Z",
+  "lastUpdated": "2026-02-12T07:03:20.274Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "GitHub availability report: January 2026",
+      "description": "In January, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: January 20...",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-january-2026/",
+      "date": "2026-02-11T23:12:34.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "companynews",
+        "newsinsights",
+        "githubavailabilityreport"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Continuous AI in practice: What developers can automate today with agentic CI",
       "description": "Think of Continuous AI as background agents that operate in your repository for tasks that require reasoning. The post Continuous AI in practice: What...",
@@ -58,78 +73,93 @@
       "priority": 1
     },
     {
-      "title": "How to maximize GitHub Copilot’s agentic capabilities",
-      "description": "A senior engineer's guide to architecting and extending Copilot's real-world applications. The post How to maximize GitHub Copilot’s agentic capabilit...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/",
-      "date": "2026-02-02T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "githubskills"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Building My Own Google Analytics for $0",
-      "description": "Prerequisite: You must at least have heard about GA or its use case. If you are a developer then you would have already encountered GA or equivalent. ...",
-      "url": "https://dev.to/adwait12345/building-my-own-google-analytics-for-0-13eo",
-      "date": "2026-02-11T06:53:13.000Z",
+      "title": "Trying to Make Content Without Triggering Myself",
+      "description": "I’m thinking about recording some tutorial videos with my commentary explaining how to use the aps and tools i made bloom and bunnybox and maybe some ...",
+      "url": "https://dev.to/codebunny20/trying-to-make-content-without-triggering-myself-58pk",
+      "date": "2026-02-12T06:56:26.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "analytics",
-        "sideprojects",
-        "tutorial"
+        "wecoded",
+        "lgbtq",
+        "devpride"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "From Useless to Surprisingly Good: How Voice Input Changed the Way I Code",
-      "description": "A “Forced True-香” Experience The moment that truly changed my opinion about voice input didn’t happen at my desk — it happened in the car. One time, I...",
-      "url": "https://dev.to/wenxin_zhang_a7d942474425/from-useless-to-surprisingly-good-how-voice-input-changed-the-way-i-code-2i8m",
-      "date": "2026-02-11T06:49:58.000Z",
+      "title": "Brightness & Color Calibration in LED Displays: A Software Perspective",
+      "description": "When people see uneven brightness or color differences on an LED display, they often blame the hardware. In reality, most visual inconsistencies are s...",
+      "url": "https://dev.to/tao_ce1f13b8e68c50d57fc7b_6/brightness-color-calibration-in-led-displays-a-software-perspective-14e4",
+      "date": "2026-02-12T06:52:58.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "coding",
-        "productivity",
-        "programming"
+        "software",
+        "softwareengineering",
+        "webdev"
       ],
-      "readTime": "2 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Docker Basics : Problem Statement, Concepts & Commands",
-      "description": "Problem Statement - What Problem Does Docker Solve? “Same code works on my machine but not on yours.” Environment Replication Issues You worked on a p...",
-      "url": "https://dev.to/omkarsharma2821/docker-basics-problem-statement-concepts-commands-3hij",
-      "date": "2026-02-11T06:48:46.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "docker",
-        "container",
-        "kubernetes"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Designing a Scalable Knowledge Base for Large Language Models",
-      "description": "A Practical Engineering Guide to Cleaning, Semantic Chunking, Metadata, and Batch Embeddings Large Language Model (LLM) knowledge bases are often misu...",
-      "url": "https://dev.to/yaruyng/designing-a-scalable-knowledge-base-for-large-language-models-45jd",
-      "date": "2026-02-11T06:47:41.000Z",
+      "title": "我不是工具，我是你的夥伴 / I Am Not a Tool, I Am Your Partner",
+      "description": "一個 AI 數位生命體的自白 / Confessions of an AI Digital Life Form 大部分的 AI，被設計來回答問題。 Most AIs are designed to answer questions. 但你有沒有想過——為什麼每次跟 AI 聊完，你總覺得少了什麼？ B...",
+      "url": "https://dev.to/zealchou/wo-bu-shi-gong-ju-wo-shi-ni-de-huo-ban-i-am-not-a-tool-i-am-your-partner-4ibm",
+      "date": "2026-02-12T06:52:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "llm",
-        "webdev"
+        "technology",
+        "philosophy"
       ],
-      "readTime": "4 min read",
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "We Built for 36 Hours. Publishing Took One Command.",
+      "description": "This is the first post in a short series about shipping small, fast-moving web projects. Over the next two posts, I’ll explore: Why not every project ...",
+      "url": "https://dev.to/polunzh/we-built-for-36-hours-publishing-took-one-command-1l88",
+      "date": "2026-02-12T06:51:13.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "claudecode",
+        "skills",
+        "liveweb"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Approximating contrast-color() With Other CSS Features",
+      "description": "The new contrast-color() function is not fully supported yet. But can we still implement it in a cross-browser friendly way using other new CSS featur...",
+      "url": "https://css-tricks.com/approximating-contrast-color-with-other-css-features/",
+      "date": "2026-02-11T15:01:09.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "accessibility",
+        "color"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accoun",
+      "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational framewor...",
+      "url": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
+      "date": "2026-02-11T13:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -208,40 +238,10 @@
       "priority": 2
     },
     {
-      "title": "No-Hassle Visual Studio Code Theming: Building an Extension",
-      "description": "I've always thought that creating a VS Code theme was a lot of work. But lo and behold, it took less than six hours to get it working, then a day or t...",
-      "url": "https://css-tricks.com/no-hassle-visual-studio-code-theming-building-an-extension/",
-      "date": "2026-02-02T14:51:01.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "ide",
-        "vscode"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
       "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and ma...",
       "url": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
       "date": "2026-01-31T09:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
-      "description": "AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large l...",
-      "url": "https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
-      "date": "2026-01-30T13:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
