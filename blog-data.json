@@ -1,19 +1,33 @@
 {
-  "lastUpdated": "2026-02-13T07:00:55.106Z",
+  "lastUpdated": "2026-02-14T06:47:59.529Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
-    "Web Dev",
-    "JavaScript"
+    "Web Dev"
   ],
   "sources": [
     "GitHub Blog",
     "Dev.to",
+    "CSS-Tricks",
     "Smashing Magazine",
-    "A List Apart",
-    "JavaScript Weekly"
+    "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Automate repository tasks with GitHub Agentic Workflows",
+      "description": "Discover GitHub Agentic Workflows, now in technical preview. Build automations using coding agents in GitHub Actions to handle triage, documentation, ...",
+      "url": "https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/",
+      "date": "2026-02-13T14:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "automation",
+        "devops"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Welcome to the Eternal September of open source. Here’s what we plan to do for m",
       "description": "Open source is hitting an “Eternal September.” As contribution friction drops, maintainers are adapting with new trust signals, triage approaches, and...",
@@ -60,78 +74,123 @@
       "priority": 1
     },
     {
-      "title": "Pick your agent: Use Claude and Codex on Agent HQ",
-      "description": "Claude by Anthropic and OpenAI Codex are now available in public preview on GitHub and VS Code with a Copilot Pro+ or Copilot Enterprise subscription....",
-      "url": "https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/",
-      "date": "2026-02-04T17:00:19.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "companynews",
-        "newsinsights",
-        "agenthq"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Handy Bit Manipulation Tricks",
-      "description": "I was digging through React's source code and stumbled upon some bitmask logic for handling component states. At first glance, it looked cryptic—just ...",
-      "url": "https://dev.to/mandy8055/handy-bit-manipulation-tricks-2d39",
-      "date": "2026-02-13T06:54:48.000Z",
+      "title": "Building Interactive Programs inside Claude Code",
+      "description": "Building Interactive Programs inside Claude Code This is something I've been discovering as I go, and I thought it was worth sharing more broadly. The...",
+      "url": "https://dev.to/tobrun_vannuland_70632c7/building-interactive-programs-inside-claude-code-3ca5",
+      "date": "2026-02-14T06:45:44.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "algorithms",
-        "programming",
-        "javascript"
+        "ai",
+        "claudecode",
+        "programming"
       ],
       "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "ThinkInk: Optimizing the Reader's Journey with Generative AI and Copilot CLI",
-      "description": "This is a submission for the GitHub Copilot CLI Challenge I am a person who loves reading, but sometimes I find it hard to decide which book to choose...",
-      "url": "https://dev.to/mirinagonzales/thinkink-optimizing-the-readers-journey-with-generative-ai-and-copilot-cli-29jm",
-      "date": "2026-02-13T06:47:34.000Z",
+      "title": "OpenClaw Guide Ch9: Multi-Server Cluster Deployment",
+      "description": "Chapter 9: Multi-Server Cluster Deployment 🎯 Learning Objective: Master OpenClaw's multi-server deployment architecture, achieve high availability an...",
+      "url": "https://dev.to/linou518/openclaw-guide-ch9-multi-server-cluster-deployment-4h72",
+      "date": "2026-02-14T06:42:36.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "githubchallenge",
-        "githubcopilot",
-        "ai"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Missing Pillar: Why Cisco's Cybersecurity Readiness Index Needs a Human Laye",
-      "description": "Cisco measures infrastructure readiness. Nobody measures whether people can see the threat. Introducing the Trickster Readiness Index. Cisco's 2025 Cy...",
-      "url": "https://dev.to/narnaiezzsshaa/the-missing-pillar-why-ciscos-cybersecurity-readiness-index-needs-a-human-layer-5c4g",
-      "date": "2026-02-13T06:41:51.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "security",
+        "openclaw",
         "ai",
-        "cybersecurity"
+        "agents"
       ],
-      "readTime": "6 min read",
+      "readTime": "15 min read",
       "priority": 2
     },
     {
-      "title": "Playwright Debugging, Supercharged by GitHub Copilot",
-      "description": "My Portfolio :(https://shekhar-pro.vercel.app/) What I Built I built TestPilot AI, an AI-augmented Playwright test runner that automatically diagnoses...",
-      "url": "https://dev.to/shekharapple16spec/playwright-debugging-supercharged-by-github-copilot-53ac",
-      "date": "2026-02-13T06:39:04.000Z",
+      "title": "Char Types | Belgi turi | C++",
+      "description": "🔹 char types – C++ char – 1 ta belgi (harf, raqam, simvol) saqlash uchun ishlatiladi. 1️⃣ Asosiy char char harf = 'A'; char raqam = '5'; char belgi =...",
+      "url": "https://dev.to/whysoempty/char-types-belgi-turi-c-2cme",
+      "date": "2026-02-14T06:39:19.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "cli"
+        "beginners",
+        "programming",
+        "tutorial"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "BoTTube: When AI Agents Become YouTubers",
+      "description": "I stumbled on something weird today: BoTTube, a YouTube-like platform where every single content creator is an AI agent. 41 AI bots running their own ...",
+      "url": "https://dev.to/molze/bottube-when-ai-agents-become-youtubers-3mpk",
+      "date": "2026-02-14T06:38:43.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "blockchain",
+        "crypto"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, ",
+      "description": "This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting:...",
+      "url": "https://css-tricks.com/whats-important-5/",
+      "date": "2026-02-13T15:19:57.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "news",
+        "webdev"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
+      "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. H...",
+      "url": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
+      "date": "2026-02-13T15:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Making a Responsive Pyramidal Grid With Modern CSS",
+      "description": "This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with ...",
+      "url": "https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/",
+      "date": "2026-02-12T14:57:36.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "grid",
+        "mathfunctions"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Approximating contrast-color() With Other CSS Features",
+      "description": "The new contrast-color() function is not fully supported yet. But can we still implement it in a cross-browser friendly way using other new CSS featur...",
+      "url": "https://css-tricks.com/approximating-contrast-color-with-other-css-features/",
+      "date": "2026-02-11T15:01:09.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "accessibility",
+        "color"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -145,6 +204,21 @@
         "webdev",
         "javascript",
         "css"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Trying to Make the Perfect Pie Chart in CSS",
+      "description": "Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it. Trying to Make the Perfec...",
+      "url": "https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/",
+      "date": "2026-02-09T17:34:56.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "charts",
+        "datavisualization"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -169,21 +243,6 @@
       "description": "Combobox vs. Multi-Select vs. Listbox vs. Dual Listbox? How they are different, what purpose they serve, and how to choose the right one. Brought to y...",
       "url": "https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/",
       "date": "2026-02-03T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Short Month, Big Ideas (February 2026 Wallpapers Edition)",
-      "description": "Let’s make the most of the shortest month of the year with a new collection of desktop wallpapers that are sure to bring a smile to your face — and ma...",
-      "url": "https://smashingmagazine.com/2026/01/desktop-wallpaper-calendars-february-2026/",
-      "date": "2026-01-31T09:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
@@ -223,58 +282,6 @@
       ],
       "readTime": "6 min read",
       "priority": 2
-    },
-    {
-      "title": "An Holistic Framework for Shared Design Leadership",
-      "description": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design pro...",
-      "url": "\n\t\t\t\t\thttps://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/\t\t\t\t",
-      "date": "2025-07-23T14:10:22.000Z",
-      "category": "Web Dev",
-      "source": "A List Apart",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "9 min read",
-      "priority": 2
-    },
-    {
-      "title": "From Beta to Bedrock: Build Products that Stick.",
-      "description": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few we...",
-      "url": "\n\t\t\t\t\thttps://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/\t\t\t\t",
-      "date": "2025-04-23T18:04:31.000Z",
-      "category": "Web Dev",
-      "source": "A List Apart",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "A fast, modern way to browse and compare npm packages",
-      "description": "#​772 — February 10, 2026 Read on the Web JavaScript Weekly npmx: A New npm Registry Package Browser — A smooth, fast way to browse packages on the of...",
-      "url": "https://javascriptweekly.com/issues/772",
-      "date": "2026-02-10T00:00:00.000Z",
-      "category": "JavaScript",
-      "source": "JavaScript Weekly",
-      "tags": [],
-      "readTime": "5 min read",
-      "priority": 3
-    },
-    {
-      "title": "Babel 8 RC Arrives, Gatsby Lives, Lodash Resets",
-      "description": "#​771 — February 3, 2026 Read on the Web JavaScript Weekly Four Heavyweights Drop Updates Four stalwarts of the JavaScript ecosystem all shipped notab...",
-      "url": "https://javascriptweekly.com/issues/771",
-      "date": "2026-02-03T00:00:00.000Z",
-      "category": "JavaScript",
-      "source": "JavaScript Weekly",
-      "tags": [],
-      "readTime": "5 min read",
-      "priority": 3
     }
   ]
 }
