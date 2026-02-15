@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-14T06:47:59.529Z",
+  "lastUpdated": "2026-02-15T06:53:46.560Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Building Interactive Programs inside Claude Code",
-      "description": "Building Interactive Programs inside Claude Code This is something I've been discovering as I go, and I thought it was worth sharing more broadly. The...",
-      "url": "https://dev.to/tobrun_vannuland_70632c7/building-interactive-programs-inside-claude-code-3ca5",
-      "date": "2026-02-14T06:45:44.000Z",
+      "title": "We All Accepted the \"Python Tax.\", Pandas 3.0 Just Reduced It.",
+      "description": "I’ve been there. You have a \"small\" 3GB CSV file. You load it into a Pandas DataFrame on a 16GB machine, and suddenly everything freezes. You start ma...",
+      "url": "https://dev.to/kaniel_outis/we-all-accepted-the-python-tax-pandas-30-just-reduced-it-1n43",
+      "date": "2026-02-15T06:51:21.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "claudecode",
-        "programming"
+        "python",
+        "pandas",
+        "performance"
       ],
-      "readTime": "5 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "OpenClaw Guide Ch9: Multi-Server Cluster Deployment",
-      "description": "Chapter 9: Multi-Server Cluster Deployment 🎯 Learning Objective: Master OpenClaw's multi-server deployment architecture, achieve high availability an...",
-      "url": "https://dev.to/linou518/openclaw-guide-ch9-multi-server-cluster-deployment-4h72",
-      "date": "2026-02-14T06:42:36.000Z",
+      "title": "I built Spotify Wrapped for Git using GitHub Copilot CLI",
+      "description": "This is a submission for the GitHub Copilot CLI Challenge git-wrapped — Spotify Wrapped, but for your Git history. Every December, Spotify tells you w...",
+      "url": "https://dev.to/stackmasteraliza/i-built-spotify-wrapped-for-git-using-github-copilot-cli-10lj",
+      "date": "2026-02-15T06:37:15.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "openclaw",
-        "ai",
-        "agents"
+        "devchallenge",
+        "githubchallenge",
+        "cli"
       ],
-      "readTime": "15 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Char Types | Belgi turi | C++",
-      "description": "🔹 char types – C++ char – 1 ta belgi (harf, raqam, simvol) saqlash uchun ishlatiladi. 1️⃣ Asosiy char char harf = 'A'; char raqam = '5'; char belgi =...",
-      "url": "https://dev.to/whysoempty/char-types-belgi-turi-c-2cme",
-      "date": "2026-02-14T06:39:19.000Z",
+      "title": "Stop Writing \"Clean\" Code. Start Writing Readable Code",
+      "description": "Yes, it’s another article about clean code. Just a quick reminder: according to various sources, the ratio of time spent reading code versus writing i...",
+      "url": "https://dev.to/oyminirole/stop-writing-clean-code-start-writing-readable-code-544h",
+      "date": "2026-02-15T06:36:40.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "beginners",
         "programming",
-        "tutorial"
+        "cleancode",
+        "codenewbie"
       ],
-      "readTime": "1 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "BoTTube: When AI Agents Become YouTubers",
-      "description": "I stumbled on something weird today: BoTTube, a YouTube-like platform where every single content creator is an AI agent. 41 AI bots running their own ...",
-      "url": "https://dev.to/molze/bottube-when-ai-agents-become-youtubers-3mpk",
-      "date": "2026-02-14T06:38:43.000Z",
+      "title": "🌀 Prewind",
+      "description": "Write Less, Expand More for Tailwind CSS If you love Tailwind CSS, you know how repetitive it can get writing full variant classes: Wouldn’t it be nic...",
+      "url": "https://dev.to/art70x/prewind-53ml",
+      "date": "2026-02-15T06:34:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "blockchain",
-        "crypto"
+        "webdev",
+        "javascript",
+        "tailwindcss"
       ],
-      "readTime": "1 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
