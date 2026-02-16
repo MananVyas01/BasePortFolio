@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T06:53:46.560Z",
+  "lastUpdated": "2026-02-16T07:04:48.081Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,25 +74,40 @@
       "priority": 1
     },
     {
-      "title": "We All Accepted the \"Python Tax.\", Pandas 3.0 Just Reduced It.",
-      "description": "I’ve been there. You have a \"small\" 3GB CSV file. You load it into a Pandas DataFrame on a 16GB machine, and suddenly everything freezes. You start ma...",
-      "url": "https://dev.to/kaniel_outis/we-all-accepted-the-python-tax-pandas-30-just-reduced-it-1n43",
-      "date": "2026-02-15T06:51:21.000Z",
+      "title": "Why I rewrote my CLI tool into an Isomorphic Monorepo",
+      "description": "I love tools like Docusaurus and Mintlify. They are powerful. But sometimes, they feel like bringing a bazooka to a knife fight. I found myself spendi...",
+      "url": "https://dev.to/mgks/why-i-rewrote-my-cli-tool-into-an-isomorphic-monorepo-592",
+      "date": "2026-02-16T06:52:17.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "pandas",
-        "performance"
+        "webdev",
+        "javascript",
+        "productivity"
       ],
-      "readTime": "2 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "I built Spotify Wrapped for Git using GitHub Copilot CLI",
-      "description": "This is a submission for the GitHub Copilot CLI Challenge git-wrapped — Spotify Wrapped, but for your Git history. Every December, Spotify tells you w...",
-      "url": "https://dev.to/stackmasteraliza/i-built-spotify-wrapped-for-git-using-github-copilot-cli-10lj",
-      "date": "2026-02-15T06:37:15.000Z",
+      "title": "Responsive UI Architecture: Designing for Phone, Tablet, and Desktop in One Code",
+      "description": "In the world of Flutter development, “write once, run everywhere” is a promise that comes with a caveat: just because code runs on a tablet doesn’t me...",
+      "url": "https://dev.to/biwesh_shr/responsive-ui-architecture-designing-for-phone-tablet-and-desktop-in-one-codebase-1076",
+      "date": "2026-02-16T06:50:11.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Building Vero: How I Used Super Context with GitHub Copilot CLI to Create a Prem",
+      "description": "This is a submission for the GitHub Copilot CLI Challenge I built Vero (Latin/Italian for Truth), a beautiful, simple and visual debugger for the mode...",
+      "url": "https://dev.to/tiagordebarros/building-vero-how-i-used-super-context-with-github-copilot-cli-to-create-a-premium-visual-debugger-198g",
+      "date": "2026-02-16T06:40:50.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -100,37 +115,22 @@
         "githubchallenge",
         "cli"
       ],
-      "readTime": "6 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Stop Writing \"Clean\" Code. Start Writing Readable Code",
-      "description": "Yes, it’s another article about clean code. Just a quick reminder: according to various sources, the ratio of time spent reading code versus writing i...",
-      "url": "https://dev.to/oyminirole/stop-writing-clean-code-start-writing-readable-code-544h",
-      "date": "2026-02-15T06:36:40.000Z",
+      "title": "🍫 Chocolate Distribution Problem — JavaScript Solution Explained (Sliding Windo",
+      "description": "This is a very common coding interview problem that teaches how to distribute items fairly. In this blog, we will understand the problem from zero lev...",
+      "url": "https://dev.to/abhishek-nexgen-dev/chocolate-distribution-problem-javascript-solution-explained-sliding-window-1gff",
+      "date": "2026-02-16T06:39:24.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "programming",
-        "cleancode",
-        "codenewbie"
+        "algorithms",
+        "beginners",
+        "interview"
       ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "🌀 Prewind",
-      "description": "Write Less, Expand More for Tailwind CSS If you love Tailwind CSS, you know how repetitive it can get writing full variant classes: Wouldn’t it be nic...",
-      "url": "https://dev.to/art70x/prewind-53ml",
-      "date": "2026-02-15T06:34:23.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "tailwindcss"
-      ],
-      "readTime": "2 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
