@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-16T07:04:48.081Z",
+  "lastUpdated": "2026-02-17T07:00:46.957Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,61 +74,61 @@
       "priority": 1
     },
     {
-      "title": "Why I rewrote my CLI tool into an Isomorphic Monorepo",
-      "description": "I love tools like Docusaurus and Mintlify. They are powerful. But sometimes, they feel like bringing a bazooka to a knife fight. I found myself spendi...",
-      "url": "https://dev.to/mgks/why-i-rewrote-my-cli-tool-into-an-isomorphic-monorepo-592",
-      "date": "2026-02-16T06:52:17.000Z",
+      "title": "What is useState in React? Explained with Practical Examples",
+      "description": "What is useState? useState is a React Hook that allows functional components to manage state. It returns a state variable and a setter function. When ...",
+      "url": "https://dev.to/harini_magesh_fa40041cf8d/what-is-usestate-in-react-explained-with-practical-examples-283e",
+      "date": "2026-02-17T06:55:44.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "productivity"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Responsive UI Architecture: Designing for Phone, Tablet, and Desktop in One Code",
-      "description": "In the world of Flutter development, “write once, run everywhere” is a promise that comes with a caveat: just because code runs on a tablet doesn’t me...",
-      "url": "https://dev.to/biwesh_shr/responsive-ui-architecture-designing-for-phone-tablet-and-desktop-in-one-codebase-1076",
-      "date": "2026-02-16T06:50:11.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "Building Vero: How I Used Super Context with GitHub Copilot CLI to Create a Prem",
-      "description": "This is a submission for the GitHub Copilot CLI Challenge I built Vero (Latin/Italian for Truth), a beautiful, simple and visual debugger for the mode...",
-      "url": "https://dev.to/tiagordebarros/building-vero-how-i-used-super-context-with-github-copilot-cli-to-create-a-premium-visual-debugger-198g",
-      "date": "2026-02-16T06:40:50.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "cli"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "🍫 Chocolate Distribution Problem — JavaScript Solution Explained (Sliding Windo",
-      "description": "This is a very common coding interview problem that teaches how to distribute items fairly. In this blog, we will understand the problem from zero lev...",
-      "url": "https://dev.to/abhishek-nexgen-dev/chocolate-distribution-problem-javascript-solution-explained-sliding-window-1gff",
-      "date": "2026-02-16T06:39:24.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "algorithms",
         "beginners",
-        "interview"
+        "javascript",
+        "react"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Turborepo + Vite with React Monorepo (Part 2)",
+      "description": "This is Part 2 of a two-part series. Part 1 covered the migration itself — moving 500+ files to a pnpm monorepo, fixing CSS resolution, and debugging ...",
+      "url": "https://dev.to/ashishxcode/turborepo-vite-with-react-monorepo-part-2-29ej",
+      "date": "2026-02-17T06:51:42.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "programming",
+        "javascript"
+      ],
+      "readTime": "11 min read",
+      "priority": 2
+    },
+    {
+      "title": "Turborepo + Vite with React Monorepo (Part 1)",
+      "description": "This is Part 1 of a two-part series on migrating a production React app to a monorepo. This post covers the migration itself — the script, the structu...",
+      "url": "https://dev.to/ashishxcode/turborepo-vite-with-react-monorepo-part-1-3f15",
+      "date": "2026-02-17T06:51:29.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "programming",
+        "javascript"
+      ],
+      "readTime": "11 min read",
+      "priority": 2
+    },
+    {
+      "title": "Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)",
+      "description": "For a long time, I thought web development was simple. Frontend. HTML, CSS, JavaScript on one side. If I could move data from the backend to the UI, I...",
+      "url": "https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc",
+      "date": "2026-02-17T06:49:08.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "programming",
+        "webdev",
+        "codenewbie"
       ],
       "readTime": "3 min read",
       "priority": 2
