@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-17T07:00:46.957Z",
+  "lastUpdated": "2026-02-18T07:02:44.629Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Securing the AI software supply chain: Security results across 67 open source pr",
+      "description": "Learn how The GitHub Secure Open Source Fund helped 67 critical AI‑stack projects accelerate fixes, strengthen ecosystems, and advance open source res...",
+      "url": "https://github.blog/open-source/maintainers/securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/",
+      "date": "2026-02-17T19:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "maintainers",
+        "opensource",
+        "aisecurity"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Automate repository tasks with GitHub Agentic Workflows",
       "description": "Discover GitHub Agentic Workflows, now in technical preview. Build automations using coding agents in GitHub Actions to handle triage, documentation, ...",
@@ -59,78 +74,93 @@
       "priority": 1
     },
     {
-      "title": "Continuous AI in practice: What developers can automate today with agentic CI",
-      "description": "Think of Continuous AI as background agents that operate in your repository for tasks that require reasoning. The post Continuous AI in practice: What...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/",
-      "date": "2026-02-05T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "My exp",
+      "description": "I don't want to code anymore, i no longer feel good or satisfaction when i do this. Now i'm feeling so much better when i am reading a book, when I an...",
+      "url": "https://dev.to/gustavohenriques/my-exp-cg6",
+      "date": "2026-02-18T06:56:38.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "aiml",
-        "generativeai",
-        "continuousai"
+        "career",
+        "datascience",
+        "motivation"
       ],
       "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "What is useState in React? Explained with Practical Examples",
-      "description": "What is useState? useState is a React Hook that allows functional components to manage state. It returns a state variable and a setter function. When ...",
-      "url": "https://dev.to/harini_magesh_fa40041cf8d/what-is-usestate-in-react-explained-with-practical-examples-283e",
-      "date": "2026-02-17T06:55:44.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "beginners",
-        "javascript",
-        "react"
-      ],
-      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Turborepo + Vite with React Monorepo (Part 2)",
-      "description": "This is Part 2 of a two-part series. Part 1 covered the migration itself — moving 500+ files to a pnpm monorepo, fixing CSS resolution, and debugging ...",
-      "url": "https://dev.to/ashishxcode/turborepo-vite-with-react-monorepo-part-2-29ej",
-      "date": "2026-02-17T06:51:42.000Z",
+      "title": "From Legacy Monolith to Microservices: A Non-Technical Guide",
+      "description": "You're sitting in an architecture meeting. Someone pulls up a diagram showing a box labeled \"Monolith\" with an arrow pointing to a cloud of smaller bo...",
+      "url": "https://dev.to/glue_admin_3465093919ac6b/from-legacy-monolith-to-microservices-a-non-technical-guide-a33",
+      "date": "2026-02-18T06:53:25.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "programming",
-        "javascript"
+        "architecture",
+        "microservices",
+        "systemdesign"
       ],
-      "readTime": "11 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Turborepo + Vite with React Monorepo (Part 1)",
-      "description": "This is Part 1 of a two-part series on migrating a production React app to a monorepo. This post covers the migration itself — the script, the structu...",
-      "url": "https://dev.to/ashishxcode/turborepo-vite-with-react-monorepo-part-1-3f15",
-      "date": "2026-02-17T06:51:29.000Z",
+      "title": "Building an Awesome List That Actually Gets Stars (Step-by-Step)",
+      "description": "A few months ago, I decided to start an awesome list. Not because I thought I'd become famous--mostly because I was frustrated that no single reposito...",
+      "url": "https://dev.to/glue_admin_3465093919ac6b/building-an-awesome-list-that-actually-gets-stars-step-by-step-g6f",
+      "date": "2026-02-18T06:53:24.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "programming",
-        "javascript"
+        "github",
+        "opensource",
+        "community"
       ],
-      "readTime": "11 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)",
-      "description": "For a long time, I thought web development was simple. Frontend. HTML, CSS, JavaScript on one side. If I could move data from the backend to the UI, I...",
-      "url": "https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc",
-      "date": "2026-02-17T06:49:08.000Z",
+      "title": "I Built a CLI Tool to Score Codebase Health -- Here's What I Learned",
+      "description": "Three months ago, I built a CLI tool to score codebase health. I called it codebase-health-score (original, I know). The goal was simple: give a team ...",
+      "url": "https://dev.to/glue_admin_3465093919ac6b/i-built-a-cli-tool-to-score-codebase-health-heres-what-i-learned-2noh",
+      "date": "2026-02-18T06:53:24.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "programming",
-        "webdev",
-        "codenewbie"
+        "devops",
+        "opensource",
+        "codequality"
       ],
-      "readTime": "3 min read",
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "Spiral Scrollytelling in CSS With sibling-index()",
+      "description": "Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS. Spiral Scrollytelling in CSS With sibling-index...",
+      "url": "https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/",
+      "date": "2026-02-17T15:17:25.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "cssfunctions",
+        "gsap"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Interop 2026",
+      "description": "Interop 2026 is officially a thing and there's plenty of new (and even old) CSS features that we can look forward to being cross-browser compatible an...",
+      "url": "https://css-tricks.com/interop-2026/",
+      "date": "2026-02-17T14:17:30.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "browser",
+        "crossbrowser"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -179,21 +209,6 @@
       "priority": 2
     },
     {
-      "title": "Approximating contrast-color() With Other CSS Features",
-      "description": "The new contrast-color() function is not fully supported yet. But can we still implement it in a cross-browser friendly way using other new CSS featur...",
-      "url": "https://css-tricks.com/approximating-contrast-color-with-other-css-features/",
-      "date": "2026-02-11T15:01:09.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "accessibility",
-        "color"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accoun",
       "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational framewor...",
       "url": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
@@ -204,21 +219,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Trying to Make the Perfect Pie Chart in CSS",
-      "description": "Can we make pie chart that's semantic, with flexible markup, and avoids using a JavaScript library? Here's how I tackled it. Trying to Make the Perfec...",
-      "url": "https://css-tricks.com/trying-to-make-the-perfect-pie-chart-in-css/",
-      "date": "2026-02-09T17:34:56.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "charts",
-        "datavisualization"
       ],
       "readTime": "1 min read",
       "priority": 2
