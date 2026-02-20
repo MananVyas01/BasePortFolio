@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-19T07:01:21.144Z",
+  "lastUpdated": "2026-02-20T06:58:37.395Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How AI is reshaping developer choice (and Octoverse data proves it)",
+      "description": "AI is rewiring developer preferences through convenience loops. Octoverse 2025 reveals how AI compatibility is becoming the new standard for technolog...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/",
+      "date": "2026-02-19T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "githubcopilot"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "What to expect for open source in 2026",
       "description": "Let’s dig into the 2025’s open source data on GitHub to see what we can learn about the future. The post What to expect for open source in 2026 appear...",
@@ -59,78 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Welcome to the Eternal September of open source. Here’s what we plan to do for m",
-      "description": "Open source is hitting an “Eternal September.” As contribution friction drops, maintainers are adapting with new trust signals, triage approaches, and...",
-      "url": "https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/",
-      "date": "2026-02-12T20:14:11.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "maintainers",
-        "opensource",
-        "ai"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "8 Things You Didn't Know About Code Mode",
-      "description": "Agents fundamentally changed how we program. They enable developers to move faster by disintermediating the traditional development workflow. This mea...",
-      "url": "https://dev.to/goose_oss/8-things-you-didnt-know-about-code-mode-4h71",
-      "date": "2026-02-19T06:54:38.000Z",
+      "title": "Building the CREEM Laravel Package: Accept Global Payments in Minutes",
+      "description": "I recently built a full-featured Laravel package for CREEM, the developer-first Merchant of Record platform. Here's why I built it, what it does, and ...",
+      "url": "https://dev.to/haniamin/building-the-creem-laravel-package-accept-global-payments-in-minutes-k4l",
+      "date": "2026-02-20T06:52:57.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "mcp",
-        "agents"
+        "laravel",
+        "php",
+        "payments"
       ],
-      "readTime": "9 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Why Task-Fit Writing Tools Are Winning: From Blank Pages to Reliable Outputs",
-      "description": "There was a long stretch where capability meant scale: larger models, broader skill sets, and the promise that a single system could do everything. Th...",
-      "url": "https://dev.to/olivia_perell_/why-task-fit-writing-tools-are-winning-from-blank-pages-to-reliable-outputs-f22",
-      "date": "2026-02-19T06:51:31.000Z",
+      "title": "Technical Writing Needs Attention",
+      "description": "Introduction Usually, programming tutorials and research papers have been a bit difficult to understand. Not because the code is complicated, but beca...",
+      "url": "https://dev.to/rvbug/technical-writing-needs-attention-4303",
+      "date": "2026-02-20T06:39:04.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "bestpersonalassistantai",
-        "taskfitwritingtools",
-        "textrewriteonline"
+        "cli",
+        "rust",
+        "webdev"
       ],
-      "readTime": "4 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "How Vibe Coding Helped Me Build Guess The Anime Tool",
-      "description": "When you open my guess the anime tool, you only see a clean interface where you guess the anime from an image. What you do not see is how the tool act...",
-      "url": "https://dev.to/anime-lover/how-vibe-coding-helped-me-build-guess-the-anime-tool-1936",
-      "date": "2026-02-19T06:49:11.000Z",
+      "title": "How We Built a 5x Faster NotebookLM Watermark Tool on AWS — Engineering Story",
+      "description": "Originally published at notebooklmstudio.com Every product has an origin story. Ours started with a frozen browser tab. I was working on a research pr...",
+      "url": "https://dev.to/morninginsights_6f61e04f2/how-we-built-a-5x-faster-notebooklm-watermark-tool-on-aws-engineering-story-29fe",
+      "date": "2026-02-20T06:35:18.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "vibecoding",
-        "javascript",
-        "beginners"
+        "aws",
+        "indiehacker",
+        "buildinpublic"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "I Built Vector-Only Search First. Here's Why I Had to Rewrite It.",
+      "description": "I spent three weeks building a pure vector search for an e-commerce product catalog. Embedded everything with multilingual-e5-large, loaded it into Qd...",
+      "url": "https://dev.to/rosen_hristov/i-built-vector-only-search-first-heres-why-i-had-to-rewrite-it-4dh0",
+      "date": "2026-02-20T06:32:07.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "python",
+        "machinelearning",
+        "database"
       ],
       "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "5 Tips for Building MCP Apps That Work",
-      "description": "MCP Apps allow you to render interactive UI directly inside any agent supporting the Model Context Protocol. Instead of a wall of text, your agent can...",
-      "url": "https://dev.to/goose_oss/5-tips-for-building-mcp-apps-that-work-2pme",
-      "date": "2026-02-19T06:49:01.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "mcp",
-        "ai",
-        "agents"
-      ],
-      "readTime": "14 min read",
       "priority": 2
     },
     {
