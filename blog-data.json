@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-20T06:58:37.395Z",
+  "lastUpdated": "2026-02-21T06:43:33.529Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Building the CREEM Laravel Package: Accept Global Payments in Minutes",
-      "description": "I recently built a full-featured Laravel package for CREEM, the developer-first Merchant of Record platform. Here's why I built it, what it does, and ...",
-      "url": "https://dev.to/haniamin/building-the-creem-laravel-package-accept-global-payments-in-minutes-k4l",
-      "date": "2026-02-20T06:52:57.000Z",
+      "title": "From 10-Minute Blocking APIs to Async Pipelines: A Production Backend Redesign",
+      "description": "When I took over a transaction ingestion system running in production, one of the first things I noticed was the time it took to process CSV uploads. ...",
+      "url": "https://dev.to/phantom_adnan/from-10-minute-blocking-apis-to-async-pipelines-a-production-backend-redesign-114c",
+      "date": "2026-02-21T06:35:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "laravel",
-        "php",
-        "payments"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Technical Writing Needs Attention",
-      "description": "Introduction Usually, programming tutorials and research papers have been a bit difficult to understand. Not because the code is complicated, but beca...",
-      "url": "https://dev.to/rvbug/technical-writing-needs-attention-4303",
-      "date": "2026-02-20T06:39:04.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "cli",
-        "rust",
-        "webdev"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "How We Built a 5x Faster NotebookLM Watermark Tool on AWS — Engineering Story",
-      "description": "Originally published at notebooklmstudio.com Every product has an origin story. Ours started with a frozen browser tab. I was working on a research pr...",
-      "url": "https://dev.to/morninginsights_6f61e04f2/how-we-built-a-5x-faster-notebooklm-watermark-tool-on-aws-engineering-story-29fe",
-      "date": "2026-02-20T06:35:18.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "aws",
-        "indiehacker",
-        "buildinpublic"
-      ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "I Built Vector-Only Search First. Here's Why I Had to Rewrite It.",
-      "description": "I spent three weeks building a pure vector search for an e-commerce product catalog. Embedded everything with multilingual-e5-large, loaded it into Qd...",
-      "url": "https://dev.to/rosen_hristov/i-built-vector-only-search-first-heres-why-i-had-to-rewrite-it-4dh0",
-      "date": "2026-02-20T06:32:07.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
+        "backend",
         "python",
-        "machinelearning",
-        "database"
+        "systemdesign"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "9+ Best Free Shadcn Date Picker Components for React and Next.js in 2026",
+      "description": "Most modern apps require date pickers - from SaaS dashboards and booking systems to analytics filters and admin panels. We tested and reviewed 9 free ...",
+      "url": "https://dev.to/wrap-pixel/shadcn-date-picker-38dh",
+      "date": "2026-02-21T06:20:33.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "react",
+        "shadcn",
+        "webcomponents"
+      ],
+      "readTime": "8 min read",
+      "priority": 2
+    },
+    {
+      "title": "Terminal Operations in Java Streams",
+      "description": "Hi Everyone reading, In the previous article, we explored Intermediate Operations in Java Streams — how they transform and prepare data. Now it’s time...",
+      "url": "https://dev.to/priyankbhardwaj1199/terminal-operations-in-java-streams-2g83",
+      "date": "2026-02-21T06:18:19.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "java",
+        "streams",
+        "software"
       ],
       "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Devlog: 2026-02-04",
+      "description": "import Tabs from '@theme/Tabs'; @theme/TabItem'; The Hook Why I Built It The Solution graph TD; A[Collect reading signals] --> B{Is it actionable?}; B...",
+      "url": "https://dev.to/victorstackai/devlog-2026-02-04-4ac3",
+      "date": "2026-02-21T06:14:20.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "devlog",
+        "agents",
+        "ai"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Potentially Coming to a Browser :near() You",
+      "description": "Danny has several ideas for how we could use :near(), a proposed pseudo-class that detects when the pointer is near an element. Potentially Coming to ...",
+      "url": "https://css-tricks.com/potentially-coming-to-a-browser-near-you/",
+      "date": "2026-02-20T15:36:55.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "pseudoclasses",
+        "webdev"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -189,21 +204,6 @@
         "articles",
         "browser",
         "crossbrowser"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, ",
-      "description": "This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting:...",
-      "url": "https://css-tricks.com/whats-important-5/",
-      "date": "2026-02-13T15:19:57.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "news",
-        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
