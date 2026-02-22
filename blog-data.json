@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-21T06:43:33.529Z",
+  "lastUpdated": "2026-02-22T06:50:49.210Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "From 10-Minute Blocking APIs to Async Pipelines: A Production Backend Redesign",
-      "description": "When I took over a transaction ingestion system running in production, one of the first things I noticed was the time it took to process CSV uploads. ...",
-      "url": "https://dev.to/phantom_adnan/from-10-minute-blocking-apis-to-async-pipelines-a-production-backend-redesign-114c",
-      "date": "2026-02-21T06:35:31.000Z",
+      "title": "I Dug Up My 10-Year-Old Android App, Dusted It Off With AI, and Put It Back on t",
+      "description": "Last week I did something I didn't expect to enjoy as much as I did — I resurrected a side project I hadn't touched in a decade. Meet Drivelert: an an...",
+      "url": "https://dev.to/akarshan/i-dug-up-my-10-year-old-android-app-dusted-it-off-with-ai-and-put-it-back-on-the-play-store-4a3c",
+      "date": "2026-02-22T06:44:45.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "backend",
-        "python",
-        "systemdesign"
+        "ai",
+        "android",
+        "showdev"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Why AI Text Gets Detected - The Linguistics Behind It",
+      "description": "I've been building an AI text humanizer and spent weeks studying how AI detection actually works. The results surprised me - it's not about grammar, v...",
+      "url": "https://dev.to/gofortool/why-ai-text-gets-detected-the-linguistics-behind-it-4019",
+      "date": "2026-02-22T06:42:22.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "nlp"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "How to Build a Simple Persistent Memory Layer for LLM Apps (With Code)",
+      "description": "Most LLM-powered apps feel impressive for five minutes. Then they forget everything. You ask a chatbot something. It responds intelligently. You close...",
+      "url": "https://dev.to/cloyouai/how-to-build-a-simple-persistent-memory-layer-for-llm-apps-with-code-1dgf",
+      "date": "2026-02-22T06:39:59.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "9+ Best Free Shadcn Date Picker Components for React and Next.js in 2026",
-      "description": "Most modern apps require date pickers - from SaaS dashboards and booking systems to analytics filters and admin panels. We tested and reviewed 9 free ...",
-      "url": "https://dev.to/wrap-pixel/shadcn-date-picker-38dh",
-      "date": "2026-02-21T06:20:33.000Z",
+      "title": "What Is a Variable: A Box or a Label?",
+      "description": "Series: Programming Concepts in Plain English Part 1: Learning Programming Alone: From Panic Loops to Mental Pictures When I first started learning pr...",
+      "url": "https://dev.to/oyinade_olawoyin_aaaa6272/what-is-a-variable-a-box-or-a-label-oob",
+      "date": "2026-02-22T06:27:22.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "react",
-        "shadcn",
-        "webcomponents"
+        "python",
+        "beginners",
+        "programming"
       ],
-      "readTime": "8 min read",
-      "priority": 2
-    },
-    {
-      "title": "Terminal Operations in Java Streams",
-      "description": "Hi Everyone reading, In the previous article, we explored Intermediate Operations in Java Streams — how they transform and prepare data. Now it’s time...",
-      "url": "https://dev.to/priyankbhardwaj1199/terminal-operations-in-java-streams-2g83",
-      "date": "2026-02-21T06:18:19.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "java",
-        "streams",
-        "software"
-      ],
-      "readTime": "5 min read",
-      "priority": 2
-    },
-    {
-      "title": "Devlog: 2026-02-04",
-      "description": "import Tabs from '@theme/Tabs'; @theme/TabItem'; The Hook Why I Built It The Solution graph TD; A[Collect reading signals] --> B{Is it actionable?}; B...",
-      "url": "https://dev.to/victorstackai/devlog-2026-02-04-4ac3",
-      "date": "2026-02-21T06:14:20.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "devlog",
-        "agents",
-        "ai"
-      ],
-      "readTime": "2 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
