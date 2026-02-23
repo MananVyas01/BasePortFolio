@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T06:50:49.210Z",
+  "lastUpdated": "2026-02-23T07:06:19.931Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "I Dug Up My 10-Year-Old Android App, Dusted It Off With AI, and Put It Back on t",
-      "description": "Last week I did something I didn't expect to enjoy as much as I did — I resurrected a side project I hadn't touched in a decade. Meet Drivelert: an an...",
-      "url": "https://dev.to/akarshan/i-dug-up-my-10-year-old-android-app-dusted-it-off-with-ai-and-put-it-back-on-the-play-store-4a3c",
-      "date": "2026-02-22T06:44:45.000Z",
+      "title": "Artificial Intelligence Coding Is Shrinking Teams. Adapt Fast",
+      "description": "The most obvious change in software right now is not a new framework. It is the budget line item that keeps moving. More spend is going to GPUs, token...",
+      "url": "https://dev.to/sashido/artificial-intelligence-coding-is-shrinking-teams-adapt-fast-m8g",
+      "date": "2026-02-23T07:00:25.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "android",
-        "showdev"
+        "programming",
+        "productivity"
       ],
-      "readTime": "2 min read",
+      "readTime": "13 min read",
       "priority": 2
     },
     {
-      "title": "Why AI Text Gets Detected - The Linguistics Behind It",
-      "description": "I've been building an AI text humanizer and spent weeks studying how AI detection actually works. The results surprised me - it's not about grammar, v...",
-      "url": "https://dev.to/gofortool/why-ai-text-gets-detected-the-linguistics-behind-it-4019",
-      "date": "2026-02-22T06:42:22.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "nlp"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "How to Build a Simple Persistent Memory Layer for LLM Apps (With Code)",
-      "description": "Most LLM-powered apps feel impressive for five minutes. Then they forget everything. You ask a chatbot something. It responds intelligently. You close...",
-      "url": "https://dev.to/cloyouai/how-to-build-a-simple-persistent-memory-layer-for-llm-apps-with-code-1dgf",
-      "date": "2026-02-22T06:39:59.000Z",
+      "title": "2026 is the New 2016 and Honestly? I Kind of Get It.",
+      "description": "remember when you could post a blurry photo of your lunch and get 47 likes from people who genuinely cared? yeah. that's gone. that's so gone. somewhe...",
+      "url": "https://dev.to/vasughanta09/2026-is-the-new-2016-and-honestly-i-kind-of-get-it-57bg",
+      "date": "2026-02-23T06:56:27.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "javascript",
-        "css"
+        "programming",
+        "culture"
       ],
-      "readTime": "4 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "What Is a Variable: A Box or a Label?",
-      "description": "Series: Programming Concepts in Plain English Part 1: Learning Programming Alone: From Panic Loops to Mental Pictures When I first started learning pr...",
-      "url": "https://dev.to/oyinade_olawoyin_aaaa6272/what-is-a-variable-a-box-or-a-label-oob",
-      "date": "2026-02-22T06:27:22.000Z",
+      "title": "The Secret Life of Go: Worker Pools",
+      "description": "How to Stop Crashing Your Server with 10,000 Goroutines Part 26: Controlling Concurrency and The Dispatcher Ethan was staring at a wall of red text on...",
+      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-worker-pools-n1d",
+      "date": "2026-02-23T06:53:06.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "beginners",
-        "programming"
+        "go",
+        "concurrency",
+        "workerpools"
       ],
-      "readTime": "3 min read",
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "Tight Coupling (Request-Response) vs. Loose Coupling (Event-Driven).",
+      "description": "This is the perfect way to visualize it. In the world of software, we often call this Tight Coupling (Request-Response) vs. Loose Coupling (Event-Driv...",
+      "url": "https://dev.to/glax3max/tight-coupling-request-response-vs-loose-coupling-event-driven-5cpa",
+      "date": "2026-02-23T06:43:52.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "restapi",
+        "rpc",
+        "eventdriven"
+      ],
+      "readTime": "2 min read",
       "priority": 2
     },
     {
