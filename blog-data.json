@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23T07:06:19.931Z",
+  "lastUpdated": "2026-02-24T07:01:58.061Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,93 @@
       "priority": 1
     },
     {
-      "title": "Artificial Intelligence Coding Is Shrinking Teams. Adapt Fast",
-      "description": "The most obvious change in software right now is not a new framework. It is the budget line item that keeps moving. More spend is going to GPUs, token...",
-      "url": "https://dev.to/sashido/artificial-intelligence-coding-is-shrinking-teams-adapt-fast-m8g",
-      "date": "2026-02-23T07:00:25.000Z",
+      "title": "How can relational functional tables be created with RDB Store?",
+      "description": "Read the original article：How can relational functional tables be created with RDB Store? When developing HarmonyOS applications, developers frequentl...",
+      "url": "https://dev.to/harmonyos/how-can-relational-functional-tables-be-created-with-rdb-store-ca3",
+      "date": "2026-02-24T06:50:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "programming",
-        "productivity"
+        "harmonyos",
+        "rdbstore",
+        "relationaldatabase"
       ],
-      "readTime": "13 min read",
+      "readTime": "19 min read",
       "priority": 2
     },
     {
-      "title": "2026 is the New 2016 and Honestly? I Kind of Get It.",
-      "description": "remember when you could post a blurry photo of your lunch and get 47 likes from people who genuinely cared? yeah. that's gone. that's so gone. somewhe...",
-      "url": "https://dev.to/vasughanta09/2026-is-the-new-2016-and-honestly-i-kind-of-get-it-57bg",
-      "date": "2026-02-23T06:56:27.000Z",
+      "title": "Elegantly Generate Type-Safe App Launch Links with Protocol Launcher",
+      "description": "As developers, we often need to use URL schemes (deep links) to interact with local applications: opening VS Code from a web page and jumping to a spe...",
+      "url": "https://dev.to/zhensherlock/elegantly-generate-type-safe-app-launch-links-with-protocol-launcher-1el3",
+      "date": "2026-02-24T06:46:10.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
+      "tags": [
+        "javascript",
+        "showdev",
+        "tooling"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "How can different types of data be transferred over a Network Socket?",
+      "description": "Read the original article：How can different types of data be transferred over a Network Socket? Nowadays, network communication is utilized across a w...",
+      "url": "https://dev.to/harmonyos/how-can-different-types-of-data-be-transferred-over-a-network-socket-1k04",
+      "date": "2026-02-24T06:44:00.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "harmonyos",
+        "tcpsocket",
+        "networkkit"
+      ],
+      "readTime": "15 min read",
+      "priority": 2
+    },
+    {
+      "title": "Define your project once, generate AGENTS.md + .cursorrules + CLAUDE.md + GEMINI",
+      "description": "Every AI coding tool invented its own context file: Four prose files. Four places to keep in sync. Update one, forget another. Context rot What if the...",
+      "url": "https://dev.to/wolfejam/define-your-project-once-generate-agentsmd-cursorrules-claudemd-geminimd-bc3",
+      "date": "2026-02-24T06:43:02.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "opensource",
+        "ai",
+        "programming"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Loading Smarter: SVG vs. Raster Loaders in Modern Web Design",
+      "description": "Let’s get nuanced in this article and discuss the capabilities of both SVG and raster imaged so that you can make informed decisions in your own work....",
+      "url": "https://css-tricks.com/loading-smarter-svg-vs-raster-loaders-in-modern-web-design/",
+      "date": "2026-02-23T14:18:16.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "images",
+        "performance"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "A Designer’s Guide To Eco-Friendly Interfaces",
+      "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pix...",
+      "url": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
+      "date": "2026-02-23T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
-        "programming",
-        "culture"
+        "javascript",
+        "css"
       ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Secret Life of Go: Worker Pools",
-      "description": "How to Stop Crashing Your Server with 10,000 Goroutines Part 26: Controlling Concurrency and The Dispatcher Ethan was staring at a wall of red text on...",
-      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-worker-pools-n1d",
-      "date": "2026-02-23T06:53:06.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "go",
-        "concurrency",
-        "workerpools"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "Tight Coupling (Request-Response) vs. Loose Coupling (Event-Driven).",
-      "description": "This is the perfect way to visualize it. In the world of software, we often call this Tight Coupling (Request-Response) vs. Loose Coupling (Event-Driv...",
-      "url": "https://dev.to/glax3max/tight-coupling-request-response-vs-loose-coupling-event-driven-5cpa",
-      "date": "2026-02-23T06:43:52.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "restapi",
-        "rpc",
-        "eventdriven"
-      ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -194,21 +224,6 @@
       "priority": 2
     },
     {
-      "title": "Interop 2026",
-      "description": "Interop 2026 is officially a thing and there's plenty of new (and even old) CSS features that we can look forward to being cross-browser compatible an...",
-      "url": "https://css-tricks.com/interop-2026/",
-      "date": "2026-02-17T14:17:30.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "browser",
-        "crossbrowser"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
       "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. H...",
       "url": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
@@ -228,21 +243,6 @@
       "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational framewor...",
       "url": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
       "date": "2026-02-11T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "CSS @scope: An Alternative To Naming Conventions And Heavy Abstractions",
-      "description": "Prescriptive class name conventions are no longer enough to keep CSS maintainable in a world of increasingly complex interfaces. Can the new `@scope` ...",
-      "url": "https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/",
-      "date": "2026-02-05T08:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
