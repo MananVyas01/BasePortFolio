@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T07:01:58.061Z",
+  "lastUpdated": "2026-02-25T07:03:25.600Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Multi-agent workflows often fail. Here’s how to engineer ones that don’t.",
+      "description": "Most multi-agent workflow failures come down to missing structure, not model capability. Learn the three engineering patterns that make agent systems ...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/",
+      "date": "2026-02-24T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "agenticai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How AI is reshaping developer choice (and Octoverse data proves it)",
       "description": "AI is rewiring developer preferences through convenience loops. Octoverse 2025 reveals how AI compatibility is becoming the new standard for technolog...",
@@ -59,78 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Automate repository tasks with GitHub Agentic Workflows",
-      "description": "Discover GitHub Agentic Workflows, now in technical preview. Build automations using coding agents in GitHub Actions to handle triage, documentation, ...",
-      "url": "https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/",
-      "date": "2026-02-13T14:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "automation",
-        "devops"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "How can relational functional tables be created with RDB Store?",
-      "description": "Read the original article：How can relational functional tables be created with RDB Store? When developing HarmonyOS applications, developers frequentl...",
-      "url": "https://dev.to/harmonyos/how-can-relational-functional-tables-be-created-with-rdb-store-ca3",
-      "date": "2026-02-24T06:50:00.000Z",
+      "title": "The Age of Skills Has Begun: Why Prompts Are Fading Fast in 2026",
+      "description": "The Age of Skills Has Begun: Why Prompts Are Fading Fast in 2026 In early 2026, Anthropic officially launched the Skills framework centered around SKI...",
+      "url": "https://dev.to/miaoshuyo/the-age-of-skills-has-begun-why-prompts-are-fading-fast-in-2026-2e3f",
+      "date": "2026-02-25T06:56:55.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "harmonyos",
-        "rdbstore",
-        "relationaldatabase"
-      ],
-      "readTime": "19 min read",
-      "priority": 2
-    },
-    {
-      "title": "Elegantly Generate Type-Safe App Launch Links with Protocol Launcher",
-      "description": "As developers, we often need to use URL schemes (deep links) to interact with local applications: opening VS Code from a web page and jumping to a spe...",
-      "url": "https://dev.to/zhensherlock/elegantly-generate-type-safe-app-launch-links-with-protocol-launcher-1el3",
-      "date": "2026-02-24T06:46:10.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
+        "webdev",
         "javascript",
-        "showdev",
-        "tooling"
+        "css"
       ],
-      "readTime": "3 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "How can different types of data be transferred over a Network Socket?",
-      "description": "Read the original article：How can different types of data be transferred over a Network Socket? Nowadays, network communication is utilized across a w...",
-      "url": "https://dev.to/harmonyos/how-can-different-types-of-data-be-transferred-over-a-network-socket-1k04",
-      "date": "2026-02-24T06:44:00.000Z",
+      "title": "How to take screenshots and generate PDFs in Go",
+      "description": "How to Take Screenshots and Generate PDFs in Go Go has no headless browser library. When Go services need to capture screenshots or generate PDFs, the...",
+      "url": "https://dev.to/custodiaadmin/how-to-take-screenshots-and-generate-pdfs-in-go-2jc",
+      "date": "2026-02-25T06:54:14.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "harmonyos",
-        "tcpsocket",
-        "networkkit"
+        "go",
+        "webdev",
+        "devtools"
       ],
-      "readTime": "15 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Define your project once, generate AGENTS.md + .cursorrules + CLAUDE.md + GEMINI",
-      "description": "Every AI coding tool invented its own context file: Four prose files. Four places to keep in sync. Update one, forget another. Context rot What if the...",
-      "url": "https://dev.to/wolfejam/define-your-project-once-generate-agentsmd-cursorrules-claudemd-geminimd-bc3",
-      "date": "2026-02-24T06:43:02.000Z",
+      "title": "Difference Between Shallow Copy and Deep Copy in Java",
+      "description": "In Java, copying an object can be done in two ways: Shallow Copy and Deep Copy. These concepts are very important when working with object cloning and...",
+      "url": "https://dev.to/sharath_kumar_ec951693318/difference-between-shallow-copy-and-deep-copy-in-java-4008",
+      "date": "2026-02-25T06:51:15.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "opensource",
+        "java",
+        "shallow",
+        "deep"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Architecture of Trust: Defending Against Jailbreaks and Attacks using Google ADK",
+      "description": "The technological landscape is witnessing a transition of historical magnitude. We are shifting from deterministic, command-based software to probabil...",
+      "url": "https://dev.to/linhkid91/architecture-of-trust-defending-against-jailbreaks-and-attacks-using-google-adk-with-2740",
+      "date": "2026-02-25T06:46:44.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
         "ai",
-        "programming"
+        "aisafety",
+        "guardrail"
       ],
-      "readTime": "1 min read",
+      "readTime": "12 min read",
       "priority": 2
     },
     {
