@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-25T07:03:25.600Z",
+  "lastUpdated": "2026-02-26T07:01:52.689Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,10 +74,55 @@
       "priority": 1
     },
     {
-      "title": "The Age of Skills Has Begun: Why Prompts Are Fading Fast in 2026",
-      "description": "The Age of Skills Has Begun: Why Prompts Are Fading Fast in 2026 In early 2026, Anthropic officially launched the Skills framework centered around SKI...",
-      "url": "https://dev.to/miaoshuyo/the-age-of-skills-has-begun-why-prompts-are-fading-fast-in-2026-2e3f",
-      "date": "2026-02-25T06:56:55.000Z",
+      "title": "Building a multi-agent Kalshi algotrader with Sentient Foundation's ROMA SDK",
+      "description": "I spent a weekend building a paper trading system for Kalshi's 15-minute BTC binary prediction markets. The hook was Sentient Foundation's roma-dspy P...",
+      "url": "https://dev.to/j_dev28/building-a-multi-agent-kalshi-algotrader-with-sentient-foundations-roma-sdk-26ap",
+      "date": "2026-02-26T06:56:33.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "python",
+        "nextjs",
+        "ai"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "How to Detect Environment Sentiment Shifts with the Pulsebit API (Python)",
+      "description": "How to Detect Environment Sentiment Shifts with the Pulsebit API (Python) As developers focused on environmental data, we often encounter the challeng...",
+      "url": "https://dev.to/pulsebitapi/how-to-detect-environment-sentiment-shifts-with-the-pulsebit-api-python-2b46",
+      "date": "2026-02-26T06:51:31.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "python",
+        "api",
+        "datascience"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Reactjs Web Hosting: Research-Based Infrastructure and Performance Analysis",
+      "description": "Introduction React applications are increasingly the foundation of interactive web systems, but achieving predictable performance at scale requires mo...",
+      "url": "https://dev.to/dmankani2007/reactjs-web-hosting-research-based-infrastructure-and-performance-analysis-262a",
+      "date": "2026-02-26T06:50:44.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "2026 Tech: Graphene-Based Temperature Sensors for Ultra-Fast Response",
+      "description": "As industries push toward faster data acquisition, real-time control, and miniaturized electronics, traditional temperature sensing technologies are a...",
+      "url": "https://dev.to/yc_w_4a4f95408d351edef5d2/2026-tech-graphene-based-temperature-sensors-for-ultra-fast-response-4fdm",
+      "date": "2026-02-26T06:50:41.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
@@ -85,52 +130,37 @@
         "javascript",
         "css"
       ],
-      "readTime": "6 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "How to take screenshots and generate PDFs in Go",
-      "description": "How to Take Screenshots and Generate PDFs in Go Go has no headless browser library. When Go services need to capture screenshots or generate PDFs, the...",
-      "url": "https://dev.to/custodiaadmin/how-to-take-screenshots-and-generate-pdfs-in-go-2jc",
-      "date": "2026-02-25T06:54:14.000Z",
+      "title": "An Exploit … in CSS?!",
+      "description": "Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a \"CSS exploit\" that \"allowed a remote attacker to execute arbitrary co...",
+      "url": "https://css-tricks.com/an-exploit-in-css/",
+      "date": "2026-02-25T21:31:39.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "go",
-        "webdev",
-        "devtools"
+        "articles",
+        "news",
+        "security"
       ],
-      "readTime": "5 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Difference Between Shallow Copy and Deep Copy in Java",
-      "description": "In Java, copying an object can be done in two ways: Shallow Copy and Deep Copy. These concepts are very important when working with object cloning and...",
-      "url": "https://dev.to/sharath_kumar_ec951693318/difference-between-shallow-copy-and-deep-copy-in-java-4008",
-      "date": "2026-02-25T06:51:15.000Z",
+      "title": "A Complete Guide to Bookmarklets",
+      "description": "Browsers don't just let you bookmark web pages. You can also bookmark JavaScript, allowing you to do so much more than merely save pages. A Complete G...",
+      "url": "https://css-tricks.com/a-complete-guide-to-bookmarklets/",
+      "date": "2026-02-25T14:50:58.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "java",
-        "shallow",
-        "deep"
+        "articles",
+        "bookmarklet",
+        "javascript"
       ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Architecture of Trust: Defending Against Jailbreaks and Attacks using Google ADK",
-      "description": "The technological landscape is witnessing a transition of historical magnitude. We are shifting from deterministic, command-based software to probabil...",
-      "url": "https://dev.to/linhkid91/architecture-of-trust-defending-against-jailbreaks-and-attacks-using-google-adk-with-2740",
-      "date": "2026-02-25T06:46:44.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "aisafety",
-        "guardrail"
-      ],
-      "readTime": "12 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -179,21 +209,6 @@
       "priority": 2
     },
     {
-      "title": "Distinguishing “Components” and “Utilities” in Tailwind",
-      "description": "The distinction between \"components\" and \"utilities\" seems clear at first glance, but gets a little blurred when working with them in Tailwind. Distin...",
-      "url": "https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/",
-      "date": "2026-02-18T16:21:41.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "webdev",
-        "javascript"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "Designing A Streak System: The UX And Psychology Of Streaks",
       "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks ...",
       "url": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
@@ -204,21 +219,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Spiral Scrollytelling in CSS With sibling-index()",
-      "description": "Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS. Spiral Scrollytelling in CSS With sibling-index...",
-      "url": "https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/",
-      "date": "2026-02-17T15:17:25.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "cssfunctions",
-        "gsap"
       ],
       "readTime": "1 min read",
       "priority": 2
