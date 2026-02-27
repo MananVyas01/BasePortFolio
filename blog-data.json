@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-26T07:01:52.689Z",
+  "lastUpdated": "2026-02-27T06:56:33.070Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "What’s new with GitHub Copilot coding agent",
+      "description": "GitHub Copilot coding agent now includes a model picker, self-review, built-in security scanning, custom agents, and CLI handoff. Here's what's new an...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-coding-agent/",
+      "date": "2026-02-26T20:47:02.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "githubcheckout"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Multi-agent workflows often fail. Here’s how to engineer ones that don’t.",
       "description": "Most multi-agent workflow failures come down to missing structure, not model capability. Learn the three engineering patterns that make agent systems ...",
@@ -59,72 +74,72 @@
       "priority": 1
     },
     {
-      "title": "Securing the AI software supply chain: Security results across 67 open source pr",
-      "description": "Learn how The GitHub Secure Open Source Fund helped 67 critical AI‑stack projects accelerate fixes, strengthen ecosystems, and advance open source res...",
-      "url": "https://github.blog/open-source/maintainers/securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/",
-      "date": "2026-02-17T19:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "maintainers",
-        "opensource",
-        "aisecurity"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Building a multi-agent Kalshi algotrader with Sentient Foundation's ROMA SDK",
-      "description": "I spent a weekend building a paper trading system for Kalshi's 15-minute BTC binary prediction markets. The hook was Sentient Foundation's roma-dspy P...",
-      "url": "https://dev.to/j_dev28/building-a-multi-agent-kalshi-algotrader-with-sentient-foundations-roma-sdk-26ap",
-      "date": "2026-02-26T06:56:33.000Z",
+      "title": "Designing Self-Optimizing GenAI Pipelines in Production Systems",
+      "description": "The Definition of a Self-Optimizing GenAI System A self-optimizing GenAI system is a closed-loop architecture where the pipeline continuously modifies...",
+      "url": "https://dev.to/shreekansha97/designing-self-optimizing-genai-pipelines-in-production-systems-5723",
+      "date": "2026-02-27T06:48:54.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "nextjs",
-        "ai"
+        "ai",
+        "genai",
+        "architecture"
       ],
-      "readTime": "7 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "How to Detect Environment Sentiment Shifts with the Pulsebit API (Python)",
-      "description": "How to Detect Environment Sentiment Shifts with the Pulsebit API (Python) As developers focused on environmental data, we often encounter the challeng...",
-      "url": "https://dev.to/pulsebitapi/how-to-detect-environment-sentiment-shifts-with-the-pulsebit-api-python-2b46",
-      "date": "2026-02-26T06:51:31.000Z",
+      "title": "Mad Skills: what really differentiates those who build the impossible",
+      "description": "For years, the market has been obsessed with two comfortable categories: hard skills (measurable technical competencies) and soft skills (interpersona...",
+      "url": "https://dev.to/fullagenticstack/mad-skills-what-really-differentiates-those-who-build-the-impossible-a2f",
+      "date": "2026-02-27T06:44:53.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
-        "api",
-        "datascience"
+        "webdev",
+        "javascript",
+        "css"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Reactjs Web Hosting: Research-Based Infrastructure and Performance Analysis",
-      "description": "Introduction React applications are increasingly the foundation of interactive web systems, but achieving predictable performance at scale requires mo...",
-      "url": "https://dev.to/dmankani2007/reactjs-web-hosting-research-based-infrastructure-and-performance-analysis-262a",
-      "date": "2026-02-26T06:50:44.000Z",
+      "title": "The Three Stages of AI-Assisted Coding — And What Comes Next",
+      "description": "If you want to see where this is heading, you first need to understand a structural shift already underway: AI-assisted coding is evolving through thr...",
+      "url": "https://dev.to/trade_off_d014391a85173ce/the-three-stages-of-ai-assisted-coding-what-next-4c2g",
+      "date": "2026-02-27T06:42:12.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
         "ai",
-        "programming"
+        "programming",
+        "llm"
       ],
-      "readTime": "5 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "2026 Tech: Graphene-Based Temperature Sensors for Ultra-Fast Response",
-      "description": "As industries push toward faster data acquisition, real-time control, and miniaturized electronics, traditional temperature sensing technologies are a...",
-      "url": "https://dev.to/yc_w_4a4f95408d351edef5d2/2026-tech-graphene-based-temperature-sensors-for-ultra-fast-response-4fdm",
-      "date": "2026-02-26T06:50:41.000Z",
+      "title": "Monomorphization in Rust — How Generics Become Fast, Concrete Code",
+      "description": "What is Monomorphization in Rust? Monomorphization is the process by which Rust converts generic code into a specific type or hard-coded version durin...",
+      "url": "https://dev.to/mdshakilhossainnsu2018/monomorphization-in-rust-how-generics-become-fast-concrete-code-9c1",
+      "date": "2026-02-27T06:41:42.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
+      "tags": [
+        "rust",
+        "programming",
+        "systems"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
+      "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026...",
+      "url": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
+      "date": "2026-02-26T11:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
         "javascript",
@@ -228,21 +243,6 @@
       "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. H...",
       "url": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
       "date": "2026-02-13T15:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Designing For Agentic AI: Practical UX Patterns For Control, Consent, And Accoun",
-      "description": "Autonomy is an output of a technical system. Trustworthiness is an output of a design process. Here are concrete design patterns, operational framewor...",
-      "url": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
-      "date": "2026-02-11T13:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
