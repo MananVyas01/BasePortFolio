@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T06:56:33.070Z",
+  "lastUpdated": "2026-02-28T06:40:10.425Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "From idea to pull request: A practical guide to building with GitHub Copilot CLI",
+      "description": "A hands-on guide to using GitHub Copilot CLI to move from intent to reviewable changes, and how that work flows naturally into your IDE and GitHub. Th...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/",
+      "date": "2026-02-27T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "githubcopilotcli"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "What’s new with GitHub Copilot coding agent",
       "description": "GitHub Copilot coding agent now includes a model picker, self-review, built-in security scanning, custom agents, and CLI handoff. Here's what's new an...",
@@ -59,76 +74,91 @@
       "priority": 1
     },
     {
-      "title": "What to expect for open source in 2026",
-      "description": "Let’s dig into the 2025’s open source data on GitHub to see what we can learn about the future. The post What to expect for open source in 2026 appear...",
-      "url": "https://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/",
-      "date": "2026-02-18T18:41:42.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "maintainers",
-        "octoverse",
-        "opensource"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Designing Self-Optimizing GenAI Pipelines in Production Systems",
-      "description": "The Definition of a Self-Optimizing GenAI System A self-optimizing GenAI system is a closed-loop architecture where the pipeline continuously modifies...",
-      "url": "https://dev.to/shreekansha97/designing-self-optimizing-genai-pipelines-in-production-systems-5723",
-      "date": "2026-02-27T06:48:54.000Z",
+      "title": "build-my-own-datalake: Improve metadata with caching",
+      "description": "This is the next story of following post: https://dev.to/kination/build-my-own-datalake-part-1-367h Caching schema metadata at the JNI boundary to eli...",
+      "url": "https://dev.to/kination/build-my-own-datalake-improve-metadata-with-caching-2lbl",
+      "date": "2026-02-28T06:37:35.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "genai",
-        "architecture"
+        "bigdata",
+        "metadata",
+        "rust"
+      ],
+      "readTime": "28 min read",
+      "priority": 2
+    },
+    {
+      "title": "When Past Team Failures Become Your Team's Problem",
+      "description": "I want to tell you about a situation I'm currently navigating as a team lead. A senior technical leader came in with a reputation. Not a bad one on pa...",
+      "url": "https://dev.to/adamthedeveloper/when-past-team-failures-become-your-teams-problem-5cf3",
+      "date": "2026-02-28T06:32:58.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "programming",
+        "productivity"
       ],
       "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Mad Skills: what really differentiates those who build the impossible",
-      "description": "For years, the market has been obsessed with two comfortable categories: hard skills (measurable technical competencies) and soft skills (interpersona...",
-      "url": "https://dev.to/fullagenticstack/mad-skills-what-really-differentiates-those-who-build-the-impossible-a2f",
-      "date": "2026-02-27T06:44:53.000Z",
+      "title": "Scaling Engineers Doesn't Mean Scaling Work",
+      "description": "Been thinking about this for a while, so lemme just put it out there. Started from an idea about developers. Instead of keeping devs locked into front...",
+      "url": "https://dev.to/sultanfariz/scaling-engineers-doesnt-mean-scaling-work-1nf3",
+      "date": "2026-02-28T06:30:36.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "ai",
+        "softwareengineering",
+        "development"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "The Three Stages of AI-Assisted Coding — And What Comes Next",
-      "description": "If you want to see where this is heading, you first need to understand a structural shift already underway: AI-assisted coding is evolving through thr...",
-      "url": "https://dev.to/trade_off_d014391a85173ce/the-three-stages-of-ai-assisted-coding-what-next-4c2g",
-      "date": "2026-02-27T06:42:12.000Z",
+      "title": "Mistakes I Made as a Frontend Engineer (And What They Actually Cost Me)",
+      "description": "I've shipped a 2s → 0.2s FCP improvement. None of that changes the fact that I made avoidable mistakes early in my career. This is for junior and mid-...",
+      "url": "https://dev.to/9thquadrant/mistakes-i-made-as-a-frontend-engineer-and-what-they-actually-cost-me-587m",
+      "date": "2026-02-28T06:26:08.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "programming",
-        "llm"
+        "webdev",
+        "angular",
+        "javascript"
       ],
-      "readTime": "6 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Monomorphization in Rust — How Generics Become Fast, Concrete Code",
-      "description": "What is Monomorphization in Rust? Monomorphization is the process by which Rust converts generic code into a specific type or hard-coded version durin...",
-      "url": "https://dev.to/mdshakilhossainnsu2018/monomorphization-in-rust-how-generics-become-fast-concrete-code-9c1",
-      "date": "2026-02-27T06:41:42.000Z",
+      "title": "What’s !important #6: :heading, border-shape, Truncating Text From the Middle, a",
+      "description": "Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web...",
+      "url": "https://css-tricks.com/whats-important-6/",
+      "date": "2026-02-27T16:30:22.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "rust",
-        "programming",
-        "systems"
+        "articles",
+        "news",
+        "webdev"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Yet Another Way to Center an (Absolute) Element",
+      "description": "TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers! Yet Another Way to Center an (Absolute) Element...",
+      "url": "https://css-tricks.com/yet-another-way-to-center-an-absolute-element/",
+      "date": "2026-02-27T14:40:42.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "layout",
+        "position"
       ],
       "readTime": "1 min read",
       "priority": 2
@@ -179,21 +209,6 @@
       "priority": 2
     },
     {
-      "title": "Loading Smarter: SVG vs. Raster Loaders in Modern Web Design",
-      "description": "Let’s get nuanced in this article and discuss the capabilities of both SVG and raster imaged so that you can make informed decisions in your own work....",
-      "url": "https://css-tricks.com/loading-smarter-svg-vs-raster-loaders-in-modern-web-design/",
-      "date": "2026-02-23T14:18:16.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "images",
-        "performance"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "A Designer’s Guide To Eco-Friendly Interfaces",
       "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pix...",
       "url": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
@@ -204,21 +219,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Potentially Coming to a Browser :near() You",
-      "description": "Danny has several ideas for how we could use :near(), a proposed pseudo-class that detects when the pointer is near an element. Potentially Coming to ...",
-      "url": "https://css-tricks.com/potentially-coming-to-a-browser-near-you/",
-      "date": "2026-02-20T15:36:55.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "pseudoclasses",
-        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
