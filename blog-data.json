@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T06:40:10.425Z",
+  "lastUpdated": "2026-03-01T06:49:38.549Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,8 +8,8 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
@@ -74,63 +74,78 @@
       "priority": 1
     },
     {
-      "title": "build-my-own-datalake: Improve metadata with caching",
-      "description": "This is the next story of following post: https://dev.to/kination/build-my-own-datalake-part-1-367h Caching schema metadata at the JNI boundary to eli...",
-      "url": "https://dev.to/kination/build-my-own-datalake-improve-metadata-with-caching-2lbl",
-      "date": "2026-02-28T06:37:35.000Z",
+      "title": "The PKM Setup I Settled On After Many Iterations",
+      "description": "The system I use for note-taking today is a combination of PARA, Evergreen Notes and 4 Buckets System that I ended up merging after a lot of iteration...",
+      "url": "https://dev.to/gantengx/the-pkm-setup-i-settled-on-after-many-iterations-6pa",
+      "date": "2026-03-01T06:43:39.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "bigdata",
-        "metadata",
-        "rust"
-      ],
-      "readTime": "28 min read",
-      "priority": 2
-    },
-    {
-      "title": "When Past Team Failures Become Your Team's Problem",
-      "description": "I want to tell you about a situation I'm currently navigating as a team lead. A senior technical leader came in with a reputation. Not a bad one on pa...",
-      "url": "https://dev.to/adamthedeveloper/when-past-team-failures-become-your-teams-problem-5cf3",
-      "date": "2026-02-28T06:32:58.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "programming",
+        "pkm",
+        "tutorial",
         "productivity"
       ],
       "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Scaling Engineers Doesn't Mean Scaling Work",
-      "description": "Been thinking about this for a while, so lemme just put it out there. Started from an idea about developers. Instead of keeping devs locked into front...",
-      "url": "https://dev.to/sultanfariz/scaling-engineers-doesnt-mean-scaling-work-1nf3",
-      "date": "2026-02-28T06:30:36.000Z",
+      "title": "How Text-First Toolchains Break Down - An Architects Under-the-Hood Deconstructi",
+      "description": "Quick read: If you build content systems-editorial tooling, marketing stacks, or education platforms-this is the systems-level checklist you need: how...",
+      "url": "https://dev.to/kailash_ac43c0ef1daf14abd/how-text-first-toolchains-break-down-an-architects-under-the-hood-deconstruction-48fl",
+      "date": "2026-03-01T06:38:44.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "softwareengineering",
-        "development"
+        "generativeaimonitoring",
+        "mlopsfornlp",
+        "aicontentstack"
       ],
-      "readTime": "3 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Mistakes I Made as a Frontend Engineer (And What They Actually Cost Me)",
-      "description": "I've shipped a 2s → 0.2s FCP improvement. None of that changes the fact that I made avoidable mistakes early in my career. This is for junior and mid-...",
-      "url": "https://dev.to/9thquadrant/mistakes-i-made-as-a-frontend-engineer-and-what-they-actually-cost-me-587m",
-      "date": "2026-02-28T06:26:08.000Z",
+      "title": "The Scaffold: Playwright Project Structure Built for AI",
+      "description": "Have you ever started a new Playwright project and spent the first two days just figuring out where things go? Where do selectors live? How do page ob...",
+      "url": "https://dev.to/idavidov13/the-scaffold-playwright-project-structure-built-for-ai-3a62",
+      "date": "2026-03-01T06:38:01.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "angular",
-        "javascript"
+        "testing",
+        "qa",
+        "playwright"
       ],
       "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Where Deep Research Fits: Choosing the AI Tool That Actually Does the Work",
+      "description": "The old mental model treated search and synthesis as two separate leaps: find a few documents, then manually stitch a narrative. That worked when lite...",
+      "url": "https://dev.to/azimkhan72/where-deep-research-fits-choosing-the-ai-tool-that-actually-does-the-work-5b2e",
+      "date": "2026-03-01T06:37:40.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "airesearchassistant",
+        "researchworkflowautomation",
+        "deepresearchai"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Fresh Energy In March (2026 Wallpapers Edition)",
+      "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wa...",
+      "url": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
+      "date": "2026-02-28T09:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -228,21 +243,6 @@
       "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks ...",
       "url": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
       "date": "2026-02-18T15:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps",
-      "description": "Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. H...",
-      "url": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
-      "date": "2026-02-13T15:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
