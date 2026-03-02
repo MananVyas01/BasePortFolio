@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T06:49:38.549Z",
+  "lastUpdated": "2026-03-02T07:00:02.864Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "The PKM Setup I Settled On After Many Iterations",
-      "description": "The system I use for note-taking today is a combination of PARA, Evergreen Notes and 4 Buckets System that I ended up merging after a lot of iteration...",
-      "url": "https://dev.to/gantengx/the-pkm-setup-i-settled-on-after-many-iterations-6pa",
-      "date": "2026-03-01T06:43:39.000Z",
+      "title": "Hello World! | Software Engineer",
+      "description": "Hi everyone! 👋 I’m LUMBOL (Lawrence), a Computer Science graduate from the University of Jos, Nigeria. I’m moving from academic theory to industry pr...",
+      "url": "https://dev.to/lumbol77/hello-world-software-engineer-9cg",
+      "date": "2026-03-02T06:50:15.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "pkm",
-        "tutorial",
-        "productivity"
+        "beginners",
+        "career",
+        "cybersecurity"
       ],
-      "readTime": "6 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "How Text-First Toolchains Break Down - An Architects Under-the-Hood Deconstructi",
-      "description": "Quick read: If you build content systems-editorial tooling, marketing stacks, or education platforms-this is the systems-level checklist you need: how...",
-      "url": "https://dev.to/kailash_ac43c0ef1daf14abd/how-text-first-toolchains-break-down-an-architects-under-the-hood-deconstruction-48fl",
-      "date": "2026-03-01T06:38:44.000Z",
+      "title": "Developer-focused prompting tricks to use Cursor",
+      "description": "developer-focused prompting tricks to use Cursor (especially Composer / Agent / Chat) more effectively while burning fewer credits/tokens in 2026. The...",
+      "url": "https://dev.to/tak089/developer-focused-prompting-tricks-to-use-cursor-5ei",
+      "date": "2026-03-02T06:48:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "generativeaimonitoring",
-        "mlopsfornlp",
-        "aicontentstack"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Scaffold: Playwright Project Structure Built for AI",
-      "description": "Have you ever started a new Playwright project and spent the first two days just figuring out where things go? Where do selectors live? How do page ob...",
-      "url": "https://dev.to/idavidov13/the-scaffold-playwright-project-structure-built-for-ai-3a62",
-      "date": "2026-03-01T06:38:01.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "testing",
-        "qa",
-        "playwright"
+        "ai",
+        "learning",
+        "promptengineering"
       ],
       "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Where Deep Research Fits: Choosing the AI Tool That Actually Does the Work",
-      "description": "The old mental model treated search and synthesis as two separate leaps: find a few documents, then manually stitch a narrative. That worked when lite...",
-      "url": "https://dev.to/azimkhan72/where-deep-research-fits-choosing-the-ai-tool-that-actually-does-the-work-5b2e",
-      "date": "2026-03-01T06:37:40.000Z",
+      "title": "How AI-Native Architecture Enables Autonomous Software Systems",
+      "description": "Software systems are evolving from passive tools into active, autonomous participants in business and technology operations. This transformation is ma...",
+      "url": "https://dev.to/gofortool/how-ai-native-architecture-enables-autonomous-software-systems-31lo",
+      "date": "2026-03-02T06:45:53.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "airesearchassistant",
-        "researchworkflowautomation",
-        "deepresearchai"
+        "ai",
+        "developers",
+        "founder"
       ],
-      "readTime": "5 min read",
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Pawz Engram biologically-inspired memory architecture for persistent AI agents",
+      "description": "What is Engram? Most “agent memory” today is basically: Project Engram is our attempt to treat memory like a cognitive system instead of a dumping gro...",
+      "url": "https://dev.to/gotham64/pawz-engram-biologically-inspired-memory-architecture-for-persistent-ai-agents-8fn",
+      "date": "2026-03-02T06:43:33.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "agents",
+        "memory"
+      ],
+      "readTime": "3 min read",
       "priority": 2
     },
     {
