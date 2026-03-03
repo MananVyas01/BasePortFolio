@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T07:00:02.864Z",
+  "lastUpdated": "2026-03-03T06:54:16.919Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "GitHub for Beginners: Getting started with GitHub Issues and Projects",
+      "description": "Learn how to get organized and collaborate more efficiently with this step-by-step tutorial. The post GitHub for Beginners: Getting started with GitHu...",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-issues-and-projects/",
+      "date": "2026-03-02T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "developerskills",
+        "github",
+        "developerskills"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "From idea to pull request: A practical guide to building with GitHub Copilot CLI",
       "description": "A hands-on guide to using GitHub Copilot CLI to move from intent to reviewable changes, and how that work flows naturally into your IDE and GitHub. Th...",
@@ -59,78 +74,93 @@
       "priority": 1
     },
     {
-      "title": "How AI is reshaping developer choice (and Octoverse data proves it)",
-      "description": "AI is rewiring developer preferences through convenience loops. Octoverse 2025 reveals how AI compatibility is becoming the new standard for technolog...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/",
-      "date": "2026-02-19T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "The Secret Life of Claude Code: The Beginning",
+      "description": "What Claude Code Actually Does (and What It Can't Do for You) 🎧 Audio Edition: Prefer to listen? Check out the expanded AI podcast version of this de...",
+      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-the-beginning-3nib",
+      "date": "2026-03-03T06:50:52.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "aiml",
-        "generativeai",
-        "githubcopilot"
+        "claudecode",
+        "aiengineering",
+        "developertools"
       ],
-      "readTime": "1 min read",
-      "priority": 1
+      "readTime": "8 min read",
+      "priority": 2
     },
     {
-      "title": "Hello World! | Software Engineer",
-      "description": "Hi everyone! 👋 I’m LUMBOL (Lawrence), a Computer Science graduate from the University of Jos, Nigeria. I’m moving from academic theory to industry pr...",
-      "url": "https://dev.to/lumbol77/hello-world-software-engineer-9cg",
-      "date": "2026-03-02T06:50:15.000Z",
+      "title": "I Let GitHub Copilot Build My Razor Pages UI (While Rewriting an Old .NET App)",
+      "description": "I'm currently rewriting an old .NET Framework application using modern .NET and AI tools. In this part of the project, I experimented with letting Git...",
+      "url": "https://dev.to/incomplete_developer/i-let-github-copilot-build-my-razor-pages-ui-while-rewriting-an-old-net-app-1lf9",
+      "date": "2026-03-03T06:45:00.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "dotnet",
+        "github"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Ch 3: Creating a Postgres Database with Aiven",
+      "description": "Just a recap of the previous post: Postgres - the DBMS we are using to create our database Create an Aiven account Aiven account. Create an Aiven serv...",
+      "url": "https://dev.to/essym_19/creating-a-postgres-database-with-aiven-4cpg",
+      "date": "2026-03-03T06:35:50.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "beginners",
-        "career",
-        "cybersecurity"
+        "database",
+        "postgres"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Developer-focused prompting tricks to use Cursor",
-      "description": "developer-focused prompting tricks to use Cursor (especially Composer / Agent / Chat) more effectively while burning fewer credits/tokens in 2026. The...",
-      "url": "https://dev.to/tak089/developer-focused-prompting-tricks-to-use-cursor-5ei",
-      "date": "2026-03-02T06:48:31.000Z",
+      "title": "Your AI Reads Your Docstrings. Are They Right?",
+      "description": "Copilot, Claude Code, Cursor — they all read your docstrings to understand your code. When those docstrings are wrong, your AI makes confident, wrong ...",
+      "url": "https://dev.to/albertocodes/your-ai-reads-your-docstrings-are-they-right-2g89",
+      "date": "2026-03-03T06:35:17.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "python",
         "ai",
-        "learning",
-        "promptengineering"
+        "opensource"
       ],
-      "readTime": "4 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "How AI-Native Architecture Enables Autonomous Software Systems",
-      "description": "Software systems are evolving from passive tools into active, autonomous participants in business and technology operations. This transformation is ma...",
-      "url": "https://dev.to/gofortool/how-ai-native-architecture-enables-autonomous-software-systems-31lo",
-      "date": "2026-03-02T06:45:53.000Z",
+      "title": "Popover API or Dialog API: Which to Choose?",
+      "description": "Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discove...",
+      "url": "https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/",
+      "date": "2026-03-02T15:10:07.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "ai",
-        "developers",
-        "founder"
+        "articles",
+        "accessibility",
+        "dialog"
       ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Pawz Engram biologically-inspired memory architecture for persistent AI agents",
-      "description": "What is Engram? Most “agent memory” today is basically: Project Engram is our attempt to treat memory like a cognitive system instead of a dumping gro...",
-      "url": "https://dev.to/gotham64/pawz-engram-biologically-inspired-memory-architecture-for-persistent-ai-agents-8fn",
-      "date": "2026-03-02T06:43:33.000Z",
+      "title": "Getting Started With The Popover API",
+      "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from someth...",
+      "url": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
+      "date": "2026-03-02T10:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
-        "ai",
-        "agents",
-        "memory"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -209,40 +239,10 @@
       "priority": 2
     },
     {
-      "title": "A Complete Guide to Bookmarklets",
-      "description": "Browsers don't just let you bookmark web pages. You can also bookmark JavaScript, allowing you to do so much more than merely save pages. A Complete G...",
-      "url": "https://css-tricks.com/a-complete-guide-to-bookmarklets/",
-      "date": "2026-02-25T14:50:58.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "bookmarklet",
-        "javascript"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "A Designer’s Guide To Eco-Friendly Interfaces",
       "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pix...",
       "url": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
       "date": "2026-02-23T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Designing A Streak System: The UX And Psychology Of Streaks",
-      "description": "What makes streaks so powerful and addictive? To design them well, you need to understand how they align with human psychology. Victor Ayomipo breaks ...",
-      "url": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
-      "date": "2026-02-18T15:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
