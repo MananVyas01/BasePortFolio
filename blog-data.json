@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T06:54:16.919Z",
+  "lastUpdated": "2026-03-04T06:50:41.031Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,40 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How we rebuilt the search architecture for high availability in GitHub Enterpris",
+      "description": "Here's how we the search experience better, faster, and more resilient for GHES customers. The post How we rebuilt the search architecture for high av...",
+      "url": "https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/",
+      "date": "2026-03-03T18:45:09.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "architectureoptimization",
+        "engineering",
+        "githubenterpriseserver"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Join or host a GitHub Copilot Dev Days event near you",
+      "description": "GitHub Copilot Dev Days is a global series of hands-on, in-person, community-led events designed to help developers explore real-world, AI-assisted co...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/join-or-host-a-github-copilot-dev-days-event-near-you/",
+      "date": "2026-03-03T16:55:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "GitHub for Beginners: Getting started with GitHub Issues and Projects",
       "description": "Learn how to get organized and collaborate more efficiently with this step-by-step tutorial. The post GitHub for Beginners: Getting started with GitHu...",
@@ -44,93 +73,78 @@
       "priority": 1
     },
     {
-      "title": "What’s new with GitHub Copilot coding agent",
-      "description": "GitHub Copilot coding agent now includes a model picker, self-review, built-in security scanning, custom agents, and CLI handoff. Here's what's new an...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-coding-agent/",
-      "date": "2026-02-26T20:47:02.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "githubcheckout"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Multi-agent workflows often fail. Here’s how to engineer ones that don’t.",
-      "description": "Most multi-agent workflow failures come down to missing structure, not model capability. Learn the three engineering patterns that make agent systems ...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/",
-      "date": "2026-02-24T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "generativeai",
-        "agenticai"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "The Secret Life of Claude Code: The Beginning",
-      "description": "What Claude Code Actually Does (and What It Can't Do for You) 🎧 Audio Edition: Prefer to listen? Check out the expanded AI podcast version of this de...",
-      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-the-beginning-3nib",
-      "date": "2026-03-03T06:50:52.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "claudecode",
-        "aiengineering",
-        "developertools"
-      ],
-      "readTime": "8 min read",
-      "priority": 2
-    },
-    {
-      "title": "I Let GitHub Copilot Build My Razor Pages UI (While Rewriting an Old .NET App)",
-      "description": "I'm currently rewriting an old .NET Framework application using modern .NET and AI tools. In this part of the project, I experimented with letting Git...",
-      "url": "https://dev.to/incomplete_developer/i-let-github-copilot-build-my-razor-pages-ui-while-rewriting-an-old-net-app-1lf9",
-      "date": "2026-03-03T06:45:00.000Z",
+      "title": "Stop Stitching Your RAG Stack: Why We Built seekdb",
+      "description": "Hi — we're the seekdb team. We're building seekdb, an open-source AI-native hybrid search database. This is our first post here; in the ones that foll...",
+      "url": "https://dev.to/seekdb/stop-stitching-your-rag-stack-why-we-built-seekdb-41cg",
+      "date": "2026-03-04T06:49:39.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "dotnet",
-        "github"
+        "vectordatabase",
+        "rag"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Laravel 13 PHP Attributes: Refactor Your Models, Jobs, and Commands in 10 Minute",
+      "description": "Originally published at hafiz.dev Every Laravel model you've ever written starts the same way. A wall of protected arrays sitting above your actual bu...",
+      "url": "https://dev.to/hafiz619/laravel-13-php-attributes-refactor-your-models-jobs-and-commands-in-10-minutes-291b",
+      "date": "2026-03-04T06:48:16.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "laravel",
+        "php",
+        "laravel13"
+      ],
+      "readTime": "14 min read",
+      "priority": 2
+    },
+    {
+      "title": "How I Built a Waitlist of 300+ for a DevOps SaaS With Zero Ad Spend",
+      "description": "How I Built a Waitlist of 300+ for a DevOps SaaS With Zero Ad Spend I have 300+ people on the Step2Dev waitlist. I spent $0 on advertising. Here is th...",
+      "url": "https://dev.to/yash_step2dev/how-i-built-a-waitlist-of-300-for-a-devops-saas-with-zero-ad-spend-10i3",
+      "date": "2026-03-04T06:47:41.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "saas",
+        "buildinpublic",
+        "devops"
       ],
       "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Ch 3: Creating a Postgres Database with Aiven",
-      "description": "Just a recap of the previous post: Postgres - the DBMS we are using to create our database Create an Aiven account Aiven account. Create an Aiven serv...",
-      "url": "https://dev.to/essym_19/creating-a-postgres-database-with-aiven-4cpg",
-      "date": "2026-03-03T06:35:50.000Z",
+      "title": "Open Source Project of the Day (Part 5): SuperClaude Framework - A Framework for",
+      "description": "Introduction \"A good configuration framework can transform an AI assistant from a 'tool' into a 'partner' — from an 'executor' into a 'thinker'.\" This...",
+      "url": "https://dev.to/wonderlab/open-source-project-of-the-day-part-5-superclaude-framework-a-framework-for-enhancing-claude-1boa",
+      "date": "2026-03-04T06:46:20.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "beginners",
-        "database",
-        "postgres"
+        "opensource",
+        "ai",
+        "python"
       ],
-      "readTime": "1 min read",
+      "readTime": "12 min read",
       "priority": 2
     },
     {
-      "title": "Your AI Reads Your Docstrings. Are They Right?",
-      "description": "Copilot, Claude Code, Cursor — they all read your docstrings to understand your code. When those docstrings are wrong, your AI makes confident, wrong ...",
-      "url": "https://dev.to/albertocodes/your-ai-reads-your-docstrings-are-they-right-2g89",
-      "date": "2026-03-03T06:35:17.000Z",
+      "title": "Now Shipping: Accessible UX Research, A New Smashing Book By Michele Williams",
+      "description": "Our newest Smashing Book, “Accessible UX Research” by Michele Williams, is finally shipping worldwide — and we couldn’t be happier! This book is about...",
+      "url": "https://smashingmagazine.com/2026/03/accessible-ux-research-release/",
+      "date": "2026-03-03T15:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
-        "python",
-        "ai",
-        "opensource"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "2 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -234,21 +248,6 @@
         "articles",
         "news",
         "security"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "A Designer’s Guide To Eco-Friendly Interfaces",
-      "description": "Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pix...",
-      "url": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
-      "date": "2026-02-23T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
