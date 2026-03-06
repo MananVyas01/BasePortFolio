@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T06:54:16.792Z",
+  "lastUpdated": "2026-03-06T06:51:49.911Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,41 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "60 million Copilot code reviews and counting",
+      "description": "How Copilot code review helps teams keep up with AI-accelerated code changes. The post 60 million Copilot code reviews and counting appeared first on ...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/",
+      "date": "2026-03-05T20:10:43.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "githubcopilot"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Scaling AI opportunity across the globe: Learnings from GitHub and Andela",
+      "description": "Developers connected to Andela share how they’re learning AI tools inside real production workflows. The post Scaling AI opportunity across the globe:...",
+      "url": "https://github.blog/developer-skills/career-growth/scaling-ai-opportunity-across-the-globe-learnings-from-github-and-andela/",
+      "date": "2026-03-05T17:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "careergrowth",
+        "developerskills",
+        "ai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How we rebuilt the search architecture for high availability in GitHub Enterpris",
       "description": "Here's how we the search experience better, faster, and more resilient for GHES customers. The post How we rebuilt the search architecture for high av...",
@@ -43,93 +73,78 @@
       "priority": 1
     },
     {
-      "title": "GitHub for Beginners: Getting started with GitHub Issues and Projects",
-      "description": "Learn how to get organized and collaborate more efficiently with this step-by-step tutorial. The post GitHub for Beginners: Getting started with GitHu...",
-      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-issues-and-projects/",
-      "date": "2026-03-02T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "developerskills",
-        "github",
-        "developerskills"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "From idea to pull request: A practical guide to building with GitHub Copilot CLI",
-      "description": "A hands-on guide to using GitHub Copilot CLI to move from intent to reviewable changes, and how that work flows naturally into your IDE and GitHub. Th...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/",
-      "date": "2026-02-27T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "githubcopilotcli"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Cash vs Equity in 2026: The Negotiation Playbook",
-      "description": "Equity grants at startups are 26% below where they were in 2022. Meanwhile, base salaries have risen 5.8% over the same period. The cash vs equity com...",
-      "url": "https://dev.to/stewartblake/cash-vs-equity-in-2026-the-negotiation-playbook-383g",
-      "date": "2026-03-05T06:48:33.000Z",
+      "title": "Architecting IAM for Microservices",
+      "description": "*Architecting IAM for Microservices: Why Identity Should Be a Platform Layer Managing identity and access in modern applications is more than just aut...",
+      "url": "https://dev.to/mohammed_aminedridi_0a5b/architecting-iam-for-microservices-43ca",
+      "date": "2026-03-06T06:45:12.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "personalfinance",
-        "techcareers",
-        "money"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "Slopsquatting: AI Hallucinations as Supply Chain Attacks",
-      "description": "One in five AI-generated code samples recommends a package that does not exist. Attackers are registering those phantom names on npm and PyPI with mal...",
-      "url": "https://dev.to/bobbyblaine/slopsquatting-ai-hallucinations-as-supply-chain-attacks-1g31",
-      "date": "2026-03-05T06:48:24.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "programming",
-        "developertools"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "Context Engineering: CLAUDE.md and .cursorrules",
-      "description": "75% of engineers use AI tools daily. Most organizations see no measurable productivity gains from them. Faros AI sums it up: \"Clever prompts make for ...",
-      "url": "https://dev.to/bobbyblaine/context-engineering-claudemd-and-cursorrules-dc7",
-      "date": "2026-03-05T06:48:15.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
-        "developertools",
-        "programming"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "I Built a Social Media Downloader and Got 169 Keywords Indexed in 7 Days",
-      "description": "Last week I launched SaveKit — a free tool to download videos and images from Pinterest, Instagram, Facebook, and TikTok (first MVP). No login. No wat...",
-      "url": "https://dev.to/jamesdon68/i-built-a-social-media-downloader-and-got-169-keywords-indexed-in-7-days-4j7k",
-      "date": "2026-03-05T06:46:53.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "seo",
-        "svelte"
+        "architecture",
+        "microservices",
+        "security"
       ],
       "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "I Got Tired of Filling Out the Same Form 50 Times, So I Built an AI to Do It",
+      "description": "Every time I applied for a job, I faced the same ritual. Open the application form. Type my full name. Type my email. Paste my LinkedIn URL. Type my p...",
+      "url": "https://dev.to/rahul_talatala/i-got-tired-of-filling-out-the-same-form-50-times-so-i-built-an-ai-to-do-it-4jfj",
+      "date": "2026-03-06T06:44:27.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "automation",
+        "python"
+      ],
+      "readTime": "14 min read",
+      "priority": 2
+    },
+    {
+      "title": "How to Choose Between Serverless and Dedicated Compute in Databricks",
+      "description": "I recently benchmarked Serverless vs Dedicated compute in Databricks. I expected one of them to clearly win. It didn’t. Execution time was almost iden...",
+      "url": "https://dev.to/therectoverse/how-to-choose-between-serverless-and-dedicated-compute-in-databricks-j64",
+      "date": "2026-03-06T06:35:02.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "serverless",
+        "databricks",
+        "distributedsystems"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Topology-Aware AI Agents for Observability: Automating SLO Breach Root Cause Ana",
+      "description": "Modern cloud systems are complex distributed architectures where a single user journey may depend on dozens of services running across multiple infras...",
+      "url": "https://dev.to/roops/topology-aware-ai-agents-for-observability-automating-slo-breach-root-cause-analysis-60i",
+      "date": "2026-03-06T06:25:06.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "aws",
+        "ai",
+        "sre"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "The Different Ways to Select  in CSS",
+      "description": "Sure, we can select the element in CSS with, you know, a simple element selector, html. But what other (trivial and perhaps useless) ways can we do it...",
+      "url": "https://css-tricks.com/the-different-ways-to-select-html-in-css/",
+      "date": "2026-03-05T14:01:04.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "selectors",
+        "webdev"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -233,21 +248,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "An Exploit … in CSS?!",
-      "description": "Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a \"CSS exploit\" that \"allowed a remote attacker to execute arbitrary co...",
-      "url": "https://css-tricks.com/an-exploit-in-css/",
-      "date": "2026-02-25T21:31:39.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "news",
-        "security"
       ],
       "readTime": "1 min read",
       "priority": 2
