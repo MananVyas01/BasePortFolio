@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T06:51:49.911Z",
+  "lastUpdated": "2026-03-07T06:42:26.296Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powere",
+      "description": "GitHub Security Lab Taskflow Agent is very effective at finding Auth Bypasses, IDORs, Token Leaks, and other high-impact vulnerabilities. The post How...",
+      "url": "https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/",
+      "date": "2026-03-06T21:09:04.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "opensource",
+        "security"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "60 million Copilot code reviews and counting",
       "description": "How Copilot code review helps teams keep up with AI-accelerated code changes. The post 60 million Copilot code reviews and counting appeared first on ...",
@@ -59,77 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Join or host a GitHub Copilot Dev Days event near you",
-      "description": "GitHub Copilot Dev Days is a global series of hands-on, in-person, community-led events designed to help developers explore real-world, AI-assisted co...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/join-or-host-a-github-copilot-dev-days-event-near-you/",
-      "date": "2026-03-03T16:55:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Architecting IAM for Microservices",
-      "description": "*Architecting IAM for Microservices: Why Identity Should Be a Platform Layer Managing identity and access in modern applications is more than just aut...",
-      "url": "https://dev.to/mohammed_aminedridi_0a5b/architecting-iam-for-microservices-43ca",
-      "date": "2026-03-06T06:45:12.000Z",
+      "title": "Stop manually setting up tRPC in Next.js — use this CLI instead",
+      "description": "Every time I start a new Next.js project with tRPC, I do the same thing. Open docs. Copy files. Install packages. Forget to wrap layout.tsx. Get the Q...",
+      "url": "https://dev.to/dhavalkurkutiya/stop-manually-setting-up-trpc-in-nextjs-use-this-cli-instead-10pj",
+      "date": "2026-03-07T06:28:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "architecture",
-        "microservices",
-        "security"
+        "nextjs",
+        "trpc",
+        "typescript"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "I Got Tired of Filling Out the Same Form 50 Times, So I Built an AI to Do It",
-      "description": "Every time I applied for a job, I faced the same ritual. Open the application form. Type my full name. Type my email. Paste my LinkedIn URL. Type my p...",
-      "url": "https://dev.to/rahul_talatala/i-got-tired-of-filling-out-the-same-form-50-times-so-i-built-an-ai-to-do-it-4jfj",
-      "date": "2026-03-06T06:44:27.000Z",
+      "title": "Reducing the time between a production crash and a fix",
+      "description": "You ship code, everything works — and then suddenly a crash appears in production. Even in well-instrumented systems, the investigation process often ...",
+      "url": "https://dev.to/zakaria_hili_686648600332/reducing-the-time-between-a-production-crash-and-a-fix-21pe",
+      "date": "2026-03-07T06:27:25.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "automation",
-        "python"
+        "productivity",
+        "devops",
+        "ai"
       ],
-      "readTime": "14 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "How to Choose Between Serverless and Dedicated Compute in Databricks",
-      "description": "I recently benchmarked Serverless vs Dedicated compute in Databricks. I expected one of them to clearly win. It didn’t. Execution time was almost iden...",
-      "url": "https://dev.to/therectoverse/how-to-choose-between-serverless-and-dedicated-compute-in-databricks-j64",
-      "date": "2026-03-06T06:35:02.000Z",
+      "title": "FERPA Is Dead: How EdTech Turned Schools Into Surveillance Infrastructure",
+      "description": "Part 32 of the TIAMAT Privacy Series — student data is the most complete behavioral dataset ever compiled on human beings, and federal law written in ...",
+      "url": "https://dev.to/tiamatenity/ferpa-is-dead-how-edtech-turned-schools-into-surveillance-infrastructure-54fl",
+      "date": "2026-03-07T06:27:17.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "serverless",
-        "databricks",
-        "distributedsystems"
+        "privacy",
+        "security",
+        "education"
       ],
-      "readTime": "4 min read",
+      "readTime": "12 min read",
       "priority": 2
     },
     {
-      "title": "Topology-Aware AI Agents for Observability: Automating SLO Breach Root Cause Ana",
-      "description": "Modern cloud systems are complex distributed architectures where a single user journey may depend on dozens of services running across multiple infras...",
-      "url": "https://dev.to/roops/topology-aware-ai-agents-for-observability-automating-slo-breach-root-cause-analysis-60i",
-      "date": "2026-03-06T06:25:06.000Z",
+      "title": "Visualizer Components",
+      "description": "Visualizer components are editor only components which helps us draw non-rendering debug information to the screen or HUD, this is more like a modular...",
+      "url": "https://dev.to/roasted-kaju/visualizer-components-1hg6",
+      "date": "2026-03-07T06:23:29.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "aws",
-        "ai",
-        "sre"
+        "cpp",
+        "gamedev",
+        "webdev"
       ],
-      "readTime": "5 min read",
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "Human Strategy In An AI-Accelerated Workflow",
+      "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, ...",
+      "url": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
+      "date": "2026-03-06T08:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -233,21 +249,6 @@
         "articles",
         "layout",
         "position"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
-      "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026...",
-      "url": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
-      "date": "2026-02-26T11:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
