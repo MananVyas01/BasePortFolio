@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T06:42:26.296Z",
+  "lastUpdated": "2026-03-08T06:44:50.796Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Stop manually setting up tRPC in Next.js — use this CLI instead",
-      "description": "Every time I start a new Next.js project with tRPC, I do the same thing. Open docs. Copy files. Install packages. Forget to wrap layout.tsx. Get the Q...",
-      "url": "https://dev.to/dhavalkurkutiya/stop-manually-setting-up-trpc-in-nextjs-use-this-cli-instead-10pj",
-      "date": "2026-03-07T06:28:23.000Z",
+      "title": "New Angular Dashboard Template: Overview",
+      "description": "Hi there, I’m excited to announce a new template in Angular Material Blocks 🎉 Overview is a modern dashboard template designed for building data-driv...",
+      "url": "https://dev.to/ngmaterialdev/new-angular-dashboard-template-overview-4e60",
+      "date": "2026-03-08T06:36:19.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "nextjs",
-        "trpc",
-        "typescript"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Reducing the time between a production crash and a fix",
-      "description": "You ship code, everything works — and then suddenly a crash appears in production. Even in well-instrumented systems, the investigation process often ...",
-      "url": "https://dev.to/zakaria_hili_686648600332/reducing-the-time-between-a-production-crash-and-a-fix-21pe",
-      "date": "2026-03-07T06:27:25.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "productivity",
-        "devops",
-        "ai"
+        "angular",
+        "angularmaterial",
+        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "FERPA Is Dead: How EdTech Turned Schools Into Surveillance Infrastructure",
-      "description": "Part 32 of the TIAMAT Privacy Series — student data is the most complete behavioral dataset ever compiled on human beings, and federal law written in ...",
-      "url": "https://dev.to/tiamatenity/ferpa-is-dead-how-edtech-turned-schools-into-surveillance-infrastructure-54fl",
-      "date": "2026-03-07T06:27:17.000Z",
+      "title": "I Built a Telegram Bot That Writes Cover Letters for $0.14",
+      "description": "Job applications are tedious. You find a great role, then spend 30 minutes writing a cover letter that probably won't get read. I built a Telegram bot...",
+      "url": "https://dev.to/alex_avatrixstudio/i-built-a-telegram-bot-that-writes-cover-letters-for-014-24mg",
+      "date": "2026-03-08T06:35:20.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "privacy",
-        "security",
-        "education"
+        "telegram",
+        "ai",
+        "bot"
       ],
-      "readTime": "12 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Visualizer Components",
-      "description": "Visualizer components are editor only components which helps us draw non-rendering debug information to the screen or HUD, this is more like a modular...",
-      "url": "https://dev.to/roasted-kaju/visualizer-components-1hg6",
-      "date": "2026-03-07T06:23:29.000Z",
+      "title": "brtc (Brute-force Cost): A CLI Tool to Convert Password Strength into \"Time to C",
+      "description": "Introduction If you're an engineer, you've likely debated \"Is this password strong enough?\" when designing a password policy. The metric most commonly...",
+      "url": "https://dev.to/kanywst/brtc-a-cli-tool-to-convert-password-strength-into-time-to-crack-and-a-real-usd-invoice-24k9",
+      "date": "2026-03-08T06:20:50.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "cpp",
-        "gamedev",
-        "webdev"
+        "security",
+        "go",
+        "cli"
       ],
-      "readTime": "6 min read",
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "Building Reelcraft: AI-Powered Blog-to-Video Storyboards with Gemini Interleaved",
+      "description": "TL;DR: I built Reelcraft, a tool that transforms any blog post into a cinematic video storyboard with AI-generated scene illustrations — all in a sing...",
+      "url": "https://dev.to/diven_rastdus_c5af27d68f3/building-reelcraft-ai-powered-blog-to-video-storyboards-with-gemini-interleaved-output-19lf",
+      "date": "2026-03-08T06:19:27.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "gemini",
+        "googlecloud",
+        "ai"
+      ],
+      "readTime": "5 min read",
       "priority": 2
     },
     {
