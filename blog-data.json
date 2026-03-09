@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T06:44:50.796Z",
+  "lastUpdated": "2026-03-09T07:03:49.226Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,61 +74,61 @@
       "priority": 1
     },
     {
-      "title": "New Angular Dashboard Template: Overview",
-      "description": "Hi there, I’m excited to announce a new template in Angular Material Blocks 🎉 Overview is a modern dashboard template designed for building data-driv...",
-      "url": "https://dev.to/ngmaterialdev/new-angular-dashboard-template-overview-4e60",
-      "date": "2026-03-08T06:36:19.000Z",
+      "title": "GCP Defaults Every VM to Premium Network and You're Paying 40% More for Egress Y",
+      "description": "GCP has two network tiers: Premium ($0.12/GB) and Standard ($0.085/GB). Premium routes traffic over Google's private backbone. Standard uses the publi...",
+      "url": "https://dev.to/suhas_mallesh/gcp-defaults-every-vm-to-premium-network-and-youre-paying-40-more-for-egress-you-dont-need-5bhm",
+      "date": "2026-03-09T07:00:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "angular",
-        "angularmaterial",
-        "webdev"
+        "terraform",
+        "devops",
+        "cloud"
       ],
-      "readTime": "1 min read",
+      "readTime": "9 min read",
       "priority": 2
     },
     {
-      "title": "I Built a Telegram Bot That Writes Cover Letters for $0.14",
-      "description": "Job applications are tedious. You find a great role, then spend 30 minutes writing a cover letter that probably won't get read. I built a Telegram bot...",
-      "url": "https://dev.to/alex_avatrixstudio/i-built-a-telegram-bot-that-writes-cover-letters-for-014-24mg",
-      "date": "2026-03-08T06:35:20.000Z",
+      "title": "Expense Tracker: Learning CI/CD",
+      "description": "(Originally published on Medium) At some point, I had no idea what CI and CD were about, so I decided to learn about them. I got to learn enough to be...",
+      "url": "https://dev.to/davidgrath/expense-tracker-learning-cicd-2ah1",
+      "date": "2026-03-09T07:00:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "telegram",
+        "cicd",
+        "jenkins",
+        "springboot"
+      ],
+      "readTime": "13 min read",
+      "priority": 2
+    },
+    {
+      "title": "GPT 5.4 Thinks Like a Person Under Pressure: What Autonomous Agent Logs Reveal A",
+      "description": "I run autonomous AI agents that do real engineering work. The way GPT 5.4 thinks is very strange. These agents run on OpenSeed, a platform I'm buildin...",
+      "url": "https://dev.to/rsdouglas/gpt-54-thinks-like-a-person-under-pressure-what-autonomous-agent-logs-reveal-about-model-cognition-1dm6",
+      "date": "2026-03-09T06:59:08.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
         "ai",
-        "bot"
+        "openai",
+        "agents"
       ],
-      "readTime": "5 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "brtc (Brute-force Cost): A CLI Tool to Convert Password Strength into \"Time to C",
-      "description": "Introduction If you're an engineer, you've likely debated \"Is this password strong enough?\" when designing a password policy. The metric most commonly...",
-      "url": "https://dev.to/kanywst/brtc-a-cli-tool-to-convert-password-strength-into-time-to-crack-and-a-real-usd-invoice-24k9",
-      "date": "2026-03-08T06:20:50.000Z",
+      "title": "HTMX for building a SQLite query dashboard",
+      "description": "I recently built Sqlite Opus, a small web-based SQLite browser that plugs into Flask. The UI is a single-page dashboard where you can click around to ...",
+      "url": "https://dev.to/hungle00/htmx-for-building-a-sqlite-query-dashboard-32ck",
+      "date": "2026-03-09T06:57:41.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "security",
-        "go",
-        "cli"
-      ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "Building Reelcraft: AI-Powered Blog-to-Video Storyboards with Gemini Interleaved",
-      "description": "TL;DR: I built Reelcraft, a tool that transforms any blog post into a cinematic video storyboard with AI-generated scene illustrations — all in a sing...",
-      "url": "https://dev.to/diven_rastdus_c5af27d68f3/building-reelcraft-ai-powered-blog-to-video-storyboards-with-gemini-interleaved-output-19lf",
-      "date": "2026-03-08T06:19:27.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "gemini",
-        "googlecloud",
-        "ai"
+        "htmx",
+        "flask",
+        "python"
       ],
       "readTime": "5 min read",
       "priority": 2
