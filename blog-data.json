@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T07:03:49.226Z",
+  "lastUpdated": "2026-03-10T06:52:58.526Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Under the hood: Security architecture of GitHub Agentic Workflows",
+      "description": "GitHub Agentic Workflows are built with isolation, constrained outputs, and comprehensive logging. Learn how our threat model and security architectur...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/",
+      "date": "2026-03-09T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "llms"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powere",
       "description": "GitHub Security Lab Taskflow Agent is very effective at finding Auth Bypasses, IDORs, Token Leaks, and other high-impact vulnerabilities. The post How...",
@@ -59,78 +74,93 @@
       "priority": 1
     },
     {
-      "title": "How we rebuilt the search architecture for high availability in GitHub Enterpris",
-      "description": "Here's how we the search experience better, faster, and more resilient for GHES customers. The post How we rebuilt the search architecture for high av...",
-      "url": "https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/",
-      "date": "2026-03-03T18:45:09.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "architectureoptimization",
-        "engineering",
-        "githubenterpriseserver"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "GCP Defaults Every VM to Premium Network and You're Paying 40% More for Egress Y",
-      "description": "GCP has two network tiers: Premium ($0.12/GB) and Standard ($0.085/GB). Premium routes traffic over Google's private backbone. Standard uses the publi...",
-      "url": "https://dev.to/suhas_mallesh/gcp-defaults-every-vm-to-premium-network-and-youre-paying-40-more-for-egress-you-dont-need-5bhm",
-      "date": "2026-03-09T07:00:00.000Z",
+      "title": "Broken Authentication in Fintech Systems",
+      "description": "Most fintech breaches don't start with sophisticated exploits. They start with a login that should have failed, but didn't. Authentication sounds simp...",
+      "url": "https://dev.to/tech_wizard/broken-authentication-in-fintech-systems-5592",
+      "date": "2026-03-10T06:35:32.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "terraform",
-        "devops",
-        "cloud"
+        "cybersecurity",
+        "webdev",
+        "programming"
       ],
-      "readTime": "9 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Expense Tracker: Learning CI/CD",
-      "description": "(Originally published on Medium) At some point, I had no idea what CI and CD were about, so I decided to learn about them. I got to learn enough to be...",
-      "url": "https://dev.to/davidgrath/expense-tracker-learning-cicd-2ah1",
-      "date": "2026-03-09T07:00:00.000Z",
+      "title": "Why Hospitals Are Switching to Cloud-Based HMIS in 2026",
+      "description": "The Digital Transformation of Modern Hospitals Healthcare is undergoing one of the biggest digital transformations in history. Hospitals today are und...",
+      "url": "https://dev.to/sisgaintech/why-hospitals-are-switching-to-cloud-based-hmis-in-2026-ibj",
+      "date": "2026-03-10T06:33:23.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "cicd",
-        "jenkins",
-        "springboot"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "13 min read",
+      "readTime": "11 min read",
       "priority": 2
     },
     {
-      "title": "GPT 5.4 Thinks Like a Person Under Pressure: What Autonomous Agent Logs Reveal A",
-      "description": "I run autonomous AI agents that do real engineering work. The way GPT 5.4 thinks is very strange. These agents run on OpenSeed, a platform I'm buildin...",
-      "url": "https://dev.to/rsdouglas/gpt-54-thinks-like-a-person-under-pressure-what-autonomous-agent-logs-reveal-about-model-cognition-1dm6",
-      "date": "2026-03-09T06:59:08.000Z",
+      "title": "Debugging Invisible Elements: transform-origin + scaleX(-1)",
+      "description": "TL;DR Events firing correctly, element exists in the DOM, DevTools force-visible works — but nothing shows up on screen. Before diving into rendering ...",
+      "url": "https://dev.to/beep_beep_cat/debugging-invisible-elements-transform-origin-scalex-1-4f1f",
+      "date": "2026-03-10T06:32:11.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "openai",
-        "agents"
+        "css",
+        "webdev",
+        "ai"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Comparing Wallet Top-Up Fees Across Global Fintech Platforms",
+      "description": "Comparing Wallet Top-Up Fees Across Global Fintech Platforms Digital wallets have made sending and receiving money incredibly simple. But one area whe...",
+      "url": "https://dev.to/vzr0/comparing-wallet-top-up-fees-across-global-fintech-platforms-2gh4",
+      "date": "2026-03-10T06:20:45.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "fintech",
+        "stripe",
+        "api"
       ],
       "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "HTMX for building a SQLite query dashboard",
-      "description": "I recently built Sqlite Opus, a small web-based SQLite browser that plugs into Flask. The UI is a single-page dashboard where you can click around to ...",
-      "url": "https://dev.to/hungle00/htmx-for-building-a-sqlite-query-dashboard-32ck",
-      "date": "2026-03-09T06:57:41.000Z",
+      "title": "The Value of z-index",
+      "description": "How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices. The Value of...",
+      "url": "https://css-tricks.com/the-value-of-z-index/",
+      "date": "2026-03-09T14:20:01.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "htmx",
-        "flask",
-        "python"
+        "articles",
+        "cssproperties",
+        "stackingcontexts"
       ],
-      "readTime": "5 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Persuasive Design: Ten Years Later",
+      "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only...",
+      "url": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
+      "date": "2026-03-09T11:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -209,21 +239,6 @@
       "priority": 2
     },
     {
-      "title": "Fresh Energy In March (2026 Wallpapers Edition)",
-      "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wa...",
-      "url": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
-      "date": "2026-02-28T09:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "What’s !important #6: :heading, border-shape, Truncating Text From the Middle, a",
       "description": "Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web...",
       "url": "https://css-tricks.com/whats-important-6/",
@@ -234,21 +249,6 @@
         "articles",
         "news",
         "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Yet Another Way to Center an (Absolute) Element",
-      "description": "TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers! Yet Another Way to Center an (Absolute) Element...",
-      "url": "https://css-tricks.com/yet-another-way-to-center-an-absolute-element/",
-      "date": "2026-02-27T14:40:42.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "layout",
-        "position"
       ],
       "readTime": "1 min read",
       "priority": 2
