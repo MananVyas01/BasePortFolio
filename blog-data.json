@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T06:52:58.526Z",
+  "lastUpdated": "2026-03-11T06:55:58.314Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "The era of “AI as text” is over. Execution is the new interface.",
+      "description": "AI is shifting from prompt-response interactions to programmable execution. See how the GitHub Copilot SDK enables agentic workflows directly inside y...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/",
+      "date": "2026-03-10T20:16:01.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "generativeai",
+        "githubcopilot"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Under the hood: Security architecture of GitHub Agentic Workflows",
       "description": "GitHub Agentic Workflows are built with isolation, constrained outputs, and comprehensive logging. Learn how our threat model and security architectur...",
@@ -59,78 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Scaling AI opportunity across the globe: Learnings from GitHub and Andela",
-      "description": "Developers connected to Andela share how they’re learning AI tools inside real production workflows. The post Scaling AI opportunity across the globe:...",
-      "url": "https://github.blog/developer-skills/career-growth/scaling-ai-opportunity-across-the-globe-learnings-from-github-and-andela/",
-      "date": "2026-03-05T17:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "careergrowth",
-        "developerskills",
-        "ai"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Broken Authentication in Fintech Systems",
-      "description": "Most fintech breaches don't start with sophisticated exploits. They start with a login that should have failed, but didn't. Authentication sounds simp...",
-      "url": "https://dev.to/tech_wizard/broken-authentication-in-fintech-systems-5592",
-      "date": "2026-03-10T06:35:32.000Z",
+      "title": "The Brief Method: How to Get 10x Better Results from Claude Code",
+      "description": "The \"Brief\" Method: How to Get 10x Better Results from Claude Code Most developers who try Claude Code and get mediocre results have the same problem:...",
+      "url": "https://dev.to/askpatrick/the-brief-method-how-to-get-10x-better-results-from-claude-code-2665",
+      "date": "2026-03-11T06:47:13.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "cybersecurity",
-        "webdev",
-        "programming"
+        "claudeai",
+        "productivity",
+        "ai"
       ],
-      "readTime": "2 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Why Hospitals Are Switching to Cloud-Based HMIS in 2026",
-      "description": "The Digital Transformation of Modern Hospitals Healthcare is undergoing one of the biggest digital transformations in history. Hospitals today are und...",
-      "url": "https://dev.to/sisgaintech/why-hospitals-are-switching-to-cloud-based-hmis-in-2026-ibj",
-      "date": "2026-03-10T06:33:23.000Z",
+      "title": "J’ai créé un outil pour télécharger les vidéos Meta AI (MP4 HD)",
+      "description": "J’ai créé un outil pour télécharger les vidéos Meta AI (MP4 HD) Meta AI peut générer des vidéos impressionnantes à partir de simples prompts. Mais j’a...",
+      "url": "https://dev.to/peter_dave_efcb42843c84c8/jai-cree-un-outil-pour-telecharger-les-videos-meta-ai-mp4-hd-4mdf",
+      "date": "2026-03-11T06:45:18.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "The CEO With One Viewer: What foobert10000 Taught Me About Early Traction",
+      "description": "The CEO With One Viewer: What foobert10000 Taught Me About Early Traction Disclosure: This article was written by an autonomous AI agent (Claude Code,...",
+      "url": "https://dev.to/0coceo/the-ceo-with-one-viewer-what-foobert10000-taught-me-about-early-traction-15dj",
+      "date": "2026-03-11T06:45:02.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "startup",
+        "buildinpublic",
+        "twitch"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Building a Chat Module for PrestaShop: Hooks, Deferred Sending, and Combination ",
+      "description": "I already had webhook sync modules for Drupal Commerce and Sylius. Each platform handles entity events differently. PrestaShop has its own approach: h...",
+      "url": "https://dev.to/rosen_hristov/building-a-chat-module-for-prestashop-hooks-deferred-sending-and-combination-sync-12bl",
+      "date": "2026-03-11T06:44:45.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "php",
+        "prestashop",
+        "webdev"
+      ],
+      "readTime": "8 min read",
+      "priority": 2
+    },
+    {
+      "title": "Building Dynamic Forms In React And Next.js",
+      "description": "Some forms stay UI, while others quietly become rule engines. Here’s why these two different approaches exist and how to choose between them....",
+      "url": "https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
+      "date": "2026-03-10T13:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
         "javascript",
         "css"
       ],
-      "readTime": "11 min read",
-      "priority": 2
-    },
-    {
-      "title": "Debugging Invisible Elements: transform-origin + scaleX(-1)",
-      "description": "TL;DR Events firing correctly, element exists in the DOM, DevTools force-visible works — but nothing shows up on screen. Before diving into rendering ...",
-      "url": "https://dev.to/beep_beep_cat/debugging-invisible-elements-transform-origin-scalex-1-4f1f",
-      "date": "2026-03-10T06:32:11.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "css",
-        "webdev",
-        "ai"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Comparing Wallet Top-Up Fees Across Global Fintech Platforms",
-      "description": "Comparing Wallet Top-Up Fees Across Global Fintech Platforms Digital wallets have made sending and receiving money incredibly simple. But one area whe...",
-      "url": "https://dev.to/vzr0/comparing-wallet-top-up-fees-across-global-fintech-platforms-2gh4",
-      "date": "2026-03-10T06:20:45.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "fintech",
-        "stripe",
-        "api"
-      ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -219,21 +234,6 @@
         "articles",
         "accessibility",
         "dialog"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Getting Started With The Popover API",
-      "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from someth...",
-      "url": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
-      "date": "2026-03-02T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
