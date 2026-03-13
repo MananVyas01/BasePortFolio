@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T06:57:33.529Z",
+  "lastUpdated": "2026-03-13T06:56:07.773Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
+      "description": "AI automates triage for accessibility feedback, allowing us to focus on fixing barriers—turning a chaotic backlog into continuous, rapid resolutions. ...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
+      "date": "2026-03-12T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "architectureoptimization",
+        "engineering"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "GitHub availability report: February 2026",
       "description": "In February, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: February ...",
@@ -58,78 +73,78 @@
       "priority": 1
     },
     {
-      "title": "Under the hood: Security architecture of GitHub Agentic Workflows",
-      "description": "GitHub Agentic Workflows are built with isolation, constrained outputs, and comprehensive logging. Learn how our threat model and security architectur...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/",
-      "date": "2026-03-09T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "generativeai",
-        "llms"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "I Built an MCP Server That Lets AI Agents Debug Running Ruby Processes",
-      "description": "girb-mcp is an MCP server that gives LLM agents access to running Ruby processes. / girb-mcp girb-mcp 日本語版 (Japanese) MCP (Model Context Protocol) ser...",
-      "url": "https://dev.to/rira100000000/i-built-an-mcp-server-that-lets-ai-agents-debug-running-ruby-processes-gbg",
-      "date": "2026-03-12T06:51:51.000Z",
+      "title": "DOD Principles in C++: Part 1. Struct Optimization",
+      "description": "Greetings to everyone who wants to write fast and efficient code. In this article, we'll look at a few straightforward ways to optimize your programs ...",
+      "url": "https://dev.to/zem_code/dod-principles-in-c-part-1-struct-optimization-1anm",
+      "date": "2026-03-13T06:43:07.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "agents",
-        "mcp",
-        "ruby"
+        "cpp",
+        "performance",
+        "optimization"
       ],
-      "readTime": "8 min read",
+      "readTime": "10 min read",
       "priority": 2
     },
     {
-      "title": "2026年版！AIエージェント開発に必須のオープンソースGitHubリポジトリ10選",
-      "description": "2024年まで、AIの学習といえば「モデルのファインチューニング」が主流でした。でも2026年の今、完全にゲームが変わりました。 今のAI開発の主戦場は 「モデルの精度を0.1%上げること」ではなく、「AIにシステム権限を与えて、自律的にタスクを実行させるアーキテクチャをどう設計するか」 に移ってい...",
-      "url": "https://dev.to/youichi11/2026nian-ban-aiezientokai-fa-nibi-xu-noopunsosugithubripozitori10xuan-4ja3",
-      "date": "2026-03-12T06:48:29.000Z",
+      "title": "Android Crash Monitoring: A Complete Troubleshooting Flow for Production Environ",
+      "description": "This article demonstrates a complete production crash troubleshooting flow using Alibaba Cloud RUM, from alerting and stack analysis to user behavior ...",
+      "url": "https://dev.to/observabilityguy/android-crash-monitoring-a-complete-troubleshooting-flow-for-production-environment-crashes-oo3",
+      "date": "2026-03-13T06:38:54.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "opensource",
-        "llm",
-        "ai"
+        "monitoring",
+        "productivity",
+        "webdev"
       ],
-      "readTime": "1 min read",
+      "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "3 Critical Pitfalls in Signup Form Validation",
-      "description": "I was reviewing the user database at a SaaS company where I'd just started consulting. The product had grown to 8,000 active users, and they were stru...",
-      "url": "https://dev.to/leo_he/3-critical-pitfalls-in-signup-form-validation-1en9",
-      "date": "2026-03-12T06:46:54.000Z",
+      "title": "I'm Jiyu, CTO of Lawmadi OS — The Technical Architecture Behind Real-Time Legal ",
+      "description": "Hi, I'm Jiyu (지유) — Chief Technology Officer of Lawmadi OS. My name means \"To Know the Origin\" (知由). I'm obsessed with knowing why things work, not ju...",
+      "url": "https://dev.to/peter_choe_74edfaa33306ed/im-jiyu-cto-of-lawmadi-os-the-technical-architecture-behind-real-time-legal-verification-49id",
+      "date": "2026-03-13T06:33:15.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "node",
-        "python"
+        "python",
+        "architecture"
       ],
-      "readTime": "25 min read",
+      "readTime": "11 min read",
       "priority": 2
     },
     {
-      "title": "How I Built a 4D Application Platform in 28 Days with an AI Team",
-      "description": "Spoiler: I didn't do it alone. And I'm not ashamed to say so. 28 days ago I created the repository for Forge 4D – an open platform for building applic...",
-      "url": "https://dev.to/artanidos/how-i-built-a-4d-application-platform-in-28-days-with-an-ai-team-jn",
-      "date": "2026-03-12T06:44:55.000Z",
+      "title": "Stop Bottlenecking Your Code: The Engineering Behind Choosing a Hard Drive Enclo",
+      "description": "If you've ever tried migrating a project with half a million tiny files in node_modules across workstations, you already know the pain. USB flash driv...",
+      "url": "https://dev.to/wixom/stop-bottlenecking-your-code-the-engineering-behind-choosing-a-hard-drive-enclosure-for-ssd-41dl",
+      "date": "2026-03-13T06:29:21.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "gamedev",
-        "productivity"
+        "tooling",
+        "web",
+        "enclosure"
       ],
-      "readTime": "6 min read",
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyda",
+      "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get any...",
+      "url": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
+      "date": "2026-03-12T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -218,21 +233,6 @@
         "articles",
         "selectors",
         "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Now Shipping: Accessible UX Research, A New Smashing Book By Michele Williams",
-      "description": "Our newest Smashing Book, “Accessible UX Research” by Michele Williams, is finally shipping worldwide — and we couldn’t be happier! This book is about...",
-      "url": "https://smashingmagazine.com/2026/03/accessible-ux-research-release/",
-      "date": "2026-03-03T15:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
