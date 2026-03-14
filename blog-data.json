@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T06:56:07.773Z",
+  "lastUpdated": "2026-03-14T06:49:47.140Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,78 @@
       "priority": 1
     },
     {
-      "title": "DOD Principles in C++: Part 1. Struct Optimization",
-      "description": "Greetings to everyone who wants to write fast and efficient code. In this article, we'll look at a few straightforward ways to optimize your programs ...",
-      "url": "https://dev.to/zem_code/dod-principles-in-c-part-1-struct-optimization-1anm",
-      "date": "2026-03-13T06:43:07.000Z",
+      "title": "Echoes of Experience",
+      "description": "🌱 Echoes of Experience: Finding My Voice in Tech 🚧 The Early Barriers No One Warned Me About But the truth is: tech is full of people who feel like ...",
+      "url": "https://dev.to/dan52242644dan/echoes-of-experience-2pi9",
+      "date": "2026-03-14T06:34:29.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "cpp",
-        "performance",
-        "optimization"
+        "devchallenge",
+        "wecoded",
+        "dei"
       ],
-      "readTime": "10 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Android Crash Monitoring: A Complete Troubleshooting Flow for Production Environ",
-      "description": "This article demonstrates a complete production crash troubleshooting flow using Alibaba Cloud RUM, from alerting and stack analysis to user behavior ...",
-      "url": "https://dev.to/observabilityguy/android-crash-monitoring-a-complete-troubleshooting-flow-for-production-environment-crashes-oo3",
-      "date": "2026-03-13T06:38:54.000Z",
+      "title": "Making an App out of Spite | GeoImg | React Native Expo",
+      "description": "or the past few days I have been unemployed. During this time I generally don’t say no to things that seem interesting to me. I treat these things as ...",
+      "url": "https://dev.to/chatt_kush_4103d4b5b31191/making-an-app-out-of-spite-geoimg-react-native-expo-1b4i",
+      "date": "2026-03-14T06:33:57.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "monitoring",
-        "productivity",
-        "webdev"
+        "reactnative",
+        "webdev",
+        "mobile"
       ],
-      "readTime": "7 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "I'm Jiyu, CTO of Lawmadi OS — The Technical Architecture Behind Real-Time Legal ",
-      "description": "Hi, I'm Jiyu (지유) — Chief Technology Officer of Lawmadi OS. My name means \"To Know the Origin\" (知由). I'm obsessed with knowing why things work, not ju...",
-      "url": "https://dev.to/peter_choe_74edfaa33306ed/im-jiyu-cto-of-lawmadi-os-the-technical-architecture-behind-real-time-legal-verification-49id",
-      "date": "2026-03-13T06:33:15.000Z",
+      "title": "How a Bug Report Led Me to Give Flutter Developers Full Control of Crisp Chat Mo",
+      "description": "One of the things I enjoy most about maintaining open-source software is that sometimes the best improvements start with something very small. A simpl...",
+      "url": "https://dev.to/alamin_karno_b096f2ace0bb/how-a-bug-report-led-me-to-give-flutter-developers-full-control-of-crisp-chat-modals-on-ios-3c8j",
+      "date": "2026-03-14T06:31:38.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "flutter",
+        "dart",
+        "ios"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "From Screen Recording to AI Skill: Automating SKILL.md Creation with SkillForge",
+      "description": "A complete guide to converting browser workflows into reusable AI agent skills — no coding required. SKILL.md is emerging as the standard format for d...",
+      "url": "https://dev.to/syncchain2026helix/from-screen-recording-to-ai-skill-automating-skillmd-creation-with-skillforge-4dh7",
+      "date": "2026-03-14T06:30:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "python",
-        "architecture"
+        "automation",
+        "webdev"
       ],
-      "readTime": "11 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Stop Bottlenecking Your Code: The Engineering Behind Choosing a Hard Drive Enclo",
-      "description": "If you've ever tried migrating a project with half a million tiny files in node_modules across workstations, you already know the pain. USB flash driv...",
-      "url": "https://dev.to/wixom/stop-bottlenecking-your-code-the-engineering-behind-choosing-a-hard-drive-enclosure-for-ssd-41dl",
-      "date": "2026-03-13T06:29:21.000Z",
+      "title": "Moving From Moment.js To The JS Temporal API",
+      "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in ...",
+      "url": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
+      "date": "2026-03-13T13:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
-        "tooling",
-        "web",
-        "enclosure"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -197,21 +212,6 @@
       "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only...",
       "url": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
       "date": "2026-03-09T11:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Human Strategy In An AI-Accelerated Workflow",
-      "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, ...",
-      "url": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
-      "date": "2026-03-06T08:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
