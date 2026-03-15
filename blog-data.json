@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T06:49:47.140Z",
+  "lastUpdated": "2026-03-15T06:58:51.466Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,63 @@
       "priority": 1
     },
     {
-      "title": "Echoes of Experience",
-      "description": "🌱 Echoes of Experience: Finding My Voice in Tech 🚧 The Early Barriers No One Warned Me About But the truth is: tech is full of people who feel like ...",
-      "url": "https://dev.to/dan52242644dan/echoes-of-experience-2pi9",
-      "date": "2026-03-14T06:34:29.000Z",
+      "title": "The Bugs Nobody Fixed (Until Now)",
+      "description": "Engineers don't fail because they're careless. They fail because the tooling gaps are real, quiet, and nobody writes them up until something breaks in...",
+      "url": "https://dev.to/vasughanta09/the-bugs-nobody-fixed-until-now-1il3",
+      "date": "2026-03-15T06:52:43.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "devchallenge",
-        "wecoded",
-        "dei"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Making an App out of Spite | GeoImg | React Native Expo",
-      "description": "or the past few days I have been unemployed. During this time I generally don’t say no to things that seem interesting to me. I treat these things as ...",
-      "url": "https://dev.to/chatt_kush_4103d4b5b31191/making-an-app-out-of-spite-geoimg-react-native-expo-1b4i",
-      "date": "2026-03-14T06:33:57.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "reactnative",
         "webdev",
-        "mobile"
+        "ai",
+        "programming"
       ],
-      "readTime": "2 min read",
+      "readTime": "10 min read",
       "priority": 2
     },
     {
-      "title": "How a Bug Report Led Me to Give Flutter Developers Full Control of Crisp Chat Mo",
-      "description": "One of the things I enjoy most about maintaining open-source software is that sometimes the best improvements start with something very small. A simpl...",
-      "url": "https://dev.to/alamin_karno_b096f2ace0bb/how-a-bug-report-led-me-to-give-flutter-developers-full-control-of-crisp-chat-modals-on-ios-3c8j",
-      "date": "2026-03-14T06:31:38.000Z",
+      "title": "[Python/Fin]打造股票質押計算器(3)：歷史數據滾動回測模擬",
+      "description": "引言 前一篇Dev.to連結用數學公式驗證了「槓桿質押借新還舊」策略的計算邏輯，但數學公式假設固定的市場報酬率。這篇改用 0050 的真實歷史數據來跑回測，看看遇到極端市場時，不同維持率設定的實際生存狀況。 條件說明 項目 設定 實驗組 A 維持率 500%，借款利率 3% 實驗組 B 維持率 30...",
+      "url": "https://dev.to/arne_li_369/pythonfinda-zao-gu-piao-zhi-ya-ji-suan-qi-3li-shi-shu-ju-gun-dong-hui-ce-mo-ni-1iaf",
+      "date": "2026-03-15T06:50:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "flutter",
-        "dart",
-        "ios"
+        "python",
+        "investment",
+        "ai"
       ],
-      "readTime": "5 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "From Screen Recording to AI Skill: Automating SKILL.md Creation with SkillForge",
-      "description": "A complete guide to converting browser workflows into reusable AI agent skills — no coding required. SKILL.md is emerging as the standard format for d...",
-      "url": "https://dev.to/syncchain2026helix/from-screen-recording-to-ai-skill-automating-skillmd-creation-with-skillforge-4dh7",
-      "date": "2026-03-14T06:30:31.000Z",
+      "title": "I Let AI Agents Build My Entire Side Project — Here's What Happened",
+      "description": "I had a simple problem: every \"free\" resume formatter online requires an account, upsells you to a paid plan, or rewrites your content with AI. I just...",
+      "url": "https://dev.to/chillkimtestoss/i-let-ai-agents-build-my-entire-side-project-heres-what-happened-2bbg",
+      "date": "2026-03-15T06:45:01.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "automation",
-        "webdev"
+        "webdev",
+        "opensource"
       ],
-      "readTime": "4 min read",
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "What Are We Actually Measuring?",
+      "description": "Sometimes I scroll through the business internet and all I see is numbers. Revenue. Valuation. Headcount. ARR. GMV. Series B. Series C. Unicorn status...",
+      "url": "https://dev.to/zentoshi/what-are-we-actually-measuring-31ml",
+      "date": "2026-03-15T06:35:45.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "discuss",
+        "leadership",
+        "management"
+      ],
+      "readTime": "10 min read",
       "priority": 2
     },
     {
