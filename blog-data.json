@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T06:58:51.466Z",
+  "lastUpdated": "2026-03-16T07:19:45.511Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,63 @@
       "priority": 1
     },
     {
-      "title": "The Bugs Nobody Fixed (Until Now)",
-      "description": "Engineers don't fail because they're careless. They fail because the tooling gaps are real, quiet, and nobody writes them up until something breaks in...",
-      "url": "https://dev.to/vasughanta09/the-bugs-nobody-fixed-until-now-1il3",
-      "date": "2026-03-15T06:52:43.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "ai",
-        "programming"
-      ],
-      "readTime": "10 min read",
-      "priority": 2
-    },
-    {
-      "title": "[Python/Fin]打造股票質押計算器(3)：歷史數據滾動回測模擬",
-      "description": "引言 前一篇Dev.to連結用數學公式驗證了「槓桿質押借新還舊」策略的計算邏輯，但數學公式假設固定的市場報酬率。這篇改用 0050 的真實歷史數據來跑回測，看看遇到極端市場時，不同維持率設定的實際生存狀況。 條件說明 項目 設定 實驗組 A 維持率 500%，借款利率 3% 實驗組 B 維持率 30...",
-      "url": "https://dev.to/arne_li_369/pythonfinda-zao-gu-piao-zhi-ya-ji-suan-qi-3li-shi-shu-ju-gun-dong-hui-ce-mo-ni-1iaf",
-      "date": "2026-03-15T06:50:31.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "python",
-        "investment",
-        "ai"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "I Let AI Agents Build My Entire Side Project — Here's What Happened",
-      "description": "I had a simple problem: every \"free\" resume formatter online requires an account, upsells you to a paid plan, or rewrites your content with AI. I just...",
-      "url": "https://dev.to/chillkimtestoss/i-let-ai-agents-build-my-entire-side-project-heres-what-happened-2bbg",
-      "date": "2026-03-15T06:45:01.000Z",
+      "title": "How I Validate Quality When AI Agents Write My Code",
+      "description": "Someone asked me the best question after I posted about managing AI agents like a dev team: And how do you validate quality? Fair point. If AI is writ...",
+      "url": "https://dev.to/teppana88/how-i-validate-quality-when-ai-agents-write-my-code-481c",
+      "date": "2026-03-16T07:04:39.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "webdev",
-        "opensource"
+        "testing",
+        "agents"
+      ],
+      "readTime": "15 min read",
+      "priority": 2
+    },
+    {
+      "title": "Git Mirroring During Migrations: `--all` vs `--mirror`",
+      "description": "During a Git migration, the new platform is rarely switched on overnight. In many real scenarios, two systems must coexist for a while. For example: r...",
+      "url": "https://dev.to/playfulprogramming/git-mirroring-during-migrations-all-vs-mirror-2i4h",
+      "date": "2026-03-16T07:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "git",
+        "github",
+        "gitlab"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "What Are We Actually Measuring?",
-      "description": "Sometimes I scroll through the business internet and all I see is numbers. Revenue. Valuation. Headcount. ARR. GMV. Series B. Series C. Unicorn status...",
-      "url": "https://dev.to/zentoshi/what-are-we-actually-measuring-31ml",
-      "date": "2026-03-15T06:35:45.000Z",
+      "title": "Why every RAG project I've built ends up fighting the pipeline — and what I'm do",
+      "description": "The pattern that keeps repeating If you've built a RAG application, this probably sounds familiar: You pick an embedding model You set up a vector sto...",
+      "url": "https://dev.to/carlosmgs111/why-every-rag-project-ive-built-ends-up-fighting-the-pipeline-and-what-im-doing-about-it-5hl",
+      "date": "2026-03-16T06:54:35.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "discuss",
-        "leadership",
-        "management"
+        "rag",
+        "ai",
+        "webdev"
       ],
-      "readTime": "10 min read",
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Bare Metal vs. AWS RDS: A Deep Dive into NUMA-Aware Tuning and PostgreSQL Perfor",
+      "description": "Bare Metal vs. AWS RDS: CPU/NUMA Pinning and HugePages — How We Beat Aurora on Write Throughput (Part 2) In Part 1, we established storage baselines —...",
+      "url": "https://dev.to/ionehouten/bare-metal-vs-aws-rds-a-deep-dive-into-numa-aware-tuning-and-postgresql-performance-part-2-2daa",
+      "date": "2026-03-16T06:52:44.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "aws",
+        "linux",
+        "performance"
+      ],
+      "readTime": "11 min read",
       "priority": 2
     },
     {
