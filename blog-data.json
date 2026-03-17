@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T07:19:45.511Z",
+  "lastUpdated": "2026-03-17T07:06:15.563Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "GitHub for Beginners: Getting started with GitHub Actions",
+      "description": "Set up your first GitHub Actions workflow in this how-to guide. The post GitHub for Beginners: Getting started with GitHub Actions appeared first on T...",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/",
+      "date": "2026-03-16T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "developerskills",
+        "github",
+        "githubactions"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
       "description": "AI automates triage for accessibility feedback, allowing us to focus on fixing barriers—turning a chaotic backlog into continuous, rapid resolutions. ...",
@@ -58,78 +73,93 @@
       "priority": 1
     },
     {
-      "title": "The era of “AI as text” is over. Execution is the new interface.",
-      "description": "AI is shifting from prompt-response interactions to programmable execution. See how the GitHub Copilot SDK enables agentic workflows directly inside y...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/",
-      "date": "2026-03-10T20:16:01.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "generativeai",
-        "githubcopilot"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "How I Validate Quality When AI Agents Write My Code",
-      "description": "Someone asked me the best question after I posted about managing AI agents like a dev team: And how do you validate quality? Fair point. If AI is writ...",
-      "url": "https://dev.to/teppana88/how-i-validate-quality-when-ai-agents-write-my-code-481c",
-      "date": "2026-03-16T07:04:39.000Z",
+      "title": "HumanPersonaBase: A Language-Agnostic Framework for Human-like AI Communication",
+      "description": "The Problem: AI Sounds Like AI GPT-4.5, when given a human-like persona, was identified as human by 73% of evaluators — surpassing the recognition rat...",
+      "url": "https://dev.to/rintaromatsumoto/humanpersonabase-a-language-agnostic-framework-for-human-like-ai-communication-2ilp",
+      "date": "2026-03-17T07:03:24.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "python",
         "ai",
-        "testing",
-        "agents"
-      ],
-      "readTime": "15 min read",
-      "priority": 2
-    },
-    {
-      "title": "Git Mirroring During Migrations: `--all` vs `--mirror`",
-      "description": "During a Git migration, the new platform is rarely switched on overnight. In many real scenarios, two systems must coexist for a while. For example: r...",
-      "url": "https://dev.to/playfulprogramming/git-mirroring-during-migrations-all-vs-mirror-2i4h",
-      "date": "2026-03-16T07:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "git",
-        "github",
-        "gitlab"
+        "opensource"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Why every RAG project I've built ends up fighting the pipeline — and what I'm do",
-      "description": "The pattern that keeps repeating If you've built a RAG application, this probably sounds familiar: You pick an embedding model You set up a vector sto...",
-      "url": "https://dev.to/carlosmgs111/why-every-rag-project-ive-built-ends-up-fighting-the-pipeline-and-what-im-doing-about-it-5hl",
-      "date": "2026-03-16T06:54:35.000Z",
+      "title": "Oracle APEX Reporting Tools Comparison (2026 Edition)",
+      "description": "A quick guide to choosing between Native, Enterprise, and Low-Code reporting tools in APEX 24.2. If you are working in Oracle APEX, choosing the right...",
+      "url": "https://dev.to/shanemccoy37/oracle-apex-reporting-tools-comparison-2026-edition-bf4",
+      "date": "2026-03-17T06:52:38.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "rag",
-        "ai",
+        "oracleapex",
+        "reporting",
+        "lowcode"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "JavaScript Events Simply Explained With Real Code Examples",
+      "description": "I remember when I started JavaScript, events confused me a lot. Not because they are hard. Just because nobody explained it simply. So let me try. An ...",
+      "url": "https://dev.to/manikanta_yarramsetti_7bc/javascript-events-explained-in-a-way-that-actually-makes-sense-3c2b",
+      "date": "2026-03-17T06:46:48.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "javascript",
+        "webdev",
+        "beginners"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Proof of Concept vs Prototype vs MVP: Knowing When to Use Which",
+      "description": "Product development is rarely a straightforward process. It involves ongoing testing, validation, and iteration to ensure the final product truly meet...",
+      "url": "https://dev.to/lollypop_vietnam_d12b708c/proof-of-concept-vs-prototype-vs-mvp-knowing-when-to-use-which-3ib6",
+      "date": "2026-03-17T06:42:02.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "What’s !important #7: random(), Folded Corners, Anchored Container Queries, and ",
+      "description": "For this issue of What’s !important, we have a healthy balance of old CSS that you might’ve missed and new CSS that you don’t want to miss. This inclu...",
+      "url": "https://css-tricks.com/whats-important-7/",
+      "date": "2026-03-16T15:06:01.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "news",
         "webdev"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Bare Metal vs. AWS RDS: A Deep Dive into NUMA-Aware Tuning and PostgreSQL Perfor",
-      "description": "Bare Metal vs. AWS RDS: CPU/NUMA Pinning and HugePages — How We Beat Aurora on Write Throughput (Part 2) In Part 1, we established storage baselines —...",
-      "url": "https://dev.to/ionehouten/bare-metal-vs-aws-rds-a-deep-dive-into-numa-aware-tuning-and-postgresql-performance-part-2-2daa",
-      "date": "2026-03-16T06:52:44.000Z",
+      "title": "4 Reasons That Make Tailwind Great for Building Layouts",
+      "description": "Tailwind is really great for making layouts and there are many reasons why. Zell Liew looks at four specific examples of common use cases. 4 Reasons T...",
+      "url": "https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/",
+      "date": "2026-03-16T14:01:02.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "aws",
-        "linux",
-        "performance"
+        "articles",
+        "framework",
+        "layout"
       ],
-      "readTime": "11 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -218,36 +248,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Different Ways to Select  in CSS",
-      "description": "Sure, we can select the element in CSS with, you know, a simple element selector, html. But what other (trivial and perhaps useless) ways can we do it...",
-      "url": "https://css-tricks.com/the-different-ways-to-select-html-in-css/",
-      "date": "2026-03-05T14:01:04.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "selectors",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Popover API or Dialog API: Which to Choose?",
-      "description": "Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discove...",
-      "url": "https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/",
-      "date": "2026-03-02T15:10:07.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "accessibility",
-        "dialog"
       ],
       "readTime": "1 min read",
       "priority": 2
