@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T07:06:15.563Z",
+  "lastUpdated": "2026-03-18T07:03:28.971Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Investing in the people shaping open source and securing the future together",
+      "description": "See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden and s...",
+      "url": "https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/",
+      "date": "2026-03-17T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "maintainers",
+        "opensource",
+        "security"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "GitHub for Beginners: Getting started with GitHub Actions",
       "description": "Set up your first GitHub Actions workflow in this how-to guide. The post GitHub for Beginners: Getting started with GitHub Actions appeared first on T...",
@@ -59,77 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Addressing GitHub’s recent availability issues",
-      "description": "GitHub recently experienced several availability incidents. We understand the impact these outages have on our customers and are sharing details on th...",
-      "url": "https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/",
-      "date": "2026-03-11T21:41:51.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "companynews",
-        "newsinsights"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "HumanPersonaBase: A Language-Agnostic Framework for Human-like AI Communication",
-      "description": "The Problem: AI Sounds Like AI GPT-4.5, when given a human-like persona, was identified as human by 73% of evaluators — surpassing the recognition rat...",
-      "url": "https://dev.to/rintaromatsumoto/humanpersonabase-a-language-agnostic-framework-for-human-like-ai-communication-2ilp",
-      "date": "2026-03-17T07:03:24.000Z",
+      "title": "I made my own Bootloader at 16. It was horrible. It was worth it.",
+      "description": "Why I even did it I have this obsession of wanting to understand every little thing on my computer. Every wire, every line of code, every register, I ...",
+      "url": "https://dev.to/nullora/i-made-my-own-bootloader-at-16-it-was-horrible-it-was-worth-it-2nc1",
+      "date": "2026-03-18T06:58:22.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "python",
+        "c",
+        "cpp",
+        "career"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "How Can Brokerage Engineering Teams Ship 3x Faster Using AI Across the SDLC?",
+      "description": "90% of developers now use AI tools at work. 80% say it makes them more productive. But when you look at organizational delivery metrics across brokera...",
+      "url": "https://dev.to/alichherawalla/how-can-brokerage-engineering-teams-ship-3x-faster-using-ai-across-the-sdlc-3n7l",
+      "date": "2026-03-18T06:55:54.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "softwaredevelopment",
+        "softwareengineering",
+        "ai"
+      ],
+      "readTime": "16 min read",
+      "priority": 2
+    },
+    {
+      "title": "Agent Skills: The Missing Layer That Makes AI Agents Enterprise Ready",
+      "description": "How Enterprises Encode Institutional Knowledge into AI Agents An AI agent is a system that uses a large language model (LLM) to reason, plan, and act ...",
+      "url": "https://dev.to/sreeni5018/agent-skills-the-missing-layer-that-makes-ai-agents-enterprise-ready-3gc",
+      "date": "2026-03-18T06:55:45.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "agents",
         "ai",
-        "opensource"
+        "automation"
       ],
-      "readTime": "3 min read",
+      "readTime": "18 min read",
       "priority": 2
     },
     {
-      "title": "Oracle APEX Reporting Tools Comparison (2026 Edition)",
-      "description": "A quick guide to choosing between Native, Enterprise, and Low-Code reporting tools in APEX 24.2. If you are working in Oracle APEX, choosing the right...",
-      "url": "https://dev.to/shanemccoy37/oracle-apex-reporting-tools-comparison-2026-edition-bf4",
-      "date": "2026-03-17T06:52:38.000Z",
+      "title": "Why Your UI Tests Break Every Sprint (And How to Fix It for Good)",
+      "description": "You push a design update. The button still works. The user flow is unchanged. But your CI is red. Sound familiar? This is the daily reality for teams ...",
+      "url": "https://dev.to/aegis_runner_1fe3db6ef2bd/why-your-ui-tests-break-every-sprint-and-how-to-fix-it-for-good-5cbk",
+      "date": "2026-03-18T06:55:15.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "oracleapex",
-        "reporting",
-        "lowcode"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "JavaScript Events Simply Explained With Real Code Examples",
-      "description": "I remember when I started JavaScript, events confused me a lot. Not because they are hard. Just because nobody explained it simply. So let me try. An ...",
-      "url": "https://dev.to/manikanta_yarramsetti_7bc/javascript-events-explained-in-a-way-that-actually-makes-sense-3c2b",
-      "date": "2026-03-17T06:46:48.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "javascript",
+        "testing",
         "webdev",
-        "beginners"
+        "javascript"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Proof of Concept vs Prototype vs MVP: Knowing When to Use Which",
-      "description": "Product development is rarely a straightforward process. It involves ongoing testing, validation, and iteration to ensure the final product truly meet...",
-      "url": "https://dev.to/lollypop_vietnam_d12b708c/proof-of-concept-vs-prototype-vs-mvp-knowing-when-to-use-which-3ib6",
-      "date": "2026-03-17T06:42:02.000Z",
+      "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
+      "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime lik...",
+      "url": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
+      "date": "2026-03-17T10:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
         "webdev",
         "javascript",
         "css"
       ],
-      "readTime": "6 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -233,21 +249,6 @@
         "articles",
         "cssproperties",
         "stackingcontexts"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Persuasive Design: Ten Years Later",
-      "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only...",
-      "url": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
-      "date": "2026-03-09T11:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
