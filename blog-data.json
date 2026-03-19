@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T07:03:28.971Z",
+  "lastUpdated": "2026-03-19T07:00:05.000Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "I made my own Bootloader at 16. It was horrible. It was worth it.",
-      "description": "Why I even did it I have this obsession of wanting to understand every little thing on my computer. Every wire, every line of code, every register, I ...",
-      "url": "https://dev.to/nullora/i-made-my-own-bootloader-at-16-it-was-horrible-it-was-worth-it-2nc1",
-      "date": "2026-03-18T06:58:22.000Z",
+      "title": "Build Reader Mode for the Command Line with Chrome DevTools Protocol",
+      "description": "Every developer has been there: you find an article you want to read, but the page is drowning in ads, sticky navbars, newsletter popups, cookie banne...",
+      "url": "https://dev.to/chengyixu/build-reader-mode-for-the-command-line-with-chrome-devtools-protocol-2ich",
+      "date": "2026-03-19T06:58:04.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "c",
-        "cpp",
-        "career"
+        "javascript",
+        "node",
+        "webdev"
       ],
-      "readTime": "3 min read",
+      "readTime": "12 min read",
       "priority": 2
     },
     {
-      "title": "How Can Brokerage Engineering Teams Ship 3x Faster Using AI Across the SDLC?",
-      "description": "90% of developers now use AI tools at work. 80% say it makes them more productive. But when you look at organizational delivery metrics across brokera...",
-      "url": "https://dev.to/alichherawalla/how-can-brokerage-engineering-teams-ship-3x-faster-using-ai-across-the-sdlc-3n7l",
-      "date": "2026-03-18T06:55:54.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "softwaredevelopment",
-        "softwareengineering",
-        "ai"
-      ],
-      "readTime": "16 min read",
-      "priority": 2
-    },
-    {
-      "title": "Agent Skills: The Missing Layer That Makes AI Agents Enterprise Ready",
-      "description": "How Enterprises Encode Institutional Knowledge into AI Agents An AI agent is a system that uses a large language model (LLM) to reason, plan, and act ...",
-      "url": "https://dev.to/sreeni5018/agent-skills-the-missing-layer-that-makes-ai-agents-enterprise-ready-3gc",
-      "date": "2026-03-18T06:55:45.000Z",
+      "title": "Yapay Zeka Ajanlarına Kalıcı Hafıza Ekleme (Dününü Hatırlaması İçin)",
+      "description": "TL;DR Yapay zeka ajanlarına 4 adımda kalıcı bellek ekleyin: (1) remember, recall, search ve rollback araçlarıyla bir MCP bellek sunucusu kurun, (2) Aj...",
+      "url": "https://dev.to/tobiass_hoffmann/yapay-zeka-ajanlarina-kalici-hafiza-ekleme-dununu-hatirlamasi-icin-3b0m",
+      "date": "2026-03-19T06:55:05.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "agents",
         "ai",
-        "automation"
+        "mcp"
       ],
-      "readTime": "18 min read",
+      "readTime": "11 min read",
       "priority": 2
     },
     {
-      "title": "Why Your UI Tests Break Every Sprint (And How to Fix It for Good)",
-      "description": "You push a design update. The button still works. The user flow is unchanged. But your CI is red. Sound familiar? This is the daily reality for teams ...",
-      "url": "https://dev.to/aegis_runner_1fe3db6ef2bd/why-your-ui-tests-break-every-sprint-and-how-to-fix-it-for-good-5cbk",
-      "date": "2026-03-18T06:55:15.000Z",
+      "title": "Why Custom Automation Frameworks Improve Test Stability",
+      "description": "unstable test suites. Flaky tests, inconsistent results, and frequent maintenance cycles can quickly erode confidence in automation efforts. While off...",
+      "url": "https://dev.to/alice_weber_3110/why-custom-automation-frameworks-improve-test-stability-220h",
+      "date": "2026-03-19T06:54:24.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "testing",
-        "webdev",
-        "javascript"
+        "architecture",
+        "automation",
+        "codequality"
       ],
-      "readTime": "3 min read",
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "วิธีตั้งค่า 5 เอเจนต์ AI สร้าง API ครบวงจร ตั้งแต่ Spec ถึง Test",
+      "description": "หยุดใช้ผู้ช่วย AI ตัวเดียวสำหรับทุกอย่าง — ตั้งค่า Agent ผู้เชี่ยวชาญ 5 ตัวเพื่อสร้าง API ที่สมบูรณ์: Backend Architect (สถาปนิกแบ็กเอนด์) ออกแบบระบบ,...",
+      "url": "https://dev.to/thanawat_wonchai/withiitangkhaa-5-eecchnt-ai-sraang-api-khrbwngcchr-tangaet-spec-thueng-test-3mh2",
+      "date": "2026-03-19T06:53:00.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "agents",
+        "ai",
+        "api"
+      ],
+      "readTime": "14 min read",
       "priority": 2
     },
     {
