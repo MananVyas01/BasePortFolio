@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T07:00:05.000Z",
+  "lastUpdated": "2026-03-20T06:57:34.928Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,36 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Rethinking open source mentorship in the AI era",
+      "description": "As contribution volume grows, mentorship signals are harder to read. The 3 Cs framework helps maintainers mentor more strategically... without burning...",
+      "url": "https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/",
+      "date": "2026-03-19T18:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "maintainers",
+        "opensource",
+        "agentsmd"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "How Squad runs coordinated AI agents inside your repository",
+      "description": "An inside look at repository-native orchestration with GitHub Copilot and the design patterns behind multi-agent workflows that stay inspectable, pred...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/",
+      "date": "2026-03-19T16:09:50.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "ai"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Investing in the people shaping open source and securing the future together",
       "description": "See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden and s...",
@@ -44,93 +74,93 @@
       "priority": 1
     },
     {
-      "title": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
-      "description": "AI automates triage for accessibility feedback, allowing us to focus on fixing barriers—turning a chaotic backlog into continuous, rapid resolutions. ...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
-      "date": "2026-03-12T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "architectureoptimization",
-        "engineering"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "GitHub availability report: February 2026",
-      "description": "In February, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: February ...",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-february-2026/",
-      "date": "2026-03-12T03:23:54.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "company",
-        "companynews",
-        "newsinsights"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Build Reader Mode for the Command Line with Chrome DevTools Protocol",
-      "description": "Every developer has been there: you find an article you want to read, but the page is drowning in ads, sticky navbars, newsletter popups, cookie banne...",
-      "url": "https://dev.to/chengyixu/build-reader-mode-for-the-command-line-with-chrome-devtools-protocol-2ich",
-      "date": "2026-03-19T06:58:04.000Z",
+      "title": "First & Last Occurences",
+      "description": "In this task, I worked on finding the first and last positions of a given number in a sorted array. Instead of scanning the entire array, I used binar...",
+      "url": "https://dev.to/jeyaprasadr/first-last-occurences-25d0",
+      "date": "2026-03-20T06:51:26.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "javascript",
-        "node",
-        "webdev"
+        "algorithms",
+        "coding",
+        "computerscience"
       ],
-      "readTime": "12 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Yapay Zeka Ajanlarına Kalıcı Hafıza Ekleme (Dününü Hatırlaması İçin)",
-      "description": "TL;DR Yapay zeka ajanlarına 4 adımda kalıcı bellek ekleyin: (1) remember, recall, search ve rollback araçlarıyla bir MCP bellek sunucusu kurun, (2) Aj...",
-      "url": "https://dev.to/tobiass_hoffmann/yapay-zeka-ajanlarina-kalici-hafiza-ekleme-dununu-hatirlamasi-icin-3b0m",
-      "date": "2026-03-19T06:55:05.000Z",
+      "title": "How I Use AI to Build a 55-Crate Rust Project (Honestly)",
+      "description": "I build Temps alone. The codebase is 55 Rust crates. That's a lot of surface area for one person. So yes, I use AI assistance heavily. Claude, mostly....",
+      "url": "https://dev.to/david_viejo_4d48fdfa7cfff/how-i-use-ai-to-build-a-55-crate-rust-project-honestly-2if6",
+      "date": "2026-03-20T06:50:57.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "agents",
         "ai",
-        "mcp"
+        "rust",
+        "productivity"
       ],
-      "readTime": "11 min read",
+      "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Why Custom Automation Frameworks Improve Test Stability",
-      "description": "unstable test suites. Flaky tests, inconsistent results, and frequent maintenance cycles can quickly erode confidence in automation efforts. While off...",
-      "url": "https://dev.to/alice_weber_3110/why-custom-automation-frameworks-improve-test-stability-220h",
-      "date": "2026-03-19T06:54:24.000Z",
+      "title": "Why We Chose Rust for a Deployment Platform",
+      "description": "Every Rust project eventually publishes a post about memory safety. This isn't going to be that post. Memory safety is real, and it matters, but it's ...",
+      "url": "https://dev.to/david_viejo_4d48fdfa7cfff/why-we-chose-rust-for-a-deployment-platform-4gmf",
+      "date": "2026-03-20T06:50:54.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "architecture",
-        "automation",
-        "codequality"
+        "rust",
+        "devops",
+        "architecture"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Session Replay: What It Is, How It Works, and When You Need It",
+      "description": "Session replay records what users actually do on your site: mouse movements, clicks, scrolls, keypresses, and every DOM mutation. Play it back and you...",
+      "url": "https://dev.to/david_viejo_4d48fdfa7cfff/session-replay-what-it-is-how-it-works-and-when-you-need-it-3a1f",
+      "date": "2026-03-20T06:50:51.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "frontend",
+        "ux"
       ],
       "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "วิธีตั้งค่า 5 เอเจนต์ AI สร้าง API ครบวงจร ตั้งแต่ Spec ถึง Test",
-      "description": "หยุดใช้ผู้ช่วย AI ตัวเดียวสำหรับทุกอย่าง — ตั้งค่า Agent ผู้เชี่ยวชาญ 5 ตัวเพื่อสร้าง API ที่สมบูรณ์: Backend Architect (สถาปนิกแบ็กเอนด์) ออกแบบระบบ,...",
-      "url": "https://dev.to/thanawat_wonchai/withiitangkhaa-5-eecchnt-ai-sraang-api-khrbwngcchr-tangaet-spec-thueng-test-3mh2",
-      "date": "2026-03-19T06:53:00.000Z",
+      "title": "Modal vs. Separate Page: UX Decision Tree",
+      "description": "How to choose between modals and pages, when to avoid modals, and how to determine the right level of interruption or navigation. Brought to you by Sm...",
+      "url": "https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/",
+      "date": "2026-03-19T15:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
-        "agents",
-        "ai",
-        "api"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "14 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "JavaScript for Everyone: Destructuring",
+      "description": "Mat Marquis and Andy Bell have released JavaScript for Everyone, an online course offered exclusively at Piccalilli. This post is an excerpt from the ...",
+      "url": "https://css-tricks.com/javascript-for-everyone-destructuring/",
+      "date": "2026-03-19T13:06:30.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "destructuring",
+        "javascript"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -150,7 +180,7 @@
     },
     {
       "title": "What’s !important #7: random(), Folded Corners, Anchored Container Queries, and ",
-      "description": "For this issue of What’s !important, we have a healthy balance of old CSS that you might’ve missed and new CSS that you don’t want to miss. This inclu...",
+      "description": "For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more. Wha...",
       "url": "https://css-tricks.com/whats-important-7/",
       "date": "2026-03-16T15:06:01.000Z",
       "category": "Web Dev",
@@ -219,36 +249,6 @@
         "articles",
         "cssfunctions",
         "htmlelements"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Building Dynamic Forms In React And Next.js",
-      "description": "Some forms stay UI, while others quietly become rule engines. Here’s why these two different approaches exist and how to choose between them....",
-      "url": "https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
-      "date": "2026-03-10T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Value of z-index",
-      "description": "How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices. The Value of...",
-      "url": "https://css-tricks.com/the-value-of-z-index/",
-      "date": "2026-03-09T14:20:01.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "cssproperties",
-        "stackingcontexts"
       ],
       "readTime": "1 min read",
       "priority": 2
