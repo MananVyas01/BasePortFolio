@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T06:57:34.928Z",
+  "lastUpdated": "2026-03-21T06:46:39.099Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,78 @@
       "priority": 1
     },
     {
-      "title": "First & Last Occurences",
-      "description": "In this task, I worked on finding the first and last positions of a given number in a sorted array. Instead of scanning the entire array, I used binar...",
-      "url": "https://dev.to/jeyaprasadr/first-last-occurences-25d0",
-      "date": "2026-03-20T06:51:26.000Z",
+      "title": "I Replaced Google Drive with a Home Server That Costs Almost Nothing",
+      "description": "I was paying ₹650/month for Google One's 2TB plan. That's ₹6,500 a year — for storage I don't own, on servers I don't control, where my photos could b...",
+      "url": "https://dev.to/avgskully/i-replaced-google-drive-with-a-home-server-that-costs-almost-nothing-2c6l",
+      "date": "2026-03-21T06:27:20.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "algorithms",
-        "coding",
-        "computerscience"
+        "selfhosted",
+        "linux",
+        "docker"
+      ],
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "Optimizing for Zero: Building a High-Performance Browser Runner with No Budget",
+      "description": "We have all been there: you have five minutes to kill between tasks, you search for a quick game, and you are immediately met with a 30-second unskipp...",
+      "url": "https://dev.to/getinfotoyou/optimizing-for-zero-building-a-high-performance-browser-runner-with-no-budget-1mf4",
+      "date": "2026-03-21T06:02:58.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "javascript",
+        "gamedev",
+        "webdev"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "How I Use AI to Build a 55-Crate Rust Project (Honestly)",
-      "description": "I build Temps alone. The codebase is 55 Rust crates. That's a lot of surface area for one person. So yes, I use AI assistance heavily. Claude, mostly....",
-      "url": "https://dev.to/david_viejo_4d48fdfa7cfff/how-i-use-ai-to-build-a-55-crate-rust-project-honestly-2if6",
-      "date": "2026-03-20T06:50:57.000Z",
+      "title": "The Agent Memory Problem (And How I Solved It Without a Database)",
+      "description": "The Agent Memory Problem (And How I Solved It Without a Database) Every AI agent dies when its context window ends. That's the dirty secret behind mos...",
+      "url": "https://dev.to/webbywisp/the-agent-memory-problem-and-how-i-solved-it-without-a-database-52ad",
+      "date": "2026-03-21T06:02:57.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "rust",
-        "productivity"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "Why We Chose Rust for a Deployment Platform",
-      "description": "Every Rust project eventually publishes a post about memory safety. This isn't going to be that post. Memory safety is real, and it matters, but it's ...",
-      "url": "https://dev.to/david_viejo_4d48fdfa7cfff/why-we-chose-rust-for-a-deployment-platform-4gmf",
-      "date": "2026-03-20T06:50:54.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "rust",
-        "devops",
-        "architecture"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "Session Replay: What It Is, How It Works, and When You Need It",
-      "description": "Session replay records what users actually do on your site: mouse movements, clicks, scrolls, keypresses, and every DOM mutation. Play it back and you...",
-      "url": "https://dev.to/david_viejo_4d48fdfa7cfff/session-replay-what-it-is-how-it-works-and-when-you-need-it-3a1f",
-      "date": "2026-03-20T06:50:51.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "frontend",
-        "ux"
+        "architecture",
+        "agents"
       ],
       "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Architecting Agentic Systems Without Multiplying Costs: A Real Healthcare Story",
+      "description": "The Message That Started It All It was early on a Monday morning when a message appeared in a patient portal: \"I've had sharp lower back pain for 3 da...",
+      "url": "https://dev.to/agastya_kommanamanchi_d4f/architecting-agentic-systems-without-multiplying-costs-a-real-healthcare-story-2g6o",
+      "date": "2026-03-21T06:00:14.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "systemdesign",
+        "webdev"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Prope",
+      "description": "Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the con...",
+      "url": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
+      "date": "2026-03-20T13:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -213,21 +228,6 @@
       "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in ...",
       "url": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
       "date": "2026-03-13T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyda",
-      "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get any...",
-      "url": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
-      "date": "2026-03-12T10:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
