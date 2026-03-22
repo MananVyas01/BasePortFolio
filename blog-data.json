@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T06:46:39.099Z",
+  "lastUpdated": "2026-03-22T06:54:06.087Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "I Replaced Google Drive with a Home Server That Costs Almost Nothing",
-      "description": "I was paying ₹650/month for Google One's 2TB plan. That's ₹6,500 a year — for storage I don't own, on servers I don't control, where my photos could b...",
-      "url": "https://dev.to/avgskully/i-replaced-google-drive-with-a-home-server-that-costs-almost-nothing-2c6l",
-      "date": "2026-03-21T06:27:20.000Z",
+      "title": "Valid Anagram",
+      "description": "Hi everyone! Problem s and t, return True if t is an anagram of s, else return False. An anagram means both strings have the same characters with same...",
+      "url": "https://dev.to/anjana_rk_fbdea7abbdf13/valid-anagram-2458",
+      "date": "2026-03-22T06:49:33.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "selfhosted",
-        "linux",
-        "docker"
-      ],
-      "readTime": "9 min read",
-      "priority": 2
-    },
-    {
-      "title": "Optimizing for Zero: Building a High-Performance Browser Runner with No Budget",
-      "description": "We have all been there: you have five minutes to kill between tasks, you search for a quick game, and you are immediately met with a 30-second unskipp...",
-      "url": "https://dev.to/getinfotoyou/optimizing-for-zero-building-a-high-performance-browser-runner-with-no-budget-1mf4",
-      "date": "2026-03-21T06:02:58.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
+        "webdev",
         "javascript",
-        "gamedev",
-        "webdev"
+        "css"
       ],
-      "readTime": "3 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "The Agent Memory Problem (And How I Solved It Without a Database)",
-      "description": "The Agent Memory Problem (And How I Solved It Without a Database) Every AI agent dies when its context window ends. That's the dirty secret behind mos...",
-      "url": "https://dev.to/webbywisp/the-agent-memory-problem-and-how-i-solved-it-without-a-database-52ad",
-      "date": "2026-03-21T06:02:57.000Z",
+      "title": "About the the commandfor attribute.",
+      "description": "What I want to share here is my experiences with the commandfor attribute. Short intro: I'm using it in my moduleEditor, where I'm working on. OOP bas...",
+      "url": "https://dev.to/aadswebdesign/about-the-the-commandfor-attribute-5h45",
+      "date": "2026-03-22T06:48:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "architecture",
-        "agents"
+        "webdev",
+        "javascript",
+        "beginners"
       ],
-      "readTime": "5 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Architecting Agentic Systems Without Multiplying Costs: A Real Healthcare Story",
-      "description": "The Message That Started It All It was early on a Monday morning when a message appeared in a patient portal: \"I've had sharp lower back pain for 3 da...",
-      "url": "https://dev.to/agastya_kommanamanchi_d4f/architecting-agentic-systems-without-multiplying-costs-a-real-healthcare-story-2g6o",
-      "date": "2026-03-21T06:00:14.000Z",
+      "title": "Move Zeroes",
+      "description": "Hi everyone! Problem 0s to the end while maintaining the order of non-zero elements. Example: Output: [1, 3, 12, 0, 0] My Approach At first, I thought...",
+      "url": "https://dev.to/anjana_rk_fbdea7abbdf13/move-zeroes-29d2",
+      "date": "2026-03-22T06:43:03.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "systemdesign",
-        "webdev"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "7 min read",
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "Search in a Rotated Sorted Array",
+      "description": "Problem You are given a sorted array nums with distinct values, which might have been rotated at an unknown pivot. The algorithm must run in O(log n) ...",
+      "url": "https://dev.to/tharunya_kr_c17e81c2a49a/search-in-a-rotated-sorted-array-22md",
+      "date": "2026-03-22T06:42:47.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "2 min read",
       "priority": 2
     },
     {
