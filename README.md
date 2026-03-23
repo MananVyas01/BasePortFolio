@@ -9,11 +9,11 @@
 
 ## 🔥 Latest Projects
 
+- **[securecodeguard-vscode](https://github.com/MananVyas01/securecodeguard-vscode)** - VS Code extension for comprehensive security analysis with real-time scanning, vulnerability detection, and automated fixes. ⭐ 1
 - **[BasePortFolio](https://github.com/MananVyas01/BasePortFolio)** - This repo contains my Temp PortFolioWebSite built using HTML/CSS with the twist of Github Actions(See The Magic). ⭐ 1
 - **[OnboardingKit](https://github.com/MananVyas01/OnboardingKit)** - SwiftUI library for handling onboarding ⭐ 1
 - **[go-file-organizer](https://github.com/MananVyas01/go-file-organizer)** - After a long break, I'm diving back into Go — and this is my first comeback project! A simple yet powerful CLI tool that organizes your messy directories by sorting files into folders based on their extensions (like Images, Documents, Code, etc.). Built with Go's standard library no dependencies, just pure Golang fun. ⭐ 2
 - **[TempIndusCup](https://github.com/MananVyas01/TempIndusCup)** - No description 
-- **[neuron-runner](https://github.com/MananVyas01/neuron-runner)** - 🧠 AI-themed endless runner game with neural network player, dynamic ML worlds, real-time stats dashboard, and educational content. Built with Python & Pygame. ⭐ 2
 
 ## 🌐 Portfolio Website
 
@@ -23,4 +23,4 @@
 
 ---
 
-📅 Auto-updated: 3/16/2026
+📅 Auto-updated: 3/23/2026
