@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T06:54:06.087Z",
+  "lastUpdated": "2026-03-23T07:12:25.837Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -74,63 +74,63 @@
       "priority": 1
     },
     {
-      "title": "Valid Anagram",
-      "description": "Hi everyone! Problem s and t, return True if t is an anagram of s, else return False. An anagram means both strings have the same characters with same...",
-      "url": "https://dev.to/anjana_rk_fbdea7abbdf13/valid-anagram-2458",
-      "date": "2026-03-22T06:49:33.000Z",
+      "title": "I got tired of manual code reviews so I built a free automated security pipeline",
+      "description": "Let me be upfront about something. For a while, our security process was basically vibes. Someone would glance over a PR, maybe catch an obvious thing...",
+      "url": "https://dev.to/trivedivatsal/i-got-tired-of-manual-code-reviews-so-i-built-a-free-automated-security-pipeline-1lmd",
+      "date": "2026-03-23T07:06:39.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "devsecops",
+        "python",
+        "javascript"
+      ],
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "Why Habit Apps Feel Like Nagging Parents (And What I Built Instead)",
+      "description": "Why Habit Apps Feel Like Nagging Parents (And What I Built Instead) There's a common design pattern in habit apps that nobody talks about: the guilt l...",
+      "url": "https://dev.to/eastkap/why-habit-apps-feel-like-nagging-parents-and-what-i-built-instead-4jfm",
+      "date": "2026-03-23T07:05:07.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "productivity",
+        "javascript",
+        "webdev"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "JavaScript Modules 101: import & export Without Confusion",
+      "description": "As JavaScript project grows managing code become more important than just writing it. organize, reuse and maintain code efficiently. In this blog we w...",
+      "url": "https://dev.to/kunal_dev/javascript-modules-101-import-export-without-confusion-83d",
+      "date": "2026-03-23T07:02:54.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "javascript",
-        "css"
+        "programming",
+        "javascript"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "What is Antifragility (and why it matters in .NET)?",
+      "description": "We usually try to build systems that don’t fail. But in reality, failure is always part of software. Nassim Nicholas Taleb: Fragile Resilient (or Robu...",
+      "url": "https://dev.to/samira_talebi_cca34ce28b8/what-is-antifragility-and-why-it-matters-in-net-eih",
+      "date": "2026-03-23T07:02:07.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "dotnet",
+        "softwaredevelopment",
+        "architecture"
       ],
       "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "About the the commandfor attribute.",
-      "description": "What I want to share here is my experiences with the commandfor attribute. Short intro: I'm using it in my moduleEditor, where I'm working on. OOP bas...",
-      "url": "https://dev.to/aadswebdesign/about-the-the-commandfor-attribute-5h45",
-      "date": "2026-03-22T06:48:16.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "beginners"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "Move Zeroes",
-      "description": "Hi everyone! Problem 0s to the end while maintaining the order of non-zero elements. Example: Output: [1, 3, 12, 0, 0] My Approach At first, I thought...",
-      "url": "https://dev.to/anjana_rk_fbdea7abbdf13/move-zeroes-29d2",
-      "date": "2026-03-22T06:43:03.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Search in a Rotated Sorted Array",
-      "description": "Problem You are given a sorted array nums with distinct values, which might have been rotated at an unknown pivot. The algorithm must run in O(log n) ...",
-      "url": "https://dev.to/tharunya_kr_c17e81c2a49a/search-in-a-rotated-sorted-array-22md",
-      "date": "2026-03-22T06:42:47.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "2 min read",
       "priority": 2
     },
     {
