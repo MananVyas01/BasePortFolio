@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T07:05:36.144Z",
+  "lastUpdated": "2026-03-25T07:03:45.346Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,26 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "CSS-Tricks",
     "Smashing Magazine",
+    "CSS-Tricks",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
+      "description": "Learn how to integrate the Copilot SDK into a React Native app to generate AI-powered issue summaries, with production patterns for graceful degradati...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/",
+      "date": "2026-03-24T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "applicationdevelopment",
+        "developerskills"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "GitHub expands application security coverage with AI‑powered detections",
       "description": "CodeQL and AI‑powered detections work together in GitHub Code Security to identify vulnerabilities across more languages and frameworks. The post GitH...",
@@ -59,78 +74,78 @@
       "priority": 1
     },
     {
-      "title": "Investing in the people shaping open source and securing the future together",
-      "description": "See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden and s...",
-      "url": "https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/",
-      "date": "2026-03-17T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "maintainers",
-        "opensource",
-        "security"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "What Web3 Looks Like in 2026 and Where It Is Headed by 2030",
-      "description": "I started this series in late 2025 with zero professional Web3 experience. Fifty-five days later I have 2 freelancing works, a live Telegram community...",
-      "url": "https://dev.to/ribhavmodi/what-web3-looks-like-in-2026-and-where-it-is-headed-by-2030-2lb4",
-      "date": "2026-03-24T06:51:31.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "productivity",
-        "blockchain",
-        "crypto"
-      ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "Your SaaS File Uploads Are Slower Than They Need to Be",
-      "description": "Here's a question most developers never think to ask: when a user uploads a file in your app, where does that file actually go first? If you're using ...",
-      "url": "https://dev.to/voltageitlabs/your-saas-file-uploads-are-slower-than-they-need-to-be-ebb",
-      "date": "2026-03-24T06:49:53.000Z",
+      "title": "25+ Websites to Practice HTML, CSS, and JavaScript",
+      "description": "Learning HTML, CSS, and JavaScript is easy, but practicing them consistently is the hard part. When you watch tutorials, you understand everything. Th...",
+      "url": "https://dev.to/devshefali/25-websites-to-practice-html-css-and-javascript-5b3n",
+      "date": "2026-03-25T06:57:58.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "webdev",
-        "saas",
-        "cloudflare"
+        "html",
+        "css"
       ],
-      "readTime": "6 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Your Email Sounds Too Aggressive and You Know It. Here's How to Fix It in 2 Minu",
-      "description": "You wrote it fast. You wrote it honest. And now you're looking at it and you know — you know — it's too much. It's not wrong. Everything in it is true...",
-      "url": "https://dev.to/skippy_magnificent_8cce24/your-email-sounds-too-aggressive-and-you-know-it-heres-how-to-fix-it-in-2-minutes-5coc",
-      "date": "2026-03-24T06:45:44.000Z",
+      "title": "JavaScript Array Methods in 2026: The Complete Practical Guide",
+      "description": "JavaScript Array Methods in 2026: The Complete Practical Guide The Big Four Method Returns Mutates Original map() New array (same length) ❌ No filter(...",
+      "url": "https://dev.to/_d7eb1c1703182e3ce1782/javascript-array-methods-in-2026-the-complete-practical-guide-4oe4",
+      "date": "2026-03-25T06:57:58.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "javascript",
+        "webdev",
+        "programming"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Why Your AI's Memory Shouldn't Live on Someone Else's Server",
+      "description": "Why Your AI's Memory Shouldn't Live on Someone Else's Server Your AI assistant knows your name, your job, your preferences, your relationships, what y...",
+      "url": "https://dev.to/ethan_dfd7dc97a4a0bf95d01/why-your-ais-memory-shouldnt-live-on-someone-elses-server-104m",
+      "date": "2026-03-25T06:57:42.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "mentalhealth",
-        "psychology"
+        "privacy",
+        "opensource"
       ],
-      "readTime": "4 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "useMediaQuery: Complete Guide to Responsive Design in React",
-      "description": "CSS media queries handle most responsive styling, but sometimes your React components need to know about the viewport, user preferences, or device cap...",
-      "url": "https://dev.to/childrentime/usemediaquery-complete-guide-to-responsive-design-in-react-4n1k",
-      "date": "2026-03-24T06:40:51.000Z",
+      "title": "🚀 Blackbox AI Review: Code as Fast as You Think? (2026 Guide)",
+      "description": "Ever wished your code could write itself while you just think? 🤯 That’s exactly what Blackbox AI promises. But is it actually useful for developers… ...",
+      "url": "https://dev.to/sarveshupadhyay21/blackbox-ai-review-code-as-fast-as-you-think-2026-guide-m3p",
+      "date": "2026-03-25T06:57:26.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "react",
-        "hooks",
-        "typescript"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "5 min read",
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Testing Font Scaling For Accessibility With Figma Variables",
+      "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit natura...",
+      "url": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
+      "date": "2026-03-24T13:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -234,21 +249,6 @@
         "articles",
         "framework",
         "layout"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Moving From Moment.js To The JS Temporal API",
-      "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in ...",
-      "url": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
-      "date": "2026-03-13T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
       ],
       "readTime": "1 min read",
       "priority": 2
