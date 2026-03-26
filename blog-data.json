@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T07:03:45.346Z",
+  "lastUpdated": "2026-03-26T07:11:09.709Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,20 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Updates to GitHub Copilot interaction data usage policy",
+      "description": "From April 24 onward, interaction data—specifically inputs, outputs, code snippets, and associated context—from Copilot Free, Pro, and Pro+ users will...",
+      "url": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
+      "date": "2026-03-25T19:02:29.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "companynews",
+        "newsinsights"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
       "description": "Learn how to integrate the Copilot SDK into a React Native app to generate AI-powered issue summaries, with production patterns for graceful degradati...",
@@ -59,78 +73,63 @@
       "priority": 1
     },
     {
-      "title": "How Squad runs coordinated AI agents inside your repository",
-      "description": "An inside look at repository-native orchestration with GitHub Copilot and the design patterns behind multi-agent workflows that stay inspectable, pred...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/",
-      "date": "2026-03-19T16:09:50.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "githubcopilot",
-        "ai"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "25+ Websites to Practice HTML, CSS, and JavaScript",
-      "description": "Learning HTML, CSS, and JavaScript is easy, but practicing them consistently is the hard part. When you watch tutorials, you understand everything. Th...",
-      "url": "https://dev.to/devshefali/25-websites-to-practice-html-css-and-javascript-5b3n",
-      "date": "2026-03-25T06:57:58.000Z",
+      "title": "The AI Engineer's Toolkit: Moving Beyond Prompt Engineering to Build Robust AI A",
+      "description": "Beyond the Prompt: The Next Level of AI Development If you've been anywhere near tech Twitter, Hacker News, or dev.to recently, you've seen the explos...",
+      "url": "https://dev.to/midas126/the-ai-engineers-toolkit-moving-beyond-prompt-engineering-to-build-robust-ai-applications-1pj7",
+      "date": "2026-03-26T07:10:25.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "html",
-        "css"
+        "ai",
+        "machinelearning",
+        "softwareengineering"
       ],
-      "readTime": "5 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "JavaScript Array Methods in 2026: The Complete Practical Guide",
-      "description": "JavaScript Array Methods in 2026: The Complete Practical Guide The Big Four Method Returns Mutates Original map() New array (same length) ❌ No filter(...",
-      "url": "https://dev.to/_d7eb1c1703182e3ce1782/javascript-array-methods-in-2026-the-complete-practical-guide-4oe4",
-      "date": "2026-03-25T06:57:58.000Z",
+      "title": "What happens when you put multiple AI models in the same real-time conversation",
+      "description": "For months my workflow looked like this: ask ChatGPT a question, copy the answer, paste it into Claude for a second opinion, then check with Gemini. E...",
+      "url": "https://dev.to/f_a_450523a23a7a583af6fd5/what-happens-when-you-put-multiple-ai-models-in-the-same-real-time-conversation-36ad",
+      "date": "2026-03-26T07:09:52.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "javascript",
+        "ai",
         "webdev",
-        "programming"
+        "saas"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Why Your AI's Memory Shouldn't Live on Someone Else's Server",
-      "description": "Why Your AI's Memory Shouldn't Live on Someone Else's Server Your AI assistant knows your name, your job, your preferences, your relationships, what y...",
-      "url": "https://dev.to/ethan_dfd7dc97a4a0bf95d01/why-your-ais-memory-shouldnt-live-on-someone-elses-server-104m",
-      "date": "2026-03-25T06:57:42.000Z",
+      "title": "Why most AI agent frameworks break in production (and what I’m doing differently",
+      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and rescheduling directly into Google Calendar. One thin...",
+      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
+      "date": "2026-03-26T07:06:06.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "privacy",
-        "opensource"
+        "agentskills",
+        "devtool"
       ],
-      "readTime": "5 min read",
+      "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "🚀 Blackbox AI Review: Code as Fast as You Think? (2026 Guide)",
-      "description": "Ever wished your code could write itself while you just think? 🤯 That’s exactly what Blackbox AI promises. But is it actually useful for developers… ...",
-      "url": "https://dev.to/sarveshupadhyay21/blackbox-ai-review-code-as-fast-as-you-think-2026-guide-m3p",
-      "date": "2026-03-25T06:57:26.000Z",
+      "title": "Failing to Train DeBERTa to Detect Patent Antecedent Basis Errors",
+      "description": "Patent claims have a simple rule: introduce \"a thing\" before referring to \"the thing.\" I fine-tuned DeBERTa-v3 on synthetic antecedent basis errors an...",
+      "url": "https://dev.to/chyuang/failing-to-train-deberta-to-detect-patent-antecedent-basis-errors-2p12",
+      "date": "2026-03-26T07:05:35.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "webdev",
-        "javascript",
-        "css"
+        "machinelearning",
+        "nlp",
+        "ai"
       ],
-      "readTime": "2 min read",
+      "readTime": "10 min read",
       "priority": 2
     },
     {
