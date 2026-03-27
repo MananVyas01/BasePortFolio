@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T07:11:09.709Z",
+  "lastUpdated": "2026-03-27T07:10:14.498Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -8,11 +8,41 @@
   "sources": [
     "GitHub Blog",
     "Dev.to",
-    "Smashing Magazine",
     "CSS-Tricks",
+    "Smashing Magazine",
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "What’s coming to our GitHub Actions 2026 security roadmap",
+      "description": "A look at GitHub Actions’ 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end t...",
+      "url": "https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/",
+      "date": "2026-03-26T16:49:14.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "newsinsights",
+        "product",
+        "cicd"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "A year of open source vulnerability trends: CVEs, advisories, and malware",
+      "description": "Reviewed advisories hit a four-year low, malware advisories surged, and CNA publishing grew—here’s what changed and what it means for your triage and ...",
+      "url": "https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/",
+      "date": "2026-03-26T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "security",
+        "supplychainsecurity",
+        "cve"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Updates to GitHub Copilot interaction data usage policy",
       "description": "From April 24 onward, interaction data—specifically inputs, outputs, code snippets, and associated context—from Copilot Free, Pro, and Pro+ users will...",
@@ -43,93 +73,93 @@
       "priority": 1
     },
     {
-      "title": "GitHub expands application security coverage with AI‑powered detections",
-      "description": "CodeQL and AI‑powered detections work together in GitHub Code Security to identify vulnerabilities across more languages and frameworks. The post GitH...",
-      "url": "https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/",
-      "date": "2026-03-23T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "applicationsecurity",
-        "security",
-        "codescanning"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "Rethinking open source mentorship in the AI era",
-      "description": "As contribution volume grows, mentorship signals are harder to read. The 3 Cs framework helps maintainers mentor more strategically... without burning...",
-      "url": "https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/",
-      "date": "2026-03-19T18:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "maintainers",
-        "opensource",
-        "agentsmd"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "The AI Engineer's Toolkit: Moving Beyond Prompt Engineering to Build Robust AI A",
-      "description": "Beyond the Prompt: The Next Level of AI Development If you've been anywhere near tech Twitter, Hacker News, or dev.to recently, you've seen the explos...",
-      "url": "https://dev.to/midas126/the-ai-engineers-toolkit-moving-beyond-prompt-engineering-to-build-robust-ai-applications-1pj7",
-      "date": "2026-03-26T07:10:25.000Z",
+      "title": "Angular 22: Mix Signal Forms and Reactive Forms Seamlessly",
+      "description": "What if you could start using Signal Forms today without touching your existing Reactive or Template-driven forms at all? In Angular 22, you'll be abl...",
+      "url": "https://dev.to/brianmtreese/angular-22-mix-signal-forms-and-reactive-forms-seamlessly-3p6k",
+      "date": "2026-03-27T07:00:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "machinelearning",
-        "softwareengineering"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "What happens when you put multiple AI models in the same real-time conversation",
-      "description": "For months my workflow looked like this: ask ChatGPT a question, copy the answer, paste it into Claude for a second opinion, then check with Gemini. E...",
-      "url": "https://dev.to/f_a_450523a23a7a583af6fd5/what-happens-when-you-put-multiple-ai-models-in-the-same-real-time-conversation-36ad",
-      "date": "2026-03-26T07:09:52.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "ai",
+        "angular",
         "webdev",
-        "saas"
+        "javascript"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "Exploring Lua: The Invisible Powerhouse of Scripting",
+      "description": "If you’ve played Roblox, adjusted a UI mod in World of Warcraft, or used a high-performance web server like NGINX, you’ve encountered Lua. Developed i...",
+      "url": "https://dev.to/mcheremnov/exploring-lua-the-invisible-powerhouse-of-scripting-63d",
+      "date": "2026-03-27T06:59:52.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "lua",
+        "webdev",
+        "javascript"
       ],
       "readTime": "3 min read",
       "priority": 2
     },
     {
-      "title": "Why most AI agent frameworks break in production (and what I’m doing differently",
-      "description": "Over the past months I’ve been building a WhatsApp-first AI receptionist that handles booking and rescheduling directly into Google Calendar. One thin...",
-      "url": "https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i",
-      "date": "2026-03-26T07:06:06.000Z",
+      "title": "Inside a Cyber Attack: How Hackers Think, Operate, and Exploit Systems",
+      "description": "Introduction The Mindset of an Attacker Where is the weakest point? What can be exploited with minimum effort? How can I remain undetected? In many ca...",
+      "url": "https://dev.to/zerocool_2012/inside-a-cyber-attack-how-hackers-think-operate-and-exploit-systems-3mp3",
+      "date": "2026-03-27T06:49:34.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "agentskills",
-        "devtool"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "3 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Failing to Train DeBERTa to Detect Patent Antecedent Basis Errors",
-      "description": "Patent claims have a simple rule: introduce \"a thing\" before referring to \"the thing.\" I fine-tuned DeBERTa-v3 on synthetic antecedent basis errors an...",
-      "url": "https://dev.to/chyuang/failing-to-train-deberta-to-detect-patent-antecedent-basis-errors-2p12",
-      "date": "2026-03-26T07:05:35.000Z",
+      "title": "How I built a SaaS that sends AI-written Stripe reports every Monday — and what ",
+      "description": "I've been building Autoreport for the past few months alongside my day job. The idea was simple: every Monday morning, get a PDF in your inbox with yo...",
+      "url": "https://dev.to/agarridodev/how-i-built-a-saas-that-sends-ai-written-stripe-reports-every-monday-and-what-i-learned-5dae",
+      "date": "2026-03-27T06:47:34.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "machinelearning",
-        "nlp",
-        "ai"
+        "aws",
+        "terraform",
+        "serverless"
       ],
-      "readTime": "10 min read",
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Generative UI Notes",
+      "description": "Looking at research and experiments that are designed to automatically generate user interfaces based on user preferences. Generative UI Notes origina...",
+      "url": "https://css-tricks.com/generative-ui-notes/",
+      "date": "2026-03-26T14:59:55.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "artificialintelligence",
+        "webdev"
+      ],
+      "readTime": "1 min read",
+      "priority": 2
+    },
+    {
+      "title": "The Site-Search Paradox: Why The Big Box Always Wins",
+      "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than e...",
+      "url": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
+      "date": "2026-03-26T10:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Smashing Magazine",
+      "tags": [
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -208,21 +238,6 @@
       "priority": 2
     },
     {
-      "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
-      "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime lik...",
-      "url": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
-      "date": "2026-03-17T10:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "What’s !important #7: random(), Folded Corners, Anchored Container Queries, and ",
       "description": "For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more. Wha...",
       "url": "https://css-tricks.com/whats-important-7/",
@@ -233,21 +248,6 @@
         "articles",
         "news",
         "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "4 Reasons That Make Tailwind Great for Building Layouts",
-      "description": "Tailwind is really great for making layouts and there are many reasons why. Zell Liew looks at four specific examples of common use cases. 4 Reasons T...",
-      "url": "https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/",
-      "date": "2026-03-16T14:01:02.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "framework",
-        "layout"
       ],
       "readTime": "1 min read",
       "priority": 2
