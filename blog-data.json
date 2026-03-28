@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T07:10:14.498Z",
+  "lastUpdated": "2026-03-28T07:00:33.399Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,63 @@
       "priority": 1
     },
     {
-      "title": "Angular 22: Mix Signal Forms and Reactive Forms Seamlessly",
-      "description": "What if you could start using Signal Forms today without touching your existing Reactive or Template-driven forms at all? In Angular 22, you'll be abl...",
-      "url": "https://dev.to/brianmtreese/angular-22-mix-signal-forms-and-reactive-forms-seamlessly-3p6k",
-      "date": "2026-03-27T07:00:00.000Z",
+      "title": "I Built a Free WCAG Accessibility Audit CLI for Government Teams",
+      "description": "Every government website in the US is required to meet Section 508 accessibility standards. Most commercial tools cost hundreds per month. So I built ...",
+      "url": "https://dev.to/vijaygovindaraja/i-built-a-free-wcag-accessibility-audit-cli-for-government-teams-bbp",
+      "date": "2026-03-28T06:57:43.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "angular",
-        "webdev",
+        "a11y",
+        "cli",
+        "opensource"
+      ],
+      "readTime": "13 min read",
+      "priority": 2
+    },
+    {
+      "title": "Determinism Series: Siliconizing Decision-Making (Index)",
+      "description": "The goal of this series is simple: If a decision can be turned into rules, we should “siliconize” it. deterministic, replayable judgments. “Determinis...",
+      "url": "https://dev.to/kanaria007/determinism-series-siliconizing-decision-making-index-1090",
+      "date": "2026-03-28T06:54:17.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "ai",
+        "agents",
+        "sre"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "The YieldBlox $10M Oracle Poisoning: How One Trade in a Dead Market Drained an E",
+      "description": "On February 22, 2026, a single trade worth barely $5 on the Stellar DEX inflated a token's price by 100×, allowing an attacker to borrow $10.97 millio...",
+      "url": "https://dev.to/ohmygod/the-yieldblox-10m-oracle-poisoning-how-one-trade-in-a-dead-market-drained-an-entire-lending-pool-2k5d",
+      "date": "2026-03-28T06:53:11.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "security",
+        "defi",
+        "blockchain"
+      ],
+      "readTime": "6 min read",
+      "priority": 2
+    },
+    {
+      "title": "Your Debounce Is Lying to You",
+      "description": "Debounce is one of those patterns every frontend developer learns early and keeps using forever. At its core, debouncing does one thing well: it coale...",
+      "url": "https://dev.to/gkoos/your-debounce-is-lying-to-you-3e3h",
+      "date": "2026-03-28T06:52:27.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "tutorial",
+        "frontend",
         "javascript"
       ],
-      "readTime": "7 min read",
-      "priority": 2
-    },
-    {
-      "title": "Exploring Lua: The Invisible Powerhouse of Scripting",
-      "description": "If you’ve played Roblox, adjusted a UI mod in World of Warcraft, or used a high-performance web server like NGINX, you’ve encountered Lua. Developed i...",
-      "url": "https://dev.to/mcheremnov/exploring-lua-the-invisible-powerhouse-of-scripting-63d",
-      "date": "2026-03-27T06:59:52.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "lua",
-        "webdev",
-        "javascript"
-      ],
-      "readTime": "3 min read",
-      "priority": 2
-    },
-    {
-      "title": "Inside a Cyber Attack: How Hackers Think, Operate, and Exploit Systems",
-      "description": "Introduction The Mindset of an Attacker Where is the weakest point? What can be exploited with minimum effort? How can I remain undetected? In many ca...",
-      "url": "https://dev.to/zerocool_2012/inside-a-cyber-attack-how-hackers-think-operate-and-exploit-systems-3mp3",
-      "date": "2026-03-27T06:49:34.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "2 min read",
-      "priority": 2
-    },
-    {
-      "title": "How I built a SaaS that sends AI-written Stripe reports every Monday — and what ",
-      "description": "I've been building Autoreport for the past few months alongside my day job. The idea was simple: every Monday morning, get a PDF in your inbox with yo...",
-      "url": "https://dev.to/agarridodev/how-i-built-a-saas-that-sends-ai-written-stripe-reports-every-monday-and-what-i-learned-5dae",
-      "date": "2026-03-27T06:47:34.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "aws",
-        "terraform",
-        "serverless"
-      ],
-      "readTime": "2 min read",
+      "readTime": "10 min read",
       "priority": 2
     },
     {
