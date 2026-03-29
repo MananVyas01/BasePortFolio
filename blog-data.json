@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T07:00:33.399Z",
+  "lastUpdated": "2026-03-29T07:05:15.282Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,63 @@
       "priority": 1
     },
     {
-      "title": "I Built a Free WCAG Accessibility Audit CLI for Government Teams",
-      "description": "Every government website in the US is required to meet Section 508 accessibility standards. Most commercial tools cost hundreds per month. So I built ...",
-      "url": "https://dev.to/vijaygovindaraja/i-built-a-free-wcag-accessibility-audit-cli-for-government-teams-bbp",
-      "date": "2026-03-28T06:57:43.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "a11y",
-        "cli",
-        "opensource"
-      ],
-      "readTime": "13 min read",
-      "priority": 2
-    },
-    {
-      "title": "Determinism Series: Siliconizing Decision-Making (Index)",
-      "description": "The goal of this series is simple: If a decision can be turned into rules, we should “siliconize” it. deterministic, replayable judgments. “Determinis...",
-      "url": "https://dev.to/kanaria007/determinism-series-siliconizing-decision-making-index-1090",
-      "date": "2026-03-28T06:54:17.000Z",
+      "title": "LLM APIs for AI Agents: Anthropic vs OpenAI vs Google AI (AN Score Data)",
+      "description": "LLM APIs for AI Agents: Anthropic vs OpenAI vs Google AI (AN Score Data) Every agent framework tutorial says \"add your OpenAI API key.\" But if you're ...",
+      "url": "https://dev.to/supertrained/llm-apis-for-ai-agents-anthropic-vs-openai-vs-google-ai-an-score-data-3e1j",
+      "date": "2026-03-29T06:50:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "agents",
-        "sre"
+        "api",
+        "llm"
       ],
       "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "The YieldBlox $10M Oracle Poisoning: How One Trade in a Dead Market Drained an E",
-      "description": "On February 22, 2026, a single trade worth barely $5 on the Stellar DEX inflated a token's price by 100×, allowing an attacker to borrow $10.97 millio...",
-      "url": "https://dev.to/ohmygod/the-yieldblox-10m-oracle-poisoning-how-one-trade-in-a-dead-market-drained-an-entire-lending-pool-2k5d",
-      "date": "2026-03-28T06:53:11.000Z",
+      "title": "Talent Oversupply: How Less Prestigious Firms Can Attract Top-Tier Candidates Am",
+      "description": "System Reconstruction: Talent Oversupply Dynamics The current job market is undergoing a seismic shift, driven by economic downturns, industry-specifi...",
+      "url": "https://dev.to/svetlix/talent-oversupply-how-less-prestigious-firms-can-attract-top-tier-candidates-amid-economic-shifts-34g5",
+      "date": "2026-03-29T06:50:18.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "security",
-        "defi",
-        "blockchain"
+        "talent",
+        "oversupply",
+        "hiring"
       ],
-      "readTime": "6 min read",
+      "readTime": "26 min read",
       "priority": 2
     },
     {
-      "title": "Your Debounce Is Lying to You",
-      "description": "Debounce is one of those patterns every frontend developer learns early and keeps using forever. At its core, debouncing does one thing well: it coale...",
-      "url": "https://dev.to/gkoos/your-debounce-is-lying-to-you-3e3h",
-      "date": "2026-03-28T06:52:27.000Z",
+      "title": "Payment APIs for AI Agents: Stripe vs Square vs PayPal (AN Score Breakdown)",
+      "description": "Payment APIs for AI Agents: Stripe vs Square vs PayPal (AN Score Breakdown) When your agent needs to charge something, the stakes are different from a...",
+      "url": "https://dev.to/supertrained/payment-apis-for-ai-agents-stripe-vs-square-vs-paypal-an-score-breakdown-406n",
+      "date": "2026-03-29T06:49:07.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "tutorial",
-        "frontend",
-        "javascript"
+        "ai",
+        "api",
+        "payments"
       ],
-      "readTime": "10 min read",
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Why Reddit is so cruel?",
+      "description": "For past few months I was learning React Native because I wanted to build an app. I coded my app and went to publish it to Play Store. Play Store has ...",
+      "url": "https://dev.to/moneytopia/why-reddit-is-so-cruel-4ghe",
+      "date": "2026-03-29T06:47:22.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "codenewbie",
+        "community",
+        "discuss"
+      ],
+      "readTime": "1 min read",
       "priority": 2
     },
     {
