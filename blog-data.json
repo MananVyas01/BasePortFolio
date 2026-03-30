@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T07:05:15.282Z",
+  "lastUpdated": "2026-03-30T07:43:54.960Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,61 +73,61 @@
       "priority": 1
     },
     {
-      "title": "LLM APIs for AI Agents: Anthropic vs OpenAI vs Google AI (AN Score Data)",
-      "description": "LLM APIs for AI Agents: Anthropic vs OpenAI vs Google AI (AN Score Data) Every agent framework tutorial says \"add your OpenAI API key.\" But if you're ...",
-      "url": "https://dev.to/supertrained/llm-apis-for-ai-agents-anthropic-vs-openai-vs-google-ai-an-score-data-3e1j",
-      "date": "2026-03-29T06:50:31.000Z",
+      "title": "OpenClaw AI Agent Review: Does It Actually Cut Cognitive Load for Developers?",
+      "description": "Every developer knows the feeling. You're mid-flow on a hard problem, and then — ping. Slack notification. Browser tab with three open PRs. A reminder...",
+      "url": "https://dev.to/marcus-reid-psych/openclaw-ai-agent-review-does-it-actually-cut-cognitive-load-for-developers-hdk",
+      "date": "2026-03-30T07:36:16.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "openclaw",
         "ai",
-        "api",
-        "llm"
+        "productivity"
       ],
       "readTime": "4 min read",
       "priority": 2
     },
     {
-      "title": "Talent Oversupply: How Less Prestigious Firms Can Attract Top-Tier Candidates Am",
-      "description": "System Reconstruction: Talent Oversupply Dynamics The current job market is undergoing a seismic shift, driven by economic downturns, industry-specifi...",
-      "url": "https://dev.to/svetlix/talent-oversupply-how-less-prestigious-firms-can-attract-top-tier-candidates-amid-economic-shifts-34g5",
-      "date": "2026-03-29T06:50:18.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "talent",
-        "oversupply",
-        "hiring"
-      ],
-      "readTime": "26 min read",
-      "priority": 2
-    },
-    {
-      "title": "Payment APIs for AI Agents: Stripe vs Square vs PayPal (AN Score Breakdown)",
-      "description": "Payment APIs for AI Agents: Stripe vs Square vs PayPal (AN Score Breakdown) When your agent needs to charge something, the stakes are different from a...",
-      "url": "https://dev.to/supertrained/payment-apis-for-ai-agents-stripe-vs-square-vs-paypal-an-score-breakdown-406n",
-      "date": "2026-03-29T06:49:07.000Z",
+      "title": "The Compound Interest of AI Context: Why Your Knowledge Layer Will Be Your Most ",
+      "description": "There's an idea I can't stop thinking about. Every time you explain your business to an AI — your clients, your stack, your project history, your pref...",
+      "url": "https://dev.to/william_welsh_6c00df23992/the-compound-interest-of-ai-context-why-your-knowledge-layer-will-be-your-most-valuable-business-2160",
+      "date": "2026-03-30T07:32:20.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
-        "api",
-        "payments"
+        "llm",
+        "productivity"
       ],
-      "readTime": "4 min read",
+      "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Why Reddit is so cruel?",
-      "description": "For past few months I was learning React Native because I wanted to build an app. I coded my app and went to publish it to Play Store. Play Store has ...",
-      "url": "https://dev.to/moneytopia/why-reddit-is-so-cruel-4ghe",
-      "date": "2026-03-29T06:47:22.000Z",
+      "title": "Beyond the Hype: Building a Practical AI Memory System with Vector Databases",
+      "description": "Your Agent Can Think. Let's Make It Remember. You've seen the headlines, the demos, and the hype. AI agents can now reason, plan, and execute tasks. B...",
+      "url": "https://dev.to/midas126/beyond-the-hype-building-a-practical-ai-memory-system-with-vector-databases-17oc",
+      "date": "2026-03-30T07:29:31.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "codenewbie",
-        "community",
-        "discuss"
+        "ai",
+        "machinelearning",
+        "database"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "I Replaced 3 Database Tools With dbridge.dev — Here's the Honest Trade-off",
+      "description": "If you've been doing backend work for more than a year, you probably have at least two database GUI tools installed. Maybe three. This post isn't a sp...",
+      "url": "https://dev.to/shoaib_ihsan_23612829cc82/i-replaced-3-database-tools-with-dbridgedev-heres-the-honest-trade-off-39nk",
+      "date": "2026-03-30T07:24:58.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "database",
+        "postgres",
+        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
