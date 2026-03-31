@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T07:43:54.960Z",
+  "lastUpdated": "2026-03-31T07:16:46.026Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,20 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "GitHub for Beginners: Getting started with GitHub security",
+      "description": "Learn how to secure your projects and keep them safe with GitHub Advanced Security. The post GitHub for Beginners: Getting started with GitHub securit...",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/",
+      "date": "2026-03-30T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "developerskills",
+        "github"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "What’s coming to our GitHub Actions 2026 security roadmap",
       "description": "A look at GitHub Actions’ 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end t...",
@@ -58,75 +72,75 @@
       "priority": 1
     },
     {
-      "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
-      "description": "Learn how to integrate the Copilot SDK into a React Native app to generate AI-powered issue summaries, with production patterns for graceful degradati...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/",
-      "date": "2026-03-24T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "aiml",
-        "applicationdevelopment",
-        "developerskills"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "OpenClaw AI Agent Review: Does It Actually Cut Cognitive Load for Developers?",
-      "description": "Every developer knows the feeling. You're mid-flow on a hard problem, and then — ping. Slack notification. Browser tab with three open PRs. A reminder...",
-      "url": "https://dev.to/marcus-reid-psych/openclaw-ai-agent-review-does-it-actually-cut-cognitive-load-for-developers-hdk",
-      "date": "2026-03-30T07:36:16.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "openclaw",
-        "ai",
-        "productivity"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "The Compound Interest of AI Context: Why Your Knowledge Layer Will Be Your Most ",
-      "description": "There's an idea I can't stop thinking about. Every time you explain your business to an AI — your clients, your stack, your project history, your pref...",
-      "url": "https://dev.to/william_welsh_6c00df23992/the-compound-interest-of-ai-context-why-your-knowledge-layer-will-be-your-most-valuable-business-2160",
-      "date": "2026-03-30T07:32:20.000Z",
+      "title": "Generative AI and Non-Determinism",
+      "description": "“The limits of my language are the limits of my world.” – Ludwig Wittgenstein We often hear that generative AI is non-deterministic because it respond...",
+      "url": "https://dev.to/andychiare/generative-ai-and-non-determinism-526l",
+      "date": "2026-03-31T07:12:49.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
         "ai",
         "llm",
-        "productivity"
+        "webdev"
       ],
       "readTime": "5 min read",
       "priority": 2
     },
     {
-      "title": "Beyond the Hype: Building a Practical AI Memory System with Vector Databases",
-      "description": "Your Agent Can Think. Let's Make It Remember. You've seen the headlines, the demos, and the hype. AI agents can now reason, plan, and execute tasks. B...",
-      "url": "https://dev.to/midas126/beyond-the-hype-building-a-practical-ai-memory-system-with-vector-databases-17oc",
-      "date": "2026-03-30T07:29:31.000Z",
+      "title": "The AI Rebound Effect and the Transition to Systems Architecture",
+      "description": "The reaction to the recent Claude AI outage reveals a fundamental misunderstanding of how developers should interact with artificial intelligence. Rep...",
+      "url": "https://dev.to/alifunk/the-ai-rebound-effect-and-the-transition-to-systems-architecture-32n9",
+      "date": "2026-03-31T07:12:26.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "architecture",
         "ai",
-        "machinelearning",
-        "database"
+        "devops"
       ],
-      "readTime": "7 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "I Replaced 3 Database Tools With dbridge.dev — Here's the Honest Trade-off",
-      "description": "If you've been doing backend work for more than a year, you probably have at least two database GUI tools installed. Maybe three. This post isn't a sp...",
-      "url": "https://dev.to/shoaib_ihsan_23612829cc82/i-replaced-3-database-tools-with-dbridgedev-heres-the-honest-trade-off-39nk",
-      "date": "2026-03-30T07:24:58.000Z",
+      "title": "Como Usar Qwen3.5-Omni: Texto, Áudio, Vídeo e Clonagem de Voz via API",
+      "description": "TL;DR Qwen3.5-Omni aceita texto, imagens, áudio e vídeo como entrada e retorna texto ou fala em tempo real. Acesse-o através da API DashScope da Aliba...",
+      "url": "https://dev.to/lucas_ferreira/como-usar-qwen35-omni-texto-audio-video-e-clonagem-de-voz-via-api-3kjb",
+      "date": "2026-03-31T07:09:41.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "database",
-        "postgres",
+        "webdev",
+        "javascript",
+        "css"
+      ],
+      "readTime": "17 min read",
+      "priority": 2
+    },
+    {
+      "title": "No Notary Required: EU Inc's Digital Revolution in Company Formation",
+      "description": "The End of the Notary Era For centuries, the notary has been an inescapable part of starting a business in continental Europe. From Italy to Germany, ...",
+      "url": "https://dev.to/euincnews/no-notary-required-eu-incs-digital-revolution-in-company-formation-mo8",
+      "date": "2026-03-31T07:00:57.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "euinc",
+        "startup",
+        "business"
+      ],
+      "readTime": "5 min read",
+      "priority": 2
+    },
+    {
+      "title": "Form Automation Tips for Happier User and Clients",
+      "description": "That gap between \"the form works\" and \"the business works\" is something we don't really tend to discuss much as front-enders. We focus a great deal on...",
+      "url": "https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/",
+      "date": "2026-03-30T14:12:14.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "forms",
         "webdev"
       ],
       "readTime": "1 min read",
@@ -233,21 +247,6 @@
         "articles",
         "destructuring",
         "javascript"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "What’s !important #7: random(), Folded Corners, Anchored Container Queries, and ",
-      "description": "For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more. Wha...",
-      "url": "https://css-tricks.com/whats-important-7/",
-      "date": "2026-03-16T15:06:01.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "news",
-        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
