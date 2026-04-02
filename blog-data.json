@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T07:22:25.822Z",
+  "lastUpdated": "2026-04-02T07:14:38.546Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,36 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "Securing the open source supply chain across GitHub",
+      "description": "Recent attacks on open source focus on exfiltrating secrets; here are the prevention steps you can take today, plus a look at the security capabilitie...",
+      "url": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
+      "date": "2026-04-01T19:20:12.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "security",
+        "supplychainsecurity",
+        "cicd"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
+    {
+      "title": "Run multiple agents at once with /fleet in Copilot CLI",
+      "description": "/fleet lets Copilot CLI dispatch multiple agents in parallel. Learn how to write prompts that split work across files, declare dependencies, and avoid...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/",
+      "date": "2026-04-01T15:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "aiml",
+        "githubcopilot",
+        "githubcopilotcli"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Agent-driven development in Copilot Applied Science",
       "description": "I used coding agents to build agents that automated part of my job. Here's what I learned about working better with coding agents. The post Agent-driv...",
@@ -43,93 +73,108 @@
       "priority": 1
     },
     {
-      "title": "What’s coming to our GitHub Actions 2026 security roadmap",
-      "description": "A look at GitHub Actions’ 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end t...",
-      "url": "https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/",
-      "date": "2026-03-26T16:49:14.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "newsinsights",
-        "product",
-        "cicd"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "A year of open source vulnerability trends: CVEs, advisories, and malware",
-      "description": "Reviewed advisories hit a four-year low, malware advisories surged, and CNA publishing grew—here’s what changed and what it means for your triage and ...",
-      "url": "https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/",
-      "date": "2026-03-26T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
-      "tags": [
-        "security",
-        "supplychainsecurity",
-        "cve"
-      ],
-      "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "First-Time Payees, Payouts, and Why Clean Transactions Still Turn Into Fraud Los",
-      "description": "Originally published at Riskernel. Some of the worst fraud losses do not look obviously bad at the transaction level. The amount may look normal. The ...",
-      "url": "https://dev.to/amir_shachar_bc46a63dda21/first-time-payees-payouts-and-why-clean-transactions-still-turn-into-fraud-losses-5amh",
-      "date": "2026-04-01T07:10:24.000Z",
+      "title": "Programs Beat Prompts: How Tap Turns AI into a Compiler for Browser Automation",
+      "description": "The Problem Every time you ask an AI agent to do something in a browser, it costs money and time. Click here, type there, extract that — the AI figure...",
+      "url": "https://dev.to/leonting1010/programs-beat-prompts-how-tap-turns-ai-into-a-compiler-for-browser-automation-oab",
+      "date": "2026-04-02T07:06:51.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "fraud",
-        "fintech",
-        "api"
+        "ai",
+        "webdev",
+        "javascript"
       ],
-      "readTime": "4 min read",
+      "readTime": "2 min read",
       "priority": 2
     },
     {
-      "title": "Is Microsoft's Xbox as a service just a simple wrapper?",
-      "description": "MS wants us to believe that there's coming something great and new but just debugging the bloated Xbox app and the kiosk mode. There are open source s...",
-      "url": "https://dev.to/piot5/is-microsofts-xbox-as-a-service-just-a-simple-wrapper-2l75",
-      "date": "2026-04-01T07:09:51.000Z",
+      "title": "Claude Code /buddy: The Terminal Tamagotchi That Broke the Internet",
+      "description": "A leaked .npmignore file exposed 512,000 lines of Claude Code source, revealing a hidden terminal pet called /buddy 18 species assigned by account ID ...",
+      "url": "https://dev.to/raxxostudios/claude-code-buddy-the-terminal-tamagotchi-that-broke-the-internet-2lgj",
+      "date": "2026-04-02T07:04:43.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "discuss",
-        "microsoft",
+        "ai",
+        "productivity",
+        "claudecode"
+      ],
+      "readTime": "7 min read",
+      "priority": 2
+    },
+    {
+      "title": "T+0 Cross-Border Payroll: The Complete Guide to Same-Day Global Salary Settlemen",
+      "description": "The Hidden Cost of Payroll Float: Why T+0 Settlement Matters for Global Teams Every month, a silent tax erodes your global workforce's confidence in y...",
+      "url": "https://dev.to/paydd-ai/t0-cross-border-payroll-the-complete-guide-to-same-day-global-salary-settlement-i71",
+      "date": "2026-04-02T07:03:55.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "payroll",
+        "fintech",
+        "remotework"
+      ],
+      "readTime": "11 min read",
+      "priority": 2
+    },
+    {
+      "title": "Global Payroll Compliance Checklist 2026: 50-Point Audit Framework for Internati",
+      "description": "Why Global Payroll Compliance Has Become a Board-Level Risk In 2023, the IRS collected $7.2 billion in employment tax penalties from US companies alon...",
+      "url": "https://dev.to/paydd-ai/global-payroll-compliance-checklist-2026-50-point-audit-framework-for-international-hr-akj",
+      "date": "2026-04-02T07:03:39.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "compliance",
+        "payroll",
+        "fintech"
+      ],
+      "readTime": "12 min read",
+      "priority": 2
+    },
+    {
+      "title": "Front-End Fools: Top 10 April Fools’ UI Pranks of All Time",
+      "description": "These are the historical pranks I consider the top 10 most noteworthy, rather than the “best.” You’ll see that some of them crossed the line and/or ba...",
+      "url": "https://css-tricks.com/front-end-april-fools-top-10/",
+      "date": "2026-04-01T14:00:26.000Z",
+      "category": "Web Dev",
+      "source": "CSS-Tricks",
+      "tags": [
+        "articles",
+        "news",
         "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Handling Extreme Class Imbalance in Fraud Detection",
-      "description": "Originally published at Riskernel. Fraud is one of the easiest machine learning problems to misunderstand because the target is so rare. In many portf...",
-      "url": "https://dev.to/amir_shachar_bc46a63dda21/handling-extreme-class-imbalance-in-fraud-detection-2i18",
-      "date": "2026-04-01T07:09:27.000Z",
+      "title": "Sniffing Out the CSS Olfactive API",
+      "description": "A deep sniff of the new CSS Olfactive API, a set of proposed features for immersive user experiences using smell. Sniffing Out the CSS Olfactive API o...",
+      "url": "https://css-tricks.com/css-olfactive-api/",
+      "date": "2026-04-01T13:54:47.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "fraud",
-        "fintech",
-        "api"
+        "articles",
+        "api",
+        "webdev"
       ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
-      "title": "Antropic's Claude Code leaked and Axios NPM Inflitration",
-      "description": "This week, Anthropic accidentally opened the floodgates to a wealth of secret information by leaking the full source code of Claude Code via an npm so...",
-      "url": "https://dev.to/techceorahul/antropics-claude-code-leaked-and-axios-npm-inflitration-4m41",
-      "date": "2026-04-01T07:08:02.000Z",
+      "title": "A Practical Guide To Design Principles",
+      "description": "Design principles with references, examples, and methods for quick look-up. Brought to you by Design Patterns For AI Interfaces, **friendly video cour...",
+      "url": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/",
+      "date": "2026-04-01T10:00:00.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "Smashing Magazine",
       "tags": [
-        "ai",
-        "security",
-        "softwaredevelopment"
+        "webdev",
+        "javascript",
+        "css"
       ],
-      "readTime": "4 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -178,21 +223,6 @@
       "priority": 2
     },
     {
-      "title": "Generative UI Notes",
-      "description": "Looking at research and experiments that are designed to automatically generate user interfaces based on user preferences. Generative UI Notes origina...",
-      "url": "https://css-tricks.com/generative-ui-notes/",
-      "date": "2026-03-26T14:59:55.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "artificialintelligence",
-        "webdev"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
       "title": "The Site-Search Paradox: Why The Big Box Always Wins",
       "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than e...",
       "url": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
@@ -212,36 +242,6 @@
       "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit natura...",
       "url": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
       "date": "2026-03-24T13:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Smashing Magazine",
-      "tags": [
-        "webdev",
-        "javascript",
-        "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Experimenting With Scroll-Driven corner-shape Animations",
-      "description": "The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI...",
-      "url": "https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/",
-      "date": "2026-03-23T13:51:15.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "animation",
-        "cornershape"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Prope",
-      "description": "Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the con...",
-      "url": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
-      "date": "2026-03-20T13:00:00.000Z",
       "category": "Web Dev",
       "source": "Smashing Magazine",
       "tags": [
