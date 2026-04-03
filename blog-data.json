@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T07:14:38.546Z",
+  "lastUpdated": "2026-04-03T07:11:06.720Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -73,63 +73,78 @@
       "priority": 1
     },
     {
-      "title": "Programs Beat Prompts: How Tap Turns AI into a Compiler for Browser Automation",
-      "description": "The Problem Every time you ask an AI agent to do something in a browser, it costs money and time. Click here, type there, extract that — the AI figure...",
-      "url": "https://dev.to/leonting1010/programs-beat-prompts-how-tap-turns-ai-into-a-compiler-for-browser-automation-oab",
-      "date": "2026-04-02T07:06:51.000Z",
+      "title": "I spent 6 months building a Chrome extension with Vue 3 and Shadow DOM -- here a",
+      "description": "Your Chrome extension looks perfect in development. The fonts are crisp, the layout is clean, Tailwind utilities work exactly as expected. Then you de...",
+      "url": "https://dev.to/cs_alishopping/i-spent-6-months-building-a-chrome-extension-with-vue-3-and-shadow-dom-here-are-the-hard-parts-p2m",
+      "date": "2026-04-03T07:00:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
-        "ai",
-        "webdev",
-        "javascript"
+        "chromeextension",
+        "javascript",
+        "dropshipping"
       ],
-      "readTime": "2 min read",
+      "readTime": "6 min read",
       "priority": 2
     },
     {
-      "title": "Claude Code /buddy: The Terminal Tamagotchi That Broke the Internet",
-      "description": "A leaked .npmignore file exposed 512,000 lines of Claude Code source, revealing a hidden terminal pet called /buddy 18 species assigned by account ID ...",
-      "url": "https://dev.to/raxxostudios/claude-code-buddy-the-terminal-tamagotchi-that-broke-the-internet-2lgj",
-      "date": "2026-04-02T07:04:43.000Z",
+      "title": "Angular 22's New Built-in Debounce for Async Validation Explained",
+      "description": "If you're using Signal Forms with async validation, you've probably run into a frustrating issue. You either debounce every validator with the debounc...",
+      "url": "https://dev.to/brianmtreese/angular-22s-new-built-in-debounce-for-async-validation-explained-j9k",
+      "date": "2026-04-03T07:00:00.000Z",
       "category": "Web Dev",
       "source": "Dev.to",
       "tags": [
+        "angular",
+        "webdev",
+        "javascript"
+      ],
+      "readTime": "4 min read",
+      "priority": 2
+    },
+    {
+      "title": "Azure ML Workspace with Terraform: Your ML Platform on Azure 🔬",
+      "description": "Azure Machine Learning workspace is the hub for all ML activities - experiments, models, endpoints, pipelines. It requires four dependent services. He...",
+      "url": "https://dev.to/suhas_mallesh/azure-ml-workspace-with-terraform-your-ml-platform-on-azure-44ko",
+      "date": "2026-04-03T07:00:00.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "azure",
         "ai",
-        "productivity",
-        "claudecode"
+        "machinelearning"
+      ],
+      "readTime": "9 min read",
+      "priority": 2
+    },
+    {
+      "title": "Is Railway Reliable for Next.js in 2026?",
+      "description": "You can host a Next.js app on Railway. The harder question is whether you should. Based on recent platform data and a pattern of systemic failures, th...",
+      "url": "https://dev.to/stackandsails/railway-reliable-for-nextjs-2026-2g12",
+      "date": "2026-04-03T06:57:29.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "railway",
+        "devops",
+        "cloud"
       ],
       "readTime": "7 min read",
       "priority": 2
     },
     {
-      "title": "T+0 Cross-Border Payroll: The Complete Guide to Same-Day Global Salary Settlemen",
-      "description": "The Hidden Cost of Payroll Float: Why T+0 Settlement Matters for Global Teams Every month, a silent tax erodes your global workforce's confidence in y...",
-      "url": "https://dev.to/paydd-ai/t0-cross-border-payroll-the-complete-guide-to-same-day-global-salary-settlement-i71",
-      "date": "2026-04-02T07:03:55.000Z",
+      "title": "Making Complex CSS Shapes Using shape()",
+      "description": "Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts,...",
+      "url": "https://css-tricks.com/complex-css-shapes-with-shape-function/",
+      "date": "2026-04-02T13:58:24.000Z",
       "category": "Web Dev",
-      "source": "Dev.to",
+      "source": "CSS-Tricks",
       "tags": [
-        "payroll",
-        "fintech",
-        "remotework"
+        "articles",
+        "clippath",
+        "cssfunctions"
       ],
-      "readTime": "11 min read",
-      "priority": 2
-    },
-    {
-      "title": "Global Payroll Compliance Checklist 2026: 50-Point Audit Framework for Internati",
-      "description": "Why Global Payroll Compliance Has Become a Board-Level Risk In 2023, the IRS collected $7.2 billion in employment tax penalties from US companies alon...",
-      "url": "https://dev.to/paydd-ai/global-payroll-compliance-checklist-2026-50-point-audit-framework-for-international-hr-akj",
-      "date": "2026-04-02T07:03:39.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "compliance",
-        "payroll",
-        "fintech"
-      ],
-      "readTime": "12 min read",
+      "readTime": "1 min read",
       "priority": 2
     },
     {
@@ -203,21 +218,6 @@
         "webdev",
         "javascript",
         "css"
-      ],
-      "readTime": "1 min read",
-      "priority": 2
-    },
-    {
-      "title": "Form Automation Tips for Happier User and Clients",
-      "description": "That gap between \"the form works\" and \"the business works\" is something we don't really tend to discuss much as front-enders. We focus a great deal on...",
-      "url": "https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/",
-      "date": "2026-03-30T14:12:14.000Z",
-      "category": "Web Dev",
-      "source": "CSS-Tricks",
-      "tags": [
-        "articles",
-        "forms",
-        "webdev"
       ],
       "readTime": "1 min read",
       "priority": 2
