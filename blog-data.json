@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T07:11:06.720Z",
+  "lastUpdated": "2026-04-04T07:02:54.603Z",
   "totalPosts": 18,
   "categories": [
     "Tech Insights",
@@ -13,6 +13,21 @@
     "A List Apart"
   ],
   "posts": [
+    {
+      "title": "The uphill climb of making diff lines performant",
+      "description": "The path to better performance is often found in simplicity. The post The uphill climb of making diff lines performant appeared first on The GitHub Bl...",
+      "url": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
+      "date": "2026-04-03T16:00:00.000Z",
+      "category": "Tech Insights",
+      "source": "GitHub Blog",
+      "tags": [
+        "architectureoptimization",
+        "engineering",
+        "diffs"
+      ],
+      "readTime": "1 min read",
+      "priority": 1
+    },
     {
       "title": "Securing the open source supply chain across GitHub",
       "description": "Recent attacks on open source focus on exfiltrating secrets; here are the prevention steps you can take today, plus a look at the security capabilitie...",
@@ -59,77 +74,63 @@
       "priority": 1
     },
     {
-      "title": "GitHub for Beginners: Getting started with GitHub security",
-      "description": "Learn how to secure your projects and keep them safe with GitHub Advanced Security. The post GitHub for Beginners: Getting started with GitHub securit...",
-      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/",
-      "date": "2026-03-30T16:00:00.000Z",
-      "category": "Tech Insights",
-      "source": "GitHub Blog",
+      "title": "Two Sum with an Optimized Solution",
+      "description": "Coming back from my previous article: two sum problem I mentioned that I would show another solution to reduce time complexity. In the previous approa...",
+      "url": "https://dev.to/kittichanr/two-sum-with-an-optimized-solution-2oe7",
+      "date": "2026-04-04T06:58:32.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
       "tags": [
-        "developerskills",
-        "github"
+        "coding",
+        "interview",
+        "devchallenge"
+      ],
+      "readTime": "3 min read",
+      "priority": 2
+    },
+    {
+      "title": "Lottie vs CSS Animations: Which One Should You Use for Modern Web Experiences?",
+      "description": "When building modern web interfaces, animations are no longer optional -they are a core part of user experience. But one question keeps coming up for ...",
+      "url": "https://dev.to/rahul_khorde_31/lottie-vs-css-animations-which-one-should-you-use-for-modern-web-experiences-2h15",
+      "date": "2026-04-04T06:52:13.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "css",
+        "lottie",
+        "webdev"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "Spectator - A programming language for cybersecurity(GUI, CLI, TUI built in)",
+      "description": "███████╗██████╗ ███████╗ ██████╗████████╗ █████╗ ████████╗ ██████╗ ██████╗ ██╔════╝██╔══██╗██╔════╝██╔════╝╚══██╔══╝██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗...",
+      "url": "https://dev.to/czax225/spectator-a-programming-language-for-cybersecuritygui-cli-tui-built-in-1moe",
+      "date": "2026-04-04T06:51:30.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "programming",
+        "cybersecurity",
+        "opensource"
+      ],
+      "readTime": "2 min read",
+      "priority": 2
+    },
+    {
+      "title": "VonCMS v1.22 Preview",
+      "description": "VonCMS v1.22 Preview For those who have tested VonCMS, here’s a preview of what’s coming in v1.22. This update focuses on improving real-world publish...",
+      "url": "https://dev.to/vondereich/voncms-v122-preview-55ae",
+      "date": "2026-04-04T06:47:24.000Z",
+      "category": "Web Dev",
+      "source": "Dev.to",
+      "tags": [
+        "voncms",
+        "react",
+        "hybridcms"
       ],
       "readTime": "1 min read",
-      "priority": 1
-    },
-    {
-      "title": "I spent 6 months building a Chrome extension with Vue 3 and Shadow DOM -- here a",
-      "description": "Your Chrome extension looks perfect in development. The fonts are crisp, the layout is clean, Tailwind utilities work exactly as expected. Then you de...",
-      "url": "https://dev.to/cs_alishopping/i-spent-6-months-building-a-chrome-extension-with-vue-3-and-shadow-dom-here-are-the-hard-parts-p2m",
-      "date": "2026-04-03T07:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "chromeextension",
-        "javascript",
-        "dropshipping"
-      ],
-      "readTime": "6 min read",
-      "priority": 2
-    },
-    {
-      "title": "Angular 22's New Built-in Debounce for Async Validation Explained",
-      "description": "If you're using Signal Forms with async validation, you've probably run into a frustrating issue. You either debounce every validator with the debounc...",
-      "url": "https://dev.to/brianmtreese/angular-22s-new-built-in-debounce-for-async-validation-explained-j9k",
-      "date": "2026-04-03T07:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "angular",
-        "webdev",
-        "javascript"
-      ],
-      "readTime": "4 min read",
-      "priority": 2
-    },
-    {
-      "title": "Azure ML Workspace with Terraform: Your ML Platform on Azure 🔬",
-      "description": "Azure Machine Learning workspace is the hub for all ML activities - experiments, models, endpoints, pipelines. It requires four dependent services. He...",
-      "url": "https://dev.to/suhas_mallesh/azure-ml-workspace-with-terraform-your-ml-platform-on-azure-44ko",
-      "date": "2026-04-03T07:00:00.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "azure",
-        "ai",
-        "machinelearning"
-      ],
-      "readTime": "9 min read",
-      "priority": 2
-    },
-    {
-      "title": "Is Railway Reliable for Next.js in 2026?",
-      "description": "You can host a Next.js app on Railway. The harder question is whether you should. Based on recent platform data and a pattern of systemic failures, th...",
-      "url": "https://dev.to/stackandsails/railway-reliable-for-nextjs-2026-2g12",
-      "date": "2026-04-03T06:57:29.000Z",
-      "category": "Web Dev",
-      "source": "Dev.to",
-      "tags": [
-        "railway",
-        "devops",
-        "cloud"
-      ],
-      "readTime": "7 min read",
       "priority": 2
     },
     {
